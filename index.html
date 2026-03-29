@@ -92,6 +92,20 @@ body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-sys
   .leaflet-top.leaflet-left { top: 88px; }
   .header-card { max-width:86vw; }
 }
+
+.tag-note {
+  margin-top:8px;
+  padding:8px 10px;
+  border:1px solid var(--border);
+  border-radius:10px;
+  background:#fafafa;
+  color:var(--sub);
+  font-size:11px;
+  line-height:1.45;
+}
+@media (max-width:960px) {
+  .tag-note { font-size:10.5px; padding:7px 8px; }
+}
 </style>
 </head>
 <body>
@@ -126,6 +140,9 @@ body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-sys
         <label class="checkbox"><input type="checkbox" id="visitableOnly">見学できる蒸溜所のみ表示（予約制・イベント開催時を含む）</label>
       </div>
       <div class="summary" id="summary"></div>
+      <div class="tag-note" id="tagNote">
+        見学タグの目安: 予約制 = 事前申込で見学可 / 見学可 = 比較的行きやすい / イベント時のみ = 常設ではなく開催日に限る / 見学情報未確認 = 公開導線を確認できず / 現在見学受付なし = 蒸溜所は稼働中だが見学停止中
+      </div>
     </div>
     <div class="list" id="list"></div>
   </aside>
@@ -147,13 +164,13 @@ function colorFor(item) {
 }
 function popupHtml(item) {
   return `
-    <div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.55;min-width:260px;">
+    <div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:268px;">
       <div style="font-size:16px;font-weight:700;margin-bottom:8px;">${item.name}</div>
       <div><b>種別：</b>${item.type_label}</div>
       <div><b>所在地：</b>${item.location}</div>
+      <div><b>見学情報：</b>${item.visit_label}</div>
       <div><b>代表銘柄：</b>${item.brands.join(' / ')}</div>
-      <div><b>見学：</b>${item.visit_label}</div>
-      <div><b>備考：</b>${item.note}</div>
+      <div><b>特徴：</b>${item.note}</div>
       <div style="margin-top:8px;"><a href="${item.url}" target="_blank" rel="noopener noreferrer">公式ページを開く</a></div>
     </div>
   `;
@@ -203,7 +220,7 @@ function renderList(items) {
       </div>
       <div class="location"><b>所在地：</b>${item.location}</div>
       <div class="brands"><b>代表銘柄：</b>${item.brands.join(' / ')}</div>
-      <div class="note"><b>備考：</b>${item.note}</div>
+      <div class="note"><b>特徴：</b>${item.note}</div>
       <div class="tour"><b>公式ページ：</b> <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.url}</a></div>
     </article>
   `).join('');
