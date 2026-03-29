@@ -59,3 +59,11 @@ details.filter-box{margin-top:10px;border:1px solid var(--border);border-radius:
 
 .meta{align-items:center}
 .multi-type-row{margin-top:2px}
+
+
+.version-info{
+  margin-top:6px;
+  color:var(--sub);
+  font-size:10.5px;
+  line-height:1.3;
+}

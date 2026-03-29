@@ -1,3 +1,4 @@
+const APP_VERSION = 'v20';
 const DISTILLERIES_URL = './data/distilleries.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -57,6 +58,12 @@ function markerBackground(types, preparing){
 function renderTypeChips(types){
   return (types||[]).map(t=>`<span class="type-chip"><span class="type-swatch" style="background:${TYPE_META[t] ? TYPE_META[t].color : '#2563eb'}"></span>${TYPE_META[t] ? TYPE_META[t].label : t}</span>`).join('');
 }
+function normalizeVisitLabel(label){
+  const raw = (label || '').trim();
+  if (!raw) return '未設定';
+  if (raw === '見学情報未確認' || raw === '未確認') return '見学未確認';
+  return raw;
+}
 function popupHtml(item){
   const statusRow=item.record_status==='preparing_or_unclear'?`<div><b>JWIC区分：</b>${item.jwic_status||'準備中または詳細不明'}</div>`:'';
   return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:278px;">
@@ -65,7 +72,7 @@ function popupHtml(item){
         <div><b>所在地：</b>${item.location||'未設定'}</div>
     ${statusRow}
     <div><b>操業状態：</b>${item.operation_status||'未設定'}</div>
-    <div><b>見学：</b>${((item.visit_label||'')==='見学情報未確認' ? '未確認' : ((item.visit_label||'') || '未設定'))}</div>
+    <div><b>見学：</b>${normalizeVisitLabel(item.visit_label)}</div>
     ${(item.brands && item.brands.length)?`<div><b>代表銘柄：</b>${item.brands.join(' / ')}</div>`:''}
     ${item.note?`<div><b>特徴：</b>${item.note}</div>`:''}
         <div><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
@@ -194,6 +201,8 @@ function renderSummary(items){
   items.forEach(item=>(item.types||[]).forEach(t=>{ if(counts[t]!==undefined) counts[t]++; }));
   const prep=items.filter(x=>x.record_status==='preparing_or_unclear').length;
   document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / 準備中・詳細不明 ${prep}`;
+  const versionEl = document.getElementById('versionInfo');
+  if(versionEl){ versionEl.textContent = `表示バージョン: ${APP_VERSION} / data/distilleries.json`; }
 }
 function rerender(){
   filteredCache=filteredItems();
