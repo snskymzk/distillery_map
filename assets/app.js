@@ -59,13 +59,12 @@ function renderTypeChips(types){
 }
 function popupHtml(item){
   const statusRow=item.record_status==='preparing_or_unclear'?`<div><b>JWIC区分：</b>${item.jwic_status||'準備中または詳細不明'}</div>`:'';
-  const jwicRow=item.is_jwic_listed?`<div><b>JWIC掲載：</b>${item.jwic_status||'通常'}</div>`:`<div><b>JWIC掲載：</b>独自掲載</div>`;
   return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:278px;">
     <div style="font-size:16px;font-weight:700;margin-bottom:8px;">${item.name}</div>
     <div><b>種別：</b></div><div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
     <div><b>地域：</b>${item.region||'未設定'}</div>
     <div><b>所在地：</b>${item.location||'未設定'}</div>
-    ${jwicRow}${statusRow}
+    ${statusRow}
     <div><b>操業状態：</b>${item.operation_status||'未設定'}</div>
     <div><b>見学情報：</b>${item.visit_label||'未設定'}</div>
     <div><b>代表銘柄：</b>${(item.brands||[]).join(' / ')||'未設定'}</div>
@@ -94,7 +93,7 @@ function buildMarkers(items){
 }
 function matchesTypes(item){ const types=item.types||[]; return types.length>0 && types.some(t=>state.types[t]); }
 function matchesPreparing(item){ return state.preparingMode==='show' || item.record_status!=='preparing_or_unclear'; }
-function matchesJwic(item){ if(state.jwicMode==='all') return true; if(state.jwicMode==='jwic_only') return item.is_jwic_listed; if(state.jwicMode==='independent_only') return !item.is_jwic_listed; return true; }
+function matchesJwic(item){ return true; }
 function sortItems(items){
   const arr=[...items];
   if(state.sort==='region') return arr.sort((a,b)=>((a.region||'')+(a.location||'')).localeCompare((b.region||'')+(b.location||''),'ja'));
@@ -127,7 +126,7 @@ function suggestionItems(query){
     if(name.includes(q)) score+=25;
     if(brands.includes(q)) score+=15;
     if(loc.includes(q)) score+=10;
-    if(score===0) return None;
+    if(score===0) return null;
     return {item, score};
   }).filter(Boolean).sort((a,b)=>b.score-a.score || a.item.name.localeCompare(b.item.name,'ja')).slice(0,8);
   return scored.map(x=>x.item);
@@ -176,8 +175,7 @@ function renderList(items){
       <span class="badge">${item.region||'未設定'}</span>
       <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${item.visit_label||'未設定'}</span>
       <span class="badge ${item.record_status==='preparing_or_unclear'?'prep-badge':''}">${item.record_status==='preparing_or_unclear'?'準備中・詳細不明':'稼働中レイヤー'}</span>
-      <span class="badge ${item.is_jwic_listed?'':'independent-badge'}">${item.is_jwic_listed?'JWIC':'独自'}</span>
-    </div>
+          </div>
     <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
     <div class="location"><b>所在地：</b>${item.location||'未設定'}</div>
     <div class="brands"><b>代表銘柄：</b>${(item.brands||[]).join(' / ')||'未設定'}</div>
@@ -199,8 +197,7 @@ function renderSummary(items){
   const counts={whisky:0,gin:0,brandy:0,rum:0,vodka:0};
   items.forEach(item=>(item.types||[]).forEach(t=>{ if(counts[t]!==undefined) counts[t]++; }));
   const prep=items.filter(x=>x.record_status==='preparing_or_unclear').length;
-  const jwic=items.filter(x=>x.is_jwic_listed).length;
-  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / JWIC ${jwic} / 準備中・詳細不明 ${prep}`;
+  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / 準備中・詳細不明 ${prep}`;
 }
 function rerender(){
   filteredCache=filteredItems();
@@ -213,7 +210,6 @@ function applyQuickPreset(key){
   state.quickPreset=key;
   const preset=QUICK_PRESETS[key];
   Object.keys(state.types).forEach(t=>{ state.types[t]=preset.types.includes(t); });
-  document.querySelectorAll('.type-check').forEach(box=>{ box.checked=state.types[box.dataset.type]; });
   document.querySelectorAll('.quick-pill').forEach(btn=>btn.classList.toggle('active', btn.dataset.preset===key));
   rerender();
 }
@@ -249,16 +245,8 @@ function bindUI(){
 
   document.getElementById('visitableOnly').addEventListener('change',e=>{ state.visitableOnly=e.target.checked; rerender(); });
   document.getElementById('preparingMode').addEventListener('change',e=>{ state.preparingMode=e.target.checked?'show':'hide'; rerender(); });
-  document.getElementById('jwicMode').addEventListener('change',e=>{ state.jwicMode=e.target.value; rerender(); });
   document.getElementById('sortSelect').addEventListener('change',e=>{ state.sort=e.target.value; rerender(); });
   document.getElementById('regionSelect').addEventListener('change',e=>{ state.region=e.target.value; rerender(); });
-  document.querySelectorAll('.type-check').forEach(box=>{
-    box.addEventListener('change',e=>{
-      state.types[e.target.dataset.type]=e.target.checked;
-      state.quickPreset='custom';
-      document.querySelectorAll('.quick-pill').forEach(btn=>btn.classList.remove('active'));
-      rerender();
-    });
   });
   document.querySelectorAll('.quick-pill').forEach(btn=>btn.addEventListener('click',()=>applyQuickPreset(btn.dataset.preset)));
 
