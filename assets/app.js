@@ -1,23 +1,285 @@
 const DISTILLERIES_URL = './data/distilleries.json';
-const TYPE_META = {whisky:{label:'ウイスキー',color:'#2563eb'},gin:{label:'ジン',color:'#059669'},brandy:{label:'ブランデー',color:'#9333ea'},rum:{label:'ラム',color:'#dc2626'},vodka:{label:'ウォッカ',color:'#0891b2'}};
+const TYPE_META = {
+  whisky:{label:'ウイスキー',color:'#2563eb'},
+  gin:{label:'ジン',color:'#059669'},
+  brandy:{label:'ブランデー',color:'#9333ea'},
+  rum:{label:'ラム',color:'#dc2626'},
+  vodka:{label:'ウォッカ',color:'#0891b2'}
+};
+const QUICK_PRESETS = {
+  all: {label:'すべて', types:['whisky','gin','brandy','rum','vodka']},
+  whisky: {label:'ウイスキー', types:['whisky']},
+  gin: {label:'ジン', types:['gin']},
+  other_spirits: {label:'その他スピリッツ', types:['brandy','rum','vodka']}
+};
+
 const map = L.map('map', { zoomControl:true, preferCanvas:true }).setView([36.2, 137.7], 5);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:18,attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
-function clusterColor(markers){const counts={whisky:0,gin:0,brandy:0,rum:0,vodka:0,prep:0};markers.forEach(m=>{if(m.options.preparing)counts.prep++;(m.options.types||[]).forEach(t=>{if(counts[t]!==undefined)counts[t]++;});});if(counts.prep>Math.max(counts.whisky,counts.gin,counts.brandy,counts.rum,counts.vodka))return '#98a2b3';let w='whisky';['gin','brandy','rum','vodka'].forEach(t=>{if(counts[t]>counts[w])w=t;});return TYPE_META[w].color;}
-const cluster=L.markerClusterGroup({showCoverageOnHover:false,spiderfyOnMaxZoom:true,disableClusteringAtZoom:8,iconCreateFunction:function(c){const color=clusterColor(c.getAllChildMarkers());return L.divIcon({html:`<div class="cluster-icon" style="background:${color};">${c.getChildCount()}</div>`,className:'',iconSize:[42,42]});}});
+
+function clusterColor(markers){
+  const counts={whisky:0,gin:0,brandy:0,rum:0,vodka:0,prep:0};
+  markers.forEach(m=>{ if(m.options.preparing) counts.prep++; (m.options.types||[]).forEach(t=>{ if(counts[t]!==undefined) counts[t]++; }); });
+  if(counts.prep > Math.max(counts.whisky,counts.gin,counts.brandy,counts.rum,counts.vodka)) return '#98a2b3';
+  let w='whisky'; ['gin','brandy','rum','vodka'].forEach(t=>{ if(counts[t]>counts[w]) w=t; });
+  return TYPE_META[w].color;
+}
+const cluster=L.markerClusterGroup({
+  showCoverageOnHover:false, spiderfyOnMaxZoom:true, disableClusteringAtZoom:8,
+  iconCreateFunction:function(c){
+    const color=clusterColor(c.getAllChildMarkers());
+    return L.divIcon({html:`<div class="cluster-icon" style="background:${color};">${c.getChildCount()}</div>`,className:'',iconSize:[42,42]});
+  }
+});
 map.addLayer(cluster);
-let distilleries=[]; const markerMap=new Map();
-const state={search:'',region:'all',visitableOnly:false,preparingMode:'hide',jwicMode:'all',sort:'name',types:{whisky:true,gin:true,brandy:true,rum:true,vodka:true}};
-function typesLabel(item){return item.types_label || (item.types||[]).map(t=>TYPE_META[t]?.label||t).join(' / ');}
-function itemColor(item){if(item.record_status==='preparing_or_unclear')return '#98a2b3'; const first=(item.types||[])[0]||'whisky'; return TYPE_META[first]?.color||'#2563eb';}
-function popupHtml(item){const statusRow=item.record_status==='preparing_or_unclear'?`<div><b>JWIC区分：</b>${item.jwic_status||'準備中または詳細不明'}</div>`:''; const jwicRow=item.is_jwic_listed?`<div><b>JWIC掲載：</b>${item.jwic_status||'通常'}</div>`:`<div><b>JWIC掲載：</b>独自掲載</div>`; return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:278px;"><div style="font-size:16px;font-weight:700;margin-bottom:8px;">${item.name}</div><div><b>種別：</b>${typesLabel(item)}</div><div><b>地域：</b>${item.region||'未設定'}</div><div><b>所在地：</b>${item.location||'未設定'}</div>${jwicRow}${statusRow}<div><b>操業状態：</b>${item.operation_status||'未設定'}</div><div><b>見学情報：</b>${item.visit_label||'未設定'}</div><div><b>代表銘柄：</b>${(item.brands||[]).join(' / ')||'未設定'}</div><div><b>特徴：</b>${item.note||''}</div><div><b>情報ソース：</b>${item.source_label||item.source_level||'未設定'}</div><div><b>最終確認日：</b>${item.last_checked||'未設定'}</div><div style="margin-top:8px; display:flex; gap:12px; flex-wrap:wrap;">${item.reference_url?`<a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">参照ページを開く</a>`:''}${item.location?`<a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}</div></div>`;}
-function buildMarkers(items){cluster.clearLayers();markerMap.clear();items.filter(i=>i.lat&&i.lng).forEach(item=>{const marker=L.circleMarker([item.lat,item.lng],{radius:8,color:itemColor(item),weight:2,fillColor:itemColor(item),fillOpacity:item.record_status==='preparing_or_unclear'?0.08:(item.visitable?0.82:0.28),opacity:item.visitable?1:0.75,dashArray:item.record_status==='preparing_or_unclear'?'4 3':null});marker.options.types=item.types||[];marker.options.preparing=item.record_status==='preparing_or_unclear';marker.bindPopup(popupHtml(item),{maxWidth:390});marker.bindTooltip(item.name,{direction:'top'});cluster.addLayer(marker);markerMap.set(item.name,marker);});}
-function matchesTypes(item){const types=item.types||[]; return types.length>0 && types.some(t=>state.types[t]);}
-function matchesPreparing(item){return state.preparingMode==='show' || item.record_status!=='preparing_or_unclear';}
-function matchesJwic(item){if(state.jwicMode==='all')return true; if(state.jwicMode==='jwic_only')return item.is_jwic_listed; if(state.jwicMode==='independent_only')return !item.is_jwic_listed; return true;}
-function sortItems(items){const arr=[...items]; if(state.sort==='region')return arr.sort((a,b)=>((a.region||'')+(a.location||'')).localeCompare((b.region||'')+(b.location||''),'ja')); if(state.sort==='status')return arr.sort((a,b)=>(a.record_status||'').localeCompare(b.record_status||'','ja')); if(state.sort==='visit')return arr.sort((a,b)=>(a.visit_label||'').localeCompare(b.visit_label||'','ja')); return arr.sort((a,b)=>a.name.localeCompare(b.name,'ja'));}
-function filteredItems(){const q=state.search.trim().toLowerCase(); return sortItems(distilleries.filter(item=>{if(!matchesTypes(item))return false; if(!matchesPreparing(item))return false; if(!matchesJwic(item))return false; if(state.visitableOnly&&!item.visitable)return false; if(state.region!=='all'&&item.region!==state.region)return false; if(!q)return true; const hay=[item.name,item.location||'',item.region||'',typesLabel(item),item.note||'',item.source_label||'',...(item.brands||[])].join(' ').toLowerCase(); return hay.includes(q);}));}
-function renderList(items){const list=document.getElementById('list'); if(!items.length){list.innerHTML='<div class="empty">条件に合う蒸溜所が見つかりませんでした。</div>'; return;} list.innerHTML=items.map(item=>`<article class="card" data-name="${item.name}"><h3>${item.name}</h3><div class="meta"><span class="badge">${typesLabel(item)}</span><span class="badge">${item.region||'未設定'}</span><span class="badge ${item.visitable?'visit-yes':'visit-no'}">${item.visit_label||'未設定'}</span><span class="badge ${item.record_status==='preparing_or_unclear'?'prep-badge':''}">${item.record_status==='preparing_or_unclear'?'準備中・詳細不明':'稼働中レイヤー'}</span><span class="badge ${item.is_jwic_listed?'':'independent-badge'}">${item.is_jwic_listed?'JWIC':'独自'}</span></div><div class="location"><b>所在地：</b>${item.location||'未設定'}</div><div class="brands"><b>代表銘柄：</b>${(item.brands||[]).join(' / ')||'未設定'}</div><div class="note"><b>特徴：</b>${item.note||''}</div><div class="source-note"><b>情報ソース：</b>${item.source_label||item.source_level||'未設定'}</div><div class="updated-note"><b>最終確認日：</b>${item.last_checked||'未設定'}</div><div class="tour">${item.reference_url?`<b>参照ページ：</b> <a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">${item.reference_url}</a><br>`:''}${item.location?`<b>地図：</b> <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}</div></article>`).join(''); list.querySelectorAll('.card').forEach(card=>{card.addEventListener('click',()=>{const name=card.getAttribute('data-name'); const item=items.find(x=>x.name===name); const marker=markerMap.get(name); if(item&&marker){map.setView([item.lat,item.lng],Math.max(map.getZoom(),9),{animate:true}); marker.openPopup(); if(window.innerWidth<960)window.scrollTo({top:0,behavior:'smooth'});}});});}
-function renderSummary(items){const counts={whisky:0,gin:0,brandy:0,rum:0,vodka:0}; items.forEach(item=>(item.types||[]).forEach(t=>{if(counts[t]!==undefined)counts[t]++;})); const prep=items.filter(x=>x.record_status==='preparing_or_unclear').length; const jwic=items.filter(x=>x.is_jwic_listed).length; document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / JWIC ${jwic} / 準備中・詳細不明 ${prep}`;}
-function rerender(){const items=filteredItems(); buildMarkers(items); renderList(items); renderSummary(items);}
-function bindUI(){document.getElementById('searchInput').addEventListener('input',e=>{state.search=e.target.value; rerender();}); document.getElementById('visitableOnly').addEventListener('change',e=>{state.visitableOnly=e.target.checked; rerender();}); document.getElementById('preparingMode').addEventListener('change',e=>{state.preparingMode=e.target.checked?'show':'hide'; rerender();}); document.getElementById('jwicMode').addEventListener('change',e=>{state.jwicMode=e.target.value; rerender();}); document.getElementById('sortSelect').addEventListener('change',e=>{state.sort=e.target.value; rerender();}); document.getElementById('regionSelect').addEventListener('change',e=>{state.region=e.target.value; rerender();}); document.querySelectorAll('.type-check').forEach(box=>{box.addEventListener('change',e=>{state.types[e.target.dataset.type]=e.target.checked; rerender();});}); const headerCard=document.getElementById('headerCard'); const headerToggle=document.getElementById('headerToggle'); headerToggle.addEventListener('click',()=>{const expanded=headerCard.classList.toggle('expanded'); headerToggle.setAttribute('aria-expanded',expanded?'true':'false'); headerToggle.textContent=expanded?'補足を閉じる':'補足を表示';});}
-fetch(DISTILLERIES_URL).then(r=>{if(!r.ok)throw new Error(`distilleries.json: ${r.status}`); return r.json();}).then(items=>{distilleries=items; bindUI(); rerender();}).catch(err=>{document.getElementById('list').innerHTML=`<div class="empty">データの読み込みに失敗しました。<br>${err.message}</div>`; console.error(err);});
+
+let distilleries=[];
+let filteredCache=[];
+let suggestionCache=[];
+let activeSuggestionIndex=-1;
+let currentActiveName=null;
+
+const markerMap=new Map();
+const cardMap=new Map();
+
+const state={search:'',region:'all',visitableOnly:false,preparingMode:'hide',jwicMode:'all',sort:'name',quickPreset:'all',types:{whisky:true,gin:true,brandy:true,rum:true,vodka:true}};
+
+function typesLabel(item){ return item.types_label || (item.types||[]).map(t=>TYPE_META[t]?.label||t).join(' / '); }
+function itemColor(item){ if(item.record_status==='preparing_or_unclear') return '#98a2b3'; const first=(item.types||[])[0]||'whisky'; return TYPE_META[first]?.color||'#2563eb'; }
+function markerBackground(types, preparing){
+  if (preparing) return '#98a2b3';
+  const arr=(types||[]).filter(t=>TYPE_META[t]);
+  if(!arr.length) return '#2563eb';
+  if(arr.length===1) return TYPE_META[arr[0]].color;
+  const step=100/arr.length;
+  const parts=arr.map((t,i)=>`${TYPE_META[t].color} ${Math.round(i*step)}% ${Math.round((i+1)*step)}%`);
+  return `conic-gradient(${parts.join(', ')})`;
+}
+function renderTypeChips(types){
+  return (types||[]).map(t=>`<span class="type-chip"><span class="type-swatch" style="background:${TYPE_META[t]?.color||'#2563eb'}"></span>${TYPE_META[t]?.label||t}</span>`).join('');
+}
+function popupHtml(item){
+  const statusRow=item.record_status==='preparing_or_unclear'?`<div><b>JWIC区分：</b>${item.jwic_status||'準備中または詳細不明'}</div>`:'';
+  const jwicRow=item.is_jwic_listed?`<div><b>JWIC掲載：</b>${item.jwic_status||'通常'}</div>`:`<div><b>JWIC掲載：</b>独自掲載</div>`;
+  return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:278px;">
+    <div style="font-size:16px;font-weight:700;margin-bottom:8px;">${item.name}</div>
+    <div><b>種別：</b></div><div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
+    <div><b>地域：</b>${item.region||'未設定'}</div>
+    <div><b>所在地：</b>${item.location||'未設定'}</div>
+    ${jwicRow}${statusRow}
+    <div><b>操業状態：</b>${item.operation_status||'未設定'}</div>
+    <div><b>見学情報：</b>${item.visit_label||'未設定'}</div>
+    <div><b>代表銘柄：</b>${(item.brands||[]).join(' / ')||'未設定'}</div>
+    <div><b>特徴：</b>${item.note||''}</div>
+    <div><b>情報ソース：</b>${item.source_label||item.source_level||'未設定'}</div>
+    <div><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
+    <div style="margin-top:8px; display:flex; gap:12px; flex-wrap:wrap;">
+      ${item.reference_url?`<a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">参照ページを開く</a>`:''}
+      ${item.location?`<a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}
+    </div></div>`;
+}
+function buildMarkers(items){
+  cluster.clearLayers(); markerMap.clear();
+  items.filter(i=>i.lat&&i.lng).forEach(item=>{
+    const preparing=item.record_status==='preparing_or_unclear';
+    const icon=L.divIcon({className:'', html:`<div class="marker-shell ${preparing?'preparing':''}" style="background:${markerBackground(item.types||[], preparing)}"></div>`, iconSize:[18,18], iconAnchor:[9,9], popupAnchor:[0,-10]});
+    const marker=L.marker([item.lat,item.lng], {icon});
+    marker.options.types=item.types||[]; marker.options.preparing=preparing;
+    marker.on('mouseover',()=>setHoveredName(item.name,true));
+    marker.on('mouseout',()=>setHoveredName(item.name,false));
+    marker.on('click',()=>setActiveName(item.name));
+    marker.bindPopup(popupHtml(item), {maxWidth:390});
+    marker.bindTooltip(item.name,{direction:'top'});
+    cluster.addLayer(marker); markerMap.set(item.name,marker);
+  });
+}
+function matchesTypes(item){ const types=item.types||[]; return types.length>0 && types.some(t=>state.types[t]); }
+function matchesPreparing(item){ return state.preparingMode==='show' || item.record_status!=='preparing_or_unclear'; }
+function matchesJwic(item){ if(state.jwicMode==='all') return true; if(state.jwicMode==='jwic_only') return item.is_jwic_listed; if(state.jwicMode==='independent_only') return !item.is_jwic_listed; return true; }
+function sortItems(items){
+  const arr=[...items];
+  if(state.sort==='region') return arr.sort((a,b)=>((a.region||'')+(a.location||'')).localeCompare((b.region||'')+(b.location||''),'ja'));
+  if(state.sort==='status') return arr.sort((a,b)=>(a.record_status||'').localeCompare(b.record_status||'','ja'));
+  if(state.sort==='visit') return arr.sort((a,b)=>(a.visit_label||'').localeCompare(b.visit_label||'','ja'));
+  return arr.sort((a,b)=>a.name.localeCompare(b.name,'ja'));
+}
+function filteredItems(){
+  const q=state.search.trim().toLowerCase();
+  return sortItems(distilleries.filter(item=>{
+    if(!matchesTypes(item)) return false;
+    if(!matchesPreparing(item)) return false;
+    if(!matchesJwic(item)) return false;
+    if(state.visitableOnly && !item.visitable) return false;
+    if(state.region!=='all' && item.region!==state.region) return false;
+    if(!q) return true;
+    const hay=[item.name,item.location||'',item.region||'',typesLabel(item),item.note||'',item.source_label||'',...(item.brands||[])].join(' ').toLowerCase();
+    return hay.includes(q);
+  }));
+}
+function suggestionItems(query){
+  const q=query.trim().toLowerCase();
+  if(!q) return [];
+  const scored = filteredCache.map(item=>{
+    let score=0;
+    const name=(item.name||'').toLowerCase();
+    const brands=(item.brands||[]).join(' ').toLowerCase();
+    const loc=(item.location||'').toLowerCase();
+    if(name.startsWith(q)) score+=50;
+    if(name.includes(q)) score+=25;
+    if(brands.includes(q)) score+=15;
+    if(loc.includes(q)) score+=10;
+    if(score===0) return None;
+    return {item, score};
+  }).filter(Boolean).sort((a,b)=>b.score-a.score || a.item.name.localeCompare(b.item.name,'ja')).slice(0,8);
+  return scored.map(x=>x.item);
+}
+function renderSuggestions(items){
+  const box=document.getElementById('suggestions');
+  suggestionCache=items;
+  activeSuggestionIndex=-1;
+  if(!items.length){ box.classList.remove('open'); box.innerHTML=''; return; }
+  box.innerHTML=items.map((item,i)=>`<div class="suggestion-item" data-index="${i}" data-name="${item.name}"><div class="suggestion-title">${item.name}</div><div class="suggestion-sub">${typesLabel(item)} / ${item.location||'所在地未設定'}</div></div>`).join('');
+  box.classList.add('open');
+  box.querySelectorAll('.suggestion-item').forEach(el=>{
+    el.addEventListener('mousedown',e=>{ e.preventDefault(); chooseSuggestion(el.dataset.name); });
+  });
+}
+function updateSuggestionActive(){
+  const items=document.querySelectorAll('.suggestion-item');
+  items.forEach((el,i)=>el.classList.toggle('active', i===activeSuggestionIndex));
+}
+function chooseSuggestion(name){
+  const input=document.getElementById('searchInput');
+  input.value=name; state.search=name;
+  renderSuggestions([]);
+  rerender();
+  focusItemByName(name, true);
+}
+function focusItemByName(name, smoothScroll){
+  const item=filteredCache.find(x=>x.name===name) || distilleries.find(x=>x.name===name);
+  const marker=markerMap.get(name);
+  if(item && marker){
+    map.setView([item.lat,item.lng], Math.max(map.getZoom(),9), {animate:true});
+    marker.openPopup();
+    setActiveName(name);
+    const card=cardMap.get(name);
+    if(card){ card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'}); }
+  }
+}
+function renderList(items){
+  const list=document.getElementById('list');
+  cardMap.clear();
+  if(!items.length){ list.innerHTML='<div class="empty">条件に合う蒸溜所が見つかりませんでした。</div>'; return; }
+  list.innerHTML=items.map(item=>`<article class="card" data-name="${item.name}">
+    <h3>${item.name}</h3>
+    <div class="meta">
+      <span class="badge">${(item.types||[]).length>1?'複数種':typesLabel(item)}</span>
+      <span class="badge">${item.region||'未設定'}</span>
+      <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${item.visit_label||'未設定'}</span>
+      <span class="badge ${item.record_status==='preparing_or_unclear'?'prep-badge':''}">${item.record_status==='preparing_or_unclear'?'準備中・詳細不明':'稼働中レイヤー'}</span>
+      <span class="badge ${item.is_jwic_listed?'':'independent-badge'}">${item.is_jwic_listed?'JWIC':'独自'}</span>
+    </div>
+    <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
+    <div class="location"><b>所在地：</b>${item.location||'未設定'}</div>
+    <div class="brands"><b>代表銘柄：</b>${(item.brands||[]).join(' / ')||'未設定'}</div>
+    <div class="note"><b>特徴：</b>${item.note||''}</div>
+    <div class="source-note"><b>情報ソース：</b>${item.source_label||item.source_level||'未設定'}</div>
+    <div class="updated-note"><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
+    <div class="tour">${item.reference_url?`<b>参照ページ：</b> <a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">${item.reference_url}</a><br>`:''}${item.location?`<b>地図：</b> <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}</div>
+  </article>`).join('');
+  list.querySelectorAll('.card').forEach(card=>{
+    const name=card.getAttribute('data-name');
+    cardMap.set(name, card);
+    card.addEventListener('click',()=>focusItemByName(name, true));
+    card.addEventListener('mouseenter',()=>setHoveredName(name,true));
+    card.addEventListener('mouseleave',()=>setHoveredName(name,false));
+  });
+  if(currentActiveName) setActiveName(currentActiveName);
+}
+function renderSummary(items){
+  const counts={whisky:0,gin:0,brandy:0,rum:0,vodka:0};
+  items.forEach(item=>(item.types||[]).forEach(t=>{ if(counts[t]!==undefined) counts[t]++; }));
+  const prep=items.filter(x=>x.record_status==='preparing_or_unclear').length;
+  const jwic=items.filter(x=>x.is_jwic_listed).length;
+  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / JWIC ${jwic} / 準備中・詳細不明 ${prep}`;
+}
+function rerender(){
+  filteredCache=filteredItems();
+  buildMarkers(filteredCache);
+  renderList(filteredCache);
+  renderSummary(filteredCache);
+  renderSuggestions(suggestionItems(state.search));
+}
+function applyQuickPreset(key){
+  state.quickPreset=key;
+  const preset=QUICK_PRESETS[key];
+  Object.keys(state.types).forEach(t=>{ state.types[t]=preset.types.includes(t); });
+  document.querySelectorAll('.type-check').forEach(box=>{ box.checked=state.types[box.dataset.type]; });
+  document.querySelectorAll('.quick-pill').forEach(btn=>btn.classList.toggle('active', btn.dataset.preset===key));
+  rerender();
+}
+function setHoveredName(name, hovered){
+  const marker=markerMap.get(name);
+  if(marker && marker._icon){ marker._icon.querySelector('.marker-shell')?.classList.toggle('hovered', hovered); }
+  const card=cardMap.get(name);
+  if(card){ card.classList.toggle('hover-card', hovered); }
+}
+function setActiveName(name){
+  if(currentActiveName && currentActiveName!==name){
+    const oldMarker=markerMap.get(currentActiveName);
+    oldMarker?._icon?.querySelector('.marker-shell')?.classList.remove('active');
+    cardMap.get(currentActiveName)?.classList.remove('active-card');
+  }
+  currentActiveName=name;
+  markerMap.get(name)?._icon?.querySelector('.marker-shell')?.classList.add('active');
+  cardMap.get(name)?.classList.add('active-card');
+}
+function bindUI(){
+  const input=document.getElementById('searchInput');
+  const suggestionBox=document.getElementById('suggestions');
+  input.addEventListener('input',e=>{ state.search=e.target.value; rerender(); });
+  input.addEventListener('focus',()=>renderSuggestions(suggestionItems(state.search)));
+  input.addEventListener('keydown',e=>{
+    if(!suggestionCache.length) return;
+    if(e.key==='ArrowDown'){ e.preventDefault(); activeSuggestionIndex=Math.min(activeSuggestionIndex+1, suggestionCache.length-1); updateSuggestionActive(); }
+    else if(e.key==='ArrowUp'){ e.preventDefault(); activeSuggestionIndex=Math.max(activeSuggestionIndex-1, 0); updateSuggestionActive(); }
+    else if(e.key==='Enter' && activeSuggestionIndex>=0){ e.preventDefault(); chooseSuggestion(suggestionCache[activeSuggestionIndex].name); }
+    else if(e.key==='Escape'){ renderSuggestions([]); }
+  });
+  document.addEventListener('click',e=>{ if(!document.getElementById('searchWrap').contains(e.target)) renderSuggestions([]); });
+
+  document.getElementById('visitableOnly').addEventListener('change',e=>{ state.visitableOnly=e.target.checked; rerender(); });
+  document.getElementById('preparingMode').addEventListener('change',e=>{ state.preparingMode=e.target.checked?'show':'hide'; rerender(); });
+  document.getElementById('jwicMode').addEventListener('change',e=>{ state.jwicMode=e.target.value; rerender(); });
+  document.getElementById('sortSelect').addEventListener('change',e=>{ state.sort=e.target.value; rerender(); });
+  document.getElementById('regionSelect').addEventListener('change',e=>{ state.region=e.target.value; rerender(); });
+  document.querySelectorAll('.type-check').forEach(box=>{
+    box.addEventListener('change',e=>{
+      state.types[e.target.dataset.type]=e.target.checked;
+      state.quickPreset='custom';
+      document.querySelectorAll('.quick-pill').forEach(btn=>btn.classList.remove('active'));
+      rerender();
+    });
+  });
+  document.querySelectorAll('.quick-pill').forEach(btn=>btn.addEventListener('click',()=>applyQuickPreset(btn.dataset.preset)));
+
+  const headerCard=document.getElementById('headerCard');
+  const headerToggle=document.getElementById('headerToggle');
+  headerToggle.addEventListener('click',()=>{
+    const expanded=headerCard.classList.toggle('expanded');
+    headerToggle.setAttribute('aria-expanded',expanded?'true':'false');
+    headerToggle.textContent=expanded?'補足を閉じる':'補足を表示';
+  });
+
+  const panel=document.getElementById('sidePanel');
+  const mobileFilterToggle=document.getElementById('mobileFilterToggle');
+  mobileFilterToggle.addEventListener('click',()=>{
+    panel.classList.toggle('filter-open');
+    mobileFilterToggle.textContent=panel.classList.contains('filter-open')?'絞り込みを閉じる':'絞り込みを開く';
+  });
+
+  map.on('click',()=>{ if(window.innerWidth < 960){ panel.scrollIntoView({behavior:'smooth', block:'start'}); }});
+}
+fetch(DISTILLERIES_URL)
+  .then(r=>{ if(!r.ok) throw new Error(`distilleries.json: ${r.status}`); return r.json(); })
+  .then(items=>{ distilleries=items; bindUI(); rerender(); })
+  .catch(err=>{ document.getElementById('list').innerHTML=`<div class="empty">データの読み込みに失敗しました。<br>${err.message}</div>`; console.error(err); });

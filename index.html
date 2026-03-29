@@ -17,20 +17,30 @@
         <h1>日本の蒸留所マップ</h1>
         <button id="headerToggle" class="header-toggle" type="button" aria-expanded="false">補足を表示</button>
       </div>
-      <p id="headerSub" class="header-subtitle is-collapsed">JWIC掲載の蒸留所を基準レイヤーとして採用し、一覧118件との名称突合をもとに通常掲載と「準備中または詳細不明」を分けて扱います。加えて、独自調査で把握したA相当の蒸留所も掲載します。種別はウイスキー、ジン、ブランデー、ラム、ウォッカの複数選択に対応する構造へ全面リファクタリングしました。</p>
+      <p id="headerSub" class="header-subtitle is-collapsed">JWIC掲載の蒸留所を基準レイヤーとして採用し、名称揺れを含む再突合を行ったうえで、通常掲載と「準備中または詳細不明」を分けて扱います。加えて、独自調査で把握したA相当の蒸留所も掲載します。</p>
     </div>
   </div>
-  <aside class="panel">
+  <aside class="panel" id="sidePanel">
     <div class="panel-top">
       <h2 class="panel-title">一覧とフィルター</h2>
-      <div class="primary-row">
-        <input id="searchInput" class="search" type="search" placeholder="蒸留所名・所在地・銘柄で検索">
+      <div class="quick-filters">
+        <button class="quick-pill active" data-preset="all">すべて</button>
+        <button class="quick-pill" data-preset="whisky">ウイスキー</button>
+        <button class="quick-pill" data-preset="gin">ジン</button>
+        <button class="quick-pill" data-preset="other_spirits">その他スピリッツ</button>
+      </div>
+      <div class="primary-row" style="margin-top:10px;">
+        <div class="search-wrap" id="searchWrap">
+          <input id="searchInput" class="search" type="search" placeholder="蒸留所名・所在地・銘柄で検索">
+          <div id="suggestions" class="suggestions"></div>
+        </div>
         <div class="compact-row">
           <label class="checkbox"><input type="checkbox" id="visitableOnly">見学できる蒸留所のみ</label>
           <label class="checkbox"><input type="checkbox" id="preparingMode">準備中・詳細不明も表示</label>
+          <button id="mobileFilterToggle" class="mobile-filter-toggle" type="button">絞り込みを開く</button>
         </div>
       </div>
-      <details class="filter-box" id="filterBox">
+      <details class="filter-box" id="filterBox" open>
         <summary>絞り込み・並び替え・凡例・補足を見る</summary>
         <div class="filter-body">
           <div class="type-grid">
@@ -64,7 +74,7 @@
             <option value="jwic_only">JWIC掲載のみ</option>
             <option value="independent_only">独自掲載のみ</option>
           </select>
-          <div class="tag-note">凡例の考え方: 通常のJWIC掲載蒸留所と、JWICで「準備中または詳細不明」とされる蒸留所を分けて扱います。独自掲載はJWIC外でもA相当と判断した蒸留所です。</div>
+          <div class="tag-note">クイックフィルターは即時切替用です。詳細条件は下のフィルターで個別に調整できます。複数種の蒸留所は、地図ピンが分割色で表示されます。</div>
           <div class="legend">
             <div class="legend-title">凡例</div>
             <div class="legend-row"><span class="dot" style="background:#2563eb;"></span>ウイスキー</div>
