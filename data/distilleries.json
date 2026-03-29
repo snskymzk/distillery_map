@@ -94,9 +94,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "石炭直火蒸溜で知られる",
@@ -111,9 +111,10 @@
     "id": "record",
     "name": "ニッカウヰスキー宮城峡蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "宮城県仙台市青葉区ニッカ1",
     "prefecture": "宮城県",
     "region": "東北",
@@ -130,9 +131,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "華やかなスタイル",
@@ -166,9 +167,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "笹の川酒造の蒸溜所",
@@ -238,9 +239,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "富士山麓の大規模拠点",
@@ -310,9 +311,9 @@
     "visit_label": "見学情報未確認",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "クラフト代表格",
@@ -346,9 +347,9 @@
     "visit_label": "見学情報未確認",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "海霧の熟成環境 / 公式バーチャルツアーあり",
@@ -382,9 +383,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "薪直火蒸溜で知られる",
@@ -418,9 +419,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "鋳物製ポットスチル ZEMON",
@@ -454,9 +455,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "小規模蒸溜所",
@@ -490,9 +491,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "明石の老舗酒造",
@@ -526,9 +527,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "海辺の熟成環境",
@@ -598,9 +599,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "新しいクラフト蒸溜所",
@@ -634,9 +635,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "製造ツアー・熟成庫見学・バーあり",
@@ -671,9 +672,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "呉のウイスキー・ジン蒸溜所",
@@ -688,9 +689,10 @@
     "id": "record",
     "name": "尾鈴山蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "宮崎県児湯郡木城町石河内字倉ノ又656-17",
     "prefecture": "宮崎県",
     "region": "九州",
@@ -707,9 +709,9 @@
     "visit_label": "見学情報未確認",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "地元原料を活かす蒸留所",
@@ -743,9 +745,9 @@
     "visit_label": "現在見学受付なし",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "大分の高原蒸溜所",
@@ -780,9 +782,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "ジンとウイスキーを造る蒸溜所",
@@ -817,9 +819,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "ジン主力の北海道蒸溜所",
@@ -854,9 +856,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "小正醸造の蒸溜蔵",
@@ -943,9 +945,10 @@
     "id": "record",
     "name": "丹丘蒸留所",
     "types": [
-      "gin"
+      "gin",
+      "whisky"
     ],
-    "types_label": "ジン",
+    "types_label": "ジン / ウイスキー",
     "location": "北海道上川郡東川町西2号北23",
     "prefecture": "北海道",
     "region": "北海道",
@@ -962,9 +965,9 @@
     "visit_label": "予約制",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "準備中または詳細不明",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "東川の小規模蒸留所",
@@ -1051,9 +1054,10 @@
     "id": "record",
     "name": "野沢温泉蒸留所",
     "types": [
-      "gin"
+      "gin",
+      "whisky"
     ],
-    "types_label": "ジン",
+    "types_label": "ジン / ウイスキー",
     "location": "長野県下高井郡野沢温泉村豊郷9394",
     "prefecture": "長野県",
     "region": "中部",
@@ -1070,9 +1074,9 @@
     "visit_label": "見学情報未確認",
     "operation_status": "稼働中",
     "record_status": "active",
-    "is_jwic_listed": false,
-    "jwic_status": null,
-    "discovery_source": "独自調査",
+    "is_jwic_listed": true,
+    "jwic_status": "通常",
+    "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
     "note": "温泉地の蒸留所",
@@ -1575,7 +1579,7 @@
     "operation_status": "稼働中",
     "record_status": "active",
     "is_jwic_listed": true,
-    "jwic_status": "通常",
+    "jwic_status": "準備中または詳細不明",
     "discovery_source": "JWIC",
     "source_level": "公式サイト",
     "source_label": "公式サイト",
@@ -1591,9 +1595,10 @@
     "id": "cand-kanagawa-shonan",
     "name": "湘南蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "神奈川県茅ヶ崎市香川7-10-7",
     "prefecture": "神奈川県",
     "region": "関東",
@@ -1659,9 +1664,10 @@
     "id": "cand-jwic-seed-002",
     "name": "馬追蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "brandy"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ブランデー",
     "location": "北海道",
     "prefecture": "北海道",
     "region": "北海道",
@@ -1755,9 +1761,10 @@
     "id": "cand-jwic-seed-005",
     "name": "南部美人 本社蔵",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "岩手県",
     "prefecture": "岩手県",
     "region": "東北",
@@ -1883,9 +1890,10 @@
     "id": "cand-jwic-seed-009",
     "name": "高藏蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "茨城県",
     "prefecture": "茨城県",
     "region": "関東",
@@ -1915,9 +1923,10 @@
     "id": "cand-jwic-seed-010",
     "name": "八郷蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "茨城県",
     "prefecture": "茨城県",
     "region": "関東",
@@ -1947,9 +1956,10 @@
     "id": "cand-jwic-seed-011",
     "name": "Stork Valley Distillery",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "栃木県",
     "prefecture": "栃木県",
     "region": "関東",
@@ -1979,9 +1989,10 @@
     "id": "cand-jwic-seed-012",
     "name": "日光街道 小山蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "栃木県",
     "prefecture": "栃木県",
     "region": "関東",
@@ -2171,9 +2182,11 @@
     "id": "cand-jwic-seed-018",
     "name": "mitosaya薬草園蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin",
+      "brandy"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン / ブランデー",
     "location": "千葉県",
     "prefecture": "千葉県",
     "region": "関東",
@@ -2267,9 +2280,10 @@
     "id": "cand-jwic-seed-021",
     "name": "新潟亀田蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "rum"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ラム",
     "location": "新潟県",
     "prefecture": "新潟県",
     "region": "中部",
@@ -2331,9 +2345,10 @@
     "id": "cand-jwic-seed-023",
     "name": "オリエンタル金沢蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "石川県",
     "prefecture": "石川県",
     "region": "中部",
@@ -2427,9 +2442,10 @@
     "id": "cand-jwic-seed-026",
     "name": "Far Yeast 源流蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "山梨県",
     "prefecture": "山梨県",
     "region": "中部",
@@ -2459,9 +2475,10 @@
     "id": "cand-jwic-seed-027",
     "name": "飯山マウンテンファーム蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "長野県",
     "prefecture": "長野県",
     "region": "中部",
@@ -2491,9 +2508,10 @@
     "id": "cand-jwic-seed-028",
     "name": "御代田蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "長野県",
     "prefecture": "長野県",
     "region": "中部",
@@ -2602,9 +2620,9 @@
     "visit_label": "見学情報未確認",
     "operation_status": "稼働中",
     "record_status": "candidate",
-    "is_jwic_listed": true,
-    "jwic_status": "通常",
-    "discovery_source": "JWIC",
+    "is_jwic_listed": false,
+    "jwic_status": null,
+    "discovery_source": "独自調査",
     "source_level": "JWIC",
     "source_label": "JWIC",
     "note": "JWIC掲載。詳細ページあり。",
@@ -2651,9 +2669,10 @@
     "id": "cand-jwic-seed-033",
     "name": "清洲桜醸造 本社工場",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "愛知県",
     "prefecture": "愛知県",
     "region": "中部",
@@ -2715,9 +2734,10 @@
     "id": "cand-jwic-seed-035",
     "name": "伊勢蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "三重県",
     "prefecture": "三重県",
     "region": "近畿",
@@ -2811,9 +2831,11 @@
     "id": "cand-jwic-seed-038",
     "name": "西山酒造場",
     "types": [
-      "whisky"
+      "whisky",
+      "gin",
+      "brandy"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン / ブランデー",
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
@@ -2843,9 +2865,10 @@
     "id": "cand-jwic-seed-039",
     "name": "丹波蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
@@ -2875,9 +2898,11 @@
     "id": "cand-jwic-seed-040",
     "name": "神戸蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin",
+      "brandy"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン / ブランデー",
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
@@ -2939,9 +2964,10 @@
     "id": "cand-jwic-seed-042",
     "name": "海峡蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
@@ -3035,9 +3061,10 @@
     "id": "cand-jwic-seed-045",
     "name": "紀州熊野蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "和歌山県",
     "prefecture": "和歌山県",
     "region": "近畿",
@@ -3067,9 +3094,10 @@
     "id": "cand-jwic-seed-046",
     "name": "千代むすび 境港蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "鳥取県",
     "prefecture": "鳥取県",
     "region": "中国",
@@ -3099,9 +3127,10 @@
     "id": "cand-jwic-seed-047",
     "name": "岡山蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "岡山県",
     "prefecture": "岡山県",
     "region": "中国",
@@ -3131,9 +3160,10 @@
     "id": "cand-jwic-seed-048",
     "name": "阿波乃蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "徳島県",
     "prefecture": "徳島県",
     "region": "四国",
@@ -3163,9 +3193,10 @@
     "id": "cand-jwic-seed-049",
     "name": "梅美人酒造",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "愛媛県",
     "prefecture": "愛媛県",
     "region": "四国",
@@ -3210,9 +3241,9 @@
     "visit_label": "見学情報未確認",
     "operation_status": "稼働中",
     "record_status": "candidate",
-    "is_jwic_listed": true,
-    "jwic_status": "通常",
-    "discovery_source": "JWIC",
+    "is_jwic_listed": false,
+    "jwic_status": null,
+    "discovery_source": "独自調査",
     "source_level": "JWIC",
     "source_label": "JWIC",
     "note": "JWIC掲載。詳細ページあり。",
@@ -3227,9 +3258,10 @@
     "id": "cand-jwic-seed-051",
     "name": "朝倉蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "福岡県",
     "prefecture": "福岡県",
     "region": "九州",
@@ -3323,9 +3355,10 @@
     "id": "cand-jwic-seed-054",
     "name": "梅ヶ枝酒造",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "長崎県",
     "prefecture": "長崎県",
     "region": "九州",
@@ -3643,9 +3676,10 @@
     "id": "cand-jwic-seed-064",
     "name": "御岳蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
@@ -3707,9 +3741,10 @@
     "id": "cand-jwic-seed-066",
     "name": "許田蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "rum"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ラム",
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
@@ -3771,9 +3806,10 @@
     "id": "cand-jwic-seed-068",
     "name": "那覇蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "rum"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ラム",
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
@@ -3803,9 +3839,11 @@
     "id": "cand-jwic-seed-069",
     "name": "まさひろ酒造",
     "types": [
-      "whisky"
+      "whisky",
+      "gin",
+      "rum"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン / ラム",
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
@@ -3829,38 +3867,6 @@
     "inclusion_decision": "未判定",
     "review_note": "JWIC一覧を母集団として投入。既存データとの重複を除外した初期候補。",
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
-    "last_checked": "2026-03-29"
-  },
-  {
-    "id": "schema-example-excluded",
-    "name": "記入例",
-    "types": [
-      "whisky"
-    ],
-    "types_label": "ウイスキー",
-    "location": "",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "brands": [],
-    "official_url": "",
-    "reference_url": "",
-    "visitable": false,
-    "visit_label": "見学情報未確認",
-    "operation_status": "準備中または詳細不明",
-    "record_status": "preparing_or_unclear",
-    "is_jwic_listed": true,
-    "jwic_status": "準備中または詳細不明",
-    "discovery_source": "JWIC",
-    "source_level": "未設定",
-    "source_label": "JWIC",
-    "note": "建設中 / 計画中 / 研究系 / 蒸溜所実体不明 など",
-    "review_state": "除外整理済み",
-    "candidate_status": "D",
-    "inclusion_decision": "主地図では別扱い",
-    "review_note": "このファイルは将来の除外台帳用の雛形です。実データ登録時はこの行を削除してください。",
-    "next_action": "",
     "last_checked": "2026-03-29"
   },
   {
@@ -4059,9 +4065,10 @@
     "id": "excl-jwic-seed-077",
     "name": "札幌酒精工業 札幌工場",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "",
     "prefecture": "",
     "region": "",
@@ -4091,9 +4098,10 @@
     "id": "excl-jwic-seed-078",
     "name": "忍蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "",
     "prefecture": "",
     "region": "",
@@ -4155,9 +4163,11 @@
     "id": "excl-jwic-seed-080",
     "name": "南アルプスワインアンドビバレッジ 笛吹工場",
     "types": [
-      "whisky"
+      "whisky",
+      "gin",
+      "brandy"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン / ブランデー",
     "location": "",
     "prefecture": "",
     "region": "",
@@ -4187,9 +4197,11 @@
     "id": "excl-jwic-seed-081",
     "name": "韮崎御勅使蒸留所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin",
+      "brandy"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン / ブランデー",
     "location": "",
     "prefecture": "",
     "region": "",
@@ -4347,9 +4359,10 @@
     "id": "excl-jwic-seed-086",
     "name": "三国蒸溜所",
     "types": [
-      "whisky"
+      "whisky",
+      "gin"
     ],
-    "types_label": "ウイスキー",
+    "types_label": "ウイスキー / ジン",
     "location": "",
     "prefecture": "",
     "region": "",
