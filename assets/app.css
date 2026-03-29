@@ -52,3 +52,6 @@ details.filter-box{margin-top:10px;border:1px solid var(--border);border-radius:
   .panel.filter-open details.filter-box{display:block}
   .panel.filter-open details.filter-box summary{display:none}
 }
+
+.badge:empty{display:none}
+.meta > *:empty{display:none}
