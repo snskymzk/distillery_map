@@ -35,9 +35,10 @@ body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-sys
   display:block; overflow:visible;
 }
 .legend {
-  position:absolute; bottom:12px; left:10px; z-index:900; background:rgba(255,255,255,.94); border:1px solid var(--border);
+  background:rgba(255,255,255,.94); border:1px solid var(--border);
   border-radius:12px; padding:8px 10px; box-shadow:var(--shadow); font-size:12px;
 }
+.panel-legend { margin-top:10px; }
 .legend-title { font-weight:700; margin-bottom:6px; }
 .legend-row { display:flex; align-items:center; gap:8px; margin:4px 0; }
 .dot { width:12px; height:12px; border-radius:999px; display:inline-block; }
@@ -86,7 +87,7 @@ body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-sys
   .header-card h1 { font-size:15px; margin-bottom:2px; }
   .header-toggle { font-size:11px; padding:5px 8px; }
   .header-subtitle.is-collapsed { -webkit-line-clamp:1; font-size:10px; line-height:1.25; }
-  .legend { left:8px; bottom:8px; font-size:10.5px; padding:7px 8px; max-width:58vw; }
+  .legend { font-size:10.5px; padding:7px 8px; }
   .sort-row { grid-template-columns:1fr; }
   .tag-note { font-size:10.5px; padding:7px 8px; }
   .leaflet-top.leaflet-left { top:88px; }
@@ -103,14 +104,6 @@ body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-sys
         <button id="headerToggle" class="header-toggle" type="button" aria-expanded="false">補足を表示</button>
       </div>
       <p id="headerSub" class="header-subtitle is-collapsed">現在稼働しているウイスキー蒸溜所、クラフトジン蒸留所、両方を造る拠点を一覧化しています。建設中・計画中・研究系は除外し、見学可否は別タグで管理しています。見学情報は、常設見学、予約制、イベント開催時のみ、見学情報未確認などを区別して表示しています。検索、種別、地域、見学可否、並び替えに対応しています。</p>
-    </div>
-    <div class="legend">
-      <div class="legend-title">凡例</div>
-      <div class="legend-row"><span class="dot" style="background:#2563eb;"></span>ウイスキー</div>
-      <div class="legend-row"><span class="dot" style="background:#059669;"></span>クラフトジン</div>
-      <div class="legend-row"><span class="dot" style="background:#7c3aed;"></span>両方</div>
-      <div class="legend-row"><span class="dot" style="background:#98a2b3;"></span>見学情報未確認 / 不可</div>
-      <div class="legend-row"><span class="badge-chip">見学可</span><span class="badge-chip">予約制</span><span class="badge-chip">イベント開催時のみ</span></div>
     </div>
   </div>
   <aside class="panel">
@@ -147,6 +140,14 @@ body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-sys
       </div>
       <div class="summary" id="summary"></div>
       <div class="tag-note">見学タグの目安: 予約制 = 事前申込で見学可 / 見学可 = 比較的行きやすい / イベント開催時のみ = 常設ではなく開催日に限る / 見学情報未確認 = 公開導線を確認できず / 現在見学受付なし = 蒸溜所は稼働中だが見学停止中</div>
+      <div class="legend panel-legend">
+        <div class="legend-title">凡例</div>
+        <div class="legend-row"><span class="dot" style="background:#2563eb;"></span>ウイスキー</div>
+        <div class="legend-row"><span class="dot" style="background:#059669;"></span>クラフトジン</div>
+        <div class="legend-row"><span class="dot" style="background:#7c3aed;"></span>両方</div>
+        <div class="legend-row"><span class="dot" style="background:#98a2b3;"></span>見学情報未確認 / 不可</div>
+        <div class="legend-row"><span class="badge-chip">見学可</span><span class="badge-chip">予約制</span><span class="badge-chip">イベント開催時のみ</span></div>
+      </div>
     </div>
     <div class="list" id="list"></div>
   </aside>
@@ -204,7 +205,7 @@ function popupHtml(item) {
       <div><b>代表銘柄：</b>${item.brands.join(' / ')}</div>
       <div><b>特徴：</b>${item.note}</div>
       <div><b>情報ソース：</b>${item.source_label}</div>
-      <div style="margin-top:8px;"><a href="${item.url}" target="_blank" rel="noopener noreferrer">公式ページを開く</a></div>
+      <div style="margin-top:8px; display:flex; gap:12px; flex-wrap:wrap;"><a href="${item.url}" target="_blank" rel="noopener noreferrer">公式ページを開く</a><a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a></div>
     </div>
   `;
 }
@@ -282,7 +283,7 @@ function renderList(items) {
       <div class="brands"><b>代表銘柄：</b>${item.brands.join(' / ')}</div>
       <div class="note"><b>特徴：</b>${item.note}</div>
       <div class="source-note"><b>情報ソース：</b>${item.source_label}</div>
-      <div class="tour"><b>公式ページ：</b> <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.url}</a></div>
+      <div class="tour"><b>公式ページ：</b> <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.url}</a><br><b>地図：</b> <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a></div>
     </article>
   `).join('');
   list.querySelectorAll('.card').forEach(card => {
