@@ -1,0 +1,16 @@
+[
+  {
+    "name": "丹沢蒸溜所",
+    "type": "whisky",
+    "status": "B",
+    "review_state": "要監査",
+    "note": "神奈川県の有力未収載候補"
+  },
+  {
+    "name": "湘南蒸溜所",
+    "type": "whisky",
+    "status": "B",
+    "review_state": "要監査",
+    "note": "神奈川県の有力未収載候補"
+  }
+]
