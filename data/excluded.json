@@ -7,5 +7,194 @@
     "source_level": "未設定",
     "review_note": "このファイルは将来の除外台帳用の雛形です。実データ登録時はこの行を削除してください。",
     "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-071",
+    "name": "富良野蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-072",
+    "name": "十勝蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-073",
+    "name": "Taiki Cosmic Glen Distillery",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-074",
+    "name": "千歳蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-075",
+    "name": "苫小牧蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-076",
+    "name": "当別蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-077",
+    "name": "札幌酒精工業 札幌工場",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-078",
+    "name": "忍蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-079",
+    "name": "大谷妙高蒸溜所（仮称）",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-080",
+    "name": "南アルプスワインアンドビバレッジ 笛吹工場",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-081",
+    "name": "韮崎御勅使蒸留所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-082",
+    "name": "富士かぐや蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-083",
+    "name": "養老蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-084",
+    "name": "京都みやこ蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-085",
+    "name": "藩蔵屋敷 北新地CO・LABO",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-086",
+    "name": "三国蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-087",
+    "name": "倉吉蒸溜所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-088",
+    "name": "SAKURAO DISTILLERY FOREST SITE",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-089",
+    "name": "喜多屋",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-090",
+    "name": "山都蒸留所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-091",
+    "name": "横川蒸留所",
+    "type": "whisky",
+    "excluded_reason": "準備中または詳細不明",
+    "source_level": "JWIC",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "last_checked": "2026-03-29"
   }
 ]
