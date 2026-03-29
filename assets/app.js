@@ -259,9 +259,14 @@ function bindUI(){
 
   const panel=document.getElementById('sidePanel');
   const mobileFilterToggle=document.getElementById('mobileFilterToggle');
+  const filterBox=document.getElementById('filterBox');
   mobileFilterToggle.addEventListener('click',()=>{
     panel.classList.toggle('filter-open');
-    mobileFilterToggle.textContent=panel.classList.contains('filter-open')?'絞り込みを閉じる':'絞り込みを開く';
+    const isOpen = panel.classList.contains('filter-open');
+    if(window.innerWidth < 960){
+      filterBox.open = isOpen;
+    }
+    mobileFilterToggle.textContent=isOpen?'絞り込みを閉じる':'絞り込みを開く';
   });
 
   map.on('click',()=>{ if(window.innerWidth < 960){ panel.scrollIntoView({behavior:'smooth', block:'start'}); }});
@@ -270,3 +275,14 @@ fetch(DISTILLERIES_URL)
   .then(r=>{ if(!r.ok) throw new Error(`distilleries.json: ${r.status}`); return r.json(); })
   .then(items=>{ distilleries=items; bindUI(); applyQuickPreset('all'); })
   .catch(err=>{ document.getElementById('list').innerHTML=`<div class="empty">データの読み込みに失敗しました。<br>${err.message}</div>`; console.error(err); });
+
+window.addEventListener('resize', ()=>{
+  const panel=document.getElementById('sidePanel');
+  const mobileFilterToggle=document.getElementById('mobileFilterToggle');
+  const filterBox=document.getElementById('filterBox');
+  if(window.innerWidth >= 960){
+    panel.classList.remove('filter-open');
+    filterBox.open = false;
+    mobileFilterToggle.textContent='絞り込みを開く';
+  }
+});

@@ -41,7 +41,7 @@
         </div>
       </div>
       <details class="filter-box" id="filterBox">
-        <summary>絞り込み・並び替え・凡例・補足を見る</summary>
+        <summary id="filterSummary">絞り込み・並び替え・凡例・補足を見る</summary>
         <div class="filter-body">
           <div class="sort-row">
             <select id="regionSelect" class="region-select">
@@ -60,12 +60,17 @@
               <option value="region">並び替え: 地域順</option>
             </select>
           </div>
-          <div class="tag-note">クイックフィルターで「すべて / ウイスキー / ジン / その他スピリッツ」を切り替えられます。複数種の蒸留所は、地図ピンが分割色で表示されます。</div>
+          <div class="tag-note">クイックフィルターは表示対象の切り替えです。凡例は、地図ピンの色と蒸留所の状態の見方だけに絞っています。</div>
           <div class="legend">
             <div class="legend-title">凡例</div>
-            <div class="legend-row"><span class="badge-chip">すべて</span><span class="badge-chip">ウイスキー</span><span class="badge-chip">ジン</span><span class="badge-chip">その他スピリッツ</span></div>
+            <div class="legend-row"><span class="dot" style="background:#2563eb;"></span>ウイスキー主体</div>
+            <div class="legend-row"><span class="dot" style="background:#059669;"></span>ジン主体</div>
+            <div class="legend-row"><span class="dot" style="background:#9333ea;"></span>ブランデー主体</div>
+            <div class="legend-row"><span class="dot" style="background:#dc2626;"></span>ラム主体</div>
+            <div class="legend-row"><span class="dot" style="background:#0891b2;"></span>ウォッカ主体</div>
+            <div class="legend-row"><span class="dot" style="background:conic-gradient(#2563eb 0 50%, #059669 50% 100%); border:1px solid #cbd5e1;"></span>複数種は分割色</div>
             <div class="legend-row"><span class="dot" style="background:#98a2b3;"></span>準備中または詳細不明</div>
-            <div class="legend-row"><span class="badge-chip">見学可</span></div>
+            <div class="legend-row"><span class="badge-chip">見学できる蒸留所のみ</span>は上部チェックで絞り込み</div>
           </div>
         </div>
       </details>
