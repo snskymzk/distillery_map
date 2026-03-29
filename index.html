@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>日本のウイスキー蒸溜所・クラフトジン蒸留所マップ</title>
+<title>日本の蒸留所マップ</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
 <link rel="stylesheet" href="./assets/app.css">
@@ -14,30 +14,31 @@
     <div id="map"></div>
     <div class="header-card" id="headerCard">
       <div class="header-main">
-        <h1>日本のウイスキー蒸溜所・クラフトジン蒸留所マップ</h1>
+        <h1>日本の蒸留所マップ</h1>
         <button id="headerToggle" class="header-toggle" type="button" aria-expanded="false">補足を表示</button>
       </div>
-      <p id="headerSub" class="header-subtitle is-collapsed">現在稼働しているウイスキー蒸溜所、クラフトジン蒸留所、両方を造る拠点を一覧化しています。建設中・計画中・研究系は除外し、見学可否は別タグで管理しています。未収載候補表示モードでは、監査中の候補をオレンジの候補表示として確認できます。候補データは candidates.json で管理し、監査状態や次の対応を記録します。今回、JWIC一覧を母集団として重複排除のうえ初期候補を追加しました。</p>
+      <p id="headerSub" class="header-subtitle is-collapsed">JWIC掲載の蒸留所を基準レイヤーとして採用し、通常掲載と「準備中または詳細不明」を分けて扱います。加えて、独自調査で把握したA相当の蒸留所も掲載します。種別はウイスキー、ジン、ブランデー、ラム、ウォッカの複数選択に対応する構造へ全面リファクタリングしました。</p>
     </div>
   </div>
   <aside class="panel">
     <div class="panel-top">
       <h2 class="panel-title">一覧とフィルター</h2>
       <div class="primary-row">
-        <input id="searchInput" class="search" type="search" placeholder="蒸溜所名・所在地・銘柄で検索">
+        <input id="searchInput" class="search" type="search" placeholder="蒸留所名・所在地・銘柄で検索">
         <div class="compact-row">
-          <label class="checkbox"><input type="checkbox" id="visitableOnly">見学できる蒸溜所のみ</label>
-          <label class="checkbox"><input type="checkbox" id="candidateMode">未収載候補も表示</label>
+          <label class="checkbox"><input type="checkbox" id="visitableOnly">見学できる蒸留所のみ</label>
+          <label class="checkbox"><input type="checkbox" id="preparingMode">準備中・詳細不明も表示</label>
         </div>
       </div>
       <details class="filter-box" id="filterBox">
         <summary>絞り込み・並び替え・凡例・補足を見る</summary>
         <div class="filter-body">
-          <div class="filter-row" id="typeFilters">
-            <button class="pill active" data-type="all">すべて</button>
-            <button class="pill" data-type="whisky">ウイスキー</button>
-            <button class="pill" data-type="gin">クラフトジン</button>
-            <button class="pill" data-type="both">両方</button>
+          <div class="type-grid">
+            <label class="type-option"><input class="type-check" data-type="whisky" type="checkbox" checked>ウイスキー</label>
+            <label class="type-option"><input class="type-check" data-type="gin" type="checkbox" checked>ジン</label>
+            <label class="type-option"><input class="type-check" data-type="brandy" type="checkbox" checked>ブランデー</label>
+            <label class="type-option"><input class="type-check" data-type="rum" type="checkbox" checked>ラム</label>
+            <label class="type-option"><input class="type-check" data-type="vodka" type="checkbox" checked>ウォッカ</label>
           </div>
           <div class="sort-row">
             <select id="regionSelect" class="region-select">
@@ -53,20 +54,26 @@
             </select>
             <select id="sortSelect" class="sort-select">
               <option value="name">並び替え: 名称順</option>
-              <option value="pref">並び替え: 地域順</option>
-              <option value="visit">並び替え: 見学しやすさ順</option>
-              <option value="type">並び替え: 種別順</option>
+              <option value="region">並び替え: 地域順</option>
+              <option value="status">並び替え: ステータス順</option>
+              <option value="visit">並び替え: 見学順</option>
             </select>
           </div>
-          <div class="tag-note">見学タグの目安: 予約制 = 事前申込で見学可 / 見学可 = 比較的行きやすい / イベント開催時のみ = 常設ではなく開催日に限る / 見学情報未確認 = 公開導線を確認できず / 現在見学受付なし = 蒸溜所は稼働中だが見学停止中 / 未収載候補 = 監査中の候補</div>
+          <select id="jwicMode" class="jwic-select">
+            <option value="all">JWIC / 独自: すべて</option>
+            <option value="jwic_only">JWIC掲載のみ</option>
+            <option value="independent_only">独自掲載のみ</option>
+          </select>
+          <div class="tag-note">凡例の考え方: 通常のJWIC掲載蒸留所と、JWICで「準備中または詳細不明」とされる蒸留所を分けて扱います。独自掲載はJWIC外でもA相当と判断した蒸留所です。</div>
           <div class="legend">
             <div class="legend-title">凡例</div>
             <div class="legend-row"><span class="dot" style="background:#2563eb;"></span>ウイスキー</div>
-            <div class="legend-row"><span class="dot" style="background:#059669;"></span>クラフトジン</div>
-            <div class="legend-row"><span class="dot" style="background:#7c3aed;"></span>両方</div>
-            <div class="legend-row"><span class="dot" style="background:#d97706;"></span>未収載候補</div>
-            <div class="legend-row"><span class="dot" style="background:#98a2b3;"></span>見学情報未確認 / 不可</div>
-            <div class="legend-row"><span class="badge-chip">見学可</span><span class="badge-chip">予約制</span><span class="badge-chip">イベント開催時のみ</span></div>
+            <div class="legend-row"><span class="dot" style="background:#059669;"></span>ジン</div>
+            <div class="legend-row"><span class="dot" style="background:#9333ea;"></span>ブランデー</div>
+            <div class="legend-row"><span class="dot" style="background:#dc2626;"></span>ラム</div>
+            <div class="legend-row"><span class="dot" style="background:#0891b2;"></span>ウォッカ</div>
+            <div class="legend-row"><span class="dot" style="background:#98a2b3;"></span>JWIC: 準備中または詳細不明</div>
+            <div class="legend-row"><span class="badge-chip">JWIC</span><span class="badge-chip">独自</span><span class="badge-chip">見学可</span></div>
           </div>
         </div>
       </details>
