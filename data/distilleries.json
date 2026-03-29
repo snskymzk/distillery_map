@@ -1598,7 +1598,10 @@
     "region": "北海道",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1608,7 +1611,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "北海道に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1630,7 +1633,10 @@
     "region": "北海道",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1640,7 +1646,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "北海道に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1661,7 +1667,10 @@
     "region": "北海道",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1671,7 +1680,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "北海道に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1692,7 +1701,10 @@
     "region": "北海道",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1702,7 +1714,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "北海道に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1724,7 +1736,10 @@
     "region": "東北",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1755,7 +1770,10 @@
     "region": "東北",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1765,7 +1783,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "山形県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1786,7 +1804,10 @@
     "region": "東北",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1796,7 +1817,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "福島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1817,7 +1838,10 @@
     "region": "東北",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1827,7 +1851,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "福島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1849,7 +1873,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1859,7 +1886,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "茨城県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1881,7 +1908,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1891,7 +1921,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "茨城県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1913,7 +1943,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1945,7 +1978,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1955,7 +1991,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "栃木県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -1976,7 +2012,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -1986,7 +2025,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "群馬県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2007,7 +2046,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2017,7 +2059,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "群馬県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2038,7 +2080,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2048,7 +2093,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "埼玉県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2069,7 +2114,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2079,7 +2127,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "埼玉県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2100,7 +2148,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2110,7 +2161,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "埼玉県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2133,7 +2184,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2143,7 +2197,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "千葉県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2164,7 +2218,10 @@
     "region": "関東",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2174,7 +2231,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "千葉県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2195,7 +2252,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2205,7 +2265,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "新潟県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2262,7 +2322,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2272,7 +2335,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "新潟県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2294,7 +2357,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2304,7 +2370,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "石川県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2325,7 +2391,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2335,7 +2404,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "山梨県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2356,7 +2425,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2366,7 +2438,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "山梨県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2388,7 +2460,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2398,7 +2473,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "山梨県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2420,7 +2495,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2430,7 +2508,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "長野県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2452,7 +2530,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2462,7 +2543,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "長野県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2483,7 +2564,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2493,7 +2577,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "長野県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2514,7 +2598,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2524,7 +2611,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "岐阜県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2546,7 +2633,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2556,7 +2646,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "静岡県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2577,7 +2667,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2587,7 +2680,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "静岡県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2609,7 +2702,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2619,7 +2715,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "愛知県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2640,7 +2736,10 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2650,7 +2749,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "愛知県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2705,7 +2804,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2715,7 +2817,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "滋賀県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2736,7 +2838,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2746,7 +2851,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "大阪府に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2769,7 +2874,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2779,7 +2887,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "兵庫県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2801,7 +2909,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2811,7 +2922,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "兵庫県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2834,7 +2945,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2844,7 +2958,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "兵庫県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2865,7 +2979,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2875,7 +2992,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "兵庫県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2897,7 +3014,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2907,7 +3027,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "兵庫県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2928,7 +3048,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2938,7 +3061,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "兵庫県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2959,7 +3082,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2969,7 +3095,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "奈良県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2991,7 +3117,10 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3001,7 +3130,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "和歌山県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3023,7 +3152,10 @@
     "region": "中国",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3033,7 +3165,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "鳥取県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3055,7 +3187,10 @@
     "region": "中国",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3065,7 +3200,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "岡山県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3087,7 +3222,10 @@
     "region": "四国",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3097,7 +3235,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "徳島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3119,7 +3257,10 @@
     "region": "四国",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3129,7 +3270,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "愛媛県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3150,7 +3291,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3160,7 +3304,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "福岡県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3182,7 +3326,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3192,7 +3339,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "福岡県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3213,7 +3360,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3223,7 +3373,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "福岡県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3244,7 +3394,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3254,7 +3407,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "長崎県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3276,7 +3429,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3286,7 +3442,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "長崎県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3307,7 +3463,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3317,7 +3476,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "熊本県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3338,7 +3497,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3348,7 +3510,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "熊本県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3369,7 +3531,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3379,7 +3544,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "熊本県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3400,7 +3565,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3410,7 +3578,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "熊本県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3431,7 +3599,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3441,7 +3612,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "宮崎県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3462,7 +3633,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3472,7 +3646,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "鹿児島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3493,7 +3667,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3503,7 +3680,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "鹿児島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3524,7 +3701,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3534,7 +3714,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "鹿児島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3555,7 +3735,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3565,7 +3748,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "鹿児島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3587,7 +3770,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3597,7 +3783,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "鹿児島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3618,7 +3804,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3628,7 +3817,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "鹿児島県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3650,7 +3839,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3660,7 +3852,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "沖縄県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3681,7 +3873,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3691,7 +3886,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "沖縄県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3713,7 +3908,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3723,7 +3921,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "沖縄県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3746,7 +3944,10 @@
     "region": "九州",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ニューポット",
+      "ニューメイクスピリッツ"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -3756,7 +3957,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "沖縄県に位置する蒸留所。地域資源や環境を生かした蒸留に取り組む。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -3777,7 +3978,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -3808,7 +4011,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -3839,7 +4044,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -3870,7 +4077,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -3901,7 +4110,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -3932,7 +4143,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -3964,7 +4177,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -3996,7 +4211,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4027,7 +4244,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4060,7 +4279,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4093,7 +4314,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4124,7 +4347,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4155,7 +4380,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4186,7 +4413,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4217,7 +4446,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4249,7 +4480,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4280,7 +4513,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4311,7 +4546,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4342,7 +4579,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4374,7 +4613,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
@@ -4405,7 +4646,9 @@
     "region": "",
     "lat": null,
     "lng": null,
-    "brands": [],
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
     "official_url": "",
     "reference_url": "",
     "visitable": false,
