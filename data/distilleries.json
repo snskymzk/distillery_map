@@ -1587,9 +1587,10 @@
     "review_state": "収載反映済み",
     "candidate_status": "A",
     "inclusion_decision": "地図掲載",
-    "review_note": "",
+    "review_note": "/ JWIC準備中から独自調査によりA昇格",
     "next_action": "",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-29",
+    "re_evaluated": true
   },
   {
     "id": "cand-kanagawa-shonan",
@@ -4470,7 +4471,7 @@
     "visitable": false,
     "visit_label": "見学情報未確認",
     "operation_status": "準備中または詳細不明",
-    "record_status": "preparing_or_unclear",
+    "record_status": "candidate",
     "is_jwic_listed": true,
     "jwic_status": "準備中または詳細不明",
     "discovery_source": "JWIC",
@@ -4478,11 +4479,12 @@
     "source_label": "JWIC",
     "note": "準備中または詳細不明",
     "review_state": "除外整理済み",
-    "candidate_status": "D",
+    "candidate_status": "B+",
     "inclusion_decision": "主地図では別扱い",
-    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。",
+    "review_note": "JWICの『準備中または詳細不明』区分に掲載。現時点では主地図から除外。 / JWIC準備中からB+再評価",
     "next_action": "",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-29",
+    "re_evaluated": true
   },
   {
     "id": "excl-jwic-seed-090",
