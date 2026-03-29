@@ -65,7 +65,7 @@ function popupHtml(item){
         <div><b>所在地：</b>${item.location||'未設定'}</div>
     ${statusRow}
     <div><b>操業状態：</b>${item.operation_status||'未設定'}</div>
-    <div><b>見学情報：</b>${((item.visit_label||'')==='見学情報未確認' ? '未確認' : ((item.visit_label||'') || '未設定'))}</div>
+    <div><b>見学：</b>${((item.visit_label||'')==='見学情報未確認' ? '未確認' : ((item.visit_label||'') || '未設定'))}</div>
     ${(item.brands && item.brands.length)?`<div><b>代表銘柄：</b>${item.brands.join(' / ')}</div>`:''}
     ${item.note?`<div><b>特徴：</b>${item.note}</div>`:''}
         <div><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
@@ -169,7 +169,6 @@ function renderList(items){
   list.innerHTML=items.map(item=>`<article class="card" data-name="${item.name}">
     <h3>${item.name}</h3>
     <div class="meta">
-      <span class="badge">${(item.types||[]).length>1?'複数種':typesLabel(item)}</span>
       <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${((item.visit_label||'')==='見学情報未確認' ? '未確認' : ((item.visit_label||'') || '未設定'))}</span>
       ${item.record_status==='preparing_or_unclear' ? `<span class="badge prep-badge">準備中・詳細不明</span>` : ''}
           </div>

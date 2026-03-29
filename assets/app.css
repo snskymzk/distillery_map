@@ -55,3 +55,7 @@ details.filter-box{margin-top:10px;border:1px solid var(--border);border-radius:
 
 .badge:empty{display:none}
 .meta > *:empty{display:none}
+
+
+.meta{align-items:center}
+.multi-type-row{margin-top:2px}
