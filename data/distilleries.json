@@ -188,9 +188,9 @@
     "lat": 39.0434,
     "lng": 139.9228,
     "brands": [
-      "YUZA シングルモルト",
-      "YUZA 2023",
-      "YUZA ミズナラ"
+      "YUZA シングルモルト ジャパニーズウイスキー YUZA",
+      "YUZA ブレンデッド ジャパニーズウイスキー シグネチャー・ブレンド",
+      "YUZA ブレンデッド ジャパニーズウイスキー クラシカル・ブレンド"
     ],
     "official_url": "https://yuza-disty.jp/",
     "reference_url": "https://yuza-disty.jp/",
@@ -201,7 +201,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "鳥海山の伏流水を活かす蒸溜所",
+    "note": "ハウススタイルは「クリーン、スウィート＆フルーティ」。鳥海山の伏流水を生かす蒸溜所。",
     "review_state": "収載反映済み",
     "candidate_status": "A",
     "inclusion_decision": "地図掲載",
@@ -433,9 +433,9 @@
     "lat": 35.3768,
     "lng": 136.2648,
     "brands": [
-      "AMAHAGAN",
-      "シングルモルト長濱",
-      "長濱 THE FIRST BATCH"
+      "AMAHAGAN World Malt Basic Blend",
+      "AMAHAGAN World Malt Mizunara Wood Finish",
+      "シングルモルト長濱 THE EIGHTH BATCH"
     ],
     "official_url": "https://www.romanbeer.com/viewing/",
     "reference_url": "https://www.romanbeer.com/viewing/",
@@ -446,7 +446,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "小規模蒸溜所",
+    "note": "日本最小規模クラスの蒸溜所として知られ、シングルモルト長濱とAMAHAGANを展開。",
     "review_state": "収載反映済み",
     "candidate_status": "A",
     "inclusion_decision": "地図掲載",
@@ -609,9 +609,9 @@
     "lat": 36.3258,
     "lng": 138.4234,
     "brands": [
+      "KOMORO New Make",
       "KOMORO IPA CASK FINISH",
-      "KOMORO Wine Cask Reserve",
-      "KOMORO New Make"
+      "KOMORO Wine Cask Reserve"
     ],
     "official_url": "https://komorodistillery.com/visit/",
     "reference_url": "https://komorodistillery.com/visit/",
@@ -622,7 +622,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "製造ツアー・熟成庫見学・バーあり",
+    "note": "浅間山麓の清らかな水と世界的マスターブレンダーの知見を生かし、KOMOROブランドを育てる蒸留所。",
     "review_state": "収載反映済み",
     "candidate_status": "A",
     "inclusion_decision": "地図掲載",
@@ -1038,8 +1038,8 @@
     "lng": 138.4446,
     "brands": [
       "NOZAWA GIN",
-      "IWAI GIN",
-      "CLASSIC DRY GIN"
+      "CLASSIC DRY GIN",
+      "IWAI GIN"
     ],
     "official_url": "https://nozawaonsendistillery.jp/",
     "reference_url": "https://nozawaonsendistillery.jp/",
@@ -1050,7 +1050,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "温泉地の蒸留所",
+    "note": "野沢温泉の湧水と地元ボタニカルを生かしてジンやウイスキーづくりに取り組む蒸留所。",
     "review_state": "収載反映済み",
     "candidate_status": "A",
     "inclusion_decision": "地図掲載",
@@ -2227,7 +2227,11 @@
     "region": "中部",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Pisces",
+      "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Capricorn",
+      "新潟亀田 ニューポット 2024 EDITION"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2237,7 +2241,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "新潟産原料による「MADE IN NIIGATA」のウイスキー造りを掲げる蒸溜所。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
@@ -2668,7 +2672,9 @@
     "region": "近畿",
     "lat": 35.0,
     "lng": 135.0,
-    "brands": [],
+    "brands": [
+      "ブレンデッドウイスキー 神路（KAMIJI）"
+    ],
     "official_url": "https://jwic.jp/distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
@@ -2678,7 +2684,7 @@
     "is_jwic_listed": true,
     "jwic_status": "通常",
     "discovery_source": "JWIC",
-    "note": "",
+    "note": "伊勢で蒸留したモルトウイスキーと長期熟成グレーンスピリッツをブレンドしたウイスキーを展開。",
     "review_state": "JWIC起点で未監査",
     "candidate_status": "C",
     "inclusion_decision": "未判定",
