@@ -1,0 +1,4 @@
+{
+  "deprecated": true,
+  "message": "v5以降は data/distilleries.json の record_status='preparing_or_unclear' を参照"
+}
