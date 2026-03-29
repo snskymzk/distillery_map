@@ -176,7 +176,7 @@ function renderList(items){
   list.innerHTML=items.map(item=>`<article class="card" data-name="${item.name}">
     <h3>${item.name}</h3>
     <div class="meta">
-      <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${((item.visit_label||'')==='見学情報未確認' ? '未確認' : ((item.visit_label||'') || '未設定'))}</span>
+      <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${normalizeVisitLabel(item.visit_label)}</span>
       ${item.record_status==='preparing_or_unclear' ? `<span class="badge prep-badge">準備中・詳細不明</span>` : ''}
           </div>
     <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
