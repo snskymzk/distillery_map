@@ -43,8 +43,8 @@ const cardMap=new Map();
 
 const state={search:'',region:'all',visitableOnly:false,preparingMode:'hide',jwicMode:'all',sort:'name',quickPreset:'all',types:{whisky:true,gin:true,brandy:true,rum:true,vodka:true}};
 
-function typesLabel(item){ return item.types_label || (item.types||[]).map(t=>TYPE_META[t]?.label||t).join(' / '); }
-function itemColor(item){ if(item.record_status==='preparing_or_unclear') return '#98a2b3'; const first=(item.types||[])[0]||'whisky'; return TYPE_META[first]?.color||'#2563eb'; }
+function typesLabel(item){ return item.types_label || (item.types||[]).map(t=> (TYPE_META[t] ? TYPE_META[t].label : t)).join(' / '); }
+function itemColor(item){ if(item.record_status==='preparing_or_unclear') return '#98a2b3'; const first=(item.types||[])[0]||'whisky'; return (TYPE_META[first] ? TYPE_META[first].color : '#2563eb'); }
 function markerBackground(types, preparing){
   if (preparing) return '#98a2b3';
   const arr=(types||[]).filter(t=>TYPE_META[t]);
@@ -55,7 +55,7 @@ function markerBackground(types, preparing){
   return `conic-gradient(${parts.join(', ')})`;
 }
 function renderTypeChips(types){
-  return (types||[]).map(t=>`<span class="type-chip"><span class="type-swatch" style="background:${TYPE_META[t]?.color||'#2563eb'}"></span>${TYPE_META[t]?.label||t}</span>`).join('');
+  return (types||[]).map(t=>`<span class="type-chip"><span class="type-swatch" style="background:${TYPE_META[t] ? TYPE_META[t].color : '#2563eb'}"></span>${TYPE_META[t] ? TYPE_META[t].label : t}</span>`).join('');
 }
 function popupHtml(item){
   const statusRow=item.record_status==='preparing_or_unclear'?`<div><b>JWIC区分：</b>${item.jwic_status||'準備中または詳細不明'}</div>`:'';
@@ -215,19 +215,19 @@ function applyQuickPreset(key){
 }
 function setHoveredName(name, hovered){
   const marker=markerMap.get(name);
-  if(marker && marker._icon){ marker._icon.querySelector('.marker-shell')?.classList.toggle('hovered', hovered); }
+  if(marker && marker._icon){ const shell = marker._icon.querySelector('.marker-shell'); if(shell){ shell.classList.toggle('hovered', hovered); } }
   const card=cardMap.get(name);
   if(card){ card.classList.toggle('hover-card', hovered); }
 }
 function setActiveName(name){
   if(currentActiveName && currentActiveName!==name){
     const oldMarker=markerMap.get(currentActiveName);
-    oldMarker?._icon?.querySelector('.marker-shell')?.classList.remove('active');
-    cardMap.get(currentActiveName)?.classList.remove('active-card');
+    if(oldMarker && oldMarker._icon){ const oldShell = oldMarker._icon.querySelector('.marker-shell'); if(oldShell){ oldShell.classList.remove('active'); } }
+    const oldCard = cardMap.get(currentActiveName); if(oldCard){ oldCard.classList.remove('active-card'); }
   }
   currentActiveName=name;
-  markerMap.get(name)?._icon?.querySelector('.marker-shell')?.classList.add('active');
-  cardMap.get(name)?.classList.add('active-card');
+  const newMarker = markerMap.get(name); if(newMarker && newMarker._icon){ const newShell = newMarker._icon.querySelector('.marker-shell'); if(newShell){ newShell.classList.add('active'); } }
+  const newCard = cardMap.get(name); if(newCard){ newCard.classList.add('active-card'); }
 }
 function bindUI(){
   const input=document.getElementById('searchInput');
