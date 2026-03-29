@@ -247,7 +247,6 @@ function bindUI(){
   document.getElementById('preparingMode').addEventListener('change',e=>{ state.preparingMode=e.target.checked?'show':'hide'; rerender(); });
   document.getElementById('sortSelect').addEventListener('change',e=>{ state.sort=e.target.value; rerender(); });
   document.getElementById('regionSelect').addEventListener('change',e=>{ state.region=e.target.value; rerender(); });
-  });
   document.querySelectorAll('.quick-pill').forEach(btn=>btn.addEventListener('click',()=>applyQuickPreset(btn.dataset.preset)));
 
   const headerCard=document.getElementById('headerCard');
@@ -269,5 +268,5 @@ function bindUI(){
 }
 fetch(DISTILLERIES_URL)
   .then(r=>{ if(!r.ok) throw new Error(`distilleries.json: ${r.status}`); return r.json(); })
-  .then(items=>{ distilleries=items; bindUI(); rerender(); })
+  .then(items=>{ distilleries=items; bindUI(); applyQuickPreset('all'); })
   .catch(err=>{ document.getElementById('list').innerHTML=`<div class="empty">データの読み込みに失敗しました。<br>${err.message}</div>`; console.error(err); });
