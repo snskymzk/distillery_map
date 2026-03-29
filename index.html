@@ -87,6 +87,12 @@ details.filter-box summary::-webkit-details-marker { display:none; }
   .tag-note { font-size:10.5px; padding:7px 8px; }
   .leaflet-top.leaflet-left { top:88px; }
 }
+
+@media (max-width:640px) {
+  .header-main { align-items:center; }
+  .header-card h1 { max-width:calc(100% - 104px); }
+}
+
 </style>
 </head>
 <body>
@@ -99,7 +105,6 @@ details.filter-box summary::-webkit-details-marker { display:none; }
         <button id="headerToggle" class="header-toggle" type="button" aria-expanded="false">補足を表示</button>
       </div>
       <p id="headerSub" class="header-subtitle is-collapsed">現在稼働しているウイスキー蒸溜所、クラフトジン蒸留所、両方を造る拠点を一覧化しています。建設中・計画中・研究系は除外し、見学可否は別タグで管理しています。見学情報は、常設見学、予約制、イベント開催時のみ、見学情報未確認などを区別して表示しています。検索、種別、地域、見学可否、並び替えに対応しています。</p>
-      <div class="share-panel">この地図は「今、実際に稼働している蒸溜所」を対象に整理しています。建設中・計画中・研究系は主地図から除外しています。</div>
     </div>
   </div>
   <aside class="panel">
