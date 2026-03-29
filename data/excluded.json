@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "schema-example-excluded",
+    "name": "記入例",
+    "type": "whisky",
+    "excluded_reason": "建設中 / 計画中 / 研究系 / 蒸溜所実体不明 など",
+    "source_level": "未設定",
+    "review_note": "このファイルは将来の除外台帳用の雛形です。実データ登録時はこの行を削除してください。",
+    "last_checked": "2026-03-29"
+  }
+]

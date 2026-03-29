@@ -901,5 +901,26 @@
     "region": "中部",
     "source_label": "公式SNS",
     "last_checked": "2026-03-29"
+  },
+  {
+    "name": "丹沢蒸溜所",
+    "type": "whisky",
+    "visitable": false,
+    "visit_label": "見学情報未確認",
+    "location": "神奈川県足柄上郡山北町中川822-1",
+    "lat": 35.4588,
+    "lng": 139.0565,
+    "brands": [
+      "丹沢 Blended Whisky Bourbon Barrel Finish The First.",
+      "丹沢 Blended Whisky Sherry Barrel Finish The First.",
+      "丹沢 Blended Whisky"
+    ],
+    "url": "https://tanzawa-distillery.com/index.html",
+    "note": "2024年1月に工場完成、2025年4月に初期リリースを展開する神奈川の蒸溜所",
+    "type_label": "ウイスキー",
+    "prefecture": "神奈川県",
+    "region": "関東",
+    "source_label": "公式サイト",
+    "last_checked": "2026-03-29"
   }
 ]

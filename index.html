@@ -17,10 +17,9 @@
         <h1>日本のウイスキー蒸溜所・クラフトジン蒸留所マップ</h1>
         <button id="headerToggle" class="header-toggle" type="button" aria-expanded="false">補足を表示</button>
       </div>
-      <p id="headerSub" class="header-subtitle is-collapsed">現在稼働しているウイスキー蒸溜所、クラフトジン蒸留所、両方を造る拠点を一覧化しています。建設中・計画中・研究系は除外し、見学可否は別タグで管理しています。見学情報は、常設見学、予約制、イベント開催時のみ、見学情報未確認などを区別して表示しています。検索、種別、地域、見学可否、並び替えに対応しています。</p>
+      <p id="headerSub" class="header-subtitle is-collapsed">現在稼働しているウイスキー蒸溜所、クラフトジン蒸留所、両方を造る拠点を一覧化しています。建設中・計画中・研究系は除外し、見学可否は別タグで管理しています。未収載候補表示モードでは、監査中の候補をオレンジの候補表示として確認できます。候補データは candidates.json で管理し、監査状態や次の対応を記録します。</p>
     </div>
   </div>
-
   <aside class="panel">
     <div class="panel-top">
       <h2 class="panel-title">一覧とフィルター</h2>
@@ -28,9 +27,9 @@
         <input id="searchInput" class="search" type="search" placeholder="蒸溜所名・所在地・銘柄で検索">
         <div class="compact-row">
           <label class="checkbox"><input type="checkbox" id="visitableOnly">見学できる蒸溜所のみ</label>
+          <label class="checkbox"><input type="checkbox" id="candidateMode">未収載候補も表示</label>
         </div>
       </div>
-
       <details class="filter-box" id="filterBox">
         <summary>絞り込み・並び替え・凡例・補足を見る</summary>
         <div class="filter-body">
@@ -40,7 +39,6 @@
             <button class="pill" data-type="gin">クラフトジン</button>
             <button class="pill" data-type="both">両方</button>
           </div>
-
           <div class="sort-row">
             <select id="regionSelect" class="region-select">
               <option value="all">地域: すべて</option>
@@ -60,27 +58,23 @@
               <option value="type">並び替え: 種別順</option>
             </select>
           </div>
-
-          <div class="tag-note">見学タグの目安: 予約制 = 事前申込で見学可 / 見学可 = 比較的行きやすい / イベント開催時のみ = 常設ではなく開催日に限る / 見学情報未確認 = 公開導線を確認できず / 現在見学受付なし = 蒸溜所は稼働中だが見学停止中</div>
-
+          <div class="tag-note">見学タグの目安: 予約制 = 事前申込で見学可 / 見学可 = 比較的行きやすい / イベント開催時のみ = 常設ではなく開催日に限る / 見学情報未確認 = 公開導線を確認できず / 現在見学受付なし = 蒸溜所は稼働中だが見学停止中 / 未収載候補 = 監査中の候補</div>
           <div class="legend">
             <div class="legend-title">凡例</div>
             <div class="legend-row"><span class="dot" style="background:#2563eb;"></span>ウイスキー</div>
             <div class="legend-row"><span class="dot" style="background:#059669;"></span>クラフトジン</div>
             <div class="legend-row"><span class="dot" style="background:#7c3aed;"></span>両方</div>
+            <div class="legend-row"><span class="dot" style="background:#d97706;"></span>未収載候補</div>
             <div class="legend-row"><span class="dot" style="background:#98a2b3;"></span>見学情報未確認 / 不可</div>
             <div class="legend-row"><span class="badge-chip">見学可</span><span class="badge-chip">予約制</span><span class="badge-chip">イベント開催時のみ</span></div>
           </div>
         </div>
       </details>
-
       <div class="summary" id="summary"></div>
     </div>
-
     <div class="list" id="list"></div>
   </aside>
 </div>
-
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <script src="./assets/app.js"></script>
