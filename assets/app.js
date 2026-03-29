@@ -69,10 +69,9 @@ function popupHtml(item){
     <div><b>見学情報：</b>${item.visit_label||'未設定'}</div>
     <div><b>代表銘柄：</b>${(item.brands||[]).join(' / ')||'未設定'}</div>
     <div><b>特徴：</b>${item.note||''}</div>
-    <div><b>情報ソース：</b>${item.source_label||item.source_level||'未設定'}</div>
-    <div><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
+        <div><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
     <div style="margin-top:8px; display:flex; gap:12px; flex-wrap:wrap;">
-      ${item.reference_url?`<a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">参照ページを開く</a>`:''}
+      ${item.reference_url?`<a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">公式サイトを見る</a>`:''}
       ${item.location?`<a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}
     </div></div>`;
 }
@@ -174,15 +173,15 @@ function renderList(items){
       <span class="badge">${(item.types||[]).length>1?'複数種':typesLabel(item)}</span>
       <span class="badge">${item.region||'未設定'}</span>
       <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${item.visit_label||'未設定'}</span>
-      <span class="badge ${item.record_status==='preparing_or_unclear'?'prep-badge':''}">${item.record_status==='preparing_or_unclear'?'準備中・詳細不明':'稼働中レイヤー'}</span>
+      <span class="badge ${item.record_status==='preparing_or_unclear'?'prep-badge':''}">${item.record_status==='preparing_or_unclear'?'準備中・詳細不明':'通常'}</span>
           </div>
     <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
     <div class="location"><b>所在地：</b>${item.location||'未設定'}</div>
     <div class="brands"><b>代表銘柄：</b>${(item.brands||[]).join(' / ')||'未設定'}</div>
     <div class="note"><b>特徴：</b>${item.note||''}</div>
-    <div class="source-note"><b>情報ソース：</b>${item.source_label||item.source_level||'未設定'}</div>
+    
     <div class="updated-note"><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
-    <div class="tour">${item.reference_url?`<b>参照ページ：</b> <a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">${item.reference_url}</a><br>`:''}${item.location?`<b>地図：</b> <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}</div>
+    <div class="tour">${item.reference_url?`<b>公式サイト：</b> <a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">${item.reference_url}</a><br>`:''}${item.location?`<b>地図：</b> <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}</div>
   </article>`).join('');
   list.querySelectorAll('.card').forEach(card=>{
     const name=card.getAttribute('data-name');
