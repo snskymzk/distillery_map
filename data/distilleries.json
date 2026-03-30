@@ -2674,7 +2674,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://fugaku-distillery.com/",
+    "official_url": "https://sasakawa-whisky.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2694,8 +2694,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト再確認必要（暫定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-025",
@@ -3642,7 +3642,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://umebijin.com",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3662,8 +3662,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-050",
@@ -3680,7 +3680,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.nikka.com",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3700,8 +3700,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-051",
@@ -3719,7 +3719,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://asakuradistillery.com",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3739,8 +3739,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-052",
@@ -3757,7 +3757,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://shindo-lab.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3777,8 +3777,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-053",
@@ -3795,7 +3795,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.ganjo.jp/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3815,8 +3815,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-054",
@@ -3872,7 +3872,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://yamagadistillery.co.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3892,8 +3892,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-056",
@@ -3910,7 +3910,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://ohishi-shuzohjyo.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3930,8 +3930,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-057",
@@ -3948,7 +3948,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://joraku.co.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3968,8 +3968,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-058",
@@ -3986,7 +3986,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.hakutake.co.jp/tano-distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4006,8 +4006,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-059",
@@ -4063,7 +4063,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://tensei-shuzo.com",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4083,8 +4083,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-061",
@@ -4101,7 +4101,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.suntory.co.jp/osumidistillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4121,8 +4121,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-062",
@@ -4178,7 +4178,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://komakijozo.co.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4198,8 +4198,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-064",
@@ -4217,7 +4217,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.nishi-shuzo.co.jp/ontake/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4237,8 +4237,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-065",
@@ -4255,7 +4255,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://hinokamidistillery.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4275,8 +4275,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-066",
@@ -4294,7 +4294,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.helios-syuzo.co.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4314,8 +4314,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-067",
@@ -4332,7 +4332,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://shinzato-shuzo.co.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4352,8 +4352,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-068",
@@ -4371,7 +4371,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://kumesen.co.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -4391,8 +4391,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユーザー提供URL確認済"
   },
   {
     "id": "cand-jwic-seed-069",
