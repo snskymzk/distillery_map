@@ -9,8 +9,8 @@
     "location": "大阪府三島郡島本町山崎5-2-1",
     "prefecture": "大阪府",
     "region": "近畿",
-    "lat": 34.8926,
-    "lng": 135.6757,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルモルト山崎",
       "山崎12年",
@@ -33,12 +33,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.8926,135.6757",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "https://maps.app.goo.gl/UGQJBRUBYQApGqrPA",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E4%B8%89%E5%B3%B6%E9%83%A1%E5%B3%B6%E6%9C%AC%E7%94%BA%E5%B1%B1%E5%B4%8E5-2-1",
+    "legacy_lat": 34.8926,
+    "legacy_lng": 135.6757,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -50,8 +52,8 @@
     "location": "山梨県北杜市白州町鳥原2913-1",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": 35.8211,
-    "lng": 138.3362,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルモルト白州",
       "白州12年",
@@ -74,12 +76,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.8211,138.3362",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "https://maps.app.goo.gl/Q3mGzQhVYyP9rG5d8",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8C%97%E6%9D%9C%E5%B8%82%E7%99%BD%E5%B7%9E%E7%94%BA%E9%B3%A5%E5%8E%9F2913-1",
+    "legacy_lat": 35.8211,
+    "legacy_lng": 138.3362,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -91,8 +95,8 @@
     "location": "北海道余市郡余市町黒川町7-6",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.1979,
-    "lng": 140.785,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルモルト余市",
       "余市10年",
@@ -115,12 +119,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.1979,140.785",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "https://maps.app.goo.gl/f8ZxYwP3o8c5q9Fq7",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E9%BB%92%E5%B7%9D%E7%94%BA7-6",
+    "legacy_lat": 43.1979,
+    "legacy_lng": 140.785,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -133,8 +139,8 @@
     "location": "宮城県仙台市青葉区ニッカ1",
     "prefecture": "宮城県",
     "region": "東北",
-    "lat": 38.3178,
-    "lng": 140.6897,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルモルト宮城峡",
       "ニッカ カフェグレーン",
@@ -157,12 +163,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38.3178,140.6897",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "https://maps.app.goo.gl/8t1uW6XnV1v9n9oL6",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E3%83%8B%E3%83%83%E3%82%AB1",
+    "legacy_lat": 38.3178,
+    "legacy_lng": 140.6897,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -174,8 +182,8 @@
     "location": "福島県郡山市笹川1-178",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": 37.4006,
-    "lng": 140.3586,
+    "lat": null,
+    "lng": null,
     "brands": [
       "YAMAZAKURA 安積",
       "安積 ザ・ファースト",
@@ -198,12 +206,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.4006,140.3586",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://maps.app.goo.gl/DM8Q9CKeBnEscZE97",
+    "legacy_lat": 37.4006,
+    "legacy_lng": 140.3586,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -215,8 +226,8 @@
     "location": "山形県飽海郡遊佐町吉出金俣239-5",
     "prefecture": "山形県",
     "region": "東北",
-    "lat": 39.0434,
-    "lng": 139.9228,
+    "lat": null,
+    "lng": null,
     "brands": [
       "YUZA シングルモルト ジャパニーズウイスキー YUZA",
       "YUZA ブレンデッド ジャパニーズウイスキー シグネチャー・ブレンド",
@@ -239,12 +250,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=39.0434,139.9228",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E5%90%89%E5%87%BA%E9%87%91%E4%BF%A3239-5",
+    "legacy_lat": 39.0434,
+    "legacy_lng": 139.9228,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -256,8 +269,8 @@
     "location": "静岡県御殿場市柴怒田970",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": 35.3014,
-    "lng": 138.9329,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルグレーンジャパニーズウイスキー富士",
       "富士シングルモルト",
@@ -280,12 +293,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.3014,138.9329",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%BE%A1%E6%AE%BF%E5%A0%B4%E5%B8%82%E6%9F%B4%E6%80%92%E7%94%B0970",
+    "legacy_lat": 35.3014,
+    "legacy_lng": 138.9329,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -297,8 +312,8 @@
     "location": "長野県上伊那郡宮田村4752-31",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 35.7507,
-    "lng": 137.9381,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルモルト駒ヶ岳",
       "岩井トラディション",
@@ -321,12 +336,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7507,137.9381",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "https://maps.app.goo.gl/c4LqAb1A7pEWDnvW6",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E4%B8%8A%E4%BC%8A%E9%82%A3%E9%83%A1%E5%AE%AE%E7%94%B0%E6%9D%914752-31",
+    "legacy_lat": 35.7507,
+    "legacy_lng": 137.9381,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -338,8 +355,8 @@
     "location": "埼玉県秩父市みどりが丘49",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": 35.9906,
-    "lng": 139.0901,
+    "lat": null,
+    "lng": null,
     "brands": [
       "イチローズモルト 秩父",
       "ON THE WAY",
@@ -362,12 +379,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "ユーザー精査反映",
     "official_url_type": "distillery_official",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.9906,139.0901",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8C%E4%B8%9849",
+    "legacy_lat": 35.9906,
+    "legacy_lng": 139.0901,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -379,8 +399,8 @@
     "location": "北海道厚岸郡厚岸町宮園4-109-2",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.0416,
-    "lng": 144.8465,
+    "lat": null,
+    "lng": null,
     "brands": [
       "厚岸 シングルモルト",
       "厚岸 ブレンデッドウイスキー",
@@ -403,12 +423,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.0416,144.8465",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%8E%9A%E5%B2%B8%E9%83%A1%E5%8E%9A%E5%B2%B8%E7%94%BA%E5%AE%AE%E5%9C%924-109-2",
+    "legacy_lat": 43.0416,
+    "legacy_lng": 144.8465,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -420,8 +443,8 @@
     "location": "静岡県静岡市葵区落合555",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": 35.0315,
-    "lng": 138.3799,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルモルト静岡 ポットスチルK",
       "シングルモルト静岡 ポットスチルW",
@@ -444,12 +467,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.0315,138.3799",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%E8%90%BD%E5%90%88555",
+    "legacy_lat": 35.0315,
+    "legacy_lng": 138.3799,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -461,8 +486,8 @@
     "location": "富山県砺波市三郎丸208",
     "prefecture": "富山県",
     "region": "中部",
-    "lat": 36.6463,
-    "lng": 136.9832,
+    "lat": null,
+    "lng": null,
     "brands": [
       "三郎丸",
       "FAR EAST OF PEAT",
@@ -485,12 +510,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.6463,136.9832",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%A0%BA%E6%B3%A2%E5%B8%82%E4%B8%89%E9%83%8E%E4%B8%B8208",
+    "legacy_lat": 36.6463,
+    "legacy_lng": 136.9832,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -502,8 +530,8 @@
     "location": "滋賀県長浜市朝日町14-1",
     "prefecture": "滋賀県",
     "region": "近畿",
-    "lat": 35.3744,
-    "lng": 136.2739,
+    "lat": null,
+    "lng": null,
     "brands": [
       "AMAHAGAN World Malt Basic Blend",
       "AMAHAGAN World Malt Mizunara Wood Finish",
@@ -526,12 +554,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.3744,136.2739",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E9%95%B7%E6%B5%9C%E5%B8%82%E6%9C%9D%E6%97%A5%E7%94%BA14-1",
+    "legacy_lat": 35.3744,
+    "legacy_lng": 136.2739,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -543,8 +574,8 @@
     "location": "兵庫県明石市大久保町西島919",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 34.7158,
-    "lng": 134.8926,
+    "lat": null,
+    "lng": null,
     "brands": [
       "あかし",
       "シングルモルト江井ヶ嶋",
@@ -567,12 +598,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.7158,134.8926",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E5%A4%A7%E4%B9%85%E4%BF%9D%E7%94%BA%E8%A5%BF%E5%B3%B6919",
+    "legacy_lat": 34.7158,
+    "legacy_lng": 134.8926,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -584,8 +617,8 @@
     "location": "鹿児島県日置市日吉町神之川845-3",
     "prefecture": "",
     "region": "その他",
-    "lat": 31.6839,
-    "lng": 130.3081,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルモルト嘉之助",
       "嘉之助 HIOKI POT STILL",
@@ -608,12 +641,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所公式ページ",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.6839,130.3081",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%97%A5%E7%BD%AE%E5%B8%82%E6%97%A5%E5%90%89%E7%94%BA%E7%A5%9E%E4%B9%8B%E5%B7%9D845-3",
+    "legacy_lat": 31.6839,
+    "legacy_lng": 130.3081,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -626,8 +662,8 @@
     "location": "鹿児島県南さつま市加世田津貫6594",
     "prefecture": "",
     "region": "その他",
-    "lat": 31.4185,
-    "lng": 130.3387,
+    "lat": null,
+    "lng": null,
     "brands": [
       "シングルモルト津貫",
       "津貫 The First",
@@ -650,12 +686,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.4185,130.3387",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82%E5%8A%A0%E4%B8%96%E7%94%B0%E6%B4%A5%E8%B2%AB6594",
+    "legacy_lat": 31.4185,
+    "legacy_lng": 130.3387,
+    "coordinate_source": "none"
   },
   {
     "id": "shindo-distillery",
@@ -667,8 +705,8 @@
     "location": "福岡県朝倉市杷木林田680-3",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": 33.396,
-    "lng": 130.707,
+    "lat": null,
+    "lng": null,
     "brands": [
       "SHINDO NEW BORN",
       "SHINDO CASK SERIES",
@@ -691,12 +729,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.396,130.707",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%9D%B7%E6%9C%A8%E6%9E%97%E7%94%B0680-3",
+    "legacy_lat": 33.396,
+    "legacy_lng": 130.707,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -708,8 +748,8 @@
     "location": "長野県小諸市甲4630-1",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 36.3258,
-    "lng": 138.4234,
+    "lat": null,
+    "lng": null,
     "brands": [
       "KOMORO New Make",
       "KOMORO IPA CASK FINISH",
@@ -732,12 +772,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.3258,138.4234",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%B0%8F%E8%AB%B8%E5%B8%82%E7%94%B24630-1",
+    "legacy_lat": 36.3258,
+    "legacy_lng": 138.4234,
+    "coordinate_source": "none"
   },
   {
     "id": "setouchi-distillery",
@@ -750,8 +792,8 @@
     "location": "広島県呉市本通7-9-10",
     "prefecture": "広島県",
     "region": "中国",
-    "lat": 34.2478,
-    "lng": 132.5652,
+    "lat": null,
+    "lng": null,
     "brands": [
       "SETOUCHI GIN",
       "SETOUCHI NEW BORN",
@@ -774,12 +816,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.2478,132.5652",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%91%89%E5%B8%82%E6%9C%AC%E9%80%9A7-9-10",
+    "legacy_lat": 34.2478,
+    "legacy_lng": 132.5652,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -792,8 +836,8 @@
     "location": "宮崎県児湯郡木城町石河内字倉ノ又656-17",
     "prefecture": "宮崎県",
     "region": "九州",
-    "lat": 32.2005,
-    "lng": 131.403,
+    "lat": null,
+    "lng": null,
     "brands": [
       "OSUZU MALT New Born",
       "OSUZU GIN",
@@ -816,12 +860,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.2005,131.403",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%85%90%E6%B9%AF%E9%83%A1%E6%9C%A8%E5%9F%8E%E7%94%BA%E7%9F%B3%E6%B2%B3%E5%86%85%E5%AD%97%E5%80%89%E3%83%8E%E5%8F%88656-17",
+    "legacy_lat": 32.2005,
+    "legacy_lng": 131.403,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -833,8 +879,8 @@
     "location": "大分県竹田市久住町白丹7571-23",
     "prefecture": "大分県",
     "region": "九州",
-    "lat": 33.0297,
-    "lng": 131.2485,
+    "lat": null,
+    "lng": null,
     "brands": [
       "Green Dram",
       "久住 New Born",
@@ -857,12 +903,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.0297,131.2485",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%E7%AB%B9%E7%94%B0%E5%B8%82%E4%B9%85%E4%BD%8F%E7%94%BA%E7%99%BD%E4%B8%B97571-23",
+    "legacy_lat": 33.0297,
+    "legacy_lng": 131.2485,
+    "coordinate_source": "none"
   },
   {
     "id": "sakurao-distillery",
@@ -875,8 +923,8 @@
     "location": "広島県廿日市市桜尾1-12-1",
     "prefecture": "広島県",
     "region": "中国",
-    "lat": 34.3505,
-    "lng": 132.3218,
+    "lat": null,
+    "lng": null,
     "brands": [
       "桜尾ジン ORIGINAL",
       "桜尾ジン LIMITED",
@@ -899,12 +947,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.3505,132.3218",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E6%A1%9C%E5%B0%BE1-12-1",
+    "legacy_lat": 34.3505,
+    "legacy_lng": 132.3218,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -917,8 +967,8 @@
     "location": "北海道虻田郡ニセコ町ニセコ478-15",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 42.8068,
-    "lng": 140.6824,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ohoro GIN スタンダード",
       "ohoro GIN ハッカ",
@@ -941,12 +991,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=42.8068,140.6824",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E8%99%BB%E7%94%B0%E9%83%A1%E3%83%8B%E3%82%BB%E3%82%B3%E7%94%BA%E3%83%8B%E3%82%BB%E3%82%B3478-15",
+    "legacy_lat": 42.8068,
+    "legacy_lng": 140.6824,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -959,8 +1011,8 @@
     "location": "鹿児島県日置市日吉町日置3309",
     "prefecture": "",
     "region": "その他",
-    "lat": 31.6302,
-    "lng": 130.3198,
+    "lat": null,
+    "lng": null,
     "brands": [
       "KOMASA GIN 桜島小みかん",
       "KOMASA GIN ほうじ茶",
@@ -983,12 +1035,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.6302,130.3198",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%97%A5%E7%BD%AE%E5%B8%82%E6%97%A5%E5%90%89%E7%94%BA%E6%97%A5%E7%BD%AE3309",
+    "legacy_lat": 31.6302,
+    "legacy_lng": 130.3198,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1000,8 +1054,8 @@
     "location": "東京都台東区蔵前3-9-3",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": 35.705,
-    "lng": 139.7922,
+    "lat": null,
+    "lng": null,
     "brands": [
       "LAST ELEGANT",
       "LAST ELYSIUM",
@@ -1024,12 +1078,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "エシカル・スピリッツ公式サイト",
     "official_url_type": "parent_company",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.705,139.7922",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%94%B5%E5%89%8D3-9-3",
+    "legacy_lat": 35.705,
+    "legacy_lng": 139.7922,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1042,8 +1099,8 @@
     "location": "大阪府大阪市東成区東小橋1-16-24",
     "prefecture": "大阪府",
     "region": "近畿",
-    "lat": 34.6695,
-    "lng": 135.5418,
+    "lat": null,
+    "lng": null,
     "brands": [
       "OSAKA GIN ORIJIN",
       "OSAKA GIN UMESHU CASK",
@@ -1066,12 +1123,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.6695,135.5418",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E6%9D%B1%E5%B0%8F%E6%A9%8B1-16-24",
+    "legacy_lat": 34.6695,
+    "legacy_lng": 135.5418,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1084,8 +1143,8 @@
     "location": "北海道上川郡東川町西2号北23",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.698,
-    "lng": 142.5107,
+    "lat": null,
+    "lng": null,
     "brands": [
       "雪の窓 ドライジン",
       "9148",
@@ -1108,12 +1167,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.698,142.5107",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%8A%E5%B7%9D%E9%83%A1%E6%9D%B1%E5%B7%9D%E7%94%BA%E8%A5%BF2%E5%8F%B7%E5%8C%9723",
+    "legacy_lat": 43.698,
+    "legacy_lng": 142.5107,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1125,8 +1186,8 @@
     "location": "東京都八王子市椚田町1213-5",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": 35.6428,
-    "lng": 139.2988,
+    "lat": null,
+    "lng": null,
     "brands": [
       "トーキョーハチオウジン CLASSIC",
       "トーキョーハチオウジン ELDER FLOWER",
@@ -1149,12 +1210,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "ユーザー精査反映",
     "official_url_type": "distillery_official",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6428,139.2988",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%A4%9A%E7%94%B0%E7%94%BA1213-5",
+    "legacy_lat": 35.6428,
+    "legacy_lng": 139.2988,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1166,8 +1230,8 @@
     "location": "佐賀県小城市小城町岩蔵2575-3",
     "prefecture": "佐賀県",
     "region": "九州",
-    "lat": 33.2632,
-    "lng": 130.1968,
+    "lat": null,
+    "lng": null,
     "brands": [
       "OGIGIN",
       "OGIGIN プレミアム",
@@ -1190,12 +1254,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.2632,130.1968",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E5%B0%8F%E5%9F%8E%E5%B8%82%E5%B0%8F%E5%9F%8E%E7%94%BA%E5%B2%A9%E8%94%B52575-3",
+    "legacy_lat": 33.2632,
+    "legacy_lng": 130.1968,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1208,8 +1274,8 @@
     "location": "長野県下高井郡野沢温泉村豊郷9394",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 36.9202,
-    "lng": 138.4446,
+    "lat": null,
+    "lng": null,
     "brands": [
       "NOZAWA GIN",
       "CLASSIC DRY GIN",
@@ -1232,12 +1298,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.9202,138.4446",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E6%9D%91%E8%B1%8A%E9%83%B79394",
+    "legacy_lat": 36.9202,
+    "legacy_lng": 138.4446,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1249,8 +1317,8 @@
     "location": "静岡県沼津市大手町5-6-7周辺",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": 35.1024,
-    "lng": 138.8586,
+    "lat": null,
+    "lng": null,
     "brands": [
       "Numazu Dry Gin",
       "Numazu Citrus Gin",
@@ -1273,12 +1341,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.1024,138.8586",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B2%BC%E6%B4%A5%E5%B8%82%E5%A4%A7%E6%89%8B%E7%94%BA5-6-7%E5%91%A8%E8%BE%BA",
+    "legacy_lat": 35.1024,
+    "legacy_lng": 138.8586,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1290,8 +1360,8 @@
     "location": "東京都江東区平野2-3-15",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": 35.6814,
-    "lng": 139.799,
+    "lat": null,
+    "lng": null,
     "brands": [
       "FUKAGAWA CRAFT GIN",
       "FUKAGAWA GIN BASE",
@@ -1314,12 +1384,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6814,139.799",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%B9%B3%E9%87%8E2-3-15",
+    "legacy_lat": 35.6814,
+    "legacy_lng": 139.799,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1331,8 +1403,8 @@
     "location": "東京都港区虎ノ門3丁目18-19 UD神谷町ビル1F",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": 35.6658,
-    "lng": 139.7476,
+    "lat": null,
+    "lng": null,
     "brands": [
       "COMMON",
       "レモンとすだち",
@@ -1355,12 +1427,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6658,139.7476",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%803%E4%B8%81%E7%9B%AE18-19%20UD%E7%A5%9E%E8%B0%B7%E7%94%BA%E3%83%93%E3%83%AB1F",
+    "legacy_lat": 35.6658,
+    "legacy_lng": 139.7476,
+    "coordinate_source": "none"
   },
   {
     "id": "blue-rabbit-distillery",
@@ -1372,8 +1446,8 @@
     "location": "東京都大田区田園調布本町29-2 ウェル田園調布102",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": 35.588,
-    "lng": 139.6821,
+    "lat": null,
+    "lng": null,
     "brands": [
       "Blue Rabbit Dry Gin",
       "Blue Rabbit Seasonal",
@@ -1396,12 +1470,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.588,139.6821",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E6%9C%AC%E7%94%BA29-2%20%E3%82%A6%E3%82%A7%E3%83%AB%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83102",
+    "legacy_lat": 35.588,
+    "legacy_lng": 139.6821,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1413,8 +1489,8 @@
     "location": "東京都大田区蒲田本町1-11-7",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": 35.5621,
-    "lng": 139.7158,
+    "lat": null,
+    "lng": null,
     "brands": [
       "羽田クラフトジン",
       "羽田ジン 柚子",
@@ -1437,12 +1513,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5621,139.7158",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%E6%9C%AC%E7%94%BA1-11-7",
+    "legacy_lat": 35.5621,
+    "legacy_lng": 139.7158,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1454,8 +1532,8 @@
     "location": "北海道札幌市南区澄川389-6",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.0015,
-    "lng": 141.3438,
+    "lat": null,
+    "lng": null,
     "brands": [
       "9148 #0101",
       "9148 #0310",
@@ -1478,12 +1556,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.0015,141.3438",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8D%97%E5%8C%BA%E6%BE%84%E5%B7%9D389-6",
+    "legacy_lat": 43.0015,
+    "legacy_lng": 141.3438,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1495,8 +1575,8 @@
     "location": "北海道積丹郡積丹町美国町字小泊9-13",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.2675,
-    "lng": 140.6002,
+    "lat": null,
+    "lng": null,
     "brands": [
       "KIBOU",
       "KIBOU Blue",
@@ -1519,12 +1599,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.2675,140.6002",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E7%A9%8D%E4%B8%B9%E9%83%A1%E7%A9%8D%E4%B8%B9%E7%94%BA%E7%BE%8E%E5%9B%BD%E7%94%BA%E5%AD%97%E5%B0%8F%E6%B3%8A9-13",
+    "legacy_lat": 43.2675,
+    "legacy_lng": 140.6002,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1536,8 +1618,8 @@
     "location": "京都府京丹後市弥栄町黒部3123",
     "prefecture": "京都府",
     "region": "近畿",
-    "lat": 35.6545,
-    "lng": 135.0933,
+    "lat": null,
+    "lng": null,
     "brands": [
       "MAIRINGEN GIN",
       "クラフトジン舞輪源",
@@ -1560,12 +1642,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6545,135.0933",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E9%BB%92%E9%83%A83123",
+    "legacy_lat": 35.6545,
+    "legacy_lng": 135.0933,
+    "coordinate_source": "none"
   },
   {
     "id": "alembic-distillery",
@@ -1577,8 +1661,8 @@
     "location": "石川県金沢市大野町1丁目38-5",
     "prefecture": "石川県",
     "region": "中部",
-    "lat": 36.6032,
-    "lng": 136.5921,
+    "lat": null,
+    "lng": null,
     "brands": [
       "HACHIBAN",
       "HACHIBAN Seasonal",
@@ -1601,12 +1685,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.6032,136.5921",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E5%A4%A7%E9%87%8E%E7%94%BA1%E4%B8%81%E7%9B%AE38-5",
+    "legacy_lat": 36.6032,
+    "legacy_lng": 136.5921,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1618,8 +1704,8 @@
     "location": "佐賀県佐賀市諸富町大字為重214-4",
     "prefecture": "佐賀県",
     "region": "九州",
-    "lat": 33.2165,
-    "lng": 130.35,
+    "lat": null,
+    "lng": null,
     "brands": [
       "STILLDAM GIN",
       "STILLDAM SAGA GIN",
@@ -1642,12 +1728,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.2165,130.35",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E4%BD%90%E8%B3%80%E5%B8%82%E8%AB%B8%E5%AF%8C%E7%94%BA%E5%A4%A7%E5%AD%97%E7%82%BA%E9%87%8D214-4",
+    "legacy_lat": 33.2165,
+    "legacy_lng": 130.35,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1659,8 +1747,8 @@
     "location": "長崎県五島市上大津町2413",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": 32.7126,
-    "lng": 128.8538,
+    "lat": null,
+    "lng": null,
     "brands": [
       "GOTOGIN",
       "GOTOGIN the origin",
@@ -1683,12 +1771,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.7126,128.8538",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BA%94%E5%B3%B6%E5%B8%82%E4%B8%8A%E5%A4%A7%E6%B4%A5%E7%94%BA2413",
+    "legacy_lat": 32.7126,
+    "legacy_lng": 128.8538,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1700,8 +1790,8 @@
     "location": "北海道中川郡幕別町札内北町55-2",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 42.9149,
-    "lng": 143.248,
+    "lat": null,
+    "lng": null,
     "brands": [
       "明時 ORIGIN",
       "明時 limited",
@@ -1724,12 +1814,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=42.9149,143.248",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%B7%9D%E9%83%A1%E5%B9%95%E5%88%A5%E7%94%BA%E6%9C%AD%E5%86%85%E5%8C%97%E7%94%BA55-2",
+    "legacy_lat": 42.9149,
+    "legacy_lng": 143.248,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1741,8 +1833,8 @@
     "location": "岐阜県郡上市八幡町稲成887-7",
     "prefecture": "岐阜県",
     "region": "中部",
-    "lat": 35.7481,
-    "lng": 136.9587,
+    "lat": null,
+    "lng": null,
     "brands": [
       "アルケミエ 犬啼",
       "アルケミエ 香草",
@@ -1765,12 +1857,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7481,136.9587",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%83%A1%E4%B8%8A%E5%B8%82%E5%85%AB%E5%B9%A1%E7%94%BA%E7%A8%B2%E6%88%90887-7",
+    "legacy_lat": 35.7481,
+    "legacy_lng": 136.9587,
+    "coordinate_source": "none"
   },
   {
     "id": "record",
@@ -1782,8 +1876,8 @@
     "location": "神奈川県足柄上郡山北町中川822-1",
     "prefecture": "神奈川県",
     "region": "関東",
-    "lat": 35.4588,
-    "lng": 139.0565,
+    "lat": null,
+    "lng": null,
     "brands": [
       "丹沢 Blended Whisky Bourbon Barrel Finish The First.",
       "丹沢 Blended Whisky Sherry Barrel Finish The First.",
@@ -1807,12 +1901,14 @@
     "re_evaluated": true,
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.4588,139.0565",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%B6%B3%E6%9F%84%E4%B8%8A%E9%83%A1%E5%B1%B1%E5%8C%97%E7%94%BA%E4%B8%AD%E5%B7%9D822-1",
+    "legacy_lat": 35.4588,
+    "legacy_lng": 139.0565,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-kanagawa-shonan",
@@ -1825,8 +1921,8 @@
     "location": "神奈川県茅ヶ崎市香川7-10-7",
     "prefecture": "神奈川県",
     "region": "関東",
-    "lat": 35.360902,
-    "lng": 139.40191,
+    "lat": null,
+    "lng": null,
     "brands": [
       "赤天狗 シングルカスク vol.1",
       "赤天狗 vol.3",
@@ -1849,12 +1945,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.360902,139.40191",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%8C%85%E3%83%B6%E5%B4%8E%E5%B8%82%E9%A6%99%E5%B7%9D7-10-7",
+    "legacy_lat": 35.360902,
+    "legacy_lng": 139.40191,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-001",
@@ -1866,8 +1964,8 @@
     "location": "北海道利尻郡利尻町沓形神居128-2",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 45.1872,
-    "lng": 141.2405,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -1888,12 +1986,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=45.1872,141.2405",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%88%A9%E5%B0%BB%E9%83%A1%E5%88%A9%E5%B0%BB%E7%94%BA%E6%B2%93%E5%BD%A2%E7%A5%9E%E5%B1%85128-2",
+    "legacy_lat": 45.1872,
+    "legacy_lng": 141.2405,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-002",
@@ -1906,8 +2007,8 @@
     "location": "北海道夕張郡長沼町加賀団体",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 42.9846,
-    "lng": 141.7372,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -1928,12 +2029,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=42.9846,141.7372",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%95%E5%BC%B5%E9%83%A1%E9%95%B7%E6%B2%BC%E7%94%BA%E5%8A%A0%E8%B3%80%E5%9B%A3%E4%BD%93",
+    "legacy_lat": 42.9846,
+    "legacy_lng": 141.7372,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-003",
@@ -1945,8 +2049,8 @@
     "location": "北海道",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.06417,
-    "lng": 141.34694,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -1971,8 +2075,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.06417,141.34694",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93",
+    "legacy_lat": 43.06417,
+    "legacy_lng": 141.34694,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-004",
@@ -1984,8 +2091,8 @@
     "location": "北海道函館市元町31-20",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 41.7659,
-    "lng": 140.7123,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2006,12 +2113,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=41.7659,140.7123",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E5%85%83%E7%94%BA31-20",
+    "legacy_lat": 41.7659,
+    "legacy_lng": 140.7123,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-005",
@@ -2024,8 +2134,8 @@
     "location": "岩手県二戸市福岡上町13",
     "prefecture": "岩手県",
     "region": "東北",
-    "lat": 40.2716,
-    "lng": 141.3026,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2046,12 +2156,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "parent_company",
     "official_url_note": "親会社公式サイト｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.2716,141.3026",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%E4%BA%8C%E6%88%B8%E5%B8%82%E7%A6%8F%E5%B2%A1%E4%B8%8A%E7%94%BA13",
+    "legacy_lat": 40.2716,
+    "legacy_lng": 141.3026,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-006",
@@ -2063,8 +2176,8 @@
     "location": "山形県飽海郡遊佐町菅里字菅野37-14",
     "prefecture": "山形県",
     "region": "東北",
-    "lat": 39.06524,
-    "lng": 139.87658,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2085,12 +2198,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=39.06524,139.87658",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E8%8F%85%E9%87%8C%E5%AD%97%E8%8F%85%E9%87%8E37-14",
+    "legacy_lat": 39.06524,
+    "legacy_lng": 139.87658,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-007",
@@ -2102,8 +2217,8 @@
     "location": "福島県",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": 34.4869,
-    "lng": 133.9453,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2124,12 +2239,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.4869,133.9453",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C",
+    "legacy_lat": 34.4869,
+    "legacy_lng": 133.9453,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-008",
@@ -2141,8 +2259,8 @@
     "location": "福島県",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": 33.2654,
-    "lng": 131.1862,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2163,12 +2281,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.2654,131.1862",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C",
+    "legacy_lat": 33.2654,
+    "legacy_lng": 131.1862,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-009",
@@ -2181,8 +2302,8 @@
     "location": "茨城県",
     "prefecture": "茨城県",
     "region": "関東",
-    "lat": 34.7062,
-    "lng": 135.4983,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2203,12 +2324,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.7062,135.4983",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+    "legacy_lat": 34.7062,
+    "legacy_lng": 135.4983,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-010",
@@ -2221,8 +2345,8 @@
     "location": "茨城県",
     "prefecture": "茨城県",
     "region": "関東",
-    "lat": 36.2253,
-    "lng": 140.2102,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2243,12 +2367,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.2253,140.2102",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+    "legacy_lat": 36.2253,
+    "legacy_lng": 140.2102,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-011",
@@ -2261,8 +2388,8 @@
     "location": "栃木県小山市神鳥谷4丁目1番53号",
     "prefecture": "栃木県",
     "region": "関東",
-    "lat": 36.30095,
-    "lng": 139.7896,
+    "lat": null,
+    "lng": null,
     "brands": [
       "STORK VALLEY JAPAN PREMIUM GIN 500ml",
       "STORK VALLEY JAPAN PREMIUM GIN 200ml",
@@ -2285,12 +2412,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.30095,139.7896",
-    "map_link_mode": "coordinate",
-    "official_url_type": "distillery_official"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%B0%8F%E5%B1%B1%E5%B8%82%E7%A5%9E%E9%B3%A5%E8%B0%B74%E4%B8%81%E7%9B%AE1%E7%95%AA53%E5%8F%B7",
+    "legacy_lat": 36.30095,
+    "legacy_lng": 139.7896,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-012",
@@ -2303,8 +2432,8 @@
     "location": "栃木県",
     "prefecture": "栃木県",
     "region": "関東",
-    "lat": 36.56583,
-    "lng": 139.88361,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2329,8 +2458,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "親会社公式サイト内の蒸留所ページ（確認済）",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.56583,139.88361",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C",
+    "legacy_lat": 36.56583,
+    "legacy_lng": 139.88361,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-013",
@@ -2342,8 +2474,8 @@
     "location": "群馬県",
     "prefecture": "群馬県",
     "region": "関東",
-    "lat": 36.39111,
-    "lng": 139.06083,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2368,8 +2500,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.39111,139.06083",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C",
+    "legacy_lat": 36.39111,
+    "legacy_lng": 139.06083,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-014",
@@ -2381,8 +2516,8 @@
     "location": "群馬県",
     "prefecture": "群馬県",
     "region": "関東",
-    "lat": 36.39111,
-    "lng": 139.06083,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2407,8 +2542,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.39111,139.06083",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C",
+    "legacy_lat": 36.39111,
+    "legacy_lng": 139.06083,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-015",
@@ -2420,8 +2558,8 @@
     "location": "埼玉県",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": 35.85694,
-    "lng": 139.64889,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2446,8 +2584,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "東亜酒造公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.85694,139.64889",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C",
+    "legacy_lat": 35.85694,
+    "legacy_lng": 139.64889,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-016",
@@ -2459,8 +2600,8 @@
     "location": "埼玉県",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": 35.85694,
-    "lng": 139.64889,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2485,8 +2626,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
     "official_url_note": "公式サイト未確認",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.85694,139.64889",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C",
+    "legacy_lat": 35.85694,
+    "legacy_lng": 139.64889,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-017",
@@ -2498,8 +2642,8 @@
     "location": "埼玉県",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": 35.85694,
-    "lng": 139.64889,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2524,8 +2668,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.85694,139.64889",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C",
+    "legacy_lat": 35.85694,
+    "legacy_lng": 139.64889,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-018",
@@ -2539,8 +2686,8 @@
     "location": "千葉県夷隅郡大多喜町",
     "prefecture": "千葉県",
     "region": "関東",
-    "lat": 35.28734,
-    "lng": 140.24518,
+    "lat": null,
+    "lng": null,
     "brands": [
       "HERBAL SPIRITS",
       "BOTANICAL SPIRITS",
@@ -2563,12 +2710,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.28734,140.24518",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%A4%B7%E9%9A%85%E9%83%A1%E5%A4%A7%E5%A4%9A%E5%96%9C%E7%94%BA",
+    "legacy_lat": 35.28734,
+    "legacy_lng": 140.24518,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-019",
@@ -2580,8 +2729,8 @@
     "location": "千葉県",
     "prefecture": "千葉県",
     "region": "関東",
-    "lat": 35.60472,
-    "lng": 140.12333,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2606,8 +2755,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.60472,140.12333",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C",
+    "legacy_lat": 35.60472,
+    "legacy_lng": 140.12333,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-020",
@@ -2619,8 +2771,8 @@
     "location": "新潟県",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": 37.90222,
-    "lng": 139.02361,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2645,8 +2797,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.90222,139.02361",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C",
+    "legacy_lat": 37.90222,
+    "legacy_lng": 139.02361,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-021",
@@ -2659,8 +2814,8 @@
     "location": "新潟県",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": 37.8826,
-    "lng": 139.0635,
+    "lat": null,
+    "lng": null,
     "brands": [
       "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Pisces",
       "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Capricorn",
@@ -2683,12 +2838,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.8826,139.0635",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C",
+    "legacy_lat": 37.8826,
+    "legacy_lng": 139.0635,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-022",
@@ -2700,8 +2858,8 @@
     "location": "新潟県",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": 37.90222,
-    "lng": 139.02361,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2726,8 +2884,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.90222,139.02361",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C",
+    "legacy_lat": 37.90222,
+    "legacy_lng": 139.02361,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-023",
@@ -2740,8 +2901,8 @@
     "location": "石川県金沢市東町32",
     "prefecture": "石川県",
     "region": "中部",
-    "lat": 36.5728,
-    "lng": 136.6647,
+    "lat": null,
+    "lng": null,
     "brands": [
       "クラフトジン",
       "ニューポット"
@@ -2763,12 +2924,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所専用ページ",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.5728,136.6647",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E6%9D%B1%E7%94%BA32",
+    "legacy_lat": 36.5728,
+    "legacy_lng": 136.6647,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-024",
@@ -2780,8 +2944,8 @@
     "location": "山梨県",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": 35.66389,
-    "lng": 138.56833,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2806,8 +2970,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66389,138.56833",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C",
+    "legacy_lat": 35.66389,
+    "legacy_lng": 138.56833,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-025",
@@ -2819,8 +2986,8 @@
     "location": "山梨県",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": 35.66389,
-    "lng": 138.56833,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2845,8 +3012,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
     "official_url_note": "公式サイト未確認",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66389,138.56833",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C",
+    "legacy_lat": 35.66389,
+    "legacy_lng": 138.56833,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-026",
@@ -2859,8 +3029,8 @@
     "location": "山梨県",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": 35.66389,
-    "lng": 138.56833,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2885,8 +3055,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66389,138.56833",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C",
+    "legacy_lat": 35.66389,
+    "legacy_lng": 138.56833,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-027",
@@ -2899,8 +3072,8 @@
     "location": "長野県",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 36.65139,
-    "lng": 138.18111,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2925,8 +3098,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
     "official_url_note": "公式サイト未確認",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.65139,138.18111",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C",
+    "legacy_lat": 36.65139,
+    "legacy_lng": 138.18111,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-028",
@@ -2939,8 +3115,8 @@
     "location": "長野県",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 36.65139,
-    "lng": 138.18111,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -2965,8 +3141,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.65139,138.18111",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C",
+    "legacy_lat": 36.65139,
+    "legacy_lng": 138.18111,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-029",
@@ -2978,8 +3157,8 @@
     "location": "長野県",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 36.65139,
-    "lng": 138.18111,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3004,8 +3183,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36.65139,138.18111",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C",
+    "legacy_lat": 36.65139,
+    "legacy_lng": 138.18111,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-030",
@@ -3017,8 +3199,8 @@
     "location": "岐阜県",
     "prefecture": "岐阜県",
     "region": "中部",
-    "lat": 35.39111,
-    "lng": 136.72222,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3043,8 +3225,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.39111,136.72222",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C",
+    "legacy_lat": 35.39111,
+    "legacy_lng": 136.72222,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-031",
@@ -3057,8 +3242,8 @@
     "location": "静岡県三島市大社町18-5",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": 35.119689,
-    "lng": 138.919388,
+    "lat": null,
+    "lng": null,
     "brands": [
       "熟成0年ウイスキー",
       "オリジナルクラフトジン",
@@ -3081,12 +3266,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.119689,138.919388",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E4%B8%89%E5%B3%B6%E5%B8%82%E5%A4%A7%E7%A4%BE%E7%94%BA18-5",
+    "legacy_lat": 35.119689,
+    "legacy_lng": 138.919388,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-032",
@@ -3098,8 +3285,8 @@
     "location": "静岡県静岡市葵区田代字大春木1299-1",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": 35.2152,
-    "lng": 138.2217,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3120,12 +3307,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所紹介ページ（公式内）",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.2152,138.2217",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%E7%94%B0%E4%BB%A3%E5%AD%97%E5%A4%A7%E6%98%A5%E6%9C%A81299-1",
+    "legacy_lat": 35.2152,
+    "legacy_lng": 138.2217,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-033",
@@ -3138,8 +3328,8 @@
     "location": "愛知県清須市清洲1692番地",
     "prefecture": "愛知県",
     "region": "中部",
-    "lat": 35.18028,
-    "lng": 136.90667,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3164,8 +3354,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "公式会社ページ",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.18028,136.90667",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%B8%85%E9%A0%88%E5%B8%82%E6%B8%85%E6%B4%B21692%E7%95%AA%E5%9C%B0",
+    "legacy_lat": 35.18028,
+    "legacy_lng": 136.90667,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-034",
@@ -3177,8 +3370,8 @@
     "location": "愛知県",
     "prefecture": "愛知県",
     "region": "中部",
-    "lat": 35.18028,
-    "lng": 136.90667,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3203,8 +3396,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユニバイオのウイスキープロジェクトページ",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.18028,136.90667",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C",
+    "legacy_lat": 35.18028,
+    "legacy_lng": 136.90667,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-035",
@@ -3217,8 +3413,8 @@
     "location": "三重県",
     "prefecture": "三重県",
     "region": "近畿",
-    "lat": 34.4875,
-    "lng": 136.7086,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ブレンデッドウイスキー 神路（KAMIJI）"
     ],
@@ -3239,12 +3435,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "parent_company",
     "official_url_note": "伊勢萬公式サイト（蒸留所母体）",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.4875,136.7086",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C",
+    "legacy_lat": 34.4875,
+    "legacy_lng": 136.7086,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-036",
@@ -3256,8 +3455,8 @@
     "location": "滋賀県",
     "prefecture": "滋賀県",
     "region": "近畿",
-    "lat": 35.00444,
-    "lng": 135.86833,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3282,8 +3481,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.00444,135.86833",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C",
+    "legacy_lat": 35.00444,
+    "legacy_lng": 135.86833,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-037",
@@ -3295,8 +3497,8 @@
     "location": "大阪府",
     "prefecture": "大阪府",
     "region": "近畿",
-    "lat": 34.68639,
-    "lng": 135.52,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3321,8 +3523,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "利休蔵公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.68639,135.52",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C",
+    "legacy_lat": 34.68639,
+    "legacy_lng": 135.52,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-038",
@@ -3336,8 +3541,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 35.1773,
-    "lng": 135.0372,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3358,12 +3563,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "parent_company",
     "official_url_note": "親会社公式サイト｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.1773,135.0372",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "legacy_lat": 35.1773,
+    "legacy_lng": 135.0372,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-039",
@@ -3376,8 +3584,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 34.69139,
-    "lng": 135.18306,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3402,8 +3610,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "黄桜公式サイト内の丹波蒸溜所ページ（確認済）",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.69139,135.18306",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "legacy_lat": 34.69139,
+    "legacy_lng": 135.18306,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-040",
@@ -3417,8 +3628,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 34.69139,
-    "lng": 135.18306,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3443,8 +3654,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.69139,135.18306",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "legacy_lat": 34.69139,
+    "legacy_lng": 135.18306,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-041",
@@ -3456,8 +3670,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 34.69139,
-    "lng": 135.18306,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3482,8 +3696,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.69139,135.18306",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "legacy_lat": 34.69139,
+    "legacy_lng": 135.18306,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-042",
@@ -3496,8 +3713,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 34.69139,
-    "lng": 135.18306,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3522,8 +3739,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "明石酒類醸造の蒸溜所ページ",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.69139,135.18306",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "legacy_lat": 34.69139,
+    "legacy_lng": 135.18306,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-043",
@@ -3535,8 +3755,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 34.69139,
-    "lng": 135.18306,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3561,8 +3781,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.69139,135.18306",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "legacy_lat": 34.69139,
+    "legacy_lng": 135.18306,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-044",
@@ -3574,8 +3797,8 @@
     "location": "奈良県",
     "prefecture": "奈良県",
     "region": "近畿",
-    "lat": 34.68528,
-    "lng": 135.83278,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3600,8 +3823,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "神息酒造（Kamiki Whisky）公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.68528,135.83278",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%9C%8C",
+    "legacy_lat": 34.68528,
+    "legacy_lng": 135.83278,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-045",
@@ -3614,8 +3840,8 @@
     "location": "和歌山県",
     "prefecture": "和歌山県",
     "region": "近畿",
-    "lat": 34.22611,
-    "lng": 135.1675,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3640,8 +3866,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.22611,135.1675",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C",
+    "legacy_lat": 34.22611,
+    "legacy_lng": 135.1675,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-046",
@@ -3654,8 +3883,8 @@
     "location": "鳥取県",
     "prefecture": "鳥取県",
     "region": "中国",
-    "lat": 35.50361,
-    "lng": 134.23833,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3680,8 +3909,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "千代むすび酒造公式サイト",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.50361,134.23833",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C",
+    "legacy_lat": 35.50361,
+    "legacy_lng": 134.23833,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-047",
@@ -3694,8 +3926,8 @@
     "location": "岡山県",
     "prefecture": "岡山県",
     "region": "中国",
-    "lat": 34.66167,
-    "lng": 133.935,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3720,8 +3952,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "宮下酒造・独歩館の公式見学ページ（確認済）",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.66167,133.935",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C",
+    "legacy_lat": 34.66167,
+    "legacy_lng": 133.935,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-048",
@@ -3734,8 +3969,8 @@
     "location": "徳島県",
     "prefecture": "徳島県",
     "region": "四国",
-    "lat": 34.06583,
-    "lng": 134.55944,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3760,8 +3995,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "日新酒類の公式ウイスキーページ",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.06583,134.55944",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C",
+    "legacy_lat": 34.06583,
+    "legacy_lng": 134.55944,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-049",
@@ -3774,8 +4012,8 @@
     "location": "愛媛県",
     "prefecture": "愛媛県",
     "region": "四国",
-    "lat": 33.84167,
-    "lng": 132.76611,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3800,8 +4038,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.84167,132.76611",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C",
+    "legacy_lat": 33.84167,
+    "legacy_lng": 132.76611,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-050",
@@ -3813,8 +4054,8 @@
     "location": "福岡県",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": 33.60639,
-    "lng": 130.41806,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3839,8 +4080,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.60639,130.41806",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C",
+    "legacy_lat": 33.60639,
+    "legacy_lng": 130.41806,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-051",
@@ -3853,8 +4097,8 @@
     "location": "福岡県",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": 33.60639,
-    "lng": 130.41806,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3879,8 +4123,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.60639,130.41806",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C",
+    "legacy_lat": 33.60639,
+    "legacy_lng": 130.41806,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-052",
@@ -3892,8 +4139,8 @@
     "location": "福岡県",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": 33.60639,
-    "lng": 130.41806,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3918,8 +4165,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.60639,130.41806",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C",
+    "legacy_lat": 33.60639,
+    "legacy_lng": 130.41806,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-053",
@@ -3931,8 +4181,8 @@
     "location": "長崎県",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": 32.74472,
-    "lng": 129.87361,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3957,8 +4207,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.74472,129.87361",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C",
+    "legacy_lat": 32.74472,
+    "legacy_lng": 129.87361,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-054",
@@ -3971,8 +4224,8 @@
     "location": "長崎県",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": 33.1796,
-    "lng": 129.7154,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -3993,12 +4246,15 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "parent_company",
     "official_url_note": "親会社公式サイト｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.1796,129.7154",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C",
+    "legacy_lat": 33.1796,
+    "legacy_lng": 129.7154,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-055",
@@ -4010,8 +4266,8 @@
     "location": "熊本県",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": 32.78972,
-    "lng": 130.74167,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4036,8 +4292,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.78972,130.74167",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C",
+    "legacy_lat": 32.78972,
+    "legacy_lng": 130.74167,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-056",
@@ -4049,8 +4308,8 @@
     "location": "熊本県",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": 32.78972,
-    "lng": 130.74167,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4075,8 +4334,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.78972,130.74167",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C",
+    "legacy_lat": 32.78972,
+    "legacy_lng": 130.74167,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-057",
@@ -4088,8 +4350,8 @@
     "location": "熊本県",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": 32.78972,
-    "lng": 130.74167,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4114,8 +4376,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.78972,130.74167",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C",
+    "legacy_lat": 32.78972,
+    "legacy_lng": 130.74167,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-058",
@@ -4127,8 +4392,8 @@
     "location": "熊本県",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": 32.78972,
-    "lng": 130.74167,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4153,8 +4418,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.78972,130.74167",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C",
+    "legacy_lat": 32.78972,
+    "legacy_lng": 130.74167,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-059",
@@ -4166,8 +4434,8 @@
     "location": "宮崎県延岡市祝子町2388番地1",
     "prefecture": "宮崎県",
     "region": "九州",
-    "lat": 32.58252,
-    "lng": 131.66583,
+    "lat": null,
+    "lng": null,
     "brands": [
       "宮崎シングルモルトウイスキー",
       "天の刻印",
@@ -4190,12 +4458,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.58252,131.66583",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%BB%B6%E5%B2%A1%E5%B8%82%E7%A5%9D%E5%AD%90%E7%94%BA2388%E7%95%AA%E5%9C%B01",
+    "legacy_lat": 32.58252,
+    "legacy_lng": 131.66583,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-060",
@@ -4207,8 +4477,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 31.56028,
-    "lng": 130.55806,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4233,8 +4503,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.56028,130.55806",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+    "legacy_lat": 31.56028,
+    "legacy_lng": 130.55806,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-061",
@@ -4246,8 +4519,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 31.56028,
-    "lng": 130.55806,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4272,8 +4545,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.56028,130.55806",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+    "legacy_lat": 31.56028,
+    "legacy_lng": 130.55806,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-062",
@@ -4285,8 +4561,8 @@
     "location": "鹿児島県姶良市加治木町諏訪町200",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 31.734095,
-    "lng": 130.620778,
+    "lat": null,
+    "lng": null,
     "brands": [
       "九兵衛",
       "刻の一滴",
@@ -4309,12 +4585,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.734095,130.620778",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%A7%B6%E8%89%AF%E5%B8%82%E5%8A%A0%E6%B2%BB%E6%9C%A8%E7%94%BA%E8%AB%8F%E8%A8%AA%E7%94%BA200",
+    "legacy_lat": 31.734095,
+    "legacy_lng": 130.620778,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-063",
@@ -4326,8 +4604,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 31.56028,
-    "lng": 130.55806,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4352,8 +4630,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.56028,130.55806",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+    "legacy_lat": 31.56028,
+    "legacy_lng": 130.55806,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-064",
@@ -4366,8 +4647,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 31.56028,
-    "lng": 130.55806,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4392,8 +4673,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.56028,130.55806",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+    "legacy_lat": 31.56028,
+    "legacy_lng": 130.55806,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-065",
@@ -4405,8 +4689,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 31.56028,
-    "lng": 130.55806,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4431,8 +4715,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "distillery_official",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.56028,130.55806",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+    "legacy_lat": 31.56028,
+    "legacy_lng": 130.55806,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-066",
@@ -4445,8 +4732,8 @@
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": 26.2125,
-    "lng": 127.68111,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4471,8 +4758,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.2125,127.68111",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C",
+    "legacy_lat": 26.2125,
+    "legacy_lng": 127.68111,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-067",
@@ -4484,8 +4774,8 @@
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": 26.2125,
-    "lng": 127.68111,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4510,8 +4800,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.2125,127.68111",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C",
+    "legacy_lat": 26.2125,
+    "legacy_lng": 127.68111,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-068",
@@ -4524,8 +4817,8 @@
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": 26.2125,
-    "lng": 127.68111,
+    "lat": null,
+    "lng": null,
     "brands": [
       "ニューポット"
     ],
@@ -4550,8 +4843,11 @@
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー提供URL確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.2125,127.68111",
-    "map_link_mode": "coordinate"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C",
+    "legacy_lat": 26.2125,
+    "legacy_lng": 127.68111,
+    "coordinate_source": "none"
   },
   {
     "id": "cand-jwic-seed-069",
@@ -4565,8 +4861,8 @@
     "location": "沖縄県糸満市西崎町5-8-7",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": 26.154117,
-    "lng": 127.665093,
+    "lat": null,
+    "lng": null,
     "brands": [
       "昌廣ウイスキー AGED14YEARS",
       "昌廣ブレンデッドウイスキー",
@@ -4589,12 +4885,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "exact",
+    "coordinate_status": "approx",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_note": "｜位置整合確認済",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.154117,127.665093",
-    "map_link_mode": "coordinate",
-    "official_url_type": "parent_company"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E7%B3%B8%E6%BA%80%E5%B8%82%E8%A5%BF%E5%B4%8E%E7%94%BA5-8-7",
+    "legacy_lat": 26.154117,
+    "legacy_lng": 127.665093,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-071",
@@ -4628,12 +4926,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-072",
@@ -4667,12 +4966,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-073",
@@ -4706,12 +5006,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-074",
@@ -4745,12 +5046,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-075",
@@ -4784,12 +5086,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-076",
@@ -4823,12 +5126,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-077",
@@ -4863,12 +5167,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-078",
@@ -4903,12 +5208,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-079",
@@ -4942,12 +5248,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-080",
@@ -4983,12 +5290,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-081",
@@ -5024,12 +5332,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-082",
@@ -5063,12 +5372,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-083",
@@ -5102,12 +5412,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-084",
@@ -5141,12 +5452,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-085",
@@ -5180,12 +5492,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-086",
@@ -5220,12 +5533,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-087",
@@ -5259,12 +5573,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-088",
@@ -5298,12 +5613,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-089",
@@ -5338,12 +5654,15 @@
     "re_evaluated": true,
     "location_quality": "unknown",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
     "official_url_note": "ユーザー精査反映",
-    "google_maps_url": "",
-    "map_link_mode": "none"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-090",
@@ -5377,12 +5696,13 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   },
   {
     "id": "excl-jwic-seed-091",
@@ -5416,11 +5736,12 @@
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
     "data_status": "保留",
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "google_maps_url": "",
-    "map_link_mode": "none",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認"
+    "google_maps_place_url": "",
+    "google_maps_address_url": "",
+    "legacy_lat": null,
+    "legacy_lng": null,
+    "coordinate_source": "none"
   }
 ]
