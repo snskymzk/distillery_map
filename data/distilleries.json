@@ -3060,7 +3060,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://unibio.jp/whisky-project/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3080,8 +3080,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ユニバイオのウイスキープロジェクトページ"
   },
   {
     "id": "cand-jwic-seed-035",
@@ -3120,7 +3120,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "parent_company",
-    "official_url_note": "親会社公式サイト｜位置整合確認済"
+    "official_url_note": "伊勢萬公式サイト（蒸留所母体）"
   },
   {
     "id": "cand-jwic-seed-036",
@@ -3175,7 +3175,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://rikyugura.jp",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3195,8 +3195,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "利休蔵公式サイト"
   },
   {
     "id": "cand-jwic-seed-038",
@@ -3371,7 +3371,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://akashisakebrewery.com/ja/the-kaikyo-distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3391,8 +3391,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "明石酒類醸造の蒸溜所ページ"
   },
   {
     "id": "cand-jwic-seed-043",
@@ -3447,7 +3447,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.kamikiwhisky.com/jp/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3467,8 +3467,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "神息酒造（Kamiki Whisky）公式サイト"
   },
   {
     "id": "cand-jwic-seed-045",
