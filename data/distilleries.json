@@ -941,7 +941,7 @@
       "LAST ELYSIUM",
       "REVIVE from Hoegaarden"
     ],
-    "official_url": "https://shop.ethicalspirits.jp/products/trd-tour",
+    "official_url": "https://ethicalspirits.jp",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -960,7 +960,8 @@
     "data_status": "確認済み",
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
-    "official_url_note": "｜位置整合確認済"
+    "official_url_note": "エシカル・スピリッツ公式サイト",
+    "official_url_type": "parent_company"
   },
   {
     "id": "record",
