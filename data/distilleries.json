@@ -33,7 +33,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -69,7 +71,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -105,7 +109,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -142,7 +148,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -178,7 +186,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -214,7 +224,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -250,7 +262,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -286,7 +300,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -322,7 +338,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -358,7 +376,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -394,7 +414,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -430,7 +452,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -466,7 +490,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -502,7 +528,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -538,7 +566,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -575,7 +605,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "shindo-distillery",
@@ -611,7 +643,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -647,7 +681,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "setouchi-distillery",
@@ -684,7 +720,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -721,7 +759,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -757,7 +797,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "sakurao-distillery",
@@ -794,7 +836,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -831,7 +875,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -868,7 +914,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -904,7 +952,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -941,7 +991,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -978,7 +1030,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1014,7 +1068,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1050,7 +1106,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1087,7 +1145,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1123,7 +1183,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1159,7 +1221,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1195,7 +1259,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "blue-rabbit-distillery",
@@ -1231,7 +1297,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1267,7 +1335,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1303,7 +1373,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1339,7 +1411,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1375,7 +1449,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "alembic-distillery",
@@ -1411,7 +1487,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1447,7 +1525,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1483,7 +1563,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1519,7 +1601,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1555,7 +1639,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "record",
@@ -1592,7 +1678,9 @@
     "last_checked": "2026-03-29",
     "re_evaluated": true,
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-kanagawa-shonan",
@@ -1629,7 +1717,9 @@
     "next_action": "蒸留所単体の公式導線、所在地一次情報、見学導線を追加確認",
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-001",
@@ -1641,8 +1731,8 @@
     "location": "北海道",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 43.06417,
+    "lng": 141.34694,
     "brands": [
       "ニューポット"
     ],
@@ -1663,7 +1753,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "北海道の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-002",
@@ -1676,8 +1768,8 @@
     "location": "北海道",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 43.06417,
+    "lng": 141.34694,
     "brands": [
       "ニューポット"
     ],
@@ -1698,7 +1790,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "北海道の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-003",
@@ -1710,8 +1804,8 @@
     "location": "北海道",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 43.06417,
+    "lng": 141.34694,
     "brands": [
       "ニューポット"
     ],
@@ -1732,7 +1826,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "北海道の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-004",
@@ -1744,8 +1840,8 @@
     "location": "北海道",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 43.06417,
+    "lng": 141.34694,
     "brands": [
       "ニューポット"
     ],
@@ -1766,7 +1862,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "北海道の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-005",
@@ -1779,8 +1877,8 @@
     "location": "岩手県",
     "prefecture": "岩手県",
     "region": "東北",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 39.70361,
+    "lng": 141.1525,
     "brands": [
       "ニューポット"
     ],
@@ -1801,7 +1899,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "岩手県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-006",
@@ -1835,7 +1935,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-007",
@@ -1847,8 +1949,8 @@
     "location": "福島県",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 37.75,
+    "lng": 140.46778,
     "brands": [
       "ニューポット"
     ],
@@ -1869,7 +1971,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "福島県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-008",
@@ -1881,8 +1985,8 @@
     "location": "福島県",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 37.75,
+    "lng": 140.46778,
     "brands": [
       "ニューポット"
     ],
@@ -1903,7 +2007,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "福島県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-009",
@@ -1916,8 +2022,8 @@
     "location": "茨城県",
     "prefecture": "茨城県",
     "region": "関東",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 36.34139,
+    "lng": 140.44667,
     "brands": [
       "ニューポット"
     ],
@@ -1938,7 +2044,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "茨城県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-010",
@@ -1973,7 +2081,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-011",
@@ -2010,7 +2120,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-012",
@@ -2023,8 +2135,8 @@
     "location": "栃木県",
     "prefecture": "栃木県",
     "region": "関東",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 36.56583,
+    "lng": 139.88361,
     "brands": [
       "ニューポット"
     ],
@@ -2045,7 +2157,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "栃木県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-013",
@@ -2057,8 +2171,8 @@
     "location": "群馬県",
     "prefecture": "群馬県",
     "region": "関東",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 36.39111,
+    "lng": 139.06083,
     "brands": [
       "ニューポット"
     ],
@@ -2079,7 +2193,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "群馬県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-014",
@@ -2091,8 +2207,8 @@
     "location": "群馬県",
     "prefecture": "群馬県",
     "region": "関東",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 36.39111,
+    "lng": 139.06083,
     "brands": [
       "ニューポット"
     ],
@@ -2113,7 +2229,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "群馬県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-015",
@@ -2125,8 +2243,8 @@
     "location": "埼玉県",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.85694,
+    "lng": 139.64889,
     "brands": [
       "ニューポット"
     ],
@@ -2147,7 +2265,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "埼玉県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-016",
@@ -2159,8 +2279,8 @@
     "location": "埼玉県",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.85694,
+    "lng": 139.64889,
     "brands": [
       "ニューポット"
     ],
@@ -2181,7 +2301,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "埼玉県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-017",
@@ -2193,8 +2315,8 @@
     "location": "埼玉県",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.85694,
+    "lng": 139.64889,
     "brands": [
       "ニューポット"
     ],
@@ -2215,7 +2337,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "埼玉県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-018",
@@ -2253,7 +2377,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-019",
@@ -2265,8 +2391,8 @@
     "location": "千葉県",
     "prefecture": "千葉県",
     "region": "関東",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.60472,
+    "lng": 140.12333,
     "brands": [
       "ニューポット"
     ],
@@ -2287,7 +2413,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "千葉県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-020",
@@ -2299,8 +2427,8 @@
     "location": "新潟県",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 37.90222,
+    "lng": 139.02361,
     "brands": [
       "ニューポット"
     ],
@@ -2321,7 +2449,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "新潟県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-021",
@@ -2358,7 +2488,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-022",
@@ -2370,8 +2502,8 @@
     "location": "新潟県",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 37.90222,
+    "lng": 139.02361,
     "brands": [
       "ニューポット"
     ],
@@ -2392,7 +2524,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "新潟県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-023",
@@ -2405,8 +2539,8 @@
     "location": "石川県金沢市湯涌地区",
     "prefecture": "石川県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 36.59444,
+    "lng": 136.62556,
     "brands": [
       "クラフトジン",
       "ニューポット"
@@ -2428,7 +2562,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "石川県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-024",
@@ -2440,8 +2576,8 @@
     "location": "山梨県",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.66389,
+    "lng": 138.56833,
     "brands": [
       "ニューポット"
     ],
@@ -2462,7 +2598,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "山梨県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-025",
@@ -2474,8 +2612,8 @@
     "location": "山梨県",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.66389,
+    "lng": 138.56833,
     "brands": [
       "ニューポット"
     ],
@@ -2496,7 +2634,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "山梨県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-026",
@@ -2509,8 +2649,8 @@
     "location": "山梨県",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.66389,
+    "lng": 138.56833,
     "brands": [
       "ニューポット"
     ],
@@ -2531,7 +2671,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "山梨県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-027",
@@ -2544,8 +2686,8 @@
     "location": "長野県",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 36.65139,
+    "lng": 138.18111,
     "brands": [
       "ニューポット"
     ],
@@ -2566,7 +2708,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "長野県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-028",
@@ -2579,8 +2723,8 @@
     "location": "長野県",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 36.65139,
+    "lng": 138.18111,
     "brands": [
       "ニューポット"
     ],
@@ -2601,7 +2745,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "長野県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-029",
@@ -2613,8 +2759,8 @@
     "location": "長野県",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 36.65139,
+    "lng": 138.18111,
     "brands": [
       "ニューポット"
     ],
@@ -2635,7 +2781,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "長野県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-030",
@@ -2647,8 +2795,8 @@
     "location": "岐阜県",
     "prefecture": "岐阜県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.39111,
+    "lng": 136.72222,
     "brands": [
       "ニューポット"
     ],
@@ -2669,7 +2817,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "岐阜県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-031",
@@ -2706,7 +2856,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-032",
@@ -2718,8 +2870,8 @@
     "location": "静岡県",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.97694,
+    "lng": 138.38306,
     "brands": [
       "ニューポット"
     ],
@@ -2740,7 +2892,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "静岡県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-033",
@@ -2753,8 +2907,8 @@
     "location": "愛知県",
     "prefecture": "愛知県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.18028,
+    "lng": 136.90667,
     "brands": [
       "ニューポット"
     ],
@@ -2775,7 +2929,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "愛知県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-034",
@@ -2787,8 +2943,8 @@
     "location": "愛知県",
     "prefecture": "愛知県",
     "region": "中部",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.18028,
+    "lng": 136.90667,
     "brands": [
       "ニューポット"
     ],
@@ -2809,7 +2965,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "愛知県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-035",
@@ -2844,7 +3002,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-036",
@@ -2856,8 +3016,8 @@
     "location": "滋賀県",
     "prefecture": "滋賀県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.00444,
+    "lng": 135.86833,
     "brands": [
       "ニューポット"
     ],
@@ -2878,7 +3038,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "滋賀県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-037",
@@ -2890,8 +3052,8 @@
     "location": "大阪府",
     "prefecture": "大阪府",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.68639,
+    "lng": 135.52,
     "brands": [
       "ニューポット"
     ],
@@ -2912,7 +3074,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "大阪府の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-038",
@@ -2926,8 +3090,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.69139,
+    "lng": 135.18306,
     "brands": [
       "ニューポット"
     ],
@@ -2948,7 +3112,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "兵庫県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-039",
@@ -2961,8 +3127,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.69139,
+    "lng": 135.18306,
     "brands": [
       "ニューポット"
     ],
@@ -2983,7 +3149,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "兵庫県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-040",
@@ -2997,8 +3165,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.69139,
+    "lng": 135.18306,
     "brands": [
       "ニューポット"
     ],
@@ -3019,7 +3187,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "兵庫県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-041",
@@ -3031,8 +3201,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.69139,
+    "lng": 135.18306,
     "brands": [
       "ニューポット"
     ],
@@ -3053,7 +3223,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "兵庫県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-042",
@@ -3066,8 +3238,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.69139,
+    "lng": 135.18306,
     "brands": [
       "ニューポット"
     ],
@@ -3088,7 +3260,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "兵庫県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-043",
@@ -3100,8 +3274,8 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.69139,
+    "lng": 135.18306,
     "brands": [
       "ニューポット"
     ],
@@ -3122,7 +3296,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "兵庫県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-044",
@@ -3134,8 +3310,8 @@
     "location": "奈良県",
     "prefecture": "奈良県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.68528,
+    "lng": 135.83278,
     "brands": [
       "ニューポット"
     ],
@@ -3156,7 +3332,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "奈良県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-045",
@@ -3169,8 +3347,8 @@
     "location": "和歌山県",
     "prefecture": "和歌山県",
     "region": "近畿",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.22611,
+    "lng": 135.1675,
     "brands": [
       "ニューポット"
     ],
@@ -3191,7 +3369,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "和歌山県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-046",
@@ -3204,8 +3384,8 @@
     "location": "鳥取県",
     "prefecture": "鳥取県",
     "region": "中国",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 35.50361,
+    "lng": 134.23833,
     "brands": [
       "ニューポット"
     ],
@@ -3226,7 +3406,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "鳥取県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-047",
@@ -3239,8 +3421,8 @@
     "location": "岡山県",
     "prefecture": "岡山県",
     "region": "中国",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.66167,
+    "lng": 133.935,
     "brands": [
       "ニューポット"
     ],
@@ -3261,7 +3443,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "岡山県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-048",
@@ -3274,8 +3458,8 @@
     "location": "徳島県",
     "prefecture": "徳島県",
     "region": "四国",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 34.06583,
+    "lng": 134.55944,
     "brands": [
       "ニューポット"
     ],
@@ -3296,7 +3480,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "徳島県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-049",
@@ -3309,8 +3495,8 @@
     "location": "愛媛県",
     "prefecture": "愛媛県",
     "region": "四国",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 33.84167,
+    "lng": 132.76611,
     "brands": [
       "ニューポット"
     ],
@@ -3331,7 +3517,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "愛媛県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-050",
@@ -3343,8 +3531,8 @@
     "location": "福岡県",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 33.60639,
+    "lng": 130.41806,
     "brands": [
       "ニューポット"
     ],
@@ -3365,7 +3553,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "福岡県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-051",
@@ -3378,8 +3568,8 @@
     "location": "福岡県",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 33.60639,
+    "lng": 130.41806,
     "brands": [
       "ニューポット"
     ],
@@ -3400,7 +3590,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "福岡県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-052",
@@ -3412,8 +3604,8 @@
     "location": "福岡県",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 33.60639,
+    "lng": 130.41806,
     "brands": [
       "ニューポット"
     ],
@@ -3434,7 +3626,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "福岡県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-053",
@@ -3446,8 +3640,8 @@
     "location": "長崎県",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 32.74472,
+    "lng": 129.87361,
     "brands": [
       "ニューポット"
     ],
@@ -3468,7 +3662,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "長崎県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-054",
@@ -3481,8 +3677,8 @@
     "location": "長崎県",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 32.74472,
+    "lng": 129.87361,
     "brands": [
       "ニューポット"
     ],
@@ -3503,7 +3699,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "長崎県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-055",
@@ -3515,8 +3713,8 @@
     "location": "熊本県",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 32.78972,
+    "lng": 130.74167,
     "brands": [
       "ニューポット"
     ],
@@ -3537,7 +3735,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "熊本県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-056",
@@ -3549,8 +3749,8 @@
     "location": "熊本県",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 32.78972,
+    "lng": 130.74167,
     "brands": [
       "ニューポット"
     ],
@@ -3571,7 +3771,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "熊本県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-057",
@@ -3583,8 +3785,8 @@
     "location": "熊本県",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 32.78972,
+    "lng": 130.74167,
     "brands": [
       "ニューポット"
     ],
@@ -3605,7 +3807,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "熊本県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-058",
@@ -3617,8 +3821,8 @@
     "location": "熊本県",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 32.78972,
+    "lng": 130.74167,
     "brands": [
       "ニューポット"
     ],
@@ -3639,7 +3843,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "熊本県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-059",
@@ -3675,7 +3881,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-060",
@@ -3687,8 +3895,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 31.56028,
+    "lng": 130.55806,
     "brands": [
       "ニューポット"
     ],
@@ -3709,7 +3917,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "鹿児島県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-061",
@@ -3721,8 +3931,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 31.56028,
+    "lng": 130.55806,
     "brands": [
       "ニューポット"
     ],
@@ -3743,7 +3953,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "鹿児島県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-062",
@@ -3779,7 +3991,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "cand-jwic-seed-063",
@@ -3791,8 +4005,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 31.56028,
+    "lng": 130.55806,
     "brands": [
       "ニューポット"
     ],
@@ -3813,7 +4027,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "鹿児島県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-064",
@@ -3826,8 +4042,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 31.56028,
+    "lng": 130.55806,
     "brands": [
       "ニューポット"
     ],
@@ -3848,7 +4064,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "鹿児島県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-065",
@@ -3860,8 +4078,8 @@
     "location": "鹿児島県",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 31.56028,
+    "lng": 130.55806,
     "brands": [
       "ニューポット"
     ],
@@ -3882,7 +4100,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "鹿児島県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-066",
@@ -3895,8 +4115,8 @@
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 26.2125,
+    "lng": 127.68111,
     "brands": [
       "ニューポット"
     ],
@@ -3917,7 +4137,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "沖縄県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-067",
@@ -3929,8 +4151,8 @@
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 26.2125,
+    "lng": 127.68111,
     "brands": [
       "ニューポット"
     ],
@@ -3951,7 +4173,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "沖縄県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-068",
@@ -3964,8 +4188,8 @@
     "location": "沖縄県",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": 35.0,
-    "lng": 135.0,
+    "lat": 26.2125,
+    "lng": 127.68111,
     "brands": [
       "ニューポット"
     ],
@@ -3986,7 +4210,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "沖縄県の代表点を暫定使用"
   },
   {
     "id": "cand-jwic-seed-069",
@@ -4024,7 +4250,9 @@
     "next_action": "公式サイト・所在地・見学導線・代表銘柄を確認",
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置ベース"
   },
   {
     "id": "excl-jwic-seed-071",
@@ -4058,7 +4286,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-072",
@@ -4092,7 +4322,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-073",
@@ -4126,7 +4358,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-074",
@@ -4160,7 +4394,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-075",
@@ -4194,7 +4430,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-076",
@@ -4228,7 +4466,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-077",
@@ -4263,7 +4503,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-078",
@@ -4298,7 +4540,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-079",
@@ -4332,7 +4576,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-080",
@@ -4368,7 +4614,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-081",
@@ -4404,7 +4652,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-082",
@@ -4438,7 +4688,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-083",
@@ -4472,7 +4724,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-084",
@@ -4506,7 +4760,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-085",
@@ -4540,7 +4796,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-086",
@@ -4575,7 +4833,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-087",
@@ -4609,7 +4869,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-088",
@@ -4643,7 +4905,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-089",
@@ -4678,7 +4942,9 @@
     "last_checked": "2026-03-29",
     "re_evaluated": true,
     "location_quality": "unknown",
-    "data_status": "確認済み"
+    "data_status": "確認済み",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-090",
@@ -4712,7 +4978,9 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   },
   {
     "id": "excl-jwic-seed-091",
@@ -4746,6 +5014,8 @@
     "next_action": "",
     "last_checked": "2026-03-29",
     "location_quality": "unknown",
-    "data_status": "保留"
+    "data_status": "保留",
+    "coordinate_status": "approx",
+    "coordinate_note": "代表点未設定"
   }
 ]

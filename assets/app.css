@@ -76,3 +76,9 @@ details.filter-box{margin-top:10px;border:1px solid var(--border);border-radius:
 .action-link{display:inline-flex;align-items:center;padding:5px 9px;border:1px solid var(--border);border-radius:999px;background:#fff;text-decoration:none;color:#344054;font-size:11px}
 .action-link:hover{border-color:#2563eb;color:#2563eb}
 .popup-subline{margin-top:4px;color:var(--sub)}
+
+
+.card-head-badges{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.approx-badge{background:#fef3c7;color:#92400e;border:1px solid #fcd34d}
+.area-badge{background:#e0f2fe;color:#075985;border:1px solid #7dd3fc}
+.marker-shell.approx{border-style:dashed;border-width:2px;opacity:.92}

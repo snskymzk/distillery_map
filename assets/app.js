@@ -1,4 +1,4 @@
-const APP_VERSION = 'v48';
+const APP_VERSION = 'v49';
 const DISTILLERIES_URL = './data/distilleries.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -62,7 +62,6 @@ function hasUsableCoords(item){
   const lat = Number(item.lat);
   const lng = Number(item.lng);
   if (!Number.isFinite(lat) || !Number.isFinite(lng)) return false;
-  if (Math.abs(lat - 35) < 0.1 && Math.abs(lng - 135) < 0.1) return false;
   if (lat < 20 || lat > 50 || lng < 120 || lng > 155) return false;
   return true;
 }
@@ -78,6 +77,11 @@ function statusBadge(item){
 function actionLinks(item){
   return `${item.reference_url?`<a class="action-link" href="${item.reference_url}" target="_blank" rel="noopener noreferrer">公式サイト</a>`:''}${item.location?`<a class="action-link" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップ</a>`:''}`;
 }
+function coordinateBadge(item){
+  if(item.coordinate_status === 'approx') return '<span class="badge approx-badge">位置は暫定</span>';
+  if(item.coordinate_status === 'area') return '<span class="badge area-badge">周辺位置</span>';
+  return '';
+}
 function popupHtml(item){
   return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:278px;">
     <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:8px;">
@@ -86,6 +90,7 @@ function popupHtml(item){
     </div>
     <div><b>種類</b></div><div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
     <div><b>所在地：</b>${item.location||'未設定'}</div>
+    ${item.coordinate_status && item.coordinate_status !== 'exact' ? `<div><b>位置情報：</b>${item.coordinate_status === 'approx' ? '暫定' : '周辺エリア'}</div>` : ''}
     <div><b>見学：</b>${normalizeVisitLabel(item.visit_label)}</div>
     ${(item.brands && item.brands.length)?`<div><b>代表銘柄：</b>${item.brands.join(' / ')}</div>`:''}
     ${item.note?`<div><b>特徴：</b>${item.note}</div>`:''}
@@ -101,7 +106,7 @@ function buildMarkers(items){
     const preparing = item.record_status==='preparing_or_unclear';
     const icon = L.divIcon({
       className:'',
-      html:`<div class="marker-shell ${preparing ? 'preparing' : ''}" style="background:${markerBackground(item.types || [], preparing)}"></div>`,
+      html:`<div class="marker-shell ${preparing ? 'preparing' : ''} ${item.coordinate_status==='approx' ? 'approx' : ''}" style="background:${markerBackground(item.types || [], preparing)}"></div>`,
       iconSize:[18,18],
       iconAnchor:[9,9],
       popupAnchor:[0,-10]
@@ -198,7 +203,7 @@ function renderList(items){
   list.innerHTML=items.map(item=>`<article class="card" data-name="${item.name}">
     <div class="card-head">
       <h3>${item.name}</h3>
-      ${statusBadge(item)}
+      <div class="card-head-badges">${statusBadge(item)}${coordinateBadge(item)}</div>
     </div>
     <div class="meta">
       <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${normalizeVisitLabel(item.visit_label)}</span>
@@ -226,8 +231,8 @@ function renderSummary(items){
   items.forEach(item=>(item.types||[]).forEach(t=>{ if(counts[t]!==undefined) counts[t]++; }));
   const prep=items.filter(x=>x.record_status==='preparing_or_unclear').length;
   const hold=items.filter(x=>x.data_status==='保留').length;
-  const unmapped=items.filter(x=>!hasUsableCoords(x)).length;
-  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / 要確認 ${hold} / 準備中・詳細不明 ${prep} / 地図未配置 ${unmapped}`;
+  const approx=items.filter(x=>x.coordinate_status==='approx').length;
+  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / 要確認 ${hold} / 準備中・詳細不明 ${prep} / 暫定位置 ${approx}`;
   const versionEl = document.getElementById('versionInfo');
   if(versionEl){ versionEl.textContent = `表示バージョン: ${APP_VERSION} / data/distilleries.json`; }
 }
