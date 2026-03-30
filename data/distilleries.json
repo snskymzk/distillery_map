@@ -2210,7 +2210,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://oyama-distillery.jp/",
+    "official_url": "https://nishiborisyuzo.com/site/nikko-kaido-oyama-distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2230,8 +2230,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "distillery_official",
-    "official_url_note": "蒸溜所公式サイト"
+    "official_url_type": "parent_company",
+    "official_url_note": "親会社公式サイト内の蒸留所ページ（確認済）"
   },
   {
     "id": "cand-jwic-seed-013",
@@ -2694,8 +2694,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "parent_company",
-    "official_url_note": "親会社公式サイト"
+    "official_url_type": "association",
+    "official_url_note": "公式サイト再確認必要（暫定）"
   },
   {
     "id": "cand-jwic-seed-025",
