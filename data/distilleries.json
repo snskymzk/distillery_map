@@ -35,7 +35,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -73,7 +73,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -111,7 +111,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -150,7 +150,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -188,8 +188,9 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "record",
@@ -227,7 +228,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -265,7 +266,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -303,7 +304,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -341,7 +342,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -379,8 +380,9 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "record",
@@ -418,7 +420,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -456,8 +458,9 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "record",
@@ -495,8 +498,9 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "record",
@@ -534,7 +538,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -572,8 +576,9 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "record",
@@ -612,7 +617,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "shindo-distillery",
@@ -650,7 +655,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -688,7 +693,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "setouchi-distillery",
@@ -727,7 +732,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -766,7 +771,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -804,7 +809,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "sakurao-distillery",
@@ -843,7 +848,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -882,7 +887,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -921,7 +926,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -959,7 +964,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -998,7 +1003,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1037,7 +1042,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1075,7 +1080,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1113,7 +1118,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1152,7 +1157,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1190,7 +1195,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1228,7 +1233,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1266,7 +1271,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "blue-rabbit-distillery",
@@ -1304,7 +1309,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1342,7 +1347,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1380,7 +1385,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1418,7 +1423,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1456,7 +1461,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "alembic-distillery",
@@ -1494,7 +1499,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1532,7 +1537,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1570,7 +1575,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1608,7 +1613,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1646,7 +1651,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "record",
@@ -1685,7 +1690,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "cand-kanagawa-shonan",
@@ -1724,7 +1729,7 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "cand-jwic-seed-001",
@@ -1760,7 +1765,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "利尻町沓形神居住所一致（施設一致）",
+    "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト"
   },
@@ -1799,7 +1804,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "長沼町加賀団体住所一致（施設一致）",
+    "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト"
   },
@@ -1837,9 +1842,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "北海道の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-004",
@@ -1875,7 +1880,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "函館元町 建物一致（再確認）",
+    "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト"
   },
@@ -1914,7 +1919,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "二戸市福岡上町 建物一致（再確認）",
+    "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "parent_company",
     "official_url_note": "親会社公式サイト"
   },
@@ -1952,7 +1957,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "cand-jwic-seed-007",
@@ -1969,8 +1974,8 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://tamano-ascend.jp/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://tamano-ascend-distillery.jp/",
+    "reference_url": "https://tamano-ascend-distillery.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1988,8 +1993,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "玉野市住所一致（施設一致）",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "cand-jwic-seed-008",
@@ -2006,8 +2012,8 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://tenkyo-distillery.com/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.tenkyo.jp/",
+    "reference_url": "https://www.tenkyo.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2025,8 +2031,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "住所一致＋施設位置確認",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "parent_company",
+    "official_url_note": "親会社公式サイト"
   },
   {
     "id": "cand-jwic-seed-009",
@@ -2044,8 +2051,8 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://takakura-distillery.jp/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://takazo.meirishurui.com/",
+    "reference_url": "https://takazo.meirishurui.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2063,8 +2070,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "住所一致＋施設位置確認",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "cand-jwic-seed-010",
@@ -2101,9 +2109,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "住所一致＋施設確認",
+    "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-011",
@@ -2142,7 +2150,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "cand-jwic-seed-012",
@@ -2179,9 +2187,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "栃木県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-013",
@@ -2217,9 +2225,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "群馬県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-014",
@@ -2255,9 +2263,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "群馬県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-015",
@@ -2293,9 +2301,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "埼玉県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-016",
@@ -2331,9 +2339,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "埼玉県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-017",
@@ -2369,9 +2377,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "埼玉県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-018",
@@ -2411,7 +2419,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "cand-jwic-seed-019",
@@ -2447,9 +2455,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "千葉県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-020",
@@ -2485,9 +2493,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "新潟県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-021",
@@ -2507,8 +2515,8 @@
       "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Capricorn",
       "新潟亀田 ニューポット 2024 EDITION"
     ],
-    "official_url": "https://kameda-distillery.jp/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://kameda-distillery.com/",
+    "reference_url": "https://kameda-distillery.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2526,8 +2534,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置再確認（最終検証）",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "cand-jwic-seed-022",
@@ -2563,9 +2572,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "新潟県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-023",
@@ -2603,7 +2612,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "石川県の代表点を暫定使用"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "cand-jwic-seed-024",
@@ -2639,9 +2648,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "山梨県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-025",
@@ -2677,9 +2686,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "山梨県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-026",
@@ -2716,9 +2725,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "山梨県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-027",
@@ -2755,9 +2764,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "長野県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-028",
@@ -2794,9 +2803,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "長野県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-029",
@@ -2832,9 +2841,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "長野県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-030",
@@ -2870,9 +2879,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "岐阜県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-031",
@@ -2911,7 +2920,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "cand-jwic-seed-032",
@@ -2947,9 +2956,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "静岡県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-033",
@@ -2986,9 +2995,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "愛知県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-034",
@@ -3024,9 +3033,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "愛知県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-035",
@@ -3039,13 +3048,13 @@
     "location": "三重県",
     "prefecture": "三重県",
     "region": "近畿",
-    "lat": 34.4904,
-    "lng": 136.7097,
+    "lat": 34.4875,
+    "lng": 136.7086,
     "brands": [
       "ブレンデッドウイスキー 神路（KAMIJI）"
     ],
-    "official_url": "https://jwic.jp/distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.iseman.co.jp/",
+    "reference_url": "https://www.iseman.co.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3063,9 +3072,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "coordinate_note": "施設位置確認済（area→exact昇格）",
+    "official_url_type": "parent_company",
+    "official_url_note": "親会社公式サイト"
   },
   {
     "id": "cand-jwic-seed-036",
@@ -3101,8 +3110,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "滋賀県の代表点を暫定使用",
-    "official_url_type": "distillery_official"
+    "coordinate_note": "代表点（暫定・最終監査済）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸留所公式サイト"
   },
   {
     "id": "cand-jwic-seed-037",
@@ -3138,9 +3148,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "大阪府の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-038",
@@ -3154,13 +3164,13 @@
     "location": "兵庫県",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": 34.69139,
-    "lng": 135.18306,
+    "lat": 35.1773,
+    "lng": 135.0372,
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://kotsuzumi.co.jp/",
+    "reference_url": "https://kotsuzumi.co.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3177,10 +3187,10 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "兵庫県の代表点を暫定使用",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置確認済（area→exact昇格）",
+    "official_url_type": "parent_company",
+    "official_url_note": "親会社公式サイト"
   },
   {
     "id": "cand-jwic-seed-039",
@@ -3217,9 +3227,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "兵庫県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-040",
@@ -3257,9 +3267,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "兵庫県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-041",
@@ -3295,9 +3305,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "兵庫県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-042",
@@ -3334,9 +3344,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "兵庫県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-043",
@@ -3372,9 +3382,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "兵庫県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-044",
@@ -3410,9 +3420,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "奈良県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-045",
@@ -3449,9 +3459,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "和歌山県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-046",
@@ -3488,9 +3498,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "鳥取県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-047",
@@ -3527,9 +3537,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "岡山県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-048",
@@ -3566,9 +3576,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "徳島県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-049",
@@ -3605,9 +3615,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "愛媛県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-050",
@@ -3643,9 +3653,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "福岡県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-051",
@@ -3682,9 +3692,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "福岡県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-052",
@@ -3720,9 +3730,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "福岡県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-053",
@@ -3758,9 +3768,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "長崎県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-054",
@@ -3773,13 +3783,13 @@
     "location": "長崎県",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": 32.74472,
-    "lng": 129.87361,
+    "lat": 33.1796,
+    "lng": 129.7154,
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.umegae-shuzo.com/",
+    "reference_url": "https://www.umegae-shuzo.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3796,10 +3806,10 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "長崎県の代表点を暫定使用",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置確認済（area→exact昇格）",
+    "official_url_type": "parent_company",
+    "official_url_note": "親会社公式サイト"
   },
   {
     "id": "cand-jwic-seed-055",
@@ -3835,9 +3845,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "熊本県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-056",
@@ -3873,9 +3883,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "熊本県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-057",
@@ -3911,9 +3921,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "熊本県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-058",
@@ -3949,9 +3959,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "熊本県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-059",
@@ -3989,7 +3999,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "cand-jwic-seed-060",
@@ -4025,9 +4035,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "鹿児島県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-061",
@@ -4063,9 +4073,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "鹿児島県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-062",
@@ -4103,7 +4113,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "cand-jwic-seed-063",
@@ -4139,9 +4149,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "鹿児島県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-064",
@@ -4178,9 +4188,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "鹿児島県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-065",
@@ -4216,9 +4226,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "鹿児島県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-066",
@@ -4255,9 +4265,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "沖縄県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-067",
@@ -4293,9 +4303,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "沖縄県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-068",
@@ -4332,9 +4342,9 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "沖縄県の代表点を暫定使用",
+    "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
+    "official_url_note": "業界団体情報（公式未確認）"
   },
   {
     "id": "cand-jwic-seed-069",
@@ -4374,7 +4384,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース"
+    "coordinate_note": "施設位置確認済（最終監査）"
   },
   {
     "id": "excl-jwic-seed-071",
@@ -4410,7 +4420,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-072",
@@ -4446,7 +4456,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-073",
@@ -4482,7 +4492,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-074",
@@ -4518,7 +4528,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-075",
@@ -4554,7 +4564,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-076",
@@ -4590,7 +4600,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-077",
@@ -4627,7 +4637,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-078",
@@ -4664,7 +4674,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-079",
@@ -4700,7 +4710,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-080",
@@ -4738,7 +4748,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-081",
@@ -4776,7 +4786,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-082",
@@ -4812,7 +4822,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-083",
@@ -4848,7 +4858,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-084",
@@ -4884,7 +4894,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-085",
@@ -4920,7 +4930,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-086",
@@ -4957,7 +4967,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-087",
@@ -4993,7 +5003,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-088",
@@ -5029,7 +5039,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-089",
@@ -5066,7 +5076,7 @@
     "location_quality": "unknown",
     "data_status": "確認済み",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-090",
@@ -5102,7 +5112,7 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   },
   {
     "id": "excl-jwic-seed-091",
@@ -5138,6 +5148,6 @@
     "location_quality": "unknown",
     "data_status": "保留",
     "coordinate_status": "approx",
-    "coordinate_note": "代表点未設定"
+    "coordinate_note": "代表点（暫定・最終監査済）"
   }
 ]
