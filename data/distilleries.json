@@ -9,8 +9,8 @@
     "location": "大阪府三島郡島本町山崎5-2-1",
     "prefecture": "大阪府",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.892633,
+    "lng": 135.674462,
     "brands": [
       "シングルモルト山崎",
       "山崎12年",
@@ -33,14 +33,14 @@
     "last_checked": "2026-03-29",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "施設位置確認済（最終監査）",
+    "coordinate_status": "exact",
+    "coordinate_note": "Google Maps placeリンク先から再取得",
     "official_url_note": "｜位置整合確認済",
     "google_maps_place_url": "https://maps.app.goo.gl/UGQJBRUBYQApGqrPA",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E4%B8%89%E5%B3%B6%E9%83%A1%E5%B3%B6%E6%9C%AC%E7%94%BA%E5%B1%B1%E5%B4%8E5-2-1",
     "legacy_lat": 34.8926,
     "legacy_lng": 135.6757,
-    "coordinate_source": "none"
+    "coordinate_source": "place"
   },
   {
     "id": "record",
