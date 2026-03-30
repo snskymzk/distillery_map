@@ -1,4 +1,4 @@
-const APP_VERSION = 'v33';
+const APP_VERSION = 'v34';
 const DISTILLERIES_URL = './data/distilleries.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -58,6 +58,14 @@ function markerBackground(types, preparing){
 function renderTypeChips(types){
   return (types||[]).map(t=>`<span class="type-chip"><span class="type-swatch" style="background:${TYPE_META[t] ? TYPE_META[t].color : '#2563eb'}"></span>${TYPE_META[t] ? TYPE_META[t].label : t}</span>`).join('');
 }
+function hasUsableCoords(item){
+  const lat = Number(item.lat);
+  const lng = Number(item.lng);
+  if (!Number.isFinite(lat) || !Number.isFinite(lng)) return false;
+  if (Math.abs(lat - 35) < 0.1 && Math.abs(lng - 135) < 0.1) return false;
+  if (lat < 20 || lat > 50 || lng < 120 || lng > 155) return false;
+  return true;
+}
 function normalizeVisitLabel(label){
   const raw = (label || '').trim();
   if (!raw) return '見学未確認';
@@ -87,18 +95,27 @@ function popupHtml(item){
 }
 
 function buildMarkers(items){
-  cluster.clearLayers(); markerMap.clear();
-  items.filter(i=>i.lat&&i.lng).forEach(item=>{
-    const preparing=item.record_status==='preparing_or_unclear';
-    const icon=L.divIcon({className:'', html:`<div class="marker-shell ${preparing?'preparing':''}" style="background:${markerBackground(item.types||[], preparing)}"></div>`, iconSize:[18,18], iconAnchor:[9,9], popupAnchor:[0,-10]});
-    const marker=L.marker([item.lat,item.lng], {icon});
-    marker.options.types=item.types||[]; marker.options.preparing=preparing;
+  cluster.clearLayers();
+  markerMap.clear();
+  items.filter(item => hasUsableCoords(item)).forEach(item => {
+    const preparing = item.record_status==='preparing_or_unclear';
+    const icon = L.divIcon({
+      className:'',
+      html:`<div class="marker-shell ${preparing ? 'preparing' : ''}" style="background:${markerBackground(item.types || [], preparing)}"></div>`,
+      iconSize:[18,18],
+      iconAnchor:[9,9],
+      popupAnchor:[0,-10]
+    });
+    const marker = L.marker([Number(item.lat), Number(item.lng)], {icon});
+    marker.options.types = item.types || [];
+    marker.options.preparing = preparing;
     marker.on('mouseover',()=>setHoveredName(item.name,true));
     marker.on('mouseout',()=>setHoveredName(item.name,false));
     marker.on('click',()=>setActiveName(item.name));
     marker.bindPopup(popupHtml(item), {maxWidth:390});
     marker.bindTooltip(item.name,{direction:'top'});
-    cluster.addLayer(marker); markerMap.set(item.name,marker);
+    cluster.addLayer(marker);
+    markerMap.set(item.name, marker);
   });
 }
 function matchesTypes(item){ const types=item.types||[]; return types.length>0 && types.some(t=>state.types[t]); }
@@ -167,12 +184,12 @@ function focusItemByName(name, smoothScroll){
   const item=filteredCache.find(x=>x.name===name) || distilleries.find(x=>x.name===name);
   const marker=markerMap.get(name);
   if(item && marker){
-    map.setView([item.lat,item.lng], Math.max(map.getZoom(),9), {animate:true});
+    map.setView([Number(item.lat), Number(item.lng)], Math.max(map.getZoom(),9), {animate:true});
     marker.openPopup();
     setActiveName(name);
-    const card=cardMap.get(name);
-    if(card){ card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'}); }
   }
+  const card=cardMap.get(name);
+  if(card){ card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'}); }
 }
 function renderList(items){
   const list=document.getElementById('list');
@@ -209,7 +226,8 @@ function renderSummary(items){
   items.forEach(item=>(item.types||[]).forEach(t=>{ if(counts[t]!==undefined) counts[t]++; }));
   const prep=items.filter(x=>x.record_status==='preparing_or_unclear').length;
   const hold=items.filter(x=>x.data_status==='保留').length;
-  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / 要確認 ${hold} / 準備中・詳細不明 ${prep}`;
+  const unmapped=items.filter(x=>!hasUsableCoords(x)).length;
+  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / 要確認 ${hold} / 準備中・詳細不明 ${prep} / 地図未配置 ${unmapped}`;
   const versionEl = document.getElementById('versionInfo');
   if(versionEl){ versionEl.textContent = `表示バージョン: ${APP_VERSION} / data/distilleries.json`; }
 }
