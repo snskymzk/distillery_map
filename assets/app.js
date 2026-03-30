@@ -1,4 +1,4 @@
-const APP_VERSION = 'v30';
+const APP_VERSION = 'v33';
 const DISTILLERIES_URL = './data/distilleries.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -64,23 +64,28 @@ function normalizeVisitLabel(label){
   if (raw === '見学情報未確認' || raw === '未確認') return '見学未確認';
   return raw;
 }
+function statusBadge(item){
+  return item.data_status === '保留' ? '<span class="badge hold-badge">要確認</span>' : '';
+}
+function actionLinks(item){
+  return `${item.reference_url?`<a class="action-link" href="${item.reference_url}" target="_blank" rel="noopener noreferrer">公式サイト</a>`:''}${item.location?`<a class="action-link" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップ</a>`:''}`;
+}
 function popupHtml(item){
-  const statusRow=item.record_status==='preparing_or_unclear'?`<div><b>JWIC区分：</b>${item.jwic_status||'準備中または詳細不明'}</div>`:'';
   return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:278px;">
-    <div style="font-size:16px;font-weight:700;margin-bottom:8px;">${item.name}</div>
-    <div><b>種別：</b></div><div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
-        <div><b>所在地：</b>${item.location||'未設定'}</div>
-    ${statusRow}
-    <div><b>操業状態：</b>${item.operation_status||'未設定'}</div>
+    <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:8px;">
+      <div style="font-size:16px;font-weight:700;">${item.name}</div>
+      ${item.data_status === '保留' ? '<span class="popup-status">要確認</span>' : ''}
+    </div>
+    <div><b>種類</b></div><div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
+    <div><b>所在地：</b>${item.location||'未設定'}</div>
     <div><b>見学：</b>${normalizeVisitLabel(item.visit_label)}</div>
     ${(item.brands && item.brands.length)?`<div><b>代表銘柄：</b>${item.brands.join(' / ')}</div>`:''}
     ${item.note?`<div><b>特徴：</b>${item.note}</div>`:''}
-        <div><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
-    <div style="margin-top:8px; display:flex; gap:12px; flex-wrap:wrap;">
-      ${item.reference_url?`<a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">公式サイトを見る</a>`:''}
-      ${item.location?`<a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}
-    </div></div>`;
+    <div class="popup-subline"><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
+    <div class="action-row">${actionLinks(item)}</div>
+  </div>`;
 }
+
 function buildMarkers(items){
   cluster.clearLayers(); markerMap.clear();
   items.filter(i=>i.lat&&i.lng).forEach(item=>{
@@ -174,18 +179,20 @@ function renderList(items){
   cardMap.clear();
   if(!items.length){ list.innerHTML='<div class="empty">条件に合う蒸溜所が見つかりませんでした。</div>'; return; }
   list.innerHTML=items.map(item=>`<article class="card" data-name="${item.name}">
-    <h3>${item.name}</h3>
+    <div class="card-head">
+      <h3>${item.name}</h3>
+      ${statusBadge(item)}
+    </div>
     <div class="meta">
       <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${normalizeVisitLabel(item.visit_label)}</span>
       ${item.record_status==='preparing_or_unclear' ? `<span class="badge prep-badge">準備中・詳細不明</span>` : ''}
-          </div>
+    </div>
     <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
     <div class="location"><b>所在地：</b>${item.location||'未設定'}</div>
     ${(item.brands && item.brands.length)?`<div class="brands"><b>代表銘柄：</b>${item.brands.join(' / ')}</div>`:''}
     ${item.note?`<div class="note"><b>特徴：</b>${item.note}</div>`:''}
-    
     <div class="updated-note"><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
-    <div class="tour">${item.reference_url?`<b>公式サイト：</b> <a href="${item.reference_url}" target="_blank" rel="noopener noreferrer">${item.reference_url}</a><br>`:''}${item.location?`<b>地図：</b> <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップで開く</a>`:''}</div>
+    <div class="action-row">${actionLinks(item)}</div>
   </article>`).join('');
   list.querySelectorAll('.card').forEach(card=>{
     const name=card.getAttribute('data-name');
@@ -196,11 +203,13 @@ function renderList(items){
   });
   if(currentActiveName) setActiveName(currentActiveName);
 }
+
 function renderSummary(items){
   const counts={whisky:0,gin:0,brandy:0,rum:0,vodka:0};
   items.forEach(item=>(item.types||[]).forEach(t=>{ if(counts[t]!==undefined) counts[t]++; }));
   const prep=items.filter(x=>x.record_status==='preparing_or_unclear').length;
-  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / 準備中・詳細不明 ${prep}`;
+  const hold=items.filter(x=>x.data_status==='保留').length;
+  document.getElementById('summary').textContent=`表示中 ${items.length} 件 / ウイスキー ${counts.whisky} / ジン ${counts.gin} / ブランデー ${counts.brandy} / ラム ${counts.rum} / ウォッカ ${counts.vodka} / 要確認 ${hold} / 準備中・詳細不明 ${prep}`;
   const versionEl = document.getElementById('versionInfo');
   if(versionEl){ versionEl.textContent = `表示バージョン: ${APP_VERSION} / data/distilleries.json`; }
 }
