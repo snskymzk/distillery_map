@@ -1,4 +1,4 @@
-const APP_VERSION = 'v123';
+const APP_VERSION = 'v124';
 const DISTILLERIES_URL = './data/distilleries.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -75,7 +75,7 @@ function statusBadge(item){
   return item.data_status === '保留' ? '<span class="badge hold-badge">要確認</span>' : '';
 }
 function actionLinks(item){
-  const mapUrl = item.google_maps_place_url || item.google_maps_address_url || '';
+  const mapUrl = item.google_maps_address_url || '';
   return `${item.official_url?`<a class="action-link" href="${item.official_url}" target="_blank" rel="noopener noreferrer">公式サイト</a>`:''}${mapUrl?`<a class="action-link" href="${mapUrl}" target="_blank" rel="noopener noreferrer">Googleマップ</a>`:''}`;
 }
 function coordinateBadge(item){
