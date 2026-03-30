@@ -17,7 +17,6 @@
       "山崎18年"
     ],
     "official_url": "https://www.suntory.co.jp/factory/yamazaki/",
-    "reference_url": "https://www.suntory.co.jp/factory/yamazaki/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -56,7 +55,6 @@
       "白州18年"
     ],
     "official_url": "https://www.suntory.co.jp/factory/hakushu/",
-    "reference_url": "https://www.suntory.co.jp/factory/hakushu/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -95,7 +93,6 @@
       "ニッカフロンティア"
     ],
     "official_url": "https://www.nikka.com/distilleries/yoichi/visit/",
-    "reference_url": "https://www.nikka.com/distilleries/yoichi/visit/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -135,7 +132,6 @@
       "ニッカ カフェモルト"
     ],
     "official_url": "https://distillery.nikka.com/miyagikyo/reservation",
-    "reference_url": "https://distillery.nikka.com/miyagikyo/reservation",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -174,7 +170,6 @@
       "安積 シングルカスク"
     ],
     "official_url": "https://www.sasanokawa.co.jp/asaka-distillery/index.html",
-    "reference_url": "https://www.sasanokawa.co.jp/contents/factory_tour.html",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -214,7 +209,6 @@
       "YUZA ブレンデッド ジャパニーズウイスキー クラシカル・ブレンド"
     ],
     "official_url": "https://yuza-disty.jp/",
-    "reference_url": "https://yuza-disty.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -253,7 +247,6 @@
       "キリンウイスキー陸"
     ],
     "official_url": "https://www.kirin.co.jp/experience/factory/gotemba/",
-    "reference_url": "https://www.kirin.co.jp/experience/factory/gotemba/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -292,7 +285,6 @@
       "マルス ザ・ラッキーキャット"
     ],
     "official_url": "https://www.hombo.co.jp/visiting/komagatake/reserve-komagatake/",
-    "reference_url": "https://www.hombo.co.jp/visiting/komagatake/reserve-komagatake/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -331,7 +323,6 @@
       "ザ・ピーテッド"
     ],
     "official_url": "https://www.instagram.com/chichibu_distillery/",
-    "reference_url": "https://ichirosmalt.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -371,7 +362,6 @@
       "二十四節気シリーズ"
     ],
     "official_url": "https://akkeshi-distillery.com/",
-    "reference_url": "https://akkeshi-distillery.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -411,7 +401,6 @@
       "シングルモルト静岡 ユナイテッドS"
     ],
     "official_url": "https://www.gaiaflow.co.jp/",
-    "reference_url": "https://www.gaiaflow.co.jp/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -450,7 +439,6 @@
       "Sunset Red"
     ],
     "official_url": "https://www.wakatsuru.co.jp/saburomaru/",
-    "reference_url": "https://www.wakatsuru.co.jp/saburomaru/factory/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -490,7 +478,6 @@
       "シングルモルト長濱 THE EIGHTH BATCH"
     ],
     "official_url": "https://www.romanbeer.com",
-    "reference_url": "https://www.romanbeer.com/viewing/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -530,7 +517,6 @@
       "ホワイトオーク地ウイスキー"
     ],
     "official_url": "https://www.ei-sake.jp/tours.html",
-    "reference_url": "https://www.ei-sake.jp/tours.html",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -569,7 +555,6 @@
       "嘉之助 DOUBLE DISTILLERY"
     ],
     "official_url": "https://kanosuke.com/distillery/",
-    "reference_url": "https://kanosuke.com/pages/visit-us",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -610,7 +595,6 @@
       "マルス The Y.A."
     ],
     "official_url": "https://www.hombo.co.jp/visiting/tsunuki/reserve-tsunuki/",
-    "reference_url": "https://www.hombo.co.jp/visiting/tsunuki/reserve-tsunuki/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -649,7 +633,6 @@
       "SHINDO EXPERIMENTAL"
     ],
     "official_url": "https://shindo-lab.jp/distillery/",
-    "reference_url": "https://shindo-lab.jp/distillery/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -688,7 +671,6 @@
       "KOMORO Wine Cask Reserve"
     ],
     "official_url": "https://komorodistillery.com/visit/",
-    "reference_url": "https://komorodistillery.com/visit/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -728,7 +710,6 @@
       "SETOUCHI WHISKY"
     ],
     "official_url": "https://setouchidistillery.com/",
-    "reference_url": "https://setouchidistillery.com/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -768,7 +749,6 @@
       "OSUZU MALT"
     ],
     "official_url": "https://osuzuyama.co.jp/",
-    "reference_url": "https://osuzuyama.co.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -807,7 +787,6 @@
       "久住 THE FIRST"
     ],
     "official_url": "https://kujudistillery.jp/",
-    "reference_url": "https://kujudistillery.jp/",
     "visitable": false,
     "visit_label": "現在見学受付なし",
     "operation_status": "稼働中",
@@ -847,7 +826,6 @@
       "シングルモルト桜尾"
     ],
     "official_url": "https://www.sakuraodistillery.com/fieldtrip/",
-    "reference_url": "https://www.sakuraodistillery.com/fieldtrip/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -887,7 +865,6 @@
       "ohoro GIN ラベンダー"
     ],
     "official_url": "https://niseko-distillery.com/reservation/",
-    "reference_url": "https://niseko-distillery.com/reservation/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -927,7 +904,6 @@
       "HIOKI POT STILL"
     ],
     "official_url": "https://www.komasa.co.jp/visit",
-    "reference_url": "https://www.komasa.co.jp/visit",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -966,7 +942,6 @@
       "REVIVE from Hoegaarden"
     ],
     "official_url": "https://shop.ethicalspirits.jp/products/trd-tour",
-    "reference_url": "https://shop.ethicalspirits.jp/products/trd-tour",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -1006,7 +981,6 @@
       "OSAKA GIN Seasonal"
     ],
     "official_url": "https://mikunidistillery.jp/news/reserve/",
-    "reference_url": "https://mikunidistillery.jp/news/reserve/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -1046,7 +1020,6 @@
       "丹丘スピリッツ"
     ],
     "official_url": "https://tankyudistillery.jp/ja/tour",
-    "reference_url": "https://tankyudistillery.jp/ja/tour",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -1085,7 +1058,6 @@
       "トーキョーハチオウジン ORIENTAL"
     ],
     "official_url": "https://www.hachioji-distillery.jp",
-    "reference_url": "https://j-cga.jp/distillery.html",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -1125,7 +1097,6 @@
       "季節限定ジン"
     ],
     "official_url": "https://ogidistillery.jp/",
-    "reference_url": "https://ogidistillery.jp/",
     "visitable": true,
     "visit_label": "見学可",
     "operation_status": "稼働中",
@@ -1165,7 +1136,6 @@
       "IWAI GIN"
     ],
     "official_url": "https://nozawaonsendistillery.jp/",
-    "reference_url": "https://nozawaonsendistillery.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1204,7 +1174,6 @@
       "限定ボタニカルジン"
     ],
     "official_url": "https://www.flavour.jp/NumazuDistillery",
-    "reference_url": "https://www.flavour.jp/NumazuDistillery",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1243,7 +1212,6 @@
       "限定ジン"
     ],
     "official_url": "https://fukagawa-distillery.tokyo/",
-    "reference_url": "https://fukagawa-distillery.tokyo/",
     "visitable": true,
     "visit_label": "イベント開催時のみ",
     "operation_status": "稼働中",
@@ -1282,7 +1250,6 @@
       "ぶどう山椒"
     ],
     "official_url": "https://toranomondistillery.jp/",
-    "reference_url": "https://toranomondistillery.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1321,7 +1288,6 @@
       "Blue Rabbit Spirits"
     ],
     "official_url": "https://www.bluerabbitdistillery.com/",
-    "reference_url": "https://www.bluerabbitdistillery.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1360,7 +1326,6 @@
       "羽田ジン オリジナル"
     ],
     "official_url": "https://haneda-brewery.com/",
-    "reference_url": "https://haneda-brewery.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1399,7 +1364,6 @@
       "9148 #3896"
     ],
     "official_url": "https://www.hlwhisky.co.jp/",
-    "reference_url": "https://www.hlwhisky.co.jp/",
     "visitable": true,
     "visit_label": "見学可",
     "operation_status": "稼働中",
@@ -1438,7 +1402,6 @@
       "KIBOU seasonal"
     ],
     "official_url": "https://shakotan-spirit.co.jp/",
-    "reference_url": "https://shakotan-spirit.co.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1477,7 +1440,6 @@
       "限定ボタニカルジン"
     ],
     "official_url": "https://mairingen.jp/",
-    "reference_url": "https://mairingen.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1516,7 +1478,6 @@
       "金沢クラフトジン"
     ],
     "official_url": "https://www.alembic.jp/",
-    "reference_url": "https://www.alembic.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1555,7 +1516,6 @@
       "季節限定ジン"
     ],
     "official_url": "https://stilldam.saga.jp/",
-    "reference_url": "https://stilldam.saga.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1594,7 +1554,6 @@
       "GOTOGIN limited"
     ],
     "official_url": "https://gotogin.jp/",
-    "reference_url": "https://gotogin.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1633,7 +1592,6 @@
       "明時 seasonal"
     ],
     "official_url": "https://tokachi-pd.jp/",
-    "reference_url": "https://tokachi-pd.jp/",
     "visitable": true,
     "visit_label": "イベント開催時のみ",
     "operation_status": "稼働中",
@@ -1672,7 +1630,6 @@
       "アルケミエ ワサビ"
     ],
     "official_url": "https://www.facebook.com/TatsumiDistillery/?locale=ja_JP",
-    "reference_url": "https://www.facebook.com/TatsumiDistillery/?locale=ja_JP",
     "visitable": true,
     "visit_label": "営業日限定",
     "operation_status": "稼働中",
@@ -1711,7 +1668,6 @@
       "丹沢 Blended Whisky"
     ],
     "official_url": "https://tanzawa-distillery.com/index.html",
-    "reference_url": "https://tanzawa-distillery.com/index.html",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1752,7 +1708,6 @@
       "赤天狗"
     ],
     "official_url": "https://kumazawa.jp/kumazawa-tsushin/post-20240919-5/",
-    "reference_url": "https://kumazawa.jp/kumazawa-tsushin/post-20240919-5/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中とみられる",
@@ -1789,7 +1744,6 @@
       "ニューポット"
     ],
     "official_url": "https://kamuiwhisky.com/ja/home-ja/",
-    "reference_url": "https://kamuiwhisky.com/ja/home-ja/",
     "visitable": false,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -1828,7 +1782,6 @@
       "ニューポット"
     ],
     "official_url": "https://maoidistillery.com/",
-    "reference_url": "https://maoidistillery.com/",
     "visitable": false,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -1866,7 +1819,6 @@
       "ニューポット"
     ],
     "official_url": "http://sawamachi.jp/index.html",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1904,7 +1856,6 @@
       "ニューポット"
     ],
     "official_url": "https://ditripper.com/",
-    "reference_url": "https://ditripper.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1943,7 +1894,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.nanbubijin.co.jp/company/",
-    "reference_url": "https://www.nanbubijin.co.jp/company/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -1981,7 +1931,6 @@
       "ニューポット"
     ],
     "official_url": "https://gakkogawa.com/",
-    "reference_url": "https://gakkogawa.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2018,7 +1967,6 @@
       "ニューポット"
     ],
     "official_url": "https://tamano-ascend-distillery.jp/",
-    "reference_url": "https://tamano-ascend-distillery.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2056,7 +2004,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.tenkyo.jp",
-    "reference_url": "https://www.tenkyo.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2095,7 +2042,6 @@
       "ニューポット"
     ],
     "official_url": "https://takazo.meirishurui.com/",
-    "reference_url": "https://takazo.meirishurui.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2134,7 +2080,6 @@
       "ニューポット"
     ],
     "official_url": "https://kiuchibrewery.co.jp/brewery/yasatodistillery/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2175,7 +2120,6 @@
       "STORK VALLEY JAPAN PREMIUM GIN ミニチュアボトル 50ml"
     ],
     "official_url": "https://stork-valley-distillery.com/",
-    "reference_url": "https://stork-valley-distillery.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2213,7 +2157,6 @@
       "ニューポット"
     ],
     "official_url": "https://nishiborisyuzo.com/site/nikko-kaido-oyama-distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2251,7 +2194,6 @@
       "ニューポット"
     ],
     "official_url": "https://kurabuchi-distillery.jp/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2289,7 +2231,6 @@
       "ニューポット"
     ],
     "official_url": "https://link-kitakaru.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2327,7 +2268,6 @@
       "ニューポット"
     ],
     "official_url": "https://toashuzo.com/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2365,7 +2305,6 @@
       "ニューポット"
     ],
     "official_url": "https://kounosu-distillery.com/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2403,7 +2342,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.instagram.com/chichibu_distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2445,7 +2383,6 @@
       "季節の蒸留酒"
     ],
     "official_url": "https://mitosaya.com/",
-    "reference_url": "https://mitosaya.com/",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -2482,7 +2419,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.sudouhonke.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2520,7 +2456,6 @@
       "ニューポット"
     ],
     "official_url": "https://yoshidadenzai-distillery.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2561,7 +2496,6 @@
       "新潟亀田 ニューポット 2024 EDITION"
     ],
     "official_url": "https://kameda-distillery.com/",
-    "reference_url": "https://kameda-distillery.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2599,7 +2533,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.hakkaisan.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2639,7 +2572,6 @@
       "ニューポット"
     ],
     "official_url": "https://orientalbrewing.com/distillery/",
-    "reference_url": "https://orientalbrewing.com/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2677,7 +2609,6 @@
       "ニューポット"
     ],
     "official_url": "https://sasakawa-whisky.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2715,7 +2646,6 @@
       "ニューポット"
     ],
     "official_url": "https://jwic.jp/distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2754,7 +2684,6 @@
       "ニューポット"
     ],
     "official_url": "https://faryeast.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2793,7 +2722,6 @@
       "ニューポット"
     ],
     "official_url": "https://jwic.jp/distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2832,7 +2760,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.kanchiku.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2870,7 +2797,6 @@
       "ニューポット"
     ],
     "official_url": "https://karuizawadistillers.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2908,7 +2834,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.whisky-hida.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2949,7 +2874,6 @@
       "焼酎"
     ],
     "official_url": "https://whiskey.co.jp/waterdragon",
-    "reference_url": "https://whiskey.co.jp/waterdragon",
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
@@ -2986,7 +2910,6 @@
       "ニューポット"
     ],
     "official_url": "https://juzan.co.jp/contents/ikawadistillery/",
-    "reference_url": "https://juzan.co.jp/contents/ikawadistillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3025,7 +2948,6 @@
       "ニューポット"
     ],
     "official_url": "https://onikoroshi.co.jp/company/",
-    "reference_url": "https://onikoroshi.co.jp/company/access/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3063,7 +2985,6 @@
       "ニューポット"
     ],
     "official_url": "https://unibio.jp/whisky-project/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3102,7 +3023,6 @@
       "ブレンデッドウイスキー 神路（KAMIJI）"
     ],
     "official_url": "https://www.iseman.co.jp/",
-    "reference_url": "https://www.iseman.co.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3140,7 +3060,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.biwako-distillery.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3178,7 +3097,6 @@
       "ニューポット"
     ],
     "official_url": "https://rikyugura.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3218,7 +3136,6 @@
       "ニューポット"
     ],
     "official_url": "https://kotsuzumi.co.jp/",
-    "reference_url": "https://kotsuzumi.co.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3257,7 +3174,6 @@
       "ニューポット"
     ],
     "official_url": "https://kizakura.co.jp/tamba/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3297,7 +3213,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.kobe-distillery.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3335,7 +3250,6 @@
       "ニューポット"
     ],
     "official_url": "https://rokkosan-distillery.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3374,7 +3288,6 @@
       "ニューポット"
     ],
     "official_url": "https://akashisakebrewery.com/ja/the-kaikyo-distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3412,7 +3325,6 @@
       "ニューポット"
     ],
     "official_url": "https://yabu-distillery.co.jp/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3450,7 +3362,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.kamikiwhisky.com/jp/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3489,7 +3400,6 @@
       "ニューポット"
     ],
     "official_url": "https://kishukumano-distillery.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3528,7 +3438,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.chiyomusubi.co.jp/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3567,7 +3476,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.doppokan.jp/tour/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3606,7 +3514,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.nissin-shurui.co.jp/whiskey.html",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3645,7 +3552,6 @@
       "ニューポット"
     ],
     "official_url": "https://umebijin.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3683,7 +3589,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.nikka.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3722,7 +3627,6 @@
       "ニューポット"
     ],
     "official_url": "https://asakuradistillery.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3760,7 +3664,6 @@
       "ニューポット"
     ],
     "official_url": "https://shindo-lab.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3798,7 +3701,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.ganjo.jp/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3837,7 +3739,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.umegae-shuzo.com/",
-    "reference_url": "https://www.umegae-shuzo.com/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3875,7 +3776,6 @@
       "ニューポット"
     ],
     "official_url": "https://yamagadistillery.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3913,7 +3813,6 @@
       "ニューポット"
     ],
     "official_url": "https://ohishi-shuzohjyo.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3951,7 +3850,6 @@
       "ニューポット"
     ],
     "official_url": "https://joraku.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -3989,7 +3887,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.hakutake.co.jp/tano-distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4029,7 +3926,6 @@
       "銀の水"
     ],
     "official_url": "https://satoshochu.com/",
-    "reference_url": "https://satoshochu.com/",
     "visitable": true,
     "visit_label": "見学可",
     "operation_status": "稼働中",
@@ -4066,7 +3962,6 @@
       "ニューポット"
     ],
     "official_url": "https://tensei-shuzo.com",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4104,7 +3999,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.suntory.co.jp/osumidistillery/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4144,7 +4038,6 @@
       "龍門滝"
     ],
     "official_url": "https://www.asahibeer.co.jp/s-tsukasa-kura/",
-    "reference_url": "https://www.asahibeer.co.jp/s-tsukasa-kura/",
     "visitable": false,
     "visit_label": "見学不可",
     "operation_status": "稼働中",
@@ -4181,7 +4074,6 @@
       "ニューポット"
     ],
     "official_url": "https://komakijozo.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4220,7 +4112,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.nishi-shuzo.co.jp/ontake/",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4258,7 +4149,6 @@
       "ニューポット"
     ],
     "official_url": "https://hinokamidistillery.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4297,7 +4187,6 @@
       "ニューポット"
     ],
     "official_url": "https://www.helios-syuzo.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4335,7 +4224,6 @@
       "ニューポット"
     ],
     "official_url": "https://shinzato-shuzo.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4374,7 +4262,6 @@
       "ニューポット"
     ],
     "official_url": "https://kumesen.co.jp",
-    "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -4416,7 +4303,6 @@
       "島唄"
     ],
     "official_url": "https://www.masahiro.co.jp/",
-    "reference_url": "https://www.masahiro.co.jp/",
     "visitable": true,
     "visit_label": "見学可",
     "operation_status": "稼働中",
@@ -4453,7 +4339,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4489,7 +4374,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4525,7 +4409,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4561,7 +4444,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4597,7 +4479,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4633,7 +4514,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4670,7 +4550,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4707,7 +4586,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4743,7 +4621,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4781,7 +4658,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4819,7 +4695,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4855,7 +4730,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4891,7 +4765,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4927,7 +4800,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -4963,7 +4835,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -5000,7 +4871,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -5036,7 +4906,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -5072,7 +4941,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -5108,7 +4976,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "https://www.kitaya.co.jp",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -5147,7 +5014,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -5183,7 +5049,6 @@
       "製品未発売（熟成中）"
     ],
     "official_url": "",
-    "reference_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
