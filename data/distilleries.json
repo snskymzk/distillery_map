@@ -35,7 +35,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -73,7 +74,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -111,7 +113,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -150,7 +153,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -190,7 +194,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "record",
@@ -228,7 +232,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -266,7 +271,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -304,7 +310,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -342,7 +349,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -382,7 +390,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "record",
@@ -420,7 +428,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -460,7 +469,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "record",
@@ -500,7 +509,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "record",
@@ -538,7 +547,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -578,7 +588,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "record",
@@ -617,7 +627,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "shindo-distillery",
@@ -655,7 +666,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -693,7 +705,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "setouchi-distillery",
@@ -732,7 +745,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -771,7 +785,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -809,7 +824,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "sakurao-distillery",
@@ -848,7 +864,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -887,7 +904,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -926,7 +944,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -964,7 +983,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1003,7 +1023,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1042,7 +1063,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1080,7 +1102,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1118,7 +1141,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1157,7 +1181,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1195,7 +1220,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1233,7 +1259,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1271,7 +1298,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "blue-rabbit-distillery",
@@ -1309,7 +1337,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1347,7 +1376,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1385,7 +1415,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1423,7 +1454,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1461,7 +1493,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "alembic-distillery",
@@ -1499,7 +1532,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1537,7 +1571,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1575,7 +1610,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1613,7 +1649,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1651,7 +1688,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "record",
@@ -1690,7 +1728,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "cand-kanagawa-shonan",
@@ -1729,7 +1768,8 @@
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-001",
@@ -1767,7 +1807,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-002",
@@ -1806,7 +1846,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-003",
@@ -1882,7 +1922,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-005",
@@ -1921,7 +1961,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "parent_company",
-    "official_url_note": "親会社公式サイト"
+    "official_url_note": "親会社公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-006",
@@ -1957,7 +1997,8 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-007",
@@ -1995,7 +2036,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-008",
@@ -2033,7 +2074,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "parent_company",
-    "official_url_note": "親会社公式サイト"
+    "official_url_note": "親会社公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-009",
@@ -2072,7 +2113,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-010",
@@ -2111,7 +2152,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "業界団体情報（公式未確認）｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-011",
@@ -2150,7 +2191,8 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-012",
@@ -2419,7 +2461,8 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-019",
@@ -2536,7 +2579,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-022",
@@ -2584,11 +2627,11 @@
       "gin"
     ],
     "types_label": "ウイスキー / ジン",
-    "location": "石川県金沢市湯涌地区",
+    "location": "石川県金沢市東町32",
     "prefecture": "石川県",
     "region": "中部",
-    "lat": 36.59444,
-    "lng": 136.62556,
+    "lat": 36.5728,
+    "lng": 136.6647,
     "brands": [
       "クラフトジン",
       "ニューポット"
@@ -2611,8 +2654,10 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "代表点（暫定・最終監査済）"
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置確認済（area→exact昇格）",
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所専用ページ（Oriental Brewing公式内）｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-024",
@@ -2920,7 +2965,8 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-032",
@@ -2929,16 +2975,16 @@
       "whisky"
     ],
     "types_label": "ウイスキー",
-    "location": "静岡県",
+    "location": "静岡県静岡市葵区田代字大春木1299-1",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": 34.97694,
-    "lng": 138.38306,
+    "lat": 35.2152,
+    "lng": 138.2217,
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://juzan.co.jp/contents/ikawadistillery/",
+    "reference_url": "https://juzan.co.jp/contents/ikawadistillery/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2955,10 +3001,10 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "coordinate_status": "exact",
+    "coordinate_note": "施設位置確認済（area→exact昇格）",
+    "official_url_type": "parent_company",
+    "official_url_note": "十山株式会社の蒸溜所紹介ページ｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-033",
@@ -2968,7 +3014,7 @@
       "gin"
     ],
     "types_label": "ウイスキー / ジン",
-    "location": "愛知県",
+    "location": "愛知県清須市清洲1692番地",
     "prefecture": "愛知県",
     "region": "中部",
     "lat": 35.18028,
@@ -2976,8 +3022,8 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
-    "reference_url": "https://jwic.jp/distillery/",
+    "official_url": "https://onikoroshi.co.jp/company/access/",
+    "reference_url": "https://onikoroshi.co.jp/company/access/",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2996,8 +3042,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_type": "parent_company",
+    "official_url_note": "清洲桜醸造の公式アクセスページ"
   },
   {
     "id": "cand-jwic-seed-034",
@@ -3074,7 +3120,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "parent_company",
-    "official_url_note": "親会社公式サイト"
+    "official_url_note": "親会社公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-036",
@@ -3190,7 +3236,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "parent_company",
-    "official_url_note": "親会社公式サイト"
+    "official_url_note": "親会社公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-039",
@@ -3809,7 +3855,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "parent_company",
-    "official_url_note": "親会社公式サイト"
+    "official_url_note": "親会社公式サイト｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-055",
@@ -3999,7 +4045,8 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-060",
@@ -4113,7 +4160,8 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "cand-jwic-seed-063",
@@ -4384,7 +4432,8 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置確認済（最終監査）"
+    "coordinate_note": "施設位置確認済（最終監査）",
+    "official_url_note": "｜位置整合確認済"
   },
   {
     "id": "excl-jwic-seed-071",
