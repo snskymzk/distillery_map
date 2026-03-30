@@ -1,4 +1,4 @@
-const APP_VERSION = 'v49';
+const APP_VERSION = 'v50';
 const DISTILLERIES_URL = './data/distilleries.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -79,7 +79,7 @@ function actionLinks(item){
 }
 function coordinateBadge(item){
   if(item.coordinate_status === 'approx') return '<span class="badge approx-badge">位置は暫定</span>';
-  if(item.coordinate_status === 'area') return '<span class="badge area-badge">周辺位置</span>';
+  if(item.coordinate_status === 'area') return '<span class="badge area-badge">エリア位置</span>';
   return '';
 }
 function popupHtml(item){
@@ -90,7 +90,7 @@ function popupHtml(item){
     </div>
     <div><b>種類</b></div><div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
     <div><b>所在地：</b>${item.location||'未設定'}</div>
-    ${item.coordinate_status && item.coordinate_status !== 'exact' ? `<div><b>位置情報：</b>${item.coordinate_status === 'approx' ? '暫定' : '周辺エリア'}</div>` : ''}
+    ${item.coordinate_status && item.coordinate_status !== 'exact' ? `<div><b>位置情報：</b>${item.coordinate_status === 'approx' ? '暫定' : 'エリア位置'}</div>` : ''}
     <div><b>見学：</b>${normalizeVisitLabel(item.visit_label)}</div>
     ${(item.brands && item.brands.length)?`<div><b>代表銘柄：</b>${item.brands.join(' / ')}</div>`:''}
     ${item.note?`<div><b>特徴：</b>${item.note}</div>`:''}

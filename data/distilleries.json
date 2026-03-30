@@ -1731,8 +1731,8 @@
     "location": "北海道",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.06417,
-    "lng": 141.34694,
+    "lat": 45.17835292,
+    "lng": 141.2286247,
     "brands": [
       "ニューポット"
     ],
@@ -1754,8 +1754,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "北海道の代表点を暫定使用"
+    "coordinate_status": "area",
+    "coordinate_note": "利尻町沓形エリア中心点を使用"
   },
   {
     "id": "cand-jwic-seed-002",
@@ -1768,8 +1768,8 @@
     "location": "北海道",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.06417,
-    "lng": 141.34694,
+    "lat": 42.9820656,
+    "lng": 141.7357992,
     "brands": [
       "ニューポット"
     ],
@@ -1791,8 +1791,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "北海道の代表点を暫定使用"
+    "coordinate_status": "area",
+    "coordinate_note": "長沼町加賀団体エリア中心点を使用"
   },
   {
     "id": "cand-jwic-seed-003",
