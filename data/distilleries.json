@@ -2304,7 +2304,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://kounosu-distillery.com/",
+    "official_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2323,8 +2323,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "distillery_official",
-    "official_url_note": "蒸溜所公式サイト"
+    "official_url_type": "association",
+    "official_url_note": "公式サイト未確認"
   },
   {
     "id": "cand-jwic-seed-017",
@@ -2645,7 +2645,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2665,7 +2665,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_note": "公式サイト未確認"
   },
   {
     "id": "cand-jwic-seed-026",
@@ -2721,7 +2721,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
@@ -2741,7 +2741,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_note": "公式サイト未確認"
   },
   {
     "id": "cand-jwic-seed-028",
