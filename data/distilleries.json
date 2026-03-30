@@ -2751,7 +2751,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://faryeast.com/genryu/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2771,8 +2771,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所プロジェクトページ"
   },
   {
     "id": "cand-jwic-seed-027",
@@ -2829,7 +2829,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://miyota-distillery.jp/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2849,8 +2849,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-029",
@@ -2867,7 +2867,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://karuizawa-whisky.com/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2887,8 +2887,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ブランド公式サイト"
   },
   {
     "id": "cand-jwic-seed-030",
@@ -2905,7 +2905,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://hidatakayama-distillery.com/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2925,8 +2925,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-031",
@@ -3294,7 +3294,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://kobe-distillery.jp/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3314,8 +3314,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "関連企業公式サイト"
   },
   {
     "id": "cand-jwic-seed-041",
@@ -3332,7 +3332,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://rokko-distillery.jp/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3352,8 +3352,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-042",
