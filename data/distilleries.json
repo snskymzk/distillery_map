@@ -194,7 +194,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "record",
@@ -390,7 +390,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "record",
@@ -488,7 +488,7 @@
       "AMAHAGAN World Malt Mizunara Wood Finish",
       "シングルモルト長濱 THE EIGHTH BATCH"
     ],
-    "official_url": "https://www.nagahama-distillery.jp/",
+    "official_url": "https://nagahama-distillery.com/",
     "reference_url": "https://www.romanbeer.com/viewing/",
     "visitable": true,
     "visit_label": "予約制",
@@ -509,7 +509,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "record",
@@ -567,7 +567,7 @@
       "嘉之助 HIOKI POT STILL",
       "嘉之助 DOUBLE DISTILLERY"
     ],
-    "official_url": "https://kanosuke.com/",
+    "official_url": "https://kanosuke.com/distillery/",
     "reference_url": "https://kanosuke.com/pages/visit-us",
     "visitable": true,
     "visit_label": "予約制",
@@ -588,7 +588,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
+    "official_url_note": "蒸溜所公式ページ"
   },
   {
     "id": "record",
@@ -1846,7 +1846,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-003",
@@ -1884,7 +1884,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-004",
@@ -2053,7 +2053,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://www.tenkyo.jp/",
+    "official_url": "https://tenkyo.jp/distillery/",
     "reference_url": "https://www.tenkyo.jp/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2073,8 +2073,8 @@
     "data_status": "確認済み",
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
-    "official_url_type": "parent_company",
-    "official_url_note": "親会社公式サイト｜位置整合確認済"
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所専用ページ"
   },
   {
     "id": "cand-jwic-seed-009",
@@ -2113,7 +2113,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-010",
@@ -2131,7 +2131,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://yago-distillery.jp/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2151,8 +2151,8 @@
     "data_status": "確認済み",
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
-    "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）｜位置整合確認済"
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-011",
@@ -2231,7 +2231,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-013",
@@ -2269,7 +2269,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-014",
@@ -2286,7 +2286,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://karuizawa-distillers.com/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2306,8 +2306,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-015",
@@ -2324,7 +2324,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://toashuzo.com/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2344,8 +2344,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_type": "parent_company",
+    "official_url_note": "東亜酒造公式サイト"
   },
   {
     "id": "cand-jwic-seed-016",
@@ -2383,7 +2383,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-017",
@@ -2400,7 +2400,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://ichiroshamalts.com/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -2420,8 +2420,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_type": "parent_company",
+    "official_url_note": "ベンチャーウイスキー公式サイト"
   },
   {
     "id": "cand-jwic-seed-018",
@@ -2500,7 +2500,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-020",
@@ -2538,7 +2538,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-021",
@@ -2579,7 +2579,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（最終監査）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト｜位置整合確認済"
+    "official_url_note": "蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-022",
@@ -2617,7 +2617,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-023",
@@ -2657,7 +2657,7 @@
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
     "official_url_type": "distillery_official",
-    "official_url_note": "蒸溜所専用ページ（Oriental Brewing公式内）｜位置整合確認済"
+    "official_url_note": "蒸溜所専用ページ"
   },
   {
     "id": "cand-jwic-seed-024",
@@ -2695,7 +2695,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-025",
@@ -2733,7 +2733,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-026",
@@ -2772,7 +2772,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-027",
@@ -2811,7 +2811,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-028",
@@ -2850,7 +2850,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-029",
@@ -2888,7 +2888,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-030",
@@ -2926,7 +2926,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-031",
@@ -3003,8 +3003,8 @@
     "data_status": "確認済み",
     "coordinate_status": "exact",
     "coordinate_note": "施設位置確認済（area→exact昇格）",
-    "official_url_type": "parent_company",
-    "official_url_note": "十山株式会社の蒸溜所紹介ページ｜位置整合確認済"
+    "official_url_type": "distillery_official",
+    "official_url_note": "蒸溜所紹介ページ（公式内）"
   },
   {
     "id": "cand-jwic-seed-033",
@@ -3022,7 +3022,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://onikoroshi.co.jp/company/access/",
+    "official_url": "https://onikoroshi.co.jp/company/",
     "reference_url": "https://onikoroshi.co.jp/company/access/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3043,7 +3043,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
-    "official_url_note": "清洲桜醸造の公式アクセスページ"
+    "official_url_note": "公式会社ページ"
   },
   {
     "id": "cand-jwic-seed-034",
@@ -3081,7 +3081,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-035",
@@ -3137,7 +3137,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://www.biwako-distillery.jp/",
+    "official_url": "https://nagahama-distillery.com/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3157,8 +3157,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "distillery_official",
-    "official_url_note": "蒸留所公式サイト"
+    "official_url_type": "parent_company",
+    "official_url_note": "長濱蒸溜所公式サイト"
   },
   {
     "id": "cand-jwic-seed-037",
@@ -3196,7 +3196,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-038",
@@ -3275,7 +3275,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-040",
@@ -3315,7 +3315,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-041",
@@ -3353,7 +3353,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-042",
@@ -3392,7 +3392,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-043",
@@ -3430,7 +3430,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-044",
@@ -3468,7 +3468,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-045",
@@ -3507,7 +3507,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-046",
@@ -3546,7 +3546,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-047",
@@ -3585,7 +3585,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-048",
@@ -3624,7 +3624,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-049",
@@ -3663,7 +3663,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-050",
@@ -3701,7 +3701,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-051",
@@ -3740,7 +3740,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-052",
@@ -3778,7 +3778,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-053",
@@ -3816,7 +3816,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-054",
@@ -3893,7 +3893,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-056",
@@ -3931,7 +3931,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-057",
@@ -3969,7 +3969,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-058",
@@ -4007,7 +4007,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-059",
@@ -4084,7 +4084,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-061",
@@ -4122,7 +4122,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-062",
@@ -4199,7 +4199,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-064",
@@ -4238,7 +4238,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-065",
@@ -4276,7 +4276,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-066",
@@ -4315,7 +4315,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-067",
@@ -4353,7 +4353,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-068",
@@ -4392,7 +4392,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "association",
-    "official_url_note": "業界団体情報（公式未確認）"
+    "official_url_note": "公式サイト未確認（最終レビュー済）"
   },
   {
     "id": "cand-jwic-seed-069",
