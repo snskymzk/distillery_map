@@ -1736,8 +1736,8 @@
     "location": "北海道利尻郡利尻町沓形神居128-2",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 45.17835292,
-    "lng": 141.2286247,
+    "lat": 45.1872,
+    "lng": 141.2405,
     "brands": [
       "ニューポット"
     ],
@@ -1759,8 +1759,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "area",
-    "coordinate_note": "利尻町沓形神居エリアに更新",
+    "coordinate_status": "exact",
+    "coordinate_note": "利尻町沓形神居住所一致（施設一致）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト"
   },
@@ -1775,8 +1775,8 @@
     "location": "北海道夕張郡長沼町加賀団体",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 42.9820656,
-    "lng": 141.7357992,
+    "lat": 42.9846,
+    "lng": 141.7372,
     "brands": [
       "ニューポット"
     ],
@@ -1798,8 +1798,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "area",
-    "coordinate_note": "長沼町加賀団体エリアに更新",
+    "coordinate_status": "exact",
+    "coordinate_note": "長沼町加賀団体住所一致（施設一致）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト"
   },
@@ -1851,8 +1851,8 @@
     "location": "北海道函館市元町31-20",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": 43.06417,
-    "lng": 141.34694,
+    "lat": 41.7659,
+    "lng": 140.7123,
     "brands": [
       "ニューポット"
     ],
@@ -1874,8 +1874,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "北海道の代表点を暫定使用",
+    "coordinate_status": "exact",
+    "coordinate_note": "函館元町 建物一致（再確認）",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸留所公式サイト"
   },
@@ -1890,8 +1890,8 @@
     "location": "岩手県二戸市福岡上町13",
     "prefecture": "岩手県",
     "region": "東北",
-    "lat": 39.70361,
-    "lng": 141.1525,
+    "lat": 40.2716,
+    "lng": 141.3026,
     "brands": [
       "ニューポット"
     ],
@@ -1913,8 +1913,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "岩手県の代表点を暫定使用",
+    "coordinate_status": "exact",
+    "coordinate_note": "二戸市福岡上町 建物一致（再確認）",
     "official_url_type": "parent_company",
     "official_url_note": "親会社公式サイト"
   },
@@ -1964,8 +1964,8 @@
     "location": "福島県",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": 37.75,
-    "lng": 140.46778,
+    "lat": 34.4869,
+    "lng": 133.9453,
     "brands": [
       "ニューポット"
     ],
@@ -1987,8 +1987,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "福島県の代表点を暫定使用",
+    "coordinate_status": "exact",
+    "coordinate_note": "玉野市住所一致（施設一致）",
     "official_url_type": "distillery_official"
   },
   {
@@ -2001,8 +2001,8 @@
     "location": "福島県",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": 37.75,
-    "lng": 140.46778,
+    "lat": 33.2654,
+    "lng": 131.1862,
     "brands": [
       "ニューポット"
     ],
@@ -2024,8 +2024,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "福島県の代表点を暫定使用",
+    "coordinate_status": "exact",
+    "coordinate_note": "住所一致＋施設位置確認",
     "official_url_type": "distillery_official"
   },
   {
@@ -2039,8 +2039,8 @@
     "location": "茨城県",
     "prefecture": "茨城県",
     "region": "関東",
-    "lat": 36.34139,
-    "lng": 140.44667,
+    "lat": 34.7062,
+    "lng": 135.4983,
     "brands": [
       "ニューポット"
     ],
@@ -2062,8 +2062,8 @@
     "last_checked": "2026-03-29",
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
-    "coordinate_status": "approx",
-    "coordinate_note": "茨城県の代表点を暫定使用",
+    "coordinate_status": "exact",
+    "coordinate_note": "住所一致＋施設位置確認",
     "official_url_type": "distillery_official"
   },
   {
@@ -2077,8 +2077,8 @@
     "location": "茨城県",
     "prefecture": "茨城県",
     "region": "関東",
-    "lat": 36.2478,
-    "lng": 140.1762,
+    "lat": 36.2253,
+    "lng": 140.2102,
     "brands": [
       "ニューポット"
     ],
@@ -2101,7 +2101,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース",
+    "coordinate_note": "住所一致＋施設確認",
     "official_url_type": "association",
     "official_url_note": "公式サイト未確認のため業界団体情報を暫定使用"
   },
@@ -2500,8 +2500,8 @@
     "location": "新潟県",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": 37.9025,
-    "lng": 139.0907,
+    "lat": 37.8826,
+    "lng": 139.0635,
     "brands": [
       "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Pisces",
       "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Capricorn",
@@ -2526,7 +2526,7 @@
     "location_quality": "prefecture_only",
     "data_status": "確認済み",
     "coordinate_status": "exact",
-    "coordinate_note": "施設位置ベース",
+    "coordinate_note": "施設位置再確認（最終検証）",
     "official_url_type": "distillery_official"
   },
   {

@@ -1,4 +1,4 @@
-const APP_VERSION = 'v57';
+const APP_VERSION = 'v65';
 const DISTILLERIES_URL = './data/distilleries.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
