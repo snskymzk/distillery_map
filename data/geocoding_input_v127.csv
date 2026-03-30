@@ -1,0 +1,136 @@
+id,name,location,official_url,legacy_lat,legacy_lng,lat,lng,coordinate_source,coordinate_status
+record,サントリー山崎蒸溜所,大阪府三島郡島本町山崎5-2-1,https://www.suntory.co.jp/factory/yamazaki/,34.8926,135.6757,34.892633,135.674462,place,exact
+record,サントリー白州蒸溜所,山梨県北杜市白州町鳥原2913-1,https://www.suntory.co.jp/factory/hakushu/,35.8211,138.3362,,,none,approx
+record,ニッカウヰスキー余市蒸溜所,北海道余市郡余市町黒川町7-6,https://www.nikka.com/distilleries/yoichi/visit/,43.1979,140.785,,,none,approx
+record,ニッカウヰスキー宮城峡蒸溜所,宮城県仙台市青葉区ニッカ1,https://distillery.nikka.com/miyagikyo/reservation,38.3178,140.6897,,,none,approx
+record,安積蒸溜所,福島県郡山市笹川1-178,https://www.sasanokawa.co.jp/asaka-distillery/index.html,37.4006,140.3586,37.361894,140.372393,address,exact
+record,游佐蒸溜所,山形県飽海郡遊佐町吉出金俣239-5,https://yuza-disty.jp/,39.0434,139.9228,,,none,approx
+record,キリンディスティラリー富士御殿場蒸溜所,静岡県御殿場市柴怒田970,https://www.kirin.co.jp/experience/factory/gotemba/,35.3014,138.9329,,,none,approx
+record,マルス駒ヶ岳蒸溜所,長野県上伊那郡宮田村4752-31,https://www.hombo.co.jp/visiting/komagatake/reserve-komagatake/,35.7507,137.9381,,,none,approx
+record,秩父蒸溜所,埼玉県秩父市みどりが丘49,https://www.instagram.com/chichibu_distillery/,35.9906,139.0901,,,none,approx
+record,厚岸蒸溜所,北海道厚岸郡厚岸町宮園4-109-2,https://akkeshi-distillery.com/,43.0416,144.8465,,,none,approx
+record,ガイアフロー静岡蒸溜所,静岡県静岡市葵区落合555,https://www.gaiaflow.co.jp/,35.0315,138.3799,,,none,approx
+record,三郎丸蒸留所,富山県砺波市三郎丸208,https://www.wakatsuru.co.jp/saburomaru/,36.6463,136.9832,,,none,approx
+record,長濱蒸溜所,滋賀県長浜市朝日町14-1,https://www.romanbeer.com,35.3744,136.2739,,,none,approx
+record,江井ヶ嶋酒造 ホワイトオーク蒸留所,兵庫県明石市大久保町西島919,https://www.ei-sake.jp/tours.html,34.7158,134.8926,,,none,approx
+record,嘉之助蒸溜所,鹿児島県日置市日吉町神之川845-3,https://kanosuke.com/distillery/,31.6839,130.3081,,,none,approx
+record,マルス津貫蒸溜所,鹿児島県南さつま市加世田津貫6594,https://www.hombo.co.jp/visiting/tsunuki/reserve-tsunuki/,31.4185,130.3387,,,none,approx
+shindo-distillery,SHINDO DISTILLERY,福岡県朝倉市杷木林田680-3,https://shindo-lab.jp/distillery/,33.396,130.707,,,none,approx
+record,小諸蒸留所,長野県小諸市甲4630-1,https://komorodistillery.com/visit/,36.3258,138.4234,,,none,approx
+setouchi-distillery,SETOUCHI DISTILLERY,広島県呉市本通7-9-10,https://setouchidistillery.com/,34.2478,132.5652,,,none,approx
+record,尾鈴山蒸留所,宮崎県児湯郡木城町石河内字倉ノ又656-17,https://osuzuyama.co.jp/,32.2005,131.403,,,none,approx
+record,久住蒸溜所,大分県竹田市久住町白丹7571-23,https://kujudistillery.jp/,33.0297,131.2485,,,none,approx
+sakurao-distillery,SAKURAO DISTILLERY,広島県廿日市市桜尾1-12-1,https://www.sakuraodistillery.com/fieldtrip/,34.3505,132.3218,,,none,approx
+record,ニセコ蒸溜所,北海道虻田郡ニセコ町ニセコ478-15,https://niseko-distillery.com/reservation/,42.8068,140.6824,,,none,approx
+record,日置蒸溜蔵,鹿児島県日置市日吉町日置3309,https://www.komasa.co.jp/visit,31.6302,130.3198,,,none,approx
+record,東京リバーサイド蒸溜所,東京都台東区蔵前3-9-3,https://ethicalspirits.jp,35.705,139.7922,,,none,approx
+record,三國蒸溜所,大阪府大阪市東成区東小橋1-16-24,https://mikunidistillery.jp/news/reserve/,34.6695,135.5418,,,none,approx
+record,丹丘蒸留所,北海道上川郡東川町西2号北23,https://tankyudistillery.jp/ja/tour,43.698,142.5107,,,none,approx
+record,東京八王子蒸溜所,東京都八王子市椚田町1213-5,https://www.hachioji-distillery.jp,35.6428,139.2988,,,none,approx
+record,小城蒸溜所,佐賀県小城市小城町岩蔵2575-3,https://ogidistillery.jp/,33.2632,130.1968,,,none,approx
+record,野沢温泉蒸留所,長野県下高井郡野沢温泉村豊郷9394,https://nozawaonsendistillery.jp/,36.9202,138.4446,,,none,approx
+record,沼津蒸留所,静岡県沼津市大手町5-6-7周辺,https://www.flavour.jp/NumazuDistillery,35.1024,138.8586,,,none,approx
+record,深川蒸留所,東京都江東区平野2-3-15,https://fukagawa-distillery.tokyo/,35.6814,139.799,,,none,approx
+record,虎ノ門蒸留所,東京都港区虎ノ門3丁目18-19 UD神谷町ビル1F,https://toranomondistillery.jp/,35.6658,139.7476,,,none,approx
+blue-rabbit-distillery,Blue Rabbit Distillery,東京都大田区田園調布本町29-2 ウェル田園調布102,https://www.bluerabbitdistillery.com/,35.588,139.6821,,,none,approx
+record,羽田ブルワリー,東京都大田区蒲田本町1-11-7,https://haneda-brewery.com/,35.5621,139.7158,,,none,approx
+record,紅櫻蒸溜所,北海道札幌市南区澄川389-6,https://www.hlwhisky.co.jp/,43.0015,141.3438,,,none,approx
+record,積丹スピリット,北海道積丹郡積丹町美国町字小泊9-13,https://shakotan-spirit.co.jp/,43.2675,140.6002,,,none,approx
+record,京丹後舞輪源蒸留所,京都府京丹後市弥栄町黒部3123,https://mairingen.jp/,35.6545,135.0933,,,none,approx
+alembic-distillery,Alembic Distillery,石川県金沢市大野町1丁目38-5,https://www.alembic.jp/,36.6032,136.5921,,,none,approx
+record,楠乃花蒸溜所,佐賀県佐賀市諸富町大字為重214-4,https://stilldam.saga.jp/,33.2165,130.35,,,none,approx
+record,五島つばき蒸溜所,長崎県五島市上大津町2413,https://gotogin.jp/,32.7126,128.8538,,,none,approx
+record,十勝平野蒸溜所,北海道中川郡幕別町札内北町55-2,https://tokachi-pd.jp/,42.9149,143.248,,,none,approx
+record,辰巳蒸留所,岐阜県郡上市八幡町稲成887-7,https://www.facebook.com/TatsumiDistillery/?locale=ja_JP,35.7481,136.9587,,,none,approx
+record,丹沢蒸溜所,神奈川県足柄上郡山北町中川822-1,https://tanzawa-distillery.com/index.html,35.4588,139.0565,,,none,approx
+cand-kanagawa-shonan,湘南蒸留所,神奈川県茅ヶ崎市香川7-10-7,https://kumazawa.jp/kumazawa-tsushin/post-20240919-5/,35.360902,139.40191,,,none,approx
+cand-jwic-seed-001,利尻蒸留所,北海道利尻郡利尻町沓形神居128-2,https://kamuiwhisky.com/ja/home-ja/,45.1872,141.2405,,,none,approx
+cand-jwic-seed-002,馬追蒸溜所,北海道夕張郡長沼町加賀団体,https://maoidistillery.com/,42.9846,141.7372,,,none,approx
+cand-jwic-seed-003,サワマチ蒸溜所,北海道,http://sawamachi.jp/index.html,43.06417,141.34694,,,none,approx
+cand-jwic-seed-004,ディ・トリッパー蒸留所,北海道函館市元町31-20,https://ditripper.com/,41.7659,140.7123,,,none,approx
+cand-jwic-seed-005,南部美人 本社蔵,岩手県二戸市福岡上町13,https://www.nanbubijin.co.jp/company/,40.2716,141.3026,,,none,approx
+cand-jwic-seed-006,月光川蒸留所,山形県飽海郡遊佐町菅里字菅野37-14,https://gakkogawa.com/,39.06524,139.87658,,,none,approx
+cand-jwic-seed-007,玉野アセンド蒸留所,福島県,https://tamano-ascend-distillery.jp/,34.4869,133.9453,,,none,approx
+cand-jwic-seed-008,天鏡蒸溜所,福島県,https://www.tenkyo.jp,33.2654,131.1862,,,none,approx
+cand-jwic-seed-009,高藏蒸留所,茨城県,https://takazo.meirishurui.com/,34.7062,135.4983,,,none,approx
+cand-jwic-seed-010,八郷蒸溜所,茨城県,https://kiuchibrewery.co.jp/brewery/yasatodistillery/,36.2253,140.2102,,,none,approx
+cand-jwic-seed-011,Stork Valley Distillery,栃木県小山市神鳥谷4丁目1番53号,https://stork-valley-distillery.com/,36.30095,139.7896,,,none,approx
+cand-jwic-seed-012,日光街道 小山蒸溜所,栃木県,https://nishiborisyuzo.com/site/nikko-kaido-oyama-distillery/,36.56583,139.88361,,,none,approx
+cand-jwic-seed-013,倉渕蒸留所,群馬県,https://kurabuchi-distillery.jp/,36.39111,139.06083,,,none,approx
+cand-jwic-seed-014,北軽井沢蒸留所,群馬県,https://link-kitakaru.co.jp,36.39111,139.06083,,,none,approx
+cand-jwic-seed-015,羽生蒸溜所,埼玉県,https://toashuzo.com/,35.85694,139.64889,,,none,approx
+cand-jwic-seed-016,鴻巣蒸溜所,埼玉県,,35.85694,139.64889,,,none,approx
+cand-jwic-seed-017,秩父第2蒸溜所,埼玉県,https://www.instagram.com/chichibu_distillery/,35.85694,139.64889,,,none,approx
+cand-jwic-seed-018,mitosaya薬草園蒸留所,千葉県夷隅郡大多喜町,https://mitosaya.com/,35.28734,140.24518,,,none,approx
+cand-jwic-seed-019,須藤本家,千葉県,https://www.sudouhonke.co.jp,35.60472,140.12333,,,none,approx
+cand-jwic-seed-020,吉田電材蒸留所,新潟県,https://yoshidadenzai-distillery.com,37.90222,139.02361,,,none,approx
+cand-jwic-seed-021,新潟亀田蒸溜所,新潟県,https://kameda-distillery.com/,37.8826,139.0635,,,none,approx
+cand-jwic-seed-022,深沢原蒸溜所,新潟県,https://www.hakkaisan.co.jp,37.90222,139.02361,,,none,approx
+cand-jwic-seed-023,オリエンタル金沢蒸溜所,石川県金沢市東町32,https://orientalbrewing.com/distillery/,36.5728,136.6647,,,none,approx
+cand-jwic-seed-024,富嶽蒸溜所,山梨県,https://sasakawa-whisky.jp,35.66389,138.56833,,,none,approx
+cand-jwic-seed-025,富士北麓蒸留所,山梨県,,35.66389,138.56833,,,none,approx
+cand-jwic-seed-026,Far Yeast 源流蒸溜所,山梨県,https://faryeast.com,35.66389,138.56833,,,none,approx
+cand-jwic-seed-027,飯山マウンテンファーム蒸溜所,長野県,,36.65139,138.18111,,,none,approx
+cand-jwic-seed-028,御代田蒸留所,長野県,https://www.kanchiku.com,36.65139,138.18111,,,none,approx
+cand-jwic-seed-029,軽井沢ウイスキー蒸留所,長野県,https://karuizawadistillers.com,36.65139,138.18111,,,none,approx
+cand-jwic-seed-030,飛騨高山蒸溜所,岐阜県,https://www.whisky-hida.com,35.39111,136.72222,,,none,approx
+cand-jwic-seed-031,Distillery Water Dragon,静岡県三島市大社町18-5,https://whiskey.co.jp/waterdragon,35.119689,138.919388,,,none,approx
+cand-jwic-seed-032,井川蒸溜所,静岡県静岡市葵区田代字大春木1299-1,https://juzan.co.jp/contents/ikawadistillery/,35.2152,138.2217,,,none,approx
+cand-jwic-seed-033,清洲桜醸造 本社工場,愛知県清須市清洲1692番地,https://onikoroshi.co.jp/company/,35.18028,136.90667,,,none,approx
+cand-jwic-seed-034,碧南蒸留所,愛知県,https://unibio.jp/whisky-project/,35.18028,136.90667,,,none,approx
+cand-jwic-seed-035,伊勢蒸留所,三重県,https://www.iseman.co.jp/,34.4875,136.7086,,,none,approx
+cand-jwic-seed-036,琵琶湖蒸溜所,滋賀県,https://www.biwako-distillery.jp,35.00444,135.86833,,,none,approx
+cand-jwic-seed-037,泉州蒸溜所,大阪府,https://rikyugura.jp,34.68639,135.52,,,none,approx
+cand-jwic-seed-038,西山酒造場,兵庫県,https://kotsuzumi.co.jp/,35.1773,135.0372,,,none,approx
+cand-jwic-seed-039,丹波蒸溜所,兵庫県,https://kizakura.co.jp/tamba/,34.69139,135.18306,,,none,approx
+cand-jwic-seed-040,神戸蒸溜所,兵庫県,https://www.kobe-distillery.com,34.69139,135.18306,,,none,approx
+cand-jwic-seed-041,六甲山蒸溜所,兵庫県,https://rokkosan-distillery.com,34.69139,135.18306,,,none,approx
+cand-jwic-seed-042,海峡蒸溜所,兵庫県,https://akashisakebrewery.com/ja/the-kaikyo-distillery/,34.69139,135.18306,,,none,approx
+cand-jwic-seed-043,養父蒸溜所,兵庫県,https://yabu-distillery.co.jp/,34.69139,135.18306,,,none,approx
+cand-jwic-seed-044,神息酒造 奈良蒸溜所,奈良県,https://www.kamikiwhisky.com/jp/,34.68528,135.83278,,,none,approx
+cand-jwic-seed-045,紀州熊野蒸溜所,和歌山県,https://kishukumano-distillery.com,34.22611,135.1675,,,none,approx
+cand-jwic-seed-046,千代むすび 境港蒸留所,鳥取県,https://www.chiyomusubi.co.jp/,35.50361,134.23833,,,none,approx
+cand-jwic-seed-047,岡山蒸溜所,岡山県,https://www.doppokan.jp/tour/,34.66167,133.935,,,none,approx
+cand-jwic-seed-048,阿波乃蒸溜所,徳島県,https://www.nissin-shurui.co.jp/whiskey.html,34.06583,134.55944,,,none,approx
+cand-jwic-seed-049,梅美人酒造,愛媛県,https://umebijin.com,33.84167,132.76611,,,none,approx
+cand-jwic-seed-050,ニッカウヰスキー 門司工場,福岡県,https://www.nikka.com,33.60639,130.41806,,,none,approx
+cand-jwic-seed-051,朝倉蒸溜所,福岡県,https://asakuradistillery.com,33.60639,130.41806,,,none,approx
+cand-jwic-seed-052,新道蒸溜所,福岡県,https://shindo-lab.jp,33.60639,130.41806,,,none,approx
+cand-jwic-seed-053,波佐見蒸留所,長崎県,https://www.ganjo.jp/,32.74472,129.87361,,,none,approx
+cand-jwic-seed-054,梅ヶ枝酒造,長崎県,https://www.umegae-shuzo.com/,33.1796,129.7154,,,none,approx
+cand-jwic-seed-055,山鹿蒸溜所,熊本県,https://yamagadistillery.co.jp,32.78972,130.74167,,,none,approx
+cand-jwic-seed-056,大石酒造場,熊本県,https://ohishi-shuzohjyo.jp,32.78972,130.74167,,,none,approx
+cand-jwic-seed-057,常楽酒造,熊本県,https://joraku.co.jp,32.78972,130.74167,,,none,approx
+cand-jwic-seed-058,田野蒸溜所,熊本県,https://www.hakutake.co.jp/tano-distillery/,32.78972,130.74167,,,none,approx
+cand-jwic-seed-059,SATO DISTILLERY,宮崎県延岡市祝子町2388番地1,https://satoshochu.com/,32.58252,131.66583,,,none,approx
+cand-jwic-seed-060,菱田蒸溜所,鹿児島県,https://tensei-shuzo.com,31.56028,130.55806,,,none,approx
+cand-jwic-seed-061,大隅酒造,鹿児島県,https://www.suntory.co.jp/osumidistillery/,31.56028,130.55806,,,none,approx
+cand-jwic-seed-062,さつま司蒸溜蔵,鹿児島県姶良市加治木町諏訪町200,https://www.asahibeer.co.jp/s-tsukasa-kura/,31.734095,130.620778,,,none,approx
+cand-jwic-seed-063,小牧蒸溜所,鹿児島県,https://komakijozo.co.jp,31.56028,130.55806,,,none,approx
+cand-jwic-seed-064,御岳蒸留所,鹿児島県,https://www.nishi-shuzo.co.jp/ontake/,31.56028,130.55806,,,none,approx
+cand-jwic-seed-065,火の神蒸溜所,鹿児島県,https://hinokamidistillery.jp,31.56028,130.55806,,,none,approx
+cand-jwic-seed-066,許田蒸留所,沖縄県,https://www.helios-syuzo.co.jp,26.2125,127.68111,,,none,approx
+cand-jwic-seed-067,州崎蒸溜所,沖縄県,https://shinzato-shuzo.co.jp,26.2125,127.68111,,,none,approx
+cand-jwic-seed-068,那覇蒸溜所,沖縄県,https://kumesen.co.jp,26.2125,127.68111,,,none,approx
+cand-jwic-seed-069,まさひろ酒造,沖縄県糸満市西崎町5-8-7,https://www.masahiro.co.jp/,26.154117,127.665093,,,none,approx
+excl-jwic-seed-071,富良野蒸溜所,,,,,,,none,none
+excl-jwic-seed-072,十勝蒸溜所,,,,,,,none,none
+excl-jwic-seed-073,Taiki Cosmic Glen Distillery,,,,,,,none,none
+excl-jwic-seed-074,千歳蒸溜所,,,,,,,none,none
+excl-jwic-seed-075,苫小牧蒸溜所,,,,,,,none,none
+excl-jwic-seed-076,当別蒸溜所,,,,,,,none,none
+excl-jwic-seed-077,札幌酒精工業 札幌工場,,,,,,,none,none
+excl-jwic-seed-078,忍蒸溜所,,,,,,,none,none
+excl-jwic-seed-079,大谷妙高蒸溜所（仮称）,,,,,,,none,none
+excl-jwic-seed-080,南アルプスワインアンドビバレッジ 笛吹工場,,,,,,,none,none
+excl-jwic-seed-081,韮崎御勅使蒸留所,,,,,,,none,none
+excl-jwic-seed-082,富士かぐや蒸溜所,,,,,,,none,none
+excl-jwic-seed-083,養老蒸溜所,,,,,,,none,none
+excl-jwic-seed-084,京都みやこ蒸溜所,,,,,,,none,none
+excl-jwic-seed-085,藩蔵屋敷 北新地CO・LABO,,,,,,,none,none
+excl-jwic-seed-086,三国蒸溜所,,,,,,,none,none
+excl-jwic-seed-087,倉吉蒸溜所,,,,,,,none,none
+excl-jwic-seed-088,SAKURAO DISTILLERY FOREST SITE,,,,,,,none,none
+excl-jwic-seed-089,喜多屋,,https://www.kitaya.co.jp,,,,,none,none
+excl-jwic-seed-090,山都蒸留所,,,,,,,none,none
+excl-jwic-seed-091,横川蒸留所,,,,,,,none,none
