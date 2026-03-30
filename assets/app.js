@@ -1,4 +1,4 @@
-const APP_VERSION = 'v97';
+const APP_VERSION = 'v98';
 const DISTILLERIES_URL = './data/distilleries.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -75,7 +75,7 @@ function statusBadge(item){
   return item.data_status === '保留' ? '<span class="badge hold-badge">要確認</span>' : '';
 }
 function actionLinks(item){
-  return `${item.reference_url?`<a class="action-link" href="${item.reference_url}" target="_blank" rel="noopener noreferrer">公式サイト</a>`:''}${item.location?`<a class="action-link" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップ</a>`:''}`;
+  return `${item.official_url?`<a class="action-link" href="${item.official_url}" target="_blank" rel="noopener noreferrer">公式サイト</a>`:''}${item.location?`<a class="action-link" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.location)}" target="_blank" rel="noopener noreferrer">Googleマップ</a>`:''}`;
 }
 function coordinateBadge(item){
   if(item.coordinate_status === 'approx') return '<span class="badge approx-badge">位置は暫定</span>';
