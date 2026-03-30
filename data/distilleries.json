@@ -3486,7 +3486,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.plumone.co.jp/syoukai-html/kishukumano-distillery/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3506,8 +3506,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "プラム食品の公式蒸溜所紹介ページ"
   },
   {
     "id": "cand-jwic-seed-046",
@@ -3525,7 +3525,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://chiyomusubi.co.jp/",
+    "official_url": "https://www.chiyomusubi.co.jp/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3546,7 +3546,7 @@
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
     "official_url_type": "parent_company",
-    "official_url_note": "千代むすび酒造公式サイト（蒸留所母体）"
+    "official_url_note": "千代むすび酒造公式サイト"
   },
   {
     "id": "cand-jwic-seed-047",
@@ -3564,7 +3564,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.doppokan.jp/tour/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3584,8 +3584,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "宮下酒造・独歩館の公式見学ページ（確認済）"
   },
   {
     "id": "cand-jwic-seed-048",
@@ -3603,7 +3603,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://www.nissin-shurui.co.jp/whiskey.html",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3623,8 +3623,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "日新酒類の公式ウイスキーページ"
   },
   {
     "id": "cand-jwic-seed-049",
