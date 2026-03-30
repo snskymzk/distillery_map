@@ -3254,7 +3254,7 @@
     "brands": [
       "ニューポット"
     ],
-    "official_url": "https://jwic.jp/distillery/",
+    "official_url": "https://kizakura.co.jp/tamba/",
     "reference_url": "https://jwic.jp/distillery/",
     "visitable": false,
     "visit_label": "見学未確認",
@@ -3274,8 +3274,8 @@
     "data_status": "確認済み",
     "coordinate_status": "approx",
     "coordinate_note": "代表点（暫定・最終監査済）",
-    "official_url_type": "association",
-    "official_url_note": "公式サイト未確認（最終確定）"
+    "official_url_type": "parent_company",
+    "official_url_note": "黄桜公式サイト内の丹波蒸溜所ページ（確認済）"
   },
   {
     "id": "cand-jwic-seed-040",
