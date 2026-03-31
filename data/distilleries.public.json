@@ -36,8 +36,8 @@
     "location": "山梨県北杜市白州町鳥原2913-1",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.8273304,
+    "lng": 138.3012251,
     "coordinate_status": "approx",
     "official_url": "https://www.suntory.co.jp/factory/hakushu/",
     "official_url_type": null,
@@ -51,7 +51,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -63,8 +63,8 @@
     "location": "北海道余市郡余市町黒川町7-6",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 43.1871411,
+    "lng": 140.7908009,
     "coordinate_status": "approx",
     "official_url": "https://www.nikka.com/distilleries/yoichi/visit/",
     "official_url_type": null,
@@ -78,7 +78,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -91,8 +91,8 @@
     "location": "宮城県仙台市青葉区ニッカ1",
     "prefecture": "宮城県",
     "region": "東北",
-    "lat": null,
-    "lng": null,
+    "lat": 38.3097561,
+    "lng": 140.6498773,
     "coordinate_status": "approx",
     "official_url": "https://distillery.nikka.com/miyagikyo/reservation",
     "official_url_type": null,
@@ -106,7 +106,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -145,8 +145,8 @@
     "location": "山形県飽海郡遊佐町吉出金俣239-5",
     "prefecture": "山形県",
     "region": "東北",
-    "lat": null,
-    "lng": null,
+    "lat": 39.0397102,
+    "lng": 139.9943473,
     "coordinate_status": "approx",
     "official_url": "https://yuza-disty.jp/",
     "official_url_type": null,
@@ -160,7 +160,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -172,8 +172,8 @@
     "location": "静岡県御殿場市柴怒田970",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.3368016,
+    "lng": 138.8968164,
     "coordinate_status": "approx",
     "official_url": "https://www.kirin.co.jp/experience/factory/gotemba/",
     "official_url_type": null,
@@ -187,7 +187,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -199,8 +199,8 @@
     "location": "長野県上伊那郡宮田村4752-31",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.7477025,
+    "lng": 137.9013179,
     "coordinate_status": "approx",
     "official_url": "https://www.hombo.co.jp/visiting/komagatake/reserve-komagatake/",
     "official_url_type": null,
@@ -214,7 +214,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -226,8 +226,8 @@
     "location": "埼玉県秩父市みどりが丘49",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.0463212,
+    "lng": 139.0546859,
     "coordinate_status": "approx",
     "official_url": "https://www.instagram.com/chichibu_distillery/",
     "official_url_type": "distillery_official",
@@ -241,7 +241,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -253,8 +253,8 @@
     "location": "北海道厚岸郡厚岸町宮園4丁目109-2",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 43.0758438,
+    "lng": 144.8207169,
     "coordinate_status": "approx",
     "official_url": "https://akkeshi-distillery.com/",
     "official_url_type": "distillery_official",
@@ -268,7 +268,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -280,8 +280,8 @@
     "location": "静岡県静岡市葵区落合555",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.1205434,
+    "lng": 138.3253725,
     "coordinate_status": "approx",
     "official_url": "https://www.gaiaflow.co.jp/",
     "official_url_type": null,
@@ -295,7 +295,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -307,8 +307,8 @@
     "location": "富山県砺波市三郎丸208",
     "prefecture": "富山県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.6557566,
+    "lng": 136.9693641,
     "coordinate_status": "approx",
     "official_url": "https://www.wakatsuru.co.jp/saburomaru/",
     "official_url_type": "distillery_official",
@@ -322,7 +322,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -334,8 +334,8 @@
     "location": "滋賀県長浜市朝日町14-1",
     "prefecture": "滋賀県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 35.3769171,
+    "lng": 136.2677438,
     "coordinate_status": "approx",
     "official_url": "https://www.romanbeer.com",
     "official_url_type": "parent_company",
@@ -349,7 +349,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -361,8 +361,8 @@
     "location": "兵庫県明石市大久保町西島919",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.681402,
+    "lng": 134.9054577,
     "coordinate_status": "approx",
     "official_url": "https://www.ei-sake.jp/tours.html",
     "official_url_type": null,
@@ -376,7 +376,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -388,8 +388,8 @@
     "location": "鹿児島県日置市日吉町神之川845-3",
     "prefecture": "",
     "region": "その他",
-    "lat": null,
-    "lng": null,
+    "lat": 31.6029601,
+    "lng": 130.335417,
     "coordinate_status": "approx",
     "official_url": "https://kanosuke.com/distillery/",
     "official_url_type": "distillery_official",
@@ -403,7 +403,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -416,8 +416,8 @@
     "location": "鹿児島県南さつま市加世田津貫6594",
     "prefecture": "",
     "region": "その他",
-    "lat": null,
-    "lng": null,
+    "lat": 31.3586519,
+    "lng": 130.2861897,
     "coordinate_status": "approx",
     "official_url": "https://www.hombo.co.jp/visiting/tsunuki/reserve-tsunuki/",
     "official_url_type": null,
@@ -431,7 +431,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "shindo-distillery",
@@ -443,8 +443,8 @@
     "location": "福岡県朝倉市比良松626番地1",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.3816179,
+    "lng": 130.7281024,
     "coordinate_status": "approx",
     "official_url": "https://shindo-lab.jp/distillery/",
     "official_url_type": null,
@@ -458,7 +458,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -470,8 +470,8 @@
     "location": "長野県小諸市甲4630-1",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.345318,
+    "lng": 138.4447537,
     "coordinate_status": "approx",
     "official_url": "https://komorodistillery.com/visit/",
     "official_url_type": null,
@@ -485,7 +485,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "setouchi-distillery",
@@ -498,8 +498,8 @@
     "location": "広島県呉市本通7-9-10",
     "prefecture": "広島県",
     "region": "中国",
-    "lat": null,
-    "lng": null,
+    "lat": 34.2511434,
+    "lng": 132.5773883,
     "coordinate_status": "approx",
     "official_url": "https://setouchidistillery.com/",
     "official_url_type": null,
@@ -513,7 +513,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -553,8 +553,8 @@
     "location": "大分県竹田市久住町白丹7571-23",
     "prefecture": "大分県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.0354948,
+    "lng": 131.2257398,
     "coordinate_status": "approx",
     "official_url": "https://kujudistillery.jp/",
     "official_url_type": null,
@@ -568,7 +568,7 @@
     "visitable": false,
     "visit_label": "現在見学受付なし",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "sakurao-distillery",
@@ -609,8 +609,8 @@
     "location": "北海道虻田郡ニセコ町ニセコ478-15",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 42.8483906,
+    "lng": 140.6398367,
     "coordinate_status": "approx",
     "official_url": "https://niseko-distillery.com/reservation/",
     "official_url_type": null,
@@ -624,7 +624,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -637,8 +637,8 @@
     "location": "鹿児島県日置市日吉町日置3309",
     "prefecture": "",
     "region": "その他",
-    "lat": null,
-    "lng": null,
+    "lat": 31.5963152,
+    "lng": 130.3466431,
     "coordinate_status": "approx",
     "official_url": "https://www.komasa.co.jp/visit",
     "official_url_type": null,
@@ -652,7 +652,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -664,8 +664,8 @@
     "location": "東京都台東区蔵前3-9-3",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.704718,
+    "lng": 139.790675,
     "coordinate_status": "approx",
     "official_url": "https://ethicalspirits.jp",
     "official_url_type": "parent_company",
@@ -679,7 +679,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -692,8 +692,8 @@
     "location": "大阪府大阪市東成区東小橋1-16-24",
     "prefecture": "大阪府",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.6713653,
+    "lng": 135.5345706,
     "coordinate_status": "approx",
     "official_url": "https://mikunidistillery.jp/news/reserve/",
     "official_url_type": null,
@@ -707,7 +707,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -720,8 +720,8 @@
     "location": "北海道上川郡東川町西2号北23",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 43.6901541,
+    "lng": 142.5213638,
     "coordinate_status": "approx",
     "official_url": "https://tankyudistillery.jp/ja/tour",
     "official_url_type": null,
@@ -735,7 +735,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -747,8 +747,8 @@
     "location": "東京都八王子市椚田町1213-5",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.637118,
+    "lng": 139.2960877,
     "coordinate_status": "approx",
     "official_url": "https://www.hachioji-distillery.jp",
     "official_url_type": "distillery_official",
@@ -762,7 +762,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -774,8 +774,8 @@
     "location": "佐賀県小城市小城町903",
     "prefecture": "佐賀県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.2987763,
+    "lng": 130.2028565,
     "coordinate_status": "approx",
     "official_url": "https://ogidistillery.jp/",
     "official_url_type": null,
@@ -789,7 +789,7 @@
     "visitable": true,
     "visit_label": "見学可",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -802,8 +802,8 @@
     "location": "長野県下高井郡野沢温泉村豊郷9394",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.9221537,
+    "lng": 138.449445,
     "coordinate_status": "approx",
     "official_url": "https://nozawaonsendistillery.jp/",
     "official_url_type": null,
@@ -817,7 +817,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -829,8 +829,8 @@
     "location": "静岡県沼津市大手町5-6-7周辺",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.0995289,
+    "lng": 138.8578617,
     "coordinate_status": "approx",
     "official_url": "https://www.flavour.jp/NumazuDistillery",
     "official_url_type": null,
@@ -844,7 +844,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -856,8 +856,8 @@
     "location": "東京都江東区平野2-3-15",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.6774339,
+    "lng": 139.8028461,
     "coordinate_status": "approx",
     "official_url": "https://fukagawa-distillery.tokyo/",
     "official_url_type": null,
@@ -871,7 +871,7 @@
     "visitable": true,
     "visit_label": "イベント開催時のみ",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -883,8 +883,8 @@
     "location": "東京都港区虎ノ門3丁目18-19 UD神谷町ビル1F",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.6631695,
+    "lng": 139.7463501,
     "coordinate_status": "approx",
     "official_url": "https://toranomondistillery.jp/",
     "official_url_type": null,
@@ -898,7 +898,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "blue-rabbit-distillery",
@@ -910,8 +910,8 @@
     "location": "東京都大田区田園調布本町29-2 ウェル田園調布102",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.5828614,
+    "lng": 139.6733719,
     "coordinate_status": "approx",
     "official_url": "https://www.bluerabbitdistillery.com/",
     "official_url_type": null,
@@ -925,7 +925,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -937,8 +937,8 @@
     "location": "東京都大田区蒲田本町1-11-7",
     "prefecture": "東京都",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.5560244,
+    "lng": 139.7151992,
     "coordinate_status": "approx",
     "official_url": "https://haneda-brewery.com/",
     "official_url_type": null,
@@ -952,7 +952,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -964,8 +964,8 @@
     "location": "北海道札幌市南区澄川389-6",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 42.9901349,
+    "lng": 141.3644682,
     "coordinate_status": "approx",
     "official_url": "https://www.hlwhisky.co.jp/",
     "official_url_type": null,
@@ -979,7 +979,7 @@
     "visitable": true,
     "visit_label": "見学可",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -1045,8 +1045,8 @@
     "location": "石川県金沢市大野町1丁目38-5",
     "prefecture": "石川県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.611652,
+    "lng": 136.6050475,
     "coordinate_status": "approx",
     "official_url": "https://www.alembic.jp/",
     "official_url_type": null,
@@ -1060,7 +1060,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -1072,8 +1072,8 @@
     "location": "佐賀県佐賀市諸富町大字為重214-4",
     "prefecture": "佐賀県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.2169572,
+    "lng": 130.3601173,
     "coordinate_status": "approx",
     "official_url": "https://stilldam.saga.jp/",
     "official_url_type": null,
@@ -1087,7 +1087,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -1099,8 +1099,8 @@
     "location": "長崎県五島市戸岐町1223-5",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 32.7760843,
+    "lng": 128.8034148,
     "coordinate_status": "approx",
     "official_url": "https://gotogin.jp/",
     "official_url_type": null,
@@ -1114,7 +1114,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -1126,8 +1126,8 @@
     "location": "北海道中川郡幕別町札内北町55-2",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 42.9279646,
+    "lng": 143.2509393,
     "coordinate_status": "approx",
     "official_url": "https://tokachi-pd.jp/",
     "official_url_type": null,
@@ -1141,7 +1141,7 @@
     "visitable": true,
     "visit_label": "イベント開催時のみ",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "record",
@@ -1180,8 +1180,8 @@
     "location": "神奈川県足柄上郡山北町中川822-1",
     "prefecture": "神奈川県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.4578951,
+    "lng": 139.0616468,
     "coordinate_status": "approx",
     "official_url": "https://tanzawa-distillery.com/index.html",
     "official_url_type": null,
@@ -1195,7 +1195,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-kanagawa-shonan",
@@ -1208,8 +1208,8 @@
     "location": "神奈川県茅ヶ崎市香川7-10-7",
     "prefecture": "神奈川県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.3604328,
+    "lng": 139.4019729,
     "coordinate_status": "approx",
     "official_url": "https://kumazawa.jp/kumazawa-tsushin/post-20240919-5/",
     "official_url_type": null,
@@ -1223,7 +1223,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中とみられる",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-001",
@@ -1235,8 +1235,8 @@
     "location": "北海道利尻郡利尻町沓形神居128-2",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1642113,
+    "lng": 141.1409883,
     "coordinate_status": "approx",
     "official_url": "https://kamuiwhisky.com/ja/home-ja/",
     "official_url_type": "distillery_official",
@@ -1248,7 +1248,7 @@
     "visitable": false,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-002",
@@ -1311,8 +1311,8 @@
     "location": "北海道函館市元町31-20",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7645881,
+    "lng": 140.7136804,
     "coordinate_status": "approx",
     "official_url": "https://ditripper.com/",
     "official_url_type": "distillery_official",
@@ -1324,7 +1324,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-005",
@@ -1337,8 +1337,8 @@
     "location": "岩手県二戸市福岡字上町13",
     "prefecture": "岩手県",
     "region": "東北",
-    "lat": null,
-    "lng": null,
+    "lat": 40.2728723,
+    "lng": 141.3012368,
     "coordinate_status": "approx",
     "official_url": "https://www.nanbubijin.co.jp/company/",
     "official_url_type": "parent_company",
@@ -1350,7 +1350,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-006",
@@ -1387,8 +1387,8 @@
     "location": "福島県相馬市玉野字町74番地",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": null,
-    "lng": null,
+    "lat": 37.7695798,
+    "lng": 140.7156471,
     "coordinate_status": "approx",
     "official_url": "https://tamano-ascend-distillery.jp/",
     "official_url_type": "distillery_official",
@@ -1400,7 +1400,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-008",
@@ -1412,8 +1412,8 @@
     "location": "福島県耶麻郡磐梯町大字更科字中曽根平6841-11",
     "prefecture": "福島県",
     "region": "東北",
-    "lat": null,
-    "lng": null,
+    "lat": 37.5759129,
+    "lng": 140.0191617,
     "coordinate_status": "approx",
     "official_url": "https://www.tenkyo.jp",
     "official_url_type": "distillery_official",
@@ -1425,7 +1425,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-009",
@@ -1438,8 +1438,8 @@
     "location": "茨城県水戸市元吉田町338番地",
     "prefecture": "茨城県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.3580915,
+    "lng": 140.4755566,
     "coordinate_status": "approx",
     "official_url": "https://takazo.meirishurui.com/",
     "official_url_type": "distillery_official",
@@ -1451,7 +1451,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-010",
@@ -1464,8 +1464,8 @@
     "location": "茨城県石岡市須釜1300",
     "prefecture": "茨城県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.2208489,
+    "lng": 140.1680131,
     "coordinate_status": "approx",
     "official_url": "https://kiuchibrewery.co.jp/brewery/yasatodistillery/",
     "official_url_type": "parent_company",
@@ -1477,7 +1477,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-011",
@@ -1490,8 +1490,8 @@
     "location": "栃木県小山市神鳥谷4丁目1番53号",
     "prefecture": "栃木県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.2992485,
+    "lng": 139.7890404,
     "coordinate_status": "approx",
     "official_url": "https://stork-valley-distillery.com/",
     "official_url_type": null,
@@ -1505,7 +1505,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-012",
@@ -1518,8 +1518,8 @@
     "location": "栃木県小山市大字粟宮1452",
     "prefecture": "栃木県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.2859882,
+    "lng": 139.7806378,
     "coordinate_status": "approx",
     "official_url": "https://tetsuwhisky.com/",
     "official_url_type": "distillery_official",
@@ -1531,7 +1531,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-013",
@@ -1543,8 +1543,8 @@
     "location": "群馬県高崎市倉渕町権田2625-1",
     "prefecture": "群馬県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.4538039,
+    "lng": 138.7735049,
     "coordinate_status": "approx",
     "official_url": "https://kurabuchi-distillery.jp/",
     "official_url_type": "distillery_official",
@@ -1556,7 +1556,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-014",
@@ -1568,8 +1568,8 @@
     "location": "群馬県吾妻郡長野原町北軽井沢1991-127",
     "prefecture": "群馬県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.4706962,
+    "lng": 138.5756679,
     "coordinate_status": "approx",
     "official_url": "https://link-kitakaru.co.jp",
     "official_url_type": "parent_company",
@@ -1581,7 +1581,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-015",
@@ -1593,8 +1593,8 @@
     "location": "埼玉県羽生市西4丁目1-11",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.1717614,
+    "lng": 139.530712,
     "coordinate_status": "approx",
     "official_url": "https://toashuzo.com/",
     "official_url_type": "parent_company",
@@ -1606,7 +1606,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-016",
@@ -1618,8 +1618,8 @@
     "location": "埼玉県鴻巣市小谷625",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.0769147,
+    "lng": 139.4692257,
     "coordinate_status": "approx",
     "official_url": "",
     "official_url_type": "association",
@@ -1631,7 +1631,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-017",
@@ -1643,8 +1643,8 @@
     "location": "埼玉県秩父市みどりが丘79",
     "prefecture": "埼玉県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 36.0503394,
+    "lng": 139.0579867,
     "coordinate_status": "approx",
     "official_url": "https://www.instagram.com/chichibu_distillery/",
     "official_url_type": "distillery_official",
@@ -1656,7 +1656,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-018",
@@ -1670,8 +1670,8 @@
     "location": "千葉県夷隅郡大多喜町大多喜486",
     "prefecture": "千葉県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.2842062,
+    "lng": 140.235028,
     "coordinate_status": "approx",
     "official_url": "https://mitosaya.com/",
     "official_url_type": null,
@@ -1685,7 +1685,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-019",
@@ -1697,8 +1697,8 @@
     "location": "千葉県君津市青柳16-10",
     "prefecture": "千葉県",
     "region": "関東",
-    "lat": null,
-    "lng": null,
+    "lat": 35.3002611,
+    "lng": 140.0735379,
     "coordinate_status": "approx",
     "official_url": "https://www.sudouhonke.co.jp",
     "official_url_type": "parent_company",
@@ -1710,7 +1710,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-020",
@@ -1722,8 +1722,8 @@
     "location": "新潟県村上市宿田344-1",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 38.152811,
+    "lng": 139.4597746,
     "coordinate_status": "approx",
     "official_url": "https://yoshidadenzai-distillery.com",
     "official_url_type": "distillery_official",
@@ -1735,7 +1735,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-021",
@@ -1748,8 +1748,8 @@
     "location": "新潟県新潟市江南区亀田工業団地1-3-5",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 37.8715506,
+    "lng": 139.0853295,
     "coordinate_status": "approx",
     "official_url": "https://kameda-distillery.com/",
     "official_url_type": "distillery_official",
@@ -1763,7 +1763,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-022",
@@ -1801,8 +1801,8 @@
     "location": "石川県金沢市東町32",
     "prefecture": "石川県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.4927087,
+    "lng": 136.7579761,
     "coordinate_status": "approx",
     "official_url": "https://orientalbrewing.com/distillery/",
     "official_url_type": "distillery_official",
@@ -1815,7 +1815,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-024",
@@ -1827,8 +1827,8 @@
     "location": "山梨県富士吉田市上吉田4918-1",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.4590423,
+    "lng": 138.7691632,
     "coordinate_status": "approx",
     "official_url": "https://sasakawa-whisky.jp",
     "official_url_type": "parent_company",
@@ -1840,7 +1840,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-025",
@@ -1852,8 +1852,8 @@
     "location": "山梨県南都留郡富士河口湖町船津8",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.5022027,
+    "lng": 138.7653119,
     "coordinate_status": "approx",
     "official_url": "",
     "official_url_type": "association",
@@ -1865,7 +1865,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-026",
@@ -1878,8 +1878,8 @@
     "location": "山梨県北都留郡小菅村4341-1",
     "prefecture": "山梨県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.7594265,
+    "lng": 138.9439856,
     "coordinate_status": "approx",
     "official_url": "https://faryeast.com",
     "official_url_type": "parent_company",
@@ -1891,7 +1891,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-027",
@@ -1904,8 +1904,8 @@
     "location": "長野県飯山市大字豊田5123-30",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.9229752,
+    "lng": 138.3831301,
     "coordinate_status": "approx",
     "official_url": "",
     "official_url_type": "association",
@@ -1917,7 +1917,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-028",
@@ -1930,8 +1930,8 @@
     "location": "長野県北佐久郡御代田町馬瀬口953-4",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.3282759,
+    "lng": 138.4891082,
     "coordinate_status": "approx",
     "official_url": "https://www.kanchiku.com",
     "official_url_type": "parent_company",
@@ -1943,7 +1943,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-029",
@@ -1955,8 +1955,8 @@
     "location": "長野県北佐久郡軽井沢町発地2785-318",
     "prefecture": "長野県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.3184735,
+    "lng": 138.5796083,
     "coordinate_status": "approx",
     "official_url": "https://www.karuizawa-whisky.co.jp/",
     "official_url_type": "parent_company",
@@ -1968,7 +1968,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-030",
@@ -1980,8 +1980,8 @@
     "location": "岐阜県高山市高根町下之向164-2",
     "prefecture": "岐阜県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 36.0296666,
+    "lng": 137.4597761,
     "coordinate_status": "approx",
     "official_url": "https://www.whisky-hida.com",
     "official_url_type": "distillery_official",
@@ -1993,7 +1993,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-031",
@@ -2006,8 +2006,8 @@
     "location": "静岡県三島市大社町18-5",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.1197295,
+    "lng": 138.9195022,
     "coordinate_status": "approx",
     "official_url": "https://whiskey.co.jp/waterdragon",
     "official_url_type": null,
@@ -2021,7 +2021,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-032",
@@ -2033,8 +2033,8 @@
     "location": "静岡県静岡市葵区田代字大春木1299-1",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.4560306,
+    "lng": 138.2212794,
     "coordinate_status": "approx",
     "official_url": "https://juzan.co.jp/contents/ikawadistillery/",
     "official_url_type": "distillery_official",
@@ -2046,7 +2046,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-033",
@@ -2084,8 +2084,8 @@
     "location": "愛知県碧南市弥生町4丁目3番地",
     "prefecture": "愛知県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 34.8693976,
+    "lng": 136.986879,
     "coordinate_status": "approx",
     "official_url": "https://unibio.jp/whisky-project/",
     "official_url_type": "parent_company",
@@ -2097,7 +2097,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-035",
@@ -2110,8 +2110,8 @@
     "location": "三重県伊勢市小俣町明野576番地13",
     "prefecture": "三重県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.5308071,
+    "lng": 136.6687713,
     "coordinate_status": "approx",
     "official_url": "https://www.iseman.co.jp/",
     "official_url_type": "parent_company",
@@ -2123,7 +2123,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-036",
@@ -2135,8 +2135,8 @@
     "location": "滋賀県高島市新旭町旭83",
     "prefecture": "滋賀県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 35.3577086,
+    "lng": 136.04359,
     "coordinate_status": "approx",
     "official_url": "https://www.biwako-distillery.jp",
     "official_url_type": "distillery_official",
@@ -2148,7 +2148,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-037",
@@ -2160,8 +2160,8 @@
     "location": "大阪府岸和田市土生町6-10-15",
     "prefecture": "大阪府",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.4444232,
+    "lng": 135.3877763,
     "coordinate_status": "approx",
     "official_url": "https://rikyugura.jp",
     "official_url_type": "parent_company",
@@ -2173,7 +2173,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-038",
@@ -2187,8 +2187,8 @@
     "location": "兵庫県丹波市市島町中竹田1171",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 35.241233,
+    "lng": 135.129131,
     "coordinate_status": "approx",
     "official_url": "https://kotsuzumi.co.jp/",
     "official_url_type": "parent_company",
@@ -2200,7 +2200,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-039",
@@ -2213,8 +2213,8 @@
     "location": "兵庫県丹波篠山市今田町本荘堂ヶ谷1-19",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 35.000064,
+    "lng": 135.078009,
     "coordinate_status": "approx",
     "official_url": "https://kizakura.co.jp/tamba/",
     "official_url_type": "parent_company",
@@ -2226,7 +2226,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-040",
@@ -2265,8 +2265,8 @@
     "location": "兵庫県神戸市灘区六甲山町南六甲1034-229",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.7572946,
+    "lng": 135.2289449,
     "coordinate_status": "approx",
     "official_url": "https://rokkosan-distillery.com",
     "official_url_type": "distillery_official",
@@ -2278,7 +2278,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-042",
@@ -2291,8 +2291,8 @@
     "location": "兵庫県明石市大蔵八幡町1-3",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.6446776,
+    "lng": 135.0122778,
     "coordinate_status": "approx",
     "official_url": "https://akashisakebrewery.com/ja/the-kaikyo-distillery/",
     "official_url_type": "parent_company",
@@ -2304,7 +2304,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-043",
@@ -2316,8 +2316,8 @@
     "location": "兵庫県養父市大屋町中間844-1",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 35.3090104,
+    "lng": 134.6054985,
     "coordinate_status": "approx",
     "official_url": "https://yabu-distillery.co.jp/",
     "official_url_type": "distillery_official",
@@ -2329,7 +2329,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-044",
@@ -2367,8 +2367,8 @@
     "location": "和歌山県西牟婁郡上富田生馬1474-1",
     "prefecture": "和歌山県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 33.6935829,
+    "lng": 135.4365087,
     "coordinate_status": "approx",
     "official_url": "https://kishukumano-distillery.com",
     "official_url_type": "distillery_official",
@@ -2380,7 +2380,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-046",
@@ -2393,8 +2393,8 @@
     "location": "鳥取県境港市大正町131",
     "prefecture": "鳥取県",
     "region": "中国",
-    "lat": null,
-    "lng": null,
+    "lat": 35.5449996,
+    "lng": 133.2246127,
     "coordinate_status": "approx",
     "official_url": "https://www.chiyomusubi.co.jp/",
     "official_url_type": "parent_company",
@@ -2406,7 +2406,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-047",
@@ -2419,8 +2419,8 @@
     "location": "岡山県岡山市中区西川原185-1",
     "prefecture": "岡山県",
     "region": "中国",
-    "lat": null,
-    "lng": null,
+    "lat": 34.6789127,
+    "lng": 133.9394687,
     "coordinate_status": "approx",
     "official_url": "https://www.doppokan.jp/tour/",
     "official_url_type": "parent_company",
@@ -2432,7 +2432,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-048",
@@ -2445,8 +2445,8 @@
     "location": "徳島県阿波市土成町郡176",
     "prefecture": "徳島県",
     "region": "四国",
-    "lat": null,
-    "lng": null,
+    "lat": 34.0986278,
+    "lng": 134.3317405,
     "coordinate_status": "approx",
     "official_url": "https://www.nissin-shurui.co.jp/whiskey.html",
     "official_url_type": "parent_company",
@@ -2458,7 +2458,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-049",
@@ -2496,8 +2496,8 @@
     "location": "福岡県北九州市門司区大里元町2-1",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.9187965,
+    "lng": 130.93885,
     "coordinate_status": "approx",
     "official_url": "https://www.nikka.com",
     "official_url_type": "parent_company",
@@ -2509,7 +2509,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-051",
@@ -2522,8 +2522,8 @@
     "location": "福岡県朝倉市比良松185",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.3860707,
+    "lng": 130.7271109,
     "coordinate_status": "approx",
     "official_url": "https://asakuradistillery.com",
     "official_url_type": "distillery_official",
@@ -2535,7 +2535,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-052",
@@ -2547,8 +2547,8 @@
     "location": "福岡県朝倉市比良松626番地1",
     "prefecture": "福岡県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.3816179,
+    "lng": 130.7281024,
     "coordinate_status": "approx",
     "official_url": "https://shindo-lab.jp",
     "official_url_type": "parent_company",
@@ -2560,7 +2560,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-053",
@@ -2572,8 +2572,8 @@
     "location": "長崎県東彼杵郡波佐見町折敷瀬郷1742-12",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.1417127,
+    "lng": 129.9020591,
     "coordinate_status": "approx",
     "official_url": "https://www.ganjo.jp/",
     "official_url_type": "parent_company",
@@ -2585,7 +2585,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-054",
@@ -2598,8 +2598,8 @@
     "location": "長崎県佐世保市城間町317番地",
     "prefecture": "長崎県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 33.0899962,
+    "lng": 129.8147985,
     "coordinate_status": "approx",
     "official_url": "https://www.umegae-shuzo.com/",
     "official_url_type": "parent_company",
@@ -2611,7 +2611,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-055",
@@ -2623,8 +2623,8 @@
     "location": "熊本県山鹿市鹿央町合里980番地1",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 32.9794302,
+    "lng": 130.6780781,
     "coordinate_status": "approx",
     "official_url": "https://yamagadistillery.co.jp",
     "official_url_type": "distillery_official",
@@ -2636,7 +2636,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-056",
@@ -2648,8 +2648,8 @@
     "location": "熊本県球磨郡水上村岩野1053",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 32.2968824,
+    "lng": 130.9878066,
     "coordinate_status": "approx",
     "official_url": "https://ohishi-shuzohjyo.jp",
     "official_url_type": "parent_company",
@@ -2661,7 +2661,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-057",
@@ -2673,8 +2673,8 @@
     "location": "熊本県球磨郡錦町一武2577-13",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 32.1948786,
+    "lng": 130.8451866,
     "coordinate_status": "approx",
     "official_url": "https://joraku.co.jp",
     "official_url_type": "parent_company",
@@ -2686,7 +2686,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-058",
@@ -2698,8 +2698,8 @@
     "location": "熊本県人吉市田野町3316-4",
     "prefecture": "熊本県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 32.1347884,
+    "lng": 130.6815076,
     "coordinate_status": "approx",
     "official_url": "https://www.hakutake.co.jp/tano-distillery/",
     "official_url_type": "parent_company",
@@ -2711,7 +2711,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-059",
@@ -2723,8 +2723,8 @@
     "location": "宮崎県延岡市祝子町2388番地1",
     "prefecture": "宮崎県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 32.6082083,
+    "lng": 131.639892,
     "coordinate_status": "approx",
     "official_url": "https://satoshochu.com/",
     "official_url_type": null,
@@ -2738,7 +2738,7 @@
     "visitable": true,
     "visit_label": "見学可",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-060",
@@ -2750,8 +2750,8 @@
     "location": "鹿児島県曽於郡大崎町菱田1270",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 31.4427027,
+    "lng": 131.0427013,
     "coordinate_status": "approx",
     "official_url": "https://tensei-shuzo.com",
     "official_url_type": "parent_company",
@@ -2763,7 +2763,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-061",
@@ -2775,8 +2775,8 @@
     "location": "鹿児島県曽於市大隅町坂元860番地1",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 31.6604652,
+    "lng": 130.8767089,
     "coordinate_status": "approx",
     "official_url": "https://www.suntory.co.jp/osumidistillery/",
     "official_url_type": "distillery_official",
@@ -2788,7 +2788,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-062",
@@ -2800,8 +2800,8 @@
     "location": "鹿児島県姶良市加治木町諏訪町200",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 31.7392642,
+    "lng": 130.6685088,
     "coordinate_status": "approx",
     "official_url": "https://www.asahibeer.co.jp/s-tsukasa-kura/",
     "official_url_type": null,
@@ -2815,7 +2815,7 @@
     "visitable": false,
     "visit_label": "見学不可",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-063",
@@ -2827,8 +2827,8 @@
     "location": "鹿児島県薩摩郡さつま町時吉12",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 31.9128807,
+    "lng": 130.461609,
     "coordinate_status": "approx",
     "official_url": "https://komakijozo.co.jp",
     "official_url_type": "parent_company",
@@ -2840,7 +2840,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-064",
@@ -2853,8 +2853,8 @@
     "location": "鹿児島県鹿児島市下福元町12300",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 31.5169605,
+    "lng": 130.4537151,
     "coordinate_status": "approx",
     "official_url": "https://www.nishi-shuzo.co.jp/ontake/",
     "official_url_type": "parent_company",
@@ -2866,7 +2866,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-065",
@@ -2878,8 +2878,8 @@
     "location": "鹿児島県枕崎市火之神北町388番地",
     "prefecture": "鹿児島県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 31.2609423,
+    "lng": 130.2693067,
     "coordinate_status": "approx",
     "official_url": "https://hinokamidistillery.jp",
     "official_url_type": "distillery_official",
@@ -2891,7 +2891,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-066",
@@ -2904,8 +2904,8 @@
     "location": "沖縄県名護市字許田405",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 26.5374577,
+    "lng": 127.9621748,
     "coordinate_status": "approx",
     "official_url": "https://www.helios-syuzo.co.jp",
     "official_url_type": "parent_company",
@@ -2917,7 +2917,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-067",
@@ -2929,8 +2929,8 @@
     "location": "沖縄県うるま市州崎12-17",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 26.3358691,
+    "lng": 127.8509555,
     "coordinate_status": "approx",
     "official_url": "https://shinzato-shuzo.co.jp",
     "official_url_type": "parent_company",
@@ -2942,7 +2942,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-068",
@@ -2955,8 +2955,8 @@
     "location": "沖縄県那覇市字仲井真155番",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 26.1959761,
+    "lng": 127.7063619,
     "coordinate_status": "approx",
     "official_url": "https://kumesen.co.jp",
     "official_url_type": "parent_company",
@@ -2968,7 +2968,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "cand-jwic-seed-069",
@@ -2982,8 +2982,8 @@
     "location": "沖縄県糸満市西崎町5-8-7",
     "prefecture": "沖縄県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 26.1427606,
+    "lng": 127.654326,
     "coordinate_status": "approx",
     "official_url": "https://www.masahiro.co.jp/",
     "official_url_type": null,
@@ -2997,7 +2997,7 @@
     "visitable": true,
     "visit_label": "見学可",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "excl-jwic-seed-071",
@@ -3013,12 +3013,12 @@
     "lng": null,
     "coordinate_status": "none",
     "official_url": "https://akkeshi-distillery.com",
-    "official_url_type": "parent_company",
+    "official_url_type": null,
     "google_maps_address_url": "",
     "brands": [
       "製品未発売（熟成中）"
     ],
-    "note": "2028年めどの計画扱い",
+    "note": "2028年をめどに上川管内中富良野町内で開設計画。未開設のため住所なし",
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
@@ -3032,11 +3032,11 @@
     ],
     "types_label": "ウイスキー",
     "location": "北海道中川郡幕別町札内みずほ町160-72",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": 42.9008467,
+    "lng": 143.2461776,
+    "coordinate_status": "approx",
     "official_url": "https://tokachidistillery.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%B7%9D%E9%83%A1%E5%B9%95%E5%88%A5%E7%94%BA%E6%9C%AD%E5%86%85%E3%81%BF%E3%81%9A%E3%81%BB%E7%94%BA160-72",
@@ -3047,7 +3047,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-073",
@@ -3057,11 +3058,11 @@
     ],
     "types_label": "ウイスキー",
     "location": "北海道広尾郡大樹町浜大樹67-18",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": 42.4707726,
+    "lng": 143.4273189,
+    "coordinate_status": "approx",
     "official_url": "https://tcgd.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%BA%83%E5%B0%BE%E9%83%A1%E5%A4%A7%E6%A8%B9%E7%94%BA%E6%B5%9C%E5%A4%A7%E6%A8%B967-18",
@@ -3072,7 +3073,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-074",
@@ -3139,7 +3141,7 @@
     "lng": null,
     "coordinate_status": "none",
     "official_url": "https://www.whisky-student.com",
-    "official_url_type": "association",
+    "official_url_type": null,
     "google_maps_address_url": "",
     "brands": [
       "製品未発売（熟成中）"
@@ -3159,11 +3161,11 @@
     ],
     "types_label": "ウイスキー / ジン",
     "location": "北海道札幌市西区発寒10条1丁目1番1号",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": 43.086031,
+    "lng": 141.3015598,
+    "coordinate_status": "approx",
     "official_url": "https://www.sapporo-shusei.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%99%BA%E5%AF%9210%E6%9D%A11%E4%B8%81%E7%9B%AE1%E7%95%AA1%E5%8F%B7",
@@ -3174,7 +3176,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-078",
@@ -3185,11 +3188,11 @@
     ],
     "types_label": "ウイスキー / ジン",
     "location": "新潟県新潟市西蒲区越前浜5120",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "新潟県",
+    "region": "中部",
+    "lat": 37.8063244,
+    "lng": 138.8494634,
+    "coordinate_status": "approx",
     "official_url": "https://shinobudistillery.com/index_jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E8%A5%BF%E8%92%B2%E5%8C%BA%E8%B6%8A%E5%89%8D%E6%B5%9C5120",
@@ -3200,7 +3203,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-079",
@@ -3237,11 +3241,11 @@
     ],
     "types_label": "ウイスキー / ジン / ブランデー",
     "location": "山梨県笛吹市一宮町上矢作191-1",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "山梨県",
+    "region": "中部",
+    "lat": 35.6617676,
+    "lng": 138.6957649,
+    "coordinate_status": "approx",
     "official_url": "https://minamialpswandb.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AC%9B%E5%90%B9%E5%B8%82%E4%B8%80%E5%AE%AE%E7%94%BA%E4%B8%8A%E7%9F%A2%E4%BD%9C191-1",
@@ -3252,7 +3256,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-081",
@@ -3264,11 +3269,11 @@
     ],
     "types_label": "ウイスキー / ジン / ブランデー",
     "location": "山梨県韮崎市龍岡町下條南割640",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "山梨県",
+    "region": "中部",
+    "lat": 35.674388,
+    "lng": 138.4566397,
+    "coordinate_status": "approx",
     "official_url": "https://www.sanfoods.jp/brand/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E9%BE%8D%E5%B2%A1%E7%94%BA%E4%B8%8B%E6%A2%9D%E5%8D%97%E5%89%B2640",
@@ -3279,7 +3284,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-082",
@@ -3291,9 +3297,9 @@
     "location": "静岡県富士市大淵325-5",
     "prefecture": "静岡県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "lat": 35.1965135,
+    "lng": 138.6918387,
+    "coordinate_status": "approx",
     "official_url": "",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%B8%82%E5%A4%A7%E6%B7%B5325-5",
@@ -3315,11 +3321,11 @@
     ],
     "types_label": "ウイスキー",
     "location": "岐阜県養老郡養老町高田800-3",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "岐阜県",
+    "region": "中部",
+    "lat": 35.3086848,
+    "lng": 136.5603178,
+    "coordinate_status": "approx",
     "official_url": "https://www.gyokusendo.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0800-3",
@@ -3330,7 +3336,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-084",
@@ -3340,11 +3347,11 @@
     ],
     "types_label": "ウイスキー",
     "location": "京都府船井郡京丹波町坂原南林11番",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "京都府",
+    "region": "近畿",
+    "lat": 35.2663056,
+    "lng": 135.3968252,
+    "coordinate_status": "approx",
     "official_url": "https://kyotoshuzo.com",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E8%88%B9%E4%BA%95%E9%83%A1%E4%BA%AC%E4%B8%B9%E6%B3%A2%E7%94%BA%E5%9D%82%E5%8E%9F%E5%8D%97%E6%9E%9711%E7%95%AA",
@@ -3355,7 +3362,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-085",
@@ -3365,8 +3373,8 @@
     ],
     "types_label": "ウイスキー",
     "location": "大阪市北区堂島1-4-2 ビールディング北新地 1F",
-    "prefecture": "",
-    "region": "",
+    "prefecture": "大阪府",
+    "region": "近畿",
     "lat": null,
     "lng": null,
     "coordinate_status": "none",
@@ -3380,7 +3388,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-086",
@@ -3391,11 +3400,11 @@
     ],
     "types_label": "ウイスキー / ジン",
     "location": "大阪市東成区東小橋1-16-24",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "大阪府",
+    "region": "近畿",
+    "lat": 34.6713653,
+    "lng": 135.5345706,
+    "coordinate_status": "approx",
     "official_url": "https://mikunidistillery.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E6%9D%B1%E5%B0%8F%E6%A9%8B1-16-24",
@@ -3406,7 +3415,8 @@
     "visitable": true,
     "visit_label": "完全予約制",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-087",
@@ -3416,11 +3426,11 @@
     ],
     "types_label": "ウイスキー",
     "location": "鳥取県倉吉市上古川656-1",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "鳥取県",
+    "region": "中国",
+    "lat": 35.4034253,
+    "lng": 133.782735,
+    "coordinate_status": "approx",
     "official_url": "https://matsuiwhisky.com/company/distillery/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E5%80%89%E5%90%89%E5%B8%82%E4%B8%8A%E5%8F%A4%E5%B7%9D656-1",
@@ -3431,7 +3441,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-088",
@@ -3447,7 +3458,7 @@
     "lng": null,
     "coordinate_status": "none",
     "official_url": "https://www.sakuraodistillery.com",
-    "official_url_type": "distillery_official",
+    "official_url_type": null,
     "google_maps_address_url": "",
     "brands": [
       "製品未発売（熟成中）"
@@ -3481,7 +3492,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31"
   },
   {
     "id": "excl-jwic-seed-090",
@@ -3491,11 +3502,11 @@
     ],
     "types_label": "ウイスキー",
     "location": "熊本県上益城郡山都町浜町60番地1",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "熊本県",
+    "region": "九州",
+    "lat": 32.6847684,
+    "lng": 130.9880307,
+    "coordinate_status": "approx",
     "official_url": "https://www.morinosakagura.com",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%B8%8A%E7%9B%8A%E5%9F%8E%E9%83%A1%E5%B1%B1%E9%83%BD%E7%94%BA%E6%B5%9C%E7%94%BA60%E7%95%AA%E5%9C%B01",
@@ -3506,7 +3517,8 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   },
   {
     "id": "excl-jwic-seed-091",
@@ -3516,11 +3528,11 @@
     ],
     "types_label": "ウイスキー",
     "location": "鹿児島県霧島市横川町上ノ3280-5",
-    "prefecture": "",
-    "region": "",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "prefecture": "鹿児島県",
+    "region": "九州",
+    "lat": 31.8934493,
+    "lng": 130.682367,
+    "coordinate_status": "approx",
     "official_url": "https://www.yokogawa-distillery.com",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%9C%A7%E5%B3%B6%E5%B8%82%E6%A8%AA%E5%B7%9D%E7%94%BA%E4%B8%8A%E3%83%8E3280-5",
@@ -3531,6 +3543,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
   }
 ]
