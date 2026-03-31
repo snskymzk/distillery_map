@@ -1,0 +1,3536 @@
+[
+  {
+    "id": "record",
+    "name": "サントリー山崎蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "大阪府三島郡島本町山崎5-2-1",
+    "prefecture": "大阪府",
+    "region": "近畿",
+    "lat": 34.892633,
+    "lng": 135.674462,
+    "coordinate_status": "exact",
+    "official_url": "https://www.suntory.co.jp/factory/yamazaki/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E4%B8%89%E5%B3%B6%E9%83%A1%E5%B3%B6%E6%9C%AC%E7%94%BA%E5%B1%B1%E5%B4%8E5-2-1",
+    "brands": [
+      "シングルモルト山崎",
+      "山崎12年",
+      "山崎18年"
+    ],
+    "note": "日本最古のモルト蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "サントリー白州蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "山梨県北杜市白州町鳥原2913-1",
+    "prefecture": "山梨県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.suntory.co.jp/factory/hakushu/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8C%97%E6%9D%9C%E5%B8%82%E7%99%BD%E5%B7%9E%E7%94%BA%E9%B3%A5%E5%8E%9F2913-1",
+    "brands": [
+      "シングルモルト白州",
+      "白州12年",
+      "白州18年"
+    ],
+    "note": "森の蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "ニッカウヰスキー余市蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "北海道余市郡余市町黒川町7-6",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.nikka.com/distilleries/yoichi/visit/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E9%BB%92%E5%B7%9D%E7%94%BA7-6",
+    "brands": [
+      "シングルモルト余市",
+      "余市10年",
+      "ニッカフロンティア"
+    ],
+    "note": "石炭直火蒸溜で知られる",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "ニッカウヰスキー宮城峡蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "宮城県仙台市青葉区ニッカ1",
+    "prefecture": "宮城県",
+    "region": "東北",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://distillery.nikka.com/miyagikyo/reservation",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E3%83%8B%E3%83%83%E3%82%AB1",
+    "brands": [
+      "シングルモルト宮城峡",
+      "ニッカ カフェグレーン",
+      "ニッカ カフェモルト"
+    ],
+    "note": "華やかなスタイル",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "安積蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "福島県郡山市笹川1-178",
+    "prefecture": "福島県",
+    "region": "東北",
+    "lat": 37.361894,
+    "lng": 140.372393,
+    "coordinate_status": "exact",
+    "official_url": "https://www.sasanokawa.co.jp/asaka-distillery/index.html",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%83%A1%E5%B1%B1%E5%B8%82%E7%AC%B9%E5%B7%9D1-178",
+    "brands": [
+      "YAMAZAKURA 安積",
+      "安積 ザ・ファースト",
+      "安積 シングルカスク"
+    ],
+    "note": "笹の川酒造の蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "游佐蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "山形県飽海郡遊佐町吉出金俣239-5",
+    "prefecture": "山形県",
+    "region": "東北",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://yuza-disty.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E5%90%89%E5%87%BA%E9%87%91%E4%BF%A3239-5",
+    "brands": [
+      "YUZA シングルモルト ジャパニーズウイスキー YUZA",
+      "YUZA ブレンデッド ジャパニーズウイスキー シグネチャー・ブレンド",
+      "YUZA ブレンデッド ジャパニーズウイスキー クラシカル・ブレンド"
+    ],
+    "note": "ハウススタイルは「クリーン、スウィート＆フルーティ」。鳥海山の伏流水を生かす蒸溜所。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "キリンディスティラリー富士御殿場蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "静岡県御殿場市柴怒田970",
+    "prefecture": "静岡県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.kirin.co.jp/experience/factory/gotemba/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%BE%A1%E6%AE%BF%E5%A0%B4%E5%B8%82%E6%9F%B4%E6%80%92%E7%94%B0970",
+    "brands": [
+      "シングルグレーンジャパニーズウイスキー富士",
+      "富士シングルモルト",
+      "キリンウイスキー陸"
+    ],
+    "note": "富士山麓の大規模拠点",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "マルス駒ヶ岳蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "長野県上伊那郡宮田村4752-31",
+    "prefecture": "長野県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.hombo.co.jp/visiting/komagatake/reserve-komagatake/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E4%B8%8A%E4%BC%8A%E9%82%A3%E9%83%A1%E5%AE%AE%E7%94%B0%E6%9D%914752-31",
+    "brands": [
+      "シングルモルト駒ヶ岳",
+      "岩井トラディション",
+      "マルス ザ・ラッキーキャット"
+    ],
+    "note": "中央アルプス山麓",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "秩父蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "埼玉県秩父市みどりが丘49",
+    "prefecture": "埼玉県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.instagram.com/chichibu_distillery/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8C%E4%B8%9849",
+    "brands": [
+      "イチローズモルト 秩父",
+      "ON THE WAY",
+      "ザ・ピーテッド"
+    ],
+    "note": "クラフト代表格",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "厚岸蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "北海道厚岸郡厚岸町宮園4丁目109-2",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://akkeshi-distillery.com/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%8E%9A%E5%B2%B8%E9%83%A1%E5%8E%9A%E5%B2%B8%E7%94%BA%E5%AE%AE%E5%9C%924%E4%B8%81%E7%9B%AE109-2",
+    "brands": [
+      "厚岸 シングルモルト",
+      "厚岸 ブレンデッドウイスキー",
+      "二十四節気シリーズ"
+    ],
+    "note": "海霧の熟成環境 / 公式バーチャルツアーあり",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "ガイアフロー静岡蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "静岡県静岡市葵区落合555",
+    "prefecture": "静岡県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.gaiaflow.co.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%E8%90%BD%E5%90%88555",
+    "brands": [
+      "シングルモルト静岡 ポットスチルK",
+      "シングルモルト静岡 ポットスチルW",
+      "シングルモルト静岡 ユナイテッドS"
+    ],
+    "note": "薪直火蒸溜で知られる",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "三郎丸蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "富山県砺波市三郎丸208",
+    "prefecture": "富山県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.wakatsuru.co.jp/saburomaru/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%A0%BA%E6%B3%A2%E5%B8%82%E4%B8%89%E9%83%8E%E4%B8%B8208",
+    "brands": [
+      "三郎丸",
+      "FAR EAST OF PEAT",
+      "Sunset Red"
+    ],
+    "note": "鋳物製ポットスチル ZEMON",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "長濱蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "滋賀県長浜市朝日町14-1",
+    "prefecture": "滋賀県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.romanbeer.com",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E9%95%B7%E6%B5%9C%E5%B8%82%E6%9C%9D%E6%97%A5%E7%94%BA14-1",
+    "brands": [
+      "AMAHAGAN World Malt Basic Blend",
+      "AMAHAGAN World Malt Mizunara Wood Finish",
+      "シングルモルト長濱 THE EIGHTH BATCH"
+    ],
+    "note": "日本最小規模クラスの蒸溜所として知られ、シングルモルト長濱とAMAHAGANを展開。",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "江井ヶ嶋酒造 ホワイトオーク蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "兵庫県明石市大久保町西島919",
+    "prefecture": "兵庫県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.ei-sake.jp/tours.html",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E5%A4%A7%E4%B9%85%E4%BF%9D%E7%94%BA%E8%A5%BF%E5%B3%B6919",
+    "brands": [
+      "あかし",
+      "シングルモルト江井ヶ嶋",
+      "ホワイトオーク地ウイスキー"
+    ],
+    "note": "明石の老舗酒造",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "嘉之助蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "鹿児島県日置市日吉町神之川845-3",
+    "prefecture": "",
+    "region": "その他",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kanosuke.com/distillery/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%97%A5%E7%BD%AE%E5%B8%82%E6%97%A5%E5%90%89%E7%94%BA%E7%A5%9E%E4%B9%8B%E5%B7%9D845-3",
+    "brands": [
+      "シングルモルト嘉之助",
+      "嘉之助 HIOKI POT STILL",
+      "嘉之助 DOUBLE DISTILLERY"
+    ],
+    "note": "海辺の熟成環境",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "マルス津貫蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "鹿児島県南さつま市加世田津貫6594",
+    "prefecture": "",
+    "region": "その他",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.hombo.co.jp/visiting/tsunuki/reserve-tsunuki/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82%E5%8A%A0%E4%B8%96%E7%94%B0%E6%B4%A5%E8%B2%AB6594",
+    "brands": [
+      "シングルモルト津貫",
+      "津貫 The First",
+      "マルス The Y.A."
+    ],
+    "note": "本坊酒造の南薩摩拠点",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "shindo-distillery",
+    "name": "SHINDO DISTILLERY",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "福岡県朝倉市比良松626番地1",
+    "prefecture": "福岡県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://shindo-lab.jp/distillery/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE626%E7%95%AA%E5%9C%B01",
+    "brands": [
+      "SHINDO NEW BORN",
+      "SHINDO CASK SERIES",
+      "SHINDO EXPERIMENTAL"
+    ],
+    "note": "新しいクラフト蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "小諸蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "長野県小諸市甲4630-1",
+    "prefecture": "長野県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://komorodistillery.com/visit/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%B0%8F%E8%AB%B8%E5%B8%82%E7%94%B24630-1",
+    "brands": [
+      "KOMORO New Make",
+      "KOMORO IPA CASK FINISH",
+      "KOMORO Wine Cask Reserve"
+    ],
+    "note": "浅間山麓の清らかな水と世界的マスターブレンダーの知見を生かし、KOMOROブランドを育てる蒸留所。",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "setouchi-distillery",
+    "name": "SETOUCHI DISTILLERY",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "広島県呉市本通7-9-10",
+    "prefecture": "広島県",
+    "region": "中国",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://setouchidistillery.com/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%91%89%E5%B8%82%E6%9C%AC%E9%80%9A7-9-10",
+    "brands": [
+      "SETOUCHI GIN",
+      "SETOUCHI NEW BORN",
+      "SETOUCHI WHISKY"
+    ],
+    "note": "呉のウイスキー・ジン蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "尾鈴山蒸留所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "宮崎県児湯郡木城町石河内字倉ノ又656-17",
+    "prefecture": "宮崎県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://osuzuyama.co.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%85%90%E6%B9%AF%E9%83%A1%E6%9C%A8%E5%9F%8E%E7%94%BA%E7%9F%B3%E6%B2%B3%E5%86%85%E5%AD%97%E5%80%89%E3%83%8E%E5%8F%88656-17",
+    "brands": [
+      "OSUZU MALT New Born",
+      "OSUZU GIN",
+      "OSUZU MALT"
+    ],
+    "note": "地元原料を活かす蒸留所",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "久住蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "大分県竹田市久住町白丹7571-23",
+    "prefecture": "大分県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kujudistillery.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%E7%AB%B9%E7%94%B0%E5%B8%82%E4%B9%85%E4%BD%8F%E7%94%BA%E7%99%BD%E4%B8%B97571-23",
+    "brands": [
+      "Green Dram",
+      "久住 New Born",
+      "久住 THE FIRST"
+    ],
+    "note": "大分の高原蒸溜所",
+    "visitable": false,
+    "visit_label": "現在見学受付なし",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "sakurao-distillery",
+    "name": "SAKURAO DISTILLERY",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "広島県廿日市市桜尾1-12-1",
+    "prefecture": "広島県",
+    "region": "中国",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.sakuraodistillery.com/fieldtrip/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E6%A1%9C%E5%B0%BE1-12-1",
+    "brands": [
+      "桜尾ジン ORIGINAL",
+      "桜尾ジン LIMITED",
+      "シングルモルト桜尾"
+    ],
+    "note": "ジンとウイスキーを造る蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "ニセコ蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "北海道虻田郡ニセコ町ニセコ478-15",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://niseko-distillery.com/reservation/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E8%99%BB%E7%94%B0%E9%83%A1%E3%83%8B%E3%82%BB%E3%82%B3%E7%94%BA%E3%83%8B%E3%82%BB%E3%82%B3478-15",
+    "brands": [
+      "ohoro GIN スタンダード",
+      "ohoro GIN ハッカ",
+      "ohoro GIN ラベンダー"
+    ],
+    "note": "ジン主力の北海道蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "日置蒸溜蔵",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "鹿児島県日置市日吉町日置3309",
+    "prefecture": "",
+    "region": "その他",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.komasa.co.jp/visit",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%97%A5%E7%BD%AE%E5%B8%82%E6%97%A5%E5%90%89%E7%94%BA%E6%97%A5%E7%BD%AE3309",
+    "brands": [
+      "KOMASA GIN 桜島小みかん",
+      "KOMASA GIN ほうじ茶",
+      "HIOKI POT STILL"
+    ],
+    "note": "小正醸造の蒸溜蔵",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "東京リバーサイド蒸溜所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "東京都台東区蔵前3-9-3",
+    "prefecture": "東京都",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://ethicalspirits.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%94%B5%E5%89%8D3-9-3",
+    "brands": [
+      "LAST ELEGANT",
+      "LAST ELYSIUM",
+      "REVIVE from Hoegaarden"
+    ],
+    "note": "都市型クラフトジン蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "三國蒸溜所",
+    "types": [
+      "gin",
+      "whisky"
+    ],
+    "types_label": "ジン / ウイスキー",
+    "location": "大阪府大阪市東成区東小橋1-16-24",
+    "prefecture": "大阪府",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://mikunidistillery.jp/news/reserve/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E6%9D%B1%E5%B0%8F%E6%A9%8B1-16-24",
+    "brands": [
+      "OSAKA GIN ORIJIN",
+      "OSAKA GIN UMESHU CASK",
+      "OSAKA GIN Seasonal"
+    ],
+    "note": "大阪の完全予約制蒸溜所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "丹丘蒸留所",
+    "types": [
+      "gin",
+      "whisky"
+    ],
+    "types_label": "ジン / ウイスキー",
+    "location": "北海道上川郡東川町西2号北23",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://tankyudistillery.jp/ja/tour",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%8A%E5%B7%9D%E9%83%A1%E6%9D%B1%E5%B7%9D%E7%94%BA%E8%A5%BF2%E5%8F%B7%E5%8C%9723",
+    "brands": [
+      "雪の窓 ドライジン",
+      "9148",
+      "丹丘スピリッツ"
+    ],
+    "note": "東川の小規模蒸留所",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "東京八王子蒸溜所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "東京都八王子市椚田町1213-5",
+    "prefecture": "東京都",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.hachioji-distillery.jp",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%A4%9A%E7%94%B0%E7%94%BA1213-5",
+    "brands": [
+      "トーキョーハチオウジン CLASSIC",
+      "トーキョーハチオウジン ELDER FLOWER",
+      "トーキョーハチオウジン ORIENTAL"
+    ],
+    "note": "Kothe蒸留器導入",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "小城蒸溜所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "佐賀県小城市小城町903",
+    "prefecture": "佐賀県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://ogidistillery.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E5%B0%8F%E5%9F%8E%E5%B8%82%E5%B0%8F%E5%9F%8E%E7%94%BA903",
+    "brands": [
+      "OGIGIN",
+      "OGIGIN プレミアム",
+      "季節限定ジン"
+    ],
+    "note": "文化財の酒蔵を改修",
+    "visitable": true,
+    "visit_label": "見学可",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "野沢温泉蒸留所",
+    "types": [
+      "gin",
+      "whisky"
+    ],
+    "types_label": "ジン / ウイスキー",
+    "location": "長野県下高井郡野沢温泉村豊郷9394",
+    "prefecture": "長野県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://nozawaonsendistillery.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E6%9D%91%E8%B1%8A%E9%83%B79394",
+    "brands": [
+      "NOZAWA GIN",
+      "CLASSIC DRY GIN",
+      "IWAI GIN"
+    ],
+    "note": "野沢温泉の湧水と地元ボタニカルを生かしてジンやウイスキーづくりに取り組む蒸留所。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "沼津蒸留所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "静岡県沼津市大手町5-6-7周辺",
+    "prefecture": "静岡県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.flavour.jp/NumazuDistillery",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B2%BC%E6%B4%A5%E5%B8%82%E5%A4%A7%E6%89%8B%E7%94%BA5-6-7%E5%91%A8%E8%BE%BA",
+    "brands": [
+      "Numazu Dry Gin",
+      "Numazu Citrus Gin",
+      "限定ボタニカルジン"
+    ],
+    "note": "沼津のクラフトジン拠点",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "深川蒸留所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "東京都江東区平野2-3-15",
+    "prefecture": "東京都",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://fukagawa-distillery.tokyo/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%B9%B3%E9%87%8E2-3-15",
+    "brands": [
+      "FUKAGAWA CRAFT GIN",
+      "FUKAGAWA GIN BASE",
+      "限定ジン"
+    ],
+    "note": "独自のニューツブロ蒸留器を開発",
+    "visitable": true,
+    "visit_label": "イベント開催時のみ",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "虎ノ門蒸留所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "東京都港区虎ノ門3丁目18-19 UD神谷町ビル1F",
+    "prefecture": "東京都",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://toranomondistillery.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%803%E4%B8%81%E7%9B%AE18-19%20UD%E7%A5%9E%E8%B0%B7%E7%94%BA%E3%83%93%E3%83%AB1F",
+    "brands": [
+      "COMMON",
+      "レモンとすだち",
+      "ぶどう山椒"
+    ],
+    "note": "店内蒸留型の都市型拠点",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "blue-rabbit-distillery",
+    "name": "Blue Rabbit Distillery",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "東京都大田区田園調布本町29-2 ウェル田園調布102",
+    "prefecture": "東京都",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.bluerabbitdistillery.com/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E6%9C%AC%E7%94%BA29-2%20%E3%82%A6%E3%82%A7%E3%83%AB%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83102",
+    "brands": [
+      "Blue Rabbit Dry Gin",
+      "Blue Rabbit Seasonal",
+      "Blue Rabbit Spirits"
+    ],
+    "note": "製造からボトリングまで手作業",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "羽田ブルワリー",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "東京都大田区蒲田本町1-11-7",
+    "prefecture": "東京都",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://haneda-brewery.com/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%E6%9C%AC%E7%94%BA1-11-7",
+    "brands": [
+      "羽田クラフトジン",
+      "羽田ジン 柚子",
+      "羽田ジン オリジナル"
+    ],
+    "note": "クラフトビール併設",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "紅櫻蒸溜所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "北海道札幌市南区澄川389-6",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.hlwhisky.co.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8D%97%E5%8C%BA%E6%BE%84%E5%B7%9D389-6",
+    "brands": [
+      "9148 #0101",
+      "9148 #0310",
+      "9148 #3896"
+    ],
+    "note": "北海道初のクラフトジン蒸溜所",
+    "visitable": true,
+    "visit_label": "見学可",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "積丹スピリット",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "北海道積丹郡積丹町美国町字小泊9-13",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://shakotan-spirit.co.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E7%A9%8D%E4%B8%B9%E9%83%A1%E7%A9%8D%E4%B8%B9%E7%94%BA%E7%BE%8E%E5%9B%BD%E7%94%BA%E5%AD%97%E5%B0%8F%E6%B3%8A9-13",
+    "brands": [
+      "KIBOU",
+      "KIBOU Blue",
+      "KIBOU seasonal"
+    ],
+    "note": "ボタニカル自給を掲げる",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "京丹後舞輪源蒸留所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "京都府京丹後市弥栄町黒部3123",
+    "prefecture": "京都府",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://mairingen.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E9%BB%92%E9%83%A83123",
+    "brands": [
+      "MAIRINGEN GIN",
+      "クラフトジン舞輪源",
+      "限定ボタニカルジン"
+    ],
+    "note": "京丹後の蒸留所",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "alembic-distillery",
+    "name": "Alembic Distillery",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "石川県金沢市大野町1丁目38-5",
+    "prefecture": "石川県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.alembic.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E5%A4%A7%E9%87%8E%E7%94%BA1%E4%B8%81%E7%9B%AE38-5",
+    "brands": [
+      "HACHIBAN",
+      "HACHIBAN Seasonal",
+      "金沢クラフトジン"
+    ],
+    "note": "金沢・大野のクラフトジン蒸留所",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "楠乃花蒸溜所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "佐賀県佐賀市諸富町大字為重214-4",
+    "prefecture": "佐賀県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://stilldam.saga.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E4%BD%90%E8%B3%80%E5%B8%82%E8%AB%B8%E5%AF%8C%E7%94%BA%E5%A4%A7%E5%AD%97%E7%82%BA%E9%87%8D214-4",
+    "brands": [
+      "STILLDAM GIN",
+      "STILLDAM SAGA GIN",
+      "季節限定ジン"
+    ],
+    "note": "佐賀のクラフトジン蒸溜所",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "五島つばき蒸溜所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "長崎県五島市戸岐町1223-5",
+    "prefecture": "長崎県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://gotogin.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BA%94%E5%B3%B6%E5%B8%82%E6%88%B8%E5%B2%90%E7%94%BA1223-5",
+    "brands": [
+      "GOTOGIN",
+      "GOTOGIN the origin",
+      "GOTOGIN limited"
+    ],
+    "note": "五島列島・福江島の蒸溜所",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "十勝平野蒸溜所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "北海道中川郡幕別町札内北町55-2",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://tokachi-pd.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%B7%9D%E9%83%A1%E5%B9%95%E5%88%A5%E7%94%BA%E6%9C%AD%E5%86%85%E5%8C%97%E7%94%BA55-2",
+    "brands": [
+      "明時 ORIGIN",
+      "明時 limited",
+      "明時 seasonal"
+    ],
+    "note": "イベント時に特別開放を実施",
+    "visitable": true,
+    "visit_label": "イベント開催時のみ",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "辰巳蒸留所",
+    "types": [
+      "gin"
+    ],
+    "types_label": "ジン",
+    "location": "岐阜県郡上市八幡町稲成887-7",
+    "prefecture": "岐阜県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.facebook.com/TatsumiDistillery/?locale=ja_JP",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%83%A1%E4%B8%8A%E5%B8%82%E5%85%AB%E5%B9%A1%E7%94%BA%E7%A8%B2%E6%88%90887-7",
+    "brands": [
+      "アルケミエ 犬啼",
+      "アルケミエ 香草",
+      "アルケミエ ワサビ"
+    ],
+    "note": "個人運営 / 公式SNS主体",
+    "visitable": true,
+    "visit_label": "営業日限定",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "record",
+    "name": "丹沢蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "神奈川県足柄上郡山北町中川822-1",
+    "prefecture": "神奈川県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://tanzawa-distillery.com/index.html",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%B6%B3%E6%9F%84%E4%B8%8A%E9%83%A1%E5%B1%B1%E5%8C%97%E7%94%BA%E4%B8%AD%E5%B7%9D822-1",
+    "brands": [
+      "丹沢 Blended Whisky Bourbon Barrel Finish The First.",
+      "丹沢 Blended Whisky Sherry Barrel Finish The First.",
+      "丹沢 Blended Whisky"
+    ],
+    "note": "2024年1月に工場完成、2025年4月に初期リリースを展開する神奈川の蒸溜所",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-kanagawa-shonan",
+    "name": "湘南蒸留所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "神奈川県茅ヶ崎市香川7-10-7",
+    "prefecture": "神奈川県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kumazawa.jp/kumazawa-tsushin/post-20240919-5/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%8C%85%E3%83%B6%E5%B4%8E%E5%B8%82%E9%A6%99%E5%B7%9D7-10-7",
+    "brands": [
+      "赤天狗 シングルカスク vol.1",
+      "赤天狗 vol.3",
+      "赤天狗"
+    ],
+    "note": "熊澤酒造内の蒸留所。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中とみられる",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-001",
+    "name": "利尻蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "北海道利尻郡利尻町沓形神居128-2",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kamuiwhisky.com/ja/home-ja/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%88%A9%E5%B0%BB%E9%83%A1%E5%88%A9%E5%B0%BB%E7%94%BA%E6%B2%93%E5%BD%A2%E7%A5%9E%E5%B1%85128-2",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "北海道にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-002",
+    "name": "馬追蒸溜所",
+    "types": [
+      "whisky",
+      "brandy"
+    ],
+    "types_label": "ウイスキー / ブランデー",
+    "location": "北海道夕張郡長沼町加賀団体",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://maoidistillery.com/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%95%E5%BC%B5%E9%83%A1%E9%95%B7%E6%B2%BC%E7%94%BA%E5%8A%A0%E8%B3%80%E5%9B%A3%E4%BD%93",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "北海道にあるウイスキー・ブランデーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-003",
+    "name": "サワマチ蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "北海道余市郡余市町沢町",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "http://sawamachi.jp/index.html",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E6%B2%A2%E7%94%BA",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "北海道にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-004",
+    "name": "ディ・トリッパー蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "北海道函館市元町31-20",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://ditripper.com/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E5%85%83%E7%94%BA31-20",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "北海道にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-005",
+    "name": "南部美人 本社蔵",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "岩手県二戸市福岡字上町13",
+    "prefecture": "岩手県",
+    "region": "東北",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.nanbubijin.co.jp/company/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%E4%BA%8C%E6%88%B8%E5%B8%82%E7%A6%8F%E5%B2%A1%E5%AD%97%E4%B8%8A%E7%94%BA13",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "蒸留・ジン表記あり。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-006",
+    "name": "月光川蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "山形県飽海郡遊佐町菅里字菅野37番14",
+    "prefecture": "山形県",
+    "region": "東北",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://gakkogawa.com/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E8%8F%85%E9%87%8C%E5%AD%97%E8%8F%85%E9%87%8E37%E7%95%AA14",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "山形県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-007",
+    "name": "玉野アセンド蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "福島県相馬市玉野字町74番地",
+    "prefecture": "福島県",
+    "region": "東北",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://tamano-ascend-distillery.jp/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%9B%B8%E9%A6%AC%E5%B8%82%E7%8E%89%E9%87%8E%E5%AD%97%E7%94%BA74%E7%95%AA%E5%9C%B0",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "福島県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-008",
+    "name": "天鏡蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "福島県耶麻郡磐梯町大字更科字中曽根平6841-11",
+    "prefecture": "福島県",
+    "region": "東北",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.tenkyo.jp",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E8%80%B6%E9%BA%BB%E9%83%A1%E7%A3%90%E6%A2%AF%E7%94%BA%E5%A4%A7%E5%AD%97%E6%9B%B4%E7%A7%91%E5%AD%97%E4%B8%AD%E6%9B%BD%E6%A0%B9%E5%B9%B36841-11",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "福島県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-009",
+    "name": "高藏蒸留所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "茨城県水戸市元吉田町338番地",
+    "prefecture": "茨城県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://takazo.meirishurui.com/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82%E5%85%83%E5%90%89%E7%94%B0%E7%94%BA338%E7%95%AA%E5%9C%B0",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "茨城県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-010",
+    "name": "八郷蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "茨城県石岡市須釜1300",
+    "prefecture": "茨城県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kiuchibrewery.co.jp/brewery/yasatodistillery/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%9F%B3%E5%B2%A1%E5%B8%82%E9%A0%88%E9%87%9C1300",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "茨城県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-011",
+    "name": "Stork Valley Distillery",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "栃木県小山市神鳥谷4丁目1番53号",
+    "prefecture": "栃木県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://stork-valley-distillery.com/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%B0%8F%E5%B1%B1%E5%B8%82%E7%A5%9E%E9%B3%A5%E8%B0%B74%E4%B8%81%E7%9B%AE1%E7%95%AA53%E5%8F%B7",
+    "brands": [
+      "STORK VALLEY JAPAN PREMIUM GIN 500ml",
+      "STORK VALLEY JAPAN PREMIUM GIN 200ml",
+      "STORK VALLEY JAPAN PREMIUM GIN ミニチュアボトル 50ml"
+    ],
+    "note": "栃木県小山市の蒸溜所。良質な水と自然環境にこだわり、クラフトジンとウイスキーを製造する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-012",
+    "name": "日光街道 小山蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "栃木県小山市大字粟宮1452",
+    "prefecture": "栃木県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://tetsuwhisky.com/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%B0%8F%E5%B1%B1%E5%B8%82%E5%A4%A7%E5%AD%97%E7%B2%9F%E5%AE%AE1452",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "栃木県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-013",
+    "name": "倉渕蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "群馬県高崎市倉渕町権田2625-1",
+    "prefecture": "群馬県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kurabuchi-distillery.jp/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%E5%80%89%E6%B8%95%E7%94%BA%E6%A8%A9%E7%94%B02625-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "群馬県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-014",
+    "name": "北軽井沢蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "群馬県吾妻郡長野原町北軽井沢1991-127",
+    "prefecture": "群馬県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://link-kitakaru.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%90%BE%E5%A6%BB%E9%83%A1%E9%95%B7%E9%87%8E%E5%8E%9F%E7%94%BA%E5%8C%97%E8%BB%BD%E4%BA%95%E6%B2%A21991-127",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "群馬県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-015",
+    "name": "羽生蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "埼玉県羽生市西4丁目1-11",
+    "prefecture": "埼玉県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://toashuzo.com/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%BE%BD%E7%94%9F%E5%B8%82%E8%A5%BF4%E4%B8%81%E7%9B%AE1-11",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "埼玉県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-016",
+    "name": "鴻巣蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "埼玉県鴻巣市小谷625",
+    "prefecture": "埼玉県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "",
+    "official_url_type": "association",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%B4%BB%E5%B7%A3%E5%B8%82%E5%B0%8F%E8%B0%B7625",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "埼玉県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-017",
+    "name": "秩父第2蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "埼玉県秩父市みどりが丘79",
+    "prefecture": "埼玉県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.instagram.com/chichibu_distillery/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8C%E4%B8%9879",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "埼玉県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-018",
+    "name": "mitosaya薬草園蒸留所",
+    "types": [
+      "whisky",
+      "gin",
+      "brandy"
+    ],
+    "types_label": "ウイスキー / ジン / ブランデー",
+    "location": "千葉県夷隅郡大多喜町大多喜486",
+    "prefecture": "千葉県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://mitosaya.com/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%A4%B7%E9%9A%85%E9%83%A1%E5%A4%A7%E5%A4%9A%E5%96%9C%E7%94%BA%E5%A4%A7%E5%A4%9A%E5%96%9C486",
+    "brands": [
+      "HERBAL SPIRITS",
+      "BOTANICAL SPIRITS",
+      "季節の蒸留酒"
+    ],
+    "note": "千葉県大多喜町の薬草園跡に設立された蒸留所。自然素材を生かした蒸留酒を少量多品種でつくる。",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-019",
+    "name": "須藤本家",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "千葉県君津市青柳16-10",
+    "prefecture": "千葉県",
+    "region": "関東",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.sudouhonke.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%90%9B%E6%B4%A5%E5%B8%82%E9%9D%92%E6%9F%B316-10",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "千葉県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-020",
+    "name": "吉田電材蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "新潟県村上市宿田344-1",
+    "prefecture": "新潟県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://yoshidadenzai-distillery.com",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%9D%91%E4%B8%8A%E5%B8%82%E5%AE%BF%E7%94%B0344-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "新潟県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-021",
+    "name": "新潟亀田蒸溜所",
+    "types": [
+      "whisky",
+      "rum"
+    ],
+    "types_label": "ウイスキー / ラム",
+    "location": "新潟県新潟市江南区亀田工業団地1-3-5",
+    "prefecture": "新潟県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kameda-distillery.com/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E6%B1%9F%E5%8D%97%E5%8C%BA%E4%BA%80%E7%94%B0%E5%B7%A5%E6%A5%AD%E5%9B%A3%E5%9C%B01-3-5",
+    "brands": [
+      "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Pisces",
+      "OHTANI WHISKY 新潟亀田 Zodiac Sign Series Capricorn",
+      "新潟亀田 ニューポット 2024 EDITION"
+    ],
+    "note": "新潟産原料による「MADE IN NIIGATA」のウイスキー造りを掲げる蒸溜所。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-022",
+    "name": "深沢原蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "新潟県南魚沼市長森457",
+    "prefecture": "新潟県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.hakkaisan.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%8D%97%E9%AD%9A%E6%B2%BC%E5%B8%82%E9%95%B7%E6%A3%AE457",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "新潟県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-023",
+    "name": "オリエンタル金沢蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "石川県金沢市東町32",
+    "prefecture": "石川県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://orientalbrewing.com/distillery/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E6%9D%B1%E7%94%BA32",
+    "brands": [
+      "クラフトジン",
+      "ニューポット"
+    ],
+    "note": "金沢・湯涌の醸造所隣接地に2022年建設。醸造で培った技術を生かし、原酒から蒸留酒を製造する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-024",
+    "name": "富嶽蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "山梨県富士吉田市上吉田4918-1",
+    "prefecture": "山梨県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://sasakawa-whisky.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E4%B8%8A%E5%90%89%E7%94%B04918-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "山梨県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-025",
+    "name": "富士北麓蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "山梨県南都留郡富士河口湖町船津8",
+    "prefecture": "山梨県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "",
+    "official_url_type": "association",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E8%88%B9%E6%B4%A58",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "山梨県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-026",
+    "name": "Far Yeast 源流蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "山梨県北都留郡小菅村4341-1",
+    "prefecture": "山梨県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://faryeast.com",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8C%97%E9%83%BD%E7%95%99%E9%83%A1%E5%B0%8F%E8%8F%85%E6%9D%914341-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "山梨県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-027",
+    "name": "飯山マウンテンファーム蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "長野県飯山市大字豊田5123-30",
+    "prefecture": "長野県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "",
+    "official_url_type": "association",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E9%A3%AF%E5%B1%B1%E5%B8%82%E5%A4%A7%E5%AD%97%E8%B1%8A%E7%94%B05123-30",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "長野県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-028",
+    "name": "御代田蒸留所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "長野県北佐久郡御代田町馬瀬口953-4",
+    "prefecture": "長野県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.kanchiku.com",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%8C%97%E4%BD%90%E4%B9%85%E9%83%A1%E5%BE%A1%E4%BB%A3%E7%94%B0%E7%94%BA%E9%A6%AC%E7%80%AC%E5%8F%A3953-4",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "長野県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-029",
+    "name": "軽井沢ウイスキー蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "長野県北佐久郡軽井沢町発地2785-318",
+    "prefecture": "長野県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.karuizawa-whisky.co.jp/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%8C%97%E4%BD%90%E4%B9%85%E9%83%A1%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA%E7%99%BA%E5%9C%B02785-318",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "長野県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-030",
+    "name": "飛騨高山蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "岐阜県高山市高根町下之向164-2",
+    "prefecture": "岐阜県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.whisky-hida.com",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%AB%98%E5%B1%B1%E5%B8%82%E9%AB%98%E6%A0%B9%E7%94%BA%E4%B8%8B%E4%B9%8B%E5%90%91164-2",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "岐阜県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-031",
+    "name": "Distillery Water Dragon",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "静岡県三島市大社町18-5",
+    "prefecture": "静岡県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://whiskey.co.jp/waterdragon",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E4%B8%89%E5%B3%B6%E5%B8%82%E5%A4%A7%E7%A4%BE%E7%94%BA18-5",
+    "brands": [
+      "熟成0年ウイスキー",
+      "オリジナルクラフトジン",
+      "焼酎"
+    ],
+    "note": "三島・三嶋大社参道沿いにある蒸留施設。バーボンスタイルウイスキーを主軸に、スピリッツと焼酎も蒸留する。",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-032",
+    "name": "井川蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "静岡県静岡市葵区田代字大春木1299-1",
+    "prefecture": "静岡県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://juzan.co.jp/contents/ikawadistillery/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%E7%94%B0%E4%BB%A3%E5%AD%97%E5%A4%A7%E6%98%A5%E6%9C%A81299-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "静岡県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-033",
+    "name": "清洲桜醸造 本社工場",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "愛知県清須市清洲1692番地",
+    "prefecture": "愛知県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://onikoroshi.co.jp/company/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%B8%85%E9%A0%88%E5%B8%82%E6%B8%85%E6%B4%B21692%E7%95%AA%E5%9C%B0",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "愛知県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-034",
+    "name": "碧南蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "愛知県碧南市弥生町4丁目3番地",
+    "prefecture": "愛知県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://unibio.jp/whisky-project/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%A2%A7%E5%8D%97%E5%B8%82%E5%BC%A5%E7%94%9F%E7%94%BA4%E4%B8%81%E7%9B%AE3%E7%95%AA%E5%9C%B0",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "愛知県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-035",
+    "name": "伊勢蒸留所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "三重県伊勢市小俣町明野576番地13",
+    "prefecture": "三重県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.iseman.co.jp/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BC%8A%E5%8B%A2%E5%B8%82%E5%B0%8F%E4%BF%A3%E7%94%BA%E6%98%8E%E9%87%8E576%E7%95%AA%E5%9C%B013",
+    "brands": [
+      "ブレンデッドウイスキー 神路（KAMIJI）"
+    ],
+    "note": "伊勢で蒸留したモルトウイスキーと長期熟成グレーンスピリッツをブレンドしたウイスキーを展開。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-036",
+    "name": "琵琶湖蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "滋賀県高島市新旭町旭83",
+    "prefecture": "滋賀県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.biwako-distillery.jp",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E9%AB%98%E5%B3%B6%E5%B8%82%E6%96%B0%E6%97%AD%E7%94%BA%E6%97%AD83",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "滋賀県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-037",
+    "name": "泉州蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "大阪府岸和田市土生町6-10-15",
+    "prefecture": "大阪府",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://rikyugura.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%B2%B8%E5%92%8C%E7%94%B0%E5%B8%82%E5%9C%9F%E7%94%9F%E7%94%BA6-10-15",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "大阪府にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-038",
+    "name": "西山酒造場",
+    "types": [
+      "whisky",
+      "gin",
+      "brandy"
+    ],
+    "types_label": "ウイスキー / ジン / ブランデー",
+    "location": "兵庫県丹波市市島町中竹田1171",
+    "prefecture": "兵庫県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kotsuzumi.co.jp/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%E4%B8%AD%E7%AB%B9%E7%94%B01171",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "兵庫県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-039",
+    "name": "丹波蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "兵庫県丹波篠山市今田町本荘堂ヶ谷1-19",
+    "prefecture": "兵庫県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kizakura.co.jp/tamba/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1%E5%B8%82%E4%BB%8A%E7%94%B0%E7%94%BA%E6%9C%AC%E8%8D%98%E5%A0%82%E3%83%B6%E8%B0%B71-19",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "兵庫県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-040",
+    "name": "神戸蒸溜所",
+    "types": [
+      "whisky",
+      "gin",
+      "brandy"
+    ],
+    "types_label": "ウイスキー / ジン / ブランデー",
+    "location": "兵庫県神戸市北区大沢町上大沢2150 ブライズハウス館内",
+    "prefecture": "兵庫県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.kobe-distillery.com",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B2%A2%E7%94%BA%E4%B8%8A%E5%A4%A7%E6%B2%A22150%20%E3%83%96%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%8F%E3%82%A6%E3%82%B9%E9%A4%A8%E5%86%85",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "兵庫県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-041",
+    "name": "六甲山蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "兵庫県神戸市灘区六甲山町南六甲1034-229",
+    "prefecture": "兵庫県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://rokkosan-distillery.com",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA%E5%85%AD%E7%94%B2%E5%B1%B1%E7%94%BA%E5%8D%97%E5%85%AD%E7%94%B21034-229",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "兵庫県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-042",
+    "name": "海峡蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "兵庫県明石市大蔵八幡町1-3",
+    "prefecture": "兵庫県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://akashisakebrewery.com/ja/the-kaikyo-distillery/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E5%A4%A7%E8%94%B5%E5%85%AB%E5%B9%A1%E7%94%BA1-3",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "兵庫県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-043",
+    "name": "養父蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "兵庫県養父市大屋町中間844-1",
+    "prefecture": "兵庫県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://yabu-distillery.co.jp/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E9%A4%8A%E7%88%B6%E5%B8%82%E5%A4%A7%E5%B1%8B%E7%94%BA%E4%B8%AD%E9%96%93844-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "兵庫県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-044",
+    "name": "神息酒造 奈良蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "奈良県宇陀郡曽爾村山粕1637-1",
+    "prefecture": "奈良県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.kamikiwhisky.com/jp/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%9C%8C%E5%AE%87%E9%99%80%E9%83%A1%E6%9B%BD%E7%88%BE%E6%9D%91%E5%B1%B1%E7%B2%951637-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "奈良県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-045",
+    "name": "紀州熊野蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "和歌山県西牟婁郡上富田生馬1474-1",
+    "prefecture": "和歌山県",
+    "region": "近畿",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kishukumano-distillery.com",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E8%A5%BF%E7%89%9F%E5%A9%81%E9%83%A1%E4%B8%8A%E5%AF%8C%E7%94%B0%E7%94%9F%E9%A6%AC1474-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "和歌山県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-046",
+    "name": "千代むすび 境港蒸留所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "鳥取県境港市大正町131",
+    "prefecture": "鳥取県",
+    "region": "中国",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.chiyomusubi.co.jp/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E5%A2%83%E6%B8%AF%E5%B8%82%E5%A4%A7%E6%AD%A3%E7%94%BA131",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "鳥取県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-047",
+    "name": "岡山蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "岡山県岡山市中区西川原185-1",
+    "prefecture": "岡山県",
+    "region": "中国",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.doppokan.jp/tour/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%B2%A1%E5%B1%B1%E5%B8%82%E4%B8%AD%E5%8C%BA%E8%A5%BF%E5%B7%9D%E5%8E%9F185-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "岡山県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-048",
+    "name": "阿波乃蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "徳島県阿波市土成町郡176",
+    "prefecture": "徳島県",
+    "region": "四国",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.nissin-shurui.co.jp/whiskey.html",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%E9%98%BF%E6%B3%A2%E5%B8%82%E5%9C%9F%E6%88%90%E7%94%BA%E9%83%A1176",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "徳島県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-049",
+    "name": "梅美人酒造",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "愛媛県八幡浜市1557番地2",
+    "prefecture": "愛媛県",
+    "region": "四国",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://umebijin.com",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E5%85%AB%E5%B9%A1%E6%B5%9C%E5%B8%821557%E7%95%AA%E5%9C%B02",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "愛媛県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-050",
+    "name": "ニッカウヰスキー 門司工場",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "福岡県北九州市門司区大里元町2-1",
+    "prefecture": "福岡県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.nikka.com",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA%E5%A4%A7%E9%87%8C%E5%85%83%E7%94%BA2-1",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "福岡県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-051",
+    "name": "朝倉蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "福岡県朝倉市比良松185",
+    "prefecture": "福岡県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://asakuradistillery.com",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE185",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "福岡県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-052",
+    "name": "新道蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "福岡県朝倉市比良松626番地1",
+    "prefecture": "福岡県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://shindo-lab.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE626%E7%95%AA%E5%9C%B01",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "福岡県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-053",
+    "name": "波佐見蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "長崎県東彼杵郡波佐見町折敷瀬郷1742-12",
+    "prefecture": "長崎県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.ganjo.jp/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E6%9D%B1%E5%BD%BC%E6%9D%B5%E9%83%A1%E6%B3%A2%E4%BD%90%E8%A6%8B%E7%94%BA%E6%8A%98%E6%95%B7%E7%80%AC%E9%83%B71742-12",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "長崎県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-054",
+    "name": "梅ヶ枝酒造",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "長崎県佐世保市城間町317番地",
+    "prefecture": "長崎県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.umegae-shuzo.com/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82%E5%9F%8E%E9%96%93%E7%94%BA317%E7%95%AA%E5%9C%B0",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "長崎県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-055",
+    "name": "山鹿蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "熊本県山鹿市鹿央町合里980番地1",
+    "prefecture": "熊本県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://yamagadistillery.co.jp",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E5%B1%B1%E9%B9%BF%E5%B8%82%E9%B9%BF%E5%A4%AE%E7%94%BA%E5%90%88%E9%87%8C980%E7%95%AA%E5%9C%B01",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "熊本県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-056",
+    "name": "大石酒造場",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "熊本県球磨郡水上村岩野1053",
+    "prefecture": "熊本県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://ohishi-shuzohjyo.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%90%83%E7%A3%A8%E9%83%A1%E6%B0%B4%E4%B8%8A%E6%9D%91%E5%B2%A9%E9%87%8E1053",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "熊本県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-057",
+    "name": "常楽酒造",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "熊本県球磨郡錦町一武2577-13",
+    "prefecture": "熊本県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://joraku.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%90%83%E7%A3%A8%E9%83%A1%E9%8C%A6%E7%94%BA%E4%B8%80%E6%AD%A62577-13",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "熊本県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-058",
+    "name": "田野蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "熊本県人吉市田野町3316-4",
+    "prefecture": "熊本県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.hakutake.co.jp/tano-distillery/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%BA%BA%E5%90%89%E5%B8%82%E7%94%B0%E9%87%8E%E7%94%BA3316-4",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "熊本県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-059",
+    "name": "SATO DISTILLERY",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "宮崎県延岡市祝子町2388番地1",
+    "prefecture": "宮崎県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://satoshochu.com/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%BB%B6%E5%B2%A1%E5%B8%82%E7%A5%9D%E5%AD%90%E7%94%BA2388%E7%95%AA%E5%9C%B01",
+    "brands": [
+      "宮崎シングルモルトウイスキー",
+      "天の刻印",
+      "銀の水"
+    ],
+    "note": "延岡の名水・祝子川深層水を使う蔵。焼酎に加え、宮崎シングルモルトウイスキーも展開する。",
+    "visitable": true,
+    "visit_label": "見学可",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-060",
+    "name": "菱田蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "鹿児島県曽於郡大崎町菱田1270",
+    "prefecture": "鹿児島県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://tensei-shuzo.com",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9B%BD%E6%96%BC%E9%83%A1%E5%A4%A7%E5%B4%8E%E7%94%BA%E8%8F%B1%E7%94%B01270",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "鹿児島県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-061",
+    "name": "大隅酒造",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "鹿児島県曽於市大隅町坂元860番地1",
+    "prefecture": "鹿児島県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.suntory.co.jp/osumidistillery/",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9B%BD%E6%96%BC%E5%B8%82%E5%A4%A7%E9%9A%85%E7%94%BA%E5%9D%82%E5%85%83860%E7%95%AA%E5%9C%B01",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "鹿児島県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-062",
+    "name": "さつま司蒸溜蔵",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "鹿児島県姶良市加治木町諏訪町200",
+    "prefecture": "鹿児島県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.asahibeer.co.jp/s-tsukasa-kura/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%A7%B6%E8%89%AF%E5%B8%82%E5%8A%A0%E6%B2%BB%E6%9C%A8%E7%94%BA%E8%AB%8F%E8%A8%AA%E7%94%BA200",
+    "brands": [
+      "九兵衛",
+      "刻の一滴",
+      "龍門滝"
+    ],
+    "note": "ニッカの樽熟成技術やブレンド技術を焼酎づくりに生かす鹿児島の蔵。工場見学は受け付けていない。",
+    "visitable": false,
+    "visit_label": "見学不可",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-063",
+    "name": "小牧蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "鹿児島県薩摩郡さつま町時吉12",
+    "prefecture": "鹿児島県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://komakijozo.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E8%96%A9%E6%91%A9%E9%83%A1%E3%81%95%E3%81%A4%E3%81%BE%E7%94%BA%E6%99%82%E5%90%8912",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "鹿児島県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-064",
+    "name": "御岳蒸留所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "鹿児島県鹿児島市下福元町12300",
+    "prefecture": "鹿児島県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.nishi-shuzo.co.jp/ontake/",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E4%B8%8B%E7%A6%8F%E5%85%83%E7%94%BA12300",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "鹿児島県にあるウイスキー・ジンの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-065",
+    "name": "火の神蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "鹿児島県枕崎市火之神北町388番地",
+    "prefecture": "鹿児島県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://hinokamidistillery.jp",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9E%95%E5%B4%8E%E5%B8%82%E7%81%AB%E4%B9%8B%E7%A5%9E%E5%8C%97%E7%94%BA388%E7%95%AA%E5%9C%B0",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "鹿児島県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-066",
+    "name": "許田蒸留所",
+    "types": [
+      "whisky",
+      "rum"
+    ],
+    "types_label": "ウイスキー / ラム",
+    "location": "沖縄県名護市字許田405",
+    "prefecture": "沖縄県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.helios-syuzo.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E5%90%8D%E8%AD%B7%E5%B8%82%E5%AD%97%E8%A8%B1%E7%94%B0405",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "沖縄県にあるウイスキー・ラムの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-067",
+    "name": "州崎蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "沖縄県うるま市州崎12-17",
+    "prefecture": "沖縄県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://shinzato-shuzo.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%86%E3%82%8B%E3%81%BE%E5%B8%82%E5%B7%9E%E5%B4%8E12-17",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "沖縄県にあるウイスキーの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-068",
+    "name": "那覇蒸溜所",
+    "types": [
+      "whisky",
+      "rum"
+    ],
+    "types_label": "ウイスキー / ラム",
+    "location": "沖縄県那覇市字仲井真155番",
+    "prefecture": "沖縄県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://kumesen.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E5%AD%97%E4%BB%B2%E4%BA%95%E7%9C%9F155%E7%95%AA",
+    "brands": [
+      "ニューポット"
+    ],
+    "note": "沖縄県にあるウイスキー・ラムの蒸留所。ニューポットなどを展開する。",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "cand-jwic-seed-069",
+    "name": "まさひろ酒造",
+    "types": [
+      "whisky",
+      "gin",
+      "rum"
+    ],
+    "types_label": "ウイスキー / ジン / ラム",
+    "location": "沖縄県糸満市西崎町5-8-7",
+    "prefecture": "沖縄県",
+    "region": "九州",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "approx",
+    "official_url": "https://www.masahiro.co.jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E7%B3%B8%E6%BA%80%E5%B8%82%E8%A5%BF%E5%B4%8E%E7%94%BA5-8-7",
+    "brands": [
+      "昌廣ウイスキー AGED14YEARS",
+      "昌廣ブレンデッドウイスキー",
+      "島唄"
+    ],
+    "note": "沖縄県糸満市の酒造。泡盛に加え、沖縄の気候を生かした樽貯蔵ウイスキーも展開し、ギャラリー見学に対応する。",
+    "visitable": true,
+    "visit_label": "見学可",
+    "operation_status": "稼働中",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-071",
+    "name": "富良野蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://akkeshi-distillery.com",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "2028年めどの計画扱い",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-31"
+  },
+  {
+    "id": "excl-jwic-seed-072",
+    "name": "十勝蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "北海道中川郡幕別町札内みずほ町160-72",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://tokachidistillery.com/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%B7%9D%E9%83%A1%E5%B9%95%E5%88%A5%E7%94%BA%E6%9C%AD%E5%86%85%E3%81%BF%E3%81%9A%E3%81%BB%E7%94%BA160-72",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-073",
+    "name": "Taiki Cosmic Glen Distillery",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "北海道広尾郡大樹町浜大樹67-18",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://tcgd.jp",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%BA%83%E5%B0%BE%E9%83%A1%E5%A4%A7%E6%A8%B9%E7%94%BA%E6%B5%9C%E5%A4%A7%E6%A8%B967-18",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-074",
+    "name": "千歳蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "",
+    "official_url_type": null,
+    "google_maps_address_url": "",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-075",
+    "name": "苫小牧蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "北海道苫小牧市柏原",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E6%9F%8F%E5%8E%9F",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-31",
+    "location_quality": "municipality_or_more"
+  },
+  {
+    "id": "excl-jwic-seed-076",
+    "name": "当別蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://www.whisky-student.com",
+    "official_url_type": "association",
+    "google_maps_address_url": "",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "建設中",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-31"
+  },
+  {
+    "id": "excl-jwic-seed-077",
+    "name": "札幌酒精工業 札幌工場",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "北海道札幌市西区発寒10条1丁目1番1号",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://www.sapporo-shusei.jp",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%99%BA%E5%AF%9210%E6%9D%A11%E4%B8%81%E7%9B%AE1%E7%95%AA1%E5%8F%B7",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-078",
+    "name": "忍蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "新潟県新潟市西蒲区越前浜5120",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://shinobudistillery.com/index_jp/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E8%A5%BF%E8%92%B2%E5%8C%BA%E8%B6%8A%E5%89%8D%E6%B5%9C5120",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-079",
+    "name": "大谷妙高蒸溜所（仮称）",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "",
+    "official_url_type": null,
+    "google_maps_address_url": "",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-080",
+    "name": "南アルプスワインアンドビバレッジ 笛吹工場",
+    "types": [
+      "whisky",
+      "gin",
+      "brandy"
+    ],
+    "types_label": "ウイスキー / ジン / ブランデー",
+    "location": "山梨県笛吹市一宮町上矢作191-1",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://minamialpswandb.jp",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AC%9B%E5%90%B9%E5%B8%82%E4%B8%80%E5%AE%AE%E7%94%BA%E4%B8%8A%E7%9F%A2%E4%BD%9C191-1",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-081",
+    "name": "韮崎御勅使蒸留所",
+    "types": [
+      "whisky",
+      "gin",
+      "brandy"
+    ],
+    "types_label": "ウイスキー / ジン / ブランデー",
+    "location": "山梨県韮崎市龍岡町下條南割640",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://www.sanfoods.jp/brand/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E9%BE%8D%E5%B2%A1%E7%94%BA%E4%B8%8B%E6%A2%9D%E5%8D%97%E5%89%B2640",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-082",
+    "name": "富士かぐや蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "静岡県富士市大淵325-5",
+    "prefecture": "静岡県",
+    "region": "中部",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%B8%82%E5%A4%A7%E6%B7%B5325-5",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-31",
+    "location_quality": "address"
+  },
+  {
+    "id": "excl-jwic-seed-083",
+    "name": "養老蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "岐阜県養老郡養老町高田800-3",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://www.gyokusendo.jp",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0800-3",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-084",
+    "name": "京都みやこ蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "京都府船井郡京丹波町坂原南林11番",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://kyotoshuzo.com",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E8%88%B9%E4%BA%95%E9%83%A1%E4%BA%AC%E4%B8%B9%E6%B3%A2%E7%94%BA%E5%9D%82%E5%8E%9F%E5%8D%97%E6%9E%9711%E7%95%AA",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-085",
+    "name": "藩蔵屋敷 北新地CO・LABO",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "大阪市北区堂島1-4-2 ビールディング北新地 1F",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://hankurayashiki.com",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-4-2%20%E3%83%93%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%8C%97%E6%96%B0%E5%9C%B0%201F",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-086",
+    "name": "三国蒸溜所",
+    "types": [
+      "whisky",
+      "gin"
+    ],
+    "types_label": "ウイスキー / ジン",
+    "location": "大阪市東成区東小橋1-16-24",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://mikunidistillery.jp",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E6%9D%B1%E5%B0%8F%E6%A9%8B1-16-24",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": true,
+    "visit_label": "完全予約制",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-087",
+    "name": "倉吉蒸溜所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "鳥取県倉吉市上古川656-1",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://matsuiwhisky.com/company/distillery/",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E5%80%89%E5%90%89%E5%B8%82%E4%B8%8A%E5%8F%A4%E5%B7%9D656-1",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-088",
+    "name": "SAKURAO DISTILLERY FOREST SITE",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://www.sakuraodistillery.com",
+    "official_url_type": "distillery_official",
+    "google_maps_address_url": "",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "建設中",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-31"
+  },
+  {
+    "id": "excl-jwic-seed-089",
+    "name": "喜多屋",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://www.kitaya.co.jp",
+    "official_url_type": "parent_company",
+    "google_maps_address_url": "",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-090",
+    "name": "山都蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "熊本県上益城郡山都町浜町60番地1",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://www.morinosakagura.com",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%B8%8A%E7%9B%8A%E5%9F%8E%E9%83%A1%E5%B1%B1%E9%83%BD%E7%94%BA%E6%B5%9C%E7%94%BA60%E7%95%AA%E5%9C%B01",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": false,
+    "visit_label": "見学未確認",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  },
+  {
+    "id": "excl-jwic-seed-091",
+    "name": "横川蒸留所",
+    "types": [
+      "whisky"
+    ],
+    "types_label": "ウイスキー",
+    "location": "鹿児島県霧島市横川町上ノ3280-5",
+    "prefecture": "",
+    "region": "",
+    "lat": null,
+    "lng": null,
+    "coordinate_status": "none",
+    "official_url": "https://www.yokogawa-distillery.com",
+    "official_url_type": null,
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%9C%A7%E5%B3%B6%E5%B8%82%E6%A8%AA%E5%B7%9D%E7%94%BA%E4%B8%8A%E3%83%8E3280-5",
+    "brands": [
+      "製品未発売（熟成中）"
+    ],
+    "note": "準備中または詳細不明",
+    "visitable": true,
+    "visit_label": "予約制",
+    "operation_status": "準備中または詳細不明",
+    "last_checked": "2026-03-29"
+  }
+]
