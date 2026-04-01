@@ -40,7 +40,7 @@
     "region": "中部",
     "lat": 35.8273304,
     "lng": 138.3012251,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.suntory.co.jp/factory/hakushu/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8C%97%E6%9D%9C%E5%B8%82%E7%99%BD%E5%B7%9E%E7%94%BA%E9%B3%A5%E5%8E%9F2913-1",
@@ -55,7 +55,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -69,7 +69,7 @@
     "region": "北海道",
     "lat": 43.1871411,
     "lng": 140.7908009,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.nikka.com/distilleries/yoichi/visit/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E9%BB%92%E5%B7%9D%E7%94%BA7-6",
@@ -84,7 +84,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -99,7 +99,7 @@
     "region": "東北",
     "lat": 38.3097561,
     "lng": 140.6498773,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://distillery.nikka.com/miyagikyo/reservation",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E3%83%8B%E3%83%83%E3%82%AB1",
@@ -114,7 +114,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -157,7 +157,7 @@
     "region": "東北",
     "lat": 39.0397102,
     "lng": 139.9943473,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://yuza-disty.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E5%90%89%E5%87%BA%E9%87%91%E4%BF%A3239-5",
@@ -172,7 +172,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -186,7 +186,7 @@
     "region": "中部",
     "lat": 35.3368016,
     "lng": 138.8968164,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.kirin.co.jp/experience/factory/gotemba/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%BE%A1%E6%AE%BF%E5%A0%B4%E5%B8%82%E6%9F%B4%E6%80%92%E7%94%B0970",
@@ -201,7 +201,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -215,7 +215,7 @@
     "region": "中部",
     "lat": 35.7477025,
     "lng": 137.9013179,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.hombo.co.jp/visiting/komagatake/reserve-komagatake/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E4%B8%8A%E4%BC%8A%E9%82%A3%E9%83%A1%E5%AE%AE%E7%94%B0%E6%9D%914752-31",
@@ -230,7 +230,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -244,7 +244,7 @@
     "region": "関東",
     "lat": 36.0463212,
     "lng": 139.0546859,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.instagram.com/chichibu_distillery/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8C%E4%B8%9849",
@@ -259,7 +259,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -273,7 +273,7 @@
     "region": "北海道",
     "lat": 43.0758438,
     "lng": 144.8207169,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://akkeshi-distillery.com/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%8E%9A%E5%B2%B8%E9%83%A1%E5%8E%9A%E5%B2%B8%E7%94%BA%E5%AE%AE%E5%9C%924%E4%B8%81%E7%9B%AE109-2",
@@ -288,7 +288,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -302,7 +302,7 @@
     "region": "中部",
     "lat": 35.1205434,
     "lng": 138.3253725,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.gaiaflow.co.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%E8%90%BD%E5%90%88555",
@@ -317,7 +317,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -331,7 +331,7 @@
     "region": "中部",
     "lat": 36.6557566,
     "lng": 136.9693641,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.wakatsuru.co.jp/saburomaru/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%A0%BA%E6%B3%A2%E5%B8%82%E4%B8%89%E9%83%8E%E4%B8%B8208",
@@ -346,7 +346,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -360,7 +360,7 @@
     "region": "近畿",
     "lat": 35.3769171,
     "lng": 136.2677438,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.romanbeer.com",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E9%95%B7%E6%B5%9C%E5%B8%82%E6%9C%9D%E6%97%A5%E7%94%BA14-1",
@@ -375,7 +375,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -389,7 +389,7 @@
     "region": "近畿",
     "lat": 34.681402,
     "lng": 134.9054577,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.ei-sake.jp/tours.html",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E5%A4%A7%E4%B9%85%E4%BF%9D%E7%94%BA%E8%A5%BF%E5%B3%B6919",
@@ -404,7 +404,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -418,7 +418,7 @@
     "region": "その他",
     "lat": 31.6029601,
     "lng": 130.335417,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kanosuke.com/distillery/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%97%A5%E7%BD%AE%E5%B8%82%E6%97%A5%E5%90%89%E7%94%BA%E7%A5%9E%E4%B9%8B%E5%B7%9D845-3",
@@ -433,7 +433,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -448,7 +448,7 @@
     "region": "その他",
     "lat": 31.3586519,
     "lng": 130.2861897,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.hombo.co.jp/visiting/tsunuki/reserve-tsunuki/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82%E5%8A%A0%E4%B8%96%E7%94%B0%E6%B4%A5%E8%B2%AB6594",
@@ -463,7 +463,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "shindo-distillery",
@@ -477,7 +477,7 @@
     "region": "九州",
     "lat": 33.3816179,
     "lng": 130.7281024,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://shindo-lab.jp/distillery/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE626%E7%95%AA%E5%9C%B01",
@@ -492,7 +492,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -506,7 +506,7 @@
     "region": "中部",
     "lat": 36.345318,
     "lng": 138.4447537,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://komorodistillery.com/visit/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%B0%8F%E8%AB%B8%E5%B8%82%E7%94%B24630-1",
@@ -521,7 +521,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "setouchi-distillery",
@@ -536,7 +536,7 @@
     "region": "中国",
     "lat": 34.2511434,
     "lng": 132.5773883,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://setouchidistillery.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%91%89%E5%B8%82%E6%9C%AC%E9%80%9A7-9-10",
@@ -551,7 +551,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -593,7 +593,7 @@
     "region": "九州",
     "lat": 33.0354948,
     "lng": 131.2257398,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kujudistillery.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%E7%AB%B9%E7%94%B0%E5%B8%82%E4%B9%85%E4%BD%8F%E7%94%BA%E7%99%BD%E4%B8%B97571-23",
@@ -608,7 +608,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "sakurao-distillery",
@@ -653,7 +653,7 @@
     "region": "北海道",
     "lat": 42.8483906,
     "lng": 140.6398367,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://niseko-distillery.com/reservation/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E8%99%BB%E7%94%B0%E9%83%A1%E3%83%8B%E3%82%BB%E3%82%B3%E7%94%BA%E3%83%8B%E3%82%BB%E3%82%B3478-15",
@@ -668,7 +668,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -683,7 +683,7 @@
     "region": "その他",
     "lat": 31.5963152,
     "lng": 130.3466431,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.komasa.co.jp/visit",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%97%A5%E7%BD%AE%E5%B8%82%E6%97%A5%E5%90%89%E7%94%BA%E6%97%A5%E7%BD%AE3309",
@@ -698,7 +698,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -712,7 +712,7 @@
     "region": "関東",
     "lat": 35.704718,
     "lng": 139.790675,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://ethicalspirits.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%94%B5%E5%89%8D3-9-3",
@@ -727,7 +727,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -742,7 +742,7 @@
     "region": "近畿",
     "lat": 34.6713653,
     "lng": 135.5345706,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://mikunidistillery.jp/news/reserve/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E6%9D%B1%E5%B0%8F%E6%A9%8B1-16-24",
@@ -757,7 +757,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -772,7 +772,7 @@
     "region": "北海道",
     "lat": 43.6901541,
     "lng": 142.5213638,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://tankyudistillery.jp/ja/tour",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%8A%E5%B7%9D%E9%83%A1%E6%9D%B1%E5%B7%9D%E7%94%BA%E8%A5%BF2%E5%8F%B7%E5%8C%9723",
@@ -787,7 +787,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -801,7 +801,7 @@
     "region": "関東",
     "lat": 35.637118,
     "lng": 139.2960877,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.hachioji-distillery.jp",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%A4%9A%E7%94%B0%E7%94%BA1213-5",
@@ -816,7 +816,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -830,7 +830,7 @@
     "region": "九州",
     "lat": 33.2987763,
     "lng": 130.2028565,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://ogidistillery.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E5%B0%8F%E5%9F%8E%E5%B8%82%E5%B0%8F%E5%9F%8E%E7%94%BA903",
@@ -845,7 +845,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -860,7 +860,7 @@
     "region": "中部",
     "lat": 36.9221537,
     "lng": 138.449445,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://nozawaonsendistillery.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E6%9D%91%E8%B1%8A%E9%83%B79394",
@@ -875,7 +875,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -918,7 +918,7 @@
     "region": "関東",
     "lat": 35.6774339,
     "lng": 139.8028461,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://fukagawa-distillery.tokyo/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%B9%B3%E9%87%8E2-3-15",
@@ -933,7 +933,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -976,7 +976,7 @@
     "region": "関東",
     "lat": 35.5828614,
     "lng": 139.6733719,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.bluerabbitdistillery.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E6%9C%AC%E7%94%BA29-2%20%E3%82%A6%E3%82%A7%E3%83%AB%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83102",
@@ -991,7 +991,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -1005,7 +1005,7 @@
     "region": "関東",
     "lat": 35.5560244,
     "lng": 139.7151992,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://haneda-brewery.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%E6%9C%AC%E7%94%BA1-11-7",
@@ -1020,7 +1020,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -1034,7 +1034,7 @@
     "region": "北海道",
     "lat": 42.9901349,
     "lng": 141.3644682,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.hlwhisky.co.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8D%97%E5%8C%BA%E6%BE%84%E5%B7%9D389-6",
@@ -1049,7 +1049,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -1090,7 +1090,7 @@
     "region": "近畿",
     "lat": 35.6921553,
     "lng": 135.1991564,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://mairingen.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E9%87%8E%E4%B8%AD2562",
@@ -1105,7 +1105,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-04-01",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "alembic-distillery",
@@ -1119,7 +1119,7 @@
     "region": "中部",
     "lat": 36.611652,
     "lng": 136.6050475,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.alembic.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E5%A4%A7%E9%87%8E%E7%94%BA1%E4%B8%81%E7%9B%AE38-5",
@@ -1134,7 +1134,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -1148,7 +1148,7 @@
     "region": "九州",
     "lat": 33.2169572,
     "lng": 130.3601173,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://stilldam.saga.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E4%BD%90%E8%B3%80%E5%B8%82%E8%AB%B8%E5%AF%8C%E7%94%BA%E5%A4%A7%E5%AD%97%E7%82%BA%E9%87%8D214-4",
@@ -1163,7 +1163,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -1177,7 +1177,7 @@
     "region": "九州",
     "lat": 32.7760843,
     "lng": 128.8034148,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://gotogin.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BA%94%E5%B3%B6%E5%B8%82%E6%88%B8%E5%B2%90%E7%94%BA1223-5",
@@ -1192,7 +1192,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -1206,7 +1206,7 @@
     "region": "北海道",
     "lat": 42.9279646,
     "lng": 143.2509393,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://tokachi-pd.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%B7%9D%E9%83%A1%E5%B9%95%E5%88%A5%E7%94%BA%E6%9C%AD%E5%86%85%E5%8C%97%E7%94%BA55-2",
@@ -1221,7 +1221,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -1235,7 +1235,7 @@
     "region": "中部",
     "lat": 35.7500675,
     "lng": 136.9705041,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.facebook.com/TatsumiDistillery/?locale=ja_JP",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%83%A1%E4%B8%8A%E5%B8%82%E5%85%AB%E5%B9%A1%E7%94%BA%E6%97%AD1072-2",
@@ -1250,7 +1250,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-04-01",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "record",
@@ -1264,7 +1264,7 @@
     "region": "関東",
     "lat": 35.4578951,
     "lng": 139.0616468,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://tanzawa-distillery.com/index.html",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%B6%B3%E6%9F%84%E4%B8%8A%E9%83%A1%E5%B1%B1%E5%8C%97%E7%94%BA%E4%B8%AD%E5%B7%9D822-1",
@@ -1279,7 +1279,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-kanagawa-shonan",
@@ -1294,7 +1294,7 @@
     "region": "関東",
     "lat": 35.3604328,
     "lng": 139.4019729,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kumazawa.jp/kumazawa-tsushin/post-20240919-5/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%8C%85%E3%83%B6%E5%B4%8E%E5%B8%82%E9%A6%99%E5%B7%9D7-10-7",
@@ -1309,7 +1309,7 @@
     "operation_status": "稼働中とみられる",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-001",
@@ -1323,7 +1323,7 @@
     "region": "北海道",
     "lat": 45.1642113,
     "lng": 141.1409883,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kamuiwhisky.com/ja/home-ja/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%88%A9%E5%B0%BB%E9%83%A1%E5%88%A9%E5%B0%BB%E7%94%BA%E6%B2%93%E5%BD%A2%E7%A5%9E%E5%B1%85128-2",
@@ -1336,7 +1336,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-002",
@@ -1376,7 +1376,7 @@
     "region": "北海道",
     "lat": 43.2018499,
     "lng": 140.7730389,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "http://sawamachi.jp/index.html",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E6%B2%A2%E7%94%BA2%E4%B8%81%E7%9B%AE26%E7%95%AA%E5%9C%B0",
@@ -1389,7 +1389,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-04-01",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-004",
@@ -1403,7 +1403,7 @@
     "region": "北海道",
     "lat": 41.7645881,
     "lng": 140.7136804,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://ditripper.com/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E5%85%83%E7%94%BA31-20",
@@ -1416,7 +1416,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-005",
@@ -1431,7 +1431,7 @@
     "region": "東北",
     "lat": 40.2728723,
     "lng": 141.3012368,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.nanbubijin.co.jp/company/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%E4%BA%8C%E6%88%B8%E5%B8%82%E7%A6%8F%E5%B2%A1%E5%AD%97%E4%B8%8A%E7%94%BA13",
@@ -1444,7 +1444,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-006",
@@ -1483,7 +1483,7 @@
     "region": "東北",
     "lat": 37.7695798,
     "lng": 140.7156471,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://tamano-ascend-distillery.jp/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%9B%B8%E9%A6%AC%E5%B8%82%E7%8E%89%E9%87%8E%E5%AD%97%E7%94%BA74%E7%95%AA%E5%9C%B0",
@@ -1496,7 +1496,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-008",
@@ -1510,7 +1510,7 @@
     "region": "東北",
     "lat": 37.5759129,
     "lng": 140.0191617,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.tenkyo.jp",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E8%80%B6%E9%BA%BB%E9%83%A1%E7%A3%90%E6%A2%AF%E7%94%BA%E5%A4%A7%E5%AD%97%E6%9B%B4%E7%A7%91%E5%AD%97%E4%B8%AD%E6%9B%BD%E6%A0%B9%E5%B9%B36841-11",
@@ -1523,7 +1523,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-009",
@@ -1538,7 +1538,7 @@
     "region": "関東",
     "lat": 36.3580915,
     "lng": 140.4755566,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://takazo.meirishurui.com/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82%E5%85%83%E5%90%89%E7%94%B0%E7%94%BA338%E7%95%AA%E5%9C%B0",
@@ -1551,7 +1551,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-010",
@@ -1566,7 +1566,7 @@
     "region": "関東",
     "lat": 36.2208489,
     "lng": 140.1680131,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kiuchibrewery.co.jp/brewery/yasatodistillery/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%9F%B3%E5%B2%A1%E5%B8%82%E9%A0%88%E9%87%9C1300",
@@ -1579,7 +1579,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-011",
@@ -1594,7 +1594,7 @@
     "region": "関東",
     "lat": 36.2992485,
     "lng": 139.7890404,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://stork-valley-distillery.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%B0%8F%E5%B1%B1%E5%B8%82%E7%A5%9E%E9%B3%A5%E8%B0%B74%E4%B8%81%E7%9B%AE1%E7%95%AA53%E5%8F%B7",
@@ -1609,7 +1609,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-012",
@@ -1624,7 +1624,7 @@
     "region": "関東",
     "lat": 36.2859882,
     "lng": 139.7806378,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://tetsuwhisky.com/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%B0%8F%E5%B1%B1%E5%B8%82%E5%A4%A7%E5%AD%97%E7%B2%9F%E5%AE%AE1452",
@@ -1637,7 +1637,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-013",
@@ -1651,7 +1651,7 @@
     "region": "関東",
     "lat": 36.4538039,
     "lng": 138.7735049,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kurabuchi-distillery.jp/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%E5%80%89%E6%B8%95%E7%94%BA%E6%A8%A9%E7%94%B02625-1",
@@ -1664,7 +1664,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-014",
@@ -1678,7 +1678,7 @@
     "region": "関東",
     "lat": 36.4706962,
     "lng": 138.5756679,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://link-kitakaru.co.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%90%BE%E5%A6%BB%E9%83%A1%E9%95%B7%E9%87%8E%E5%8E%9F%E7%94%BA%E5%8C%97%E8%BB%BD%E4%BA%95%E6%B2%A21991-127",
@@ -1691,7 +1691,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-015",
@@ -1705,7 +1705,7 @@
     "region": "関東",
     "lat": 36.1717614,
     "lng": 139.530712,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://toashuzo.com/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%BE%BD%E7%94%9F%E5%B8%82%E8%A5%BF4%E4%B8%81%E7%9B%AE1-11",
@@ -1718,7 +1718,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-016",
@@ -1732,7 +1732,7 @@
     "region": "関東",
     "lat": 36.0769147,
     "lng": 139.4692257,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "",
     "official_url_type": "association",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%B4%BB%E5%B7%A3%E5%B8%82%E5%B0%8F%E8%B0%B7625",
@@ -1745,7 +1745,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-017",
@@ -1759,7 +1759,7 @@
     "region": "関東",
     "lat": 36.0503394,
     "lng": 139.0579867,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.instagram.com/chichibu_distillery/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8C%E4%B8%9879",
@@ -1772,7 +1772,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-018",
@@ -1788,7 +1788,7 @@
     "region": "関東",
     "lat": 35.2842062,
     "lng": 140.235028,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://mitosaya.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%A4%B7%E9%9A%85%E9%83%A1%E5%A4%A7%E5%A4%9A%E5%96%9C%E7%94%BA%E5%A4%A7%E5%A4%9A%E5%96%9C486",
@@ -1803,7 +1803,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-019",
@@ -1817,7 +1817,7 @@
     "region": "関東",
     "lat": 35.3002611,
     "lng": 140.0735379,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.sudouhonke.co.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%90%9B%E6%B4%A5%E5%B8%82%E9%9D%92%E6%9F%B316-10",
@@ -1830,7 +1830,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-020",
@@ -1844,7 +1844,7 @@
     "region": "中部",
     "lat": 38.152811,
     "lng": 139.4597746,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://yoshidadenzai-distillery.com",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%9D%91%E4%B8%8A%E5%B8%82%E5%AE%BF%E7%94%B0344-1",
@@ -1857,7 +1857,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-021",
@@ -1872,7 +1872,7 @@
     "region": "中部",
     "lat": 37.8715506,
     "lng": 139.0853295,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kameda-distillery.com/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E6%B1%9F%E5%8D%97%E5%8C%BA%E4%BA%80%E7%94%B0%E5%B7%A5%E6%A5%AD%E5%9B%A3%E5%9C%B01-3-5",
@@ -1887,7 +1887,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-022",
@@ -1901,7 +1901,7 @@
     "region": "中部",
     "lat": 37.1060222,
     "lng": 138.9316085,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.hakkaisan.co.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%8D%97%E9%AD%9A%E6%B2%BC%E5%B8%82%E9%95%B7%E6%A3%AE457-1",
@@ -1914,7 +1914,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-04-01",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-023",
@@ -1929,7 +1929,7 @@
     "region": "中部",
     "lat": 36.4927087,
     "lng": 136.7579761,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://orientalbrewing.com/distillery/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E6%9D%B1%E7%94%BA32",
@@ -1943,7 +1943,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-024",
@@ -1957,7 +1957,7 @@
     "region": "中部",
     "lat": 35.4590423,
     "lng": 138.7691632,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://sasakawa-whisky.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E4%B8%8A%E5%90%89%E7%94%B04918-1",
@@ -1970,7 +1970,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-025",
@@ -1984,7 +1984,7 @@
     "region": "中部",
     "lat": 35.5022027,
     "lng": 138.7653119,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "",
     "official_url_type": "association",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E8%88%B9%E6%B4%A58",
@@ -1997,7 +1997,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-026",
@@ -2012,7 +2012,7 @@
     "region": "中部",
     "lat": 35.7594265,
     "lng": 138.9439856,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://faryeast.com",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8C%97%E9%83%BD%E7%95%99%E9%83%A1%E5%B0%8F%E8%8F%85%E6%9D%914341-1",
@@ -2025,7 +2025,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-027",
@@ -2040,7 +2040,7 @@
     "region": "中部",
     "lat": 36.9229752,
     "lng": 138.3831301,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "",
     "official_url_type": "association",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E9%A3%AF%E5%B1%B1%E5%B8%82%E5%A4%A7%E5%AD%97%E8%B1%8A%E7%94%B05123-30",
@@ -2053,7 +2053,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-028",
@@ -2068,7 +2068,7 @@
     "region": "中部",
     "lat": 36.3282759,
     "lng": 138.4891082,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.kanchiku.com",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%8C%97%E4%BD%90%E4%B9%85%E9%83%A1%E5%BE%A1%E4%BB%A3%E7%94%B0%E7%94%BA%E9%A6%AC%E7%80%AC%E5%8F%A3953-4",
@@ -2081,7 +2081,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-029",
@@ -2095,7 +2095,7 @@
     "region": "中部",
     "lat": 36.3184735,
     "lng": 138.5796083,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.karuizawa-whisky.co.jp/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%8C%97%E4%BD%90%E4%B9%85%E9%83%A1%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA%E7%99%BA%E5%9C%B02785-318",
@@ -2108,7 +2108,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-030",
@@ -2122,7 +2122,7 @@
     "region": "中部",
     "lat": 36.0296666,
     "lng": 137.4597761,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.whisky-hida.com",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%AB%98%E5%B1%B1%E5%B8%82%E9%AB%98%E6%A0%B9%E7%94%BA%E4%B8%8B%E4%B9%8B%E5%90%91164-2",
@@ -2135,7 +2135,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-031",
@@ -2150,7 +2150,7 @@
     "region": "中部",
     "lat": 35.1197295,
     "lng": 138.9195022,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://whiskey.co.jp/waterdragon",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E4%B8%89%E5%B3%B6%E5%B8%82%E5%A4%A7%E7%A4%BE%E7%94%BA18-5",
@@ -2165,7 +2165,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-032",
@@ -2179,7 +2179,7 @@
     "region": "中部",
     "lat": 35.4560306,
     "lng": 138.2212794,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://juzan.co.jp/contents/ikawadistillery/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%E7%94%B0%E4%BB%A3%E5%AD%97%E5%A4%A7%E6%98%A5%E6%9C%A81299-1",
@@ -2192,7 +2192,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-033",
@@ -2207,7 +2207,7 @@
     "region": "中部",
     "lat": 35.2129304,
     "lng": 136.8398757,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://onikoroshi.co.jp/company/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%B8%85%E9%A0%88%E5%B8%82%E6%B8%85%E6%B4%B21624",
@@ -2220,7 +2220,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-04-01",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-034",
@@ -2234,7 +2234,7 @@
     "region": "中部",
     "lat": 34.8693976,
     "lng": 136.986879,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://unibio.jp/whisky-project/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%A2%A7%E5%8D%97%E5%B8%82%E5%BC%A5%E7%94%9F%E7%94%BA4%E4%B8%81%E7%9B%AE3%E7%95%AA%E5%9C%B0",
@@ -2247,7 +2247,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-035",
@@ -2262,7 +2262,7 @@
     "region": "近畿",
     "lat": 34.5308071,
     "lng": 136.6687713,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.iseman.co.jp/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BC%8A%E5%8B%A2%E5%B8%82%E5%B0%8F%E4%BF%A3%E7%94%BA%E6%98%8E%E9%87%8E576%E7%95%AA%E5%9C%B013",
@@ -2275,7 +2275,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-036",
@@ -2289,7 +2289,7 @@
     "region": "近畿",
     "lat": 35.3577086,
     "lng": 136.04359,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.biwako-distillery.jp",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E9%AB%98%E5%B3%B6%E5%B8%82%E6%96%B0%E6%97%AD%E7%94%BA%E6%97%AD83",
@@ -2302,7 +2302,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-037",
@@ -2316,7 +2316,7 @@
     "region": "近畿",
     "lat": 34.4444232,
     "lng": 135.3877763,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://rikyugura.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%B2%B8%E5%92%8C%E7%94%B0%E5%B8%82%E5%9C%9F%E7%94%9F%E7%94%BA6-10-15",
@@ -2329,7 +2329,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-038",
@@ -2345,7 +2345,7 @@
     "region": "近畿",
     "lat": 35.241233,
     "lng": 135.129131,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kotsuzumi.co.jp/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%E4%B8%AD%E7%AB%B9%E7%94%B01171",
@@ -2358,7 +2358,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-039",
@@ -2373,7 +2373,7 @@
     "region": "近畿",
     "lat": 35.000064,
     "lng": 135.078009,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kizakura.co.jp/tamba/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1%E5%B8%82%E4%BB%8A%E7%94%B0%E7%94%BA%E6%9C%AC%E8%8D%98%E5%A0%82%E3%83%B6%E8%B0%B71-19",
@@ -2386,7 +2386,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-040",
@@ -2402,7 +2402,7 @@
     "region": "近畿",
     "lat": 34.8500593,
     "lng": 135.1922098,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.kobe-distillery.com",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B2%A2%E7%94%BA%E4%B8%8A%E5%A4%A7%E6%B2%A22150",
@@ -2415,7 +2415,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-04-01",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-041",
@@ -2429,7 +2429,7 @@
     "region": "近畿",
     "lat": 34.7572946,
     "lng": 135.2289449,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://rokkosan-distillery.com",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA%E5%85%AD%E7%94%B2%E5%B1%B1%E7%94%BA%E5%8D%97%E5%85%AD%E7%94%B21034-229",
@@ -2442,7 +2442,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-042",
@@ -2457,7 +2457,7 @@
     "region": "近畿",
     "lat": 34.6446776,
     "lng": 135.0122778,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://akashisakebrewery.com/ja/the-kaikyo-distillery/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E5%A4%A7%E8%94%B5%E5%85%AB%E5%B9%A1%E7%94%BA1-3",
@@ -2470,7 +2470,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-043",
@@ -2484,7 +2484,7 @@
     "region": "近畿",
     "lat": 35.3090104,
     "lng": 134.6054985,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://yabu-distillery.co.jp/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E9%A4%8A%E7%88%B6%E5%B8%82%E5%A4%A7%E5%B1%8B%E7%94%BA%E4%B8%AD%E9%96%93844-1",
@@ -2497,7 +2497,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-044",
@@ -2537,7 +2537,7 @@
     "region": "近畿",
     "lat": 33.6935829,
     "lng": 135.4365087,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kishukumano-distillery.com",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E8%A5%BF%E7%89%9F%E5%A9%81%E9%83%A1%E4%B8%8A%E5%AF%8C%E7%94%B0%E7%94%9F%E9%A6%AC1474-1",
@@ -2550,7 +2550,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-046",
@@ -2565,7 +2565,7 @@
     "region": "中国",
     "lat": 35.5449996,
     "lng": 133.2246127,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.chiyomusubi.co.jp/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E5%A2%83%E6%B8%AF%E5%B8%82%E5%A4%A7%E6%AD%A3%E7%94%BA131",
@@ -2578,7 +2578,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-047",
@@ -2593,7 +2593,7 @@
     "region": "中国",
     "lat": 34.6789127,
     "lng": 133.9394687,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.doppokan.jp/tour/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%B2%A1%E5%B1%B1%E5%B8%82%E4%B8%AD%E5%8C%BA%E8%A5%BF%E5%B7%9D%E5%8E%9F185-1",
@@ -2606,7 +2606,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-048",
@@ -2621,7 +2621,7 @@
     "region": "四国",
     "lat": 34.0986278,
     "lng": 134.3317405,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.nissin-shurui.co.jp/whiskey.html",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%E9%98%BF%E6%B3%A2%E5%B8%82%E5%9C%9F%E6%88%90%E7%94%BA%E9%83%A1176",
@@ -2634,7 +2634,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-049",
@@ -2649,7 +2649,7 @@
     "region": "四国",
     "lat": 33.4652861,
     "lng": 132.4258619,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://umebijin.com",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E5%85%AB%E5%B9%A1%E6%B5%9C%E5%B8%821557%E7%95%AA%E5%9C%B0",
@@ -2662,7 +2662,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-04-01",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-050",
@@ -2676,7 +2676,7 @@
     "region": "九州",
     "lat": 33.9187965,
     "lng": 130.93885,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.nikka.com",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA%E5%A4%A7%E9%87%8C%E5%85%83%E7%94%BA2-1",
@@ -2689,7 +2689,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-051",
@@ -2704,7 +2704,7 @@
     "region": "九州",
     "lat": 33.3860707,
     "lng": 130.7271109,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://asakuradistillery.com",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE185",
@@ -2717,7 +2717,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-052",
@@ -2731,7 +2731,7 @@
     "region": "九州",
     "lat": 33.3816179,
     "lng": 130.7281024,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://shindo-lab.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE626%E7%95%AA%E5%9C%B01",
@@ -2744,7 +2744,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-053",
@@ -2758,7 +2758,7 @@
     "region": "九州",
     "lat": 33.1417127,
     "lng": 129.9020591,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.ganjo.jp/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E6%9D%B1%E5%BD%BC%E6%9D%B5%E9%83%A1%E6%B3%A2%E4%BD%90%E8%A6%8B%E7%94%BA%E6%8A%98%E6%95%B7%E7%80%AC%E9%83%B71742-12",
@@ -2771,7 +2771,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-054",
@@ -2786,7 +2786,7 @@
     "region": "九州",
     "lat": 33.0899962,
     "lng": 129.8147985,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.umegae-shuzo.com/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82%E5%9F%8E%E9%96%93%E7%94%BA317%E7%95%AA%E5%9C%B0",
@@ -2799,7 +2799,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-055",
@@ -2813,7 +2813,7 @@
     "region": "九州",
     "lat": 32.9794302,
     "lng": 130.6780781,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://yamagadistillery.co.jp",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E5%B1%B1%E9%B9%BF%E5%B8%82%E9%B9%BF%E5%A4%AE%E7%94%BA%E5%90%88%E9%87%8C980%E7%95%AA%E5%9C%B01",
@@ -2826,7 +2826,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-056",
@@ -2840,7 +2840,7 @@
     "region": "九州",
     "lat": 32.2968824,
     "lng": 130.9878066,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://ohishi-shuzohjyo.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%90%83%E7%A3%A8%E9%83%A1%E6%B0%B4%E4%B8%8A%E6%9D%91%E5%B2%A9%E9%87%8E1053",
@@ -2853,7 +2853,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-057",
@@ -2867,7 +2867,7 @@
     "region": "九州",
     "lat": 32.1948786,
     "lng": 130.8451866,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://joraku.co.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%90%83%E7%A3%A8%E9%83%A1%E9%8C%A6%E7%94%BA%E4%B8%80%E6%AD%A62577-13",
@@ -2880,7 +2880,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-058",
@@ -2894,7 +2894,7 @@
     "region": "九州",
     "lat": 32.1347884,
     "lng": 130.6815076,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.hakutake.co.jp/tano-distillery/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%BA%BA%E5%90%89%E5%B8%82%E7%94%B0%E9%87%8E%E7%94%BA3316-4",
@@ -2907,7 +2907,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-059",
@@ -2921,7 +2921,7 @@
     "region": "九州",
     "lat": 32.6082083,
     "lng": 131.639892,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://satoshochu.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%BB%B6%E5%B2%A1%E5%B8%82%E7%A5%9D%E5%AD%90%E7%94%BA2388%E7%95%AA%E5%9C%B01",
@@ -2936,7 +2936,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-060",
@@ -2950,7 +2950,7 @@
     "region": "九州",
     "lat": 31.4427027,
     "lng": 131.0427013,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://tensei-shuzo.com",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9B%BD%E6%96%BC%E9%83%A1%E5%A4%A7%E5%B4%8E%E7%94%BA%E8%8F%B1%E7%94%B01270",
@@ -2963,7 +2963,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-061",
@@ -2977,7 +2977,7 @@
     "region": "九州",
     "lat": 31.6604652,
     "lng": 130.8767089,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.suntory.co.jp/osumidistillery/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9B%BD%E6%96%BC%E5%B8%82%E5%A4%A7%E9%9A%85%E7%94%BA%E5%9D%82%E5%85%83860%E7%95%AA%E5%9C%B01",
@@ -2990,7 +2990,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-062",
@@ -3004,7 +3004,7 @@
     "region": "九州",
     "lat": 31.7392642,
     "lng": 130.6685088,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.asahibeer.co.jp/s-tsukasa-kura/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%A7%B6%E8%89%AF%E5%B8%82%E5%8A%A0%E6%B2%BB%E6%9C%A8%E7%94%BA%E8%AB%8F%E8%A8%AA%E7%94%BA200",
@@ -3019,7 +3019,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-063",
@@ -3033,7 +3033,7 @@
     "region": "九州",
     "lat": 31.9128807,
     "lng": 130.461609,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://komakijozo.co.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E8%96%A9%E6%91%A9%E9%83%A1%E3%81%95%E3%81%A4%E3%81%BE%E7%94%BA%E6%99%82%E5%90%8912",
@@ -3046,7 +3046,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-064",
@@ -3061,7 +3061,7 @@
     "region": "九州",
     "lat": 31.5169605,
     "lng": 130.4537151,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.nishi-shuzo.co.jp/ontake/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E4%B8%8B%E7%A6%8F%E5%85%83%E7%94%BA12300",
@@ -3074,7 +3074,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-065",
@@ -3088,7 +3088,7 @@
     "region": "九州",
     "lat": 31.2609423,
     "lng": 130.2693067,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://hinokamidistillery.jp",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9E%95%E5%B4%8E%E5%B8%82%E7%81%AB%E4%B9%8B%E7%A5%9E%E5%8C%97%E7%94%BA388%E7%95%AA%E5%9C%B0",
@@ -3101,7 +3101,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-066",
@@ -3116,7 +3116,7 @@
     "region": "九州",
     "lat": 26.5374577,
     "lng": 127.9621748,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.helios-syuzo.co.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E5%90%8D%E8%AD%B7%E5%B8%82%E5%AD%97%E8%A8%B1%E7%94%B0405",
@@ -3129,7 +3129,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-067",
@@ -3143,7 +3143,7 @@
     "region": "九州",
     "lat": 26.3358691,
     "lng": 127.8509555,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://shinzato-shuzo.co.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%86%E3%82%8B%E3%81%BE%E5%B8%82%E5%B7%9E%E5%B4%8E12-17",
@@ -3156,7 +3156,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-068",
@@ -3171,7 +3171,7 @@
     "region": "九州",
     "lat": 26.1959761,
     "lng": 127.7063619,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kumesen.co.jp",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E5%AD%97%E4%BB%B2%E4%BA%95%E7%9C%9F155%E7%95%AA",
@@ -3184,7 +3184,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "cand-jwic-seed-069",
@@ -3200,7 +3200,7 @@
     "region": "九州",
     "lat": 26.1427606,
     "lng": 127.654326,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.masahiro.co.jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E7%B3%B8%E6%BA%80%E5%B8%82%E8%A5%BF%E5%B4%8E%E7%94%BA5-8-7",
@@ -3215,7 +3215,7 @@
     "operation_status": "稼働中",
     "last_checked": "2026-03-31",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-071",
@@ -3254,7 +3254,7 @@
     "region": "北海道",
     "lat": 42.9008467,
     "lng": 143.2461776,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://tokachidistillery.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%B7%9D%E9%83%A1%E5%B9%95%E5%88%A5%E7%94%BA%E6%9C%AD%E5%86%85%E3%81%BF%E3%81%9A%E3%81%BB%E7%94%BA160-72",
@@ -3268,7 +3268,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-073",
@@ -3282,7 +3282,7 @@
     "region": "北海道",
     "lat": 42.4707726,
     "lng": 143.4273189,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://tcgd.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%BA%83%E5%B0%BE%E9%83%A1%E5%A4%A7%E6%A8%B9%E7%94%BA%E6%B5%9C%E5%A4%A7%E6%A8%B967-18",
@@ -3296,7 +3296,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-074",
@@ -3387,7 +3387,7 @@
     "region": "北海道",
     "lat": 43.086031,
     "lng": 141.3015598,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.sapporo-shusei.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%99%BA%E5%AF%9210%E6%9D%A11%E4%B8%81%E7%9B%AE1%E7%95%AA1%E5%8F%B7",
@@ -3401,7 +3401,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-078",
@@ -3416,7 +3416,7 @@
     "region": "中部",
     "lat": 37.8063244,
     "lng": 138.8494634,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://shinobudistillery.com/index_jp/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E8%A5%BF%E8%92%B2%E5%8C%BA%E8%B6%8A%E5%89%8D%E6%B5%9C5120",
@@ -3430,7 +3430,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-079",
@@ -3471,7 +3471,7 @@
     "region": "中部",
     "lat": 35.6617676,
     "lng": 138.6957649,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://minamialpswandb.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AC%9B%E5%90%B9%E5%B8%82%E4%B8%80%E5%AE%AE%E7%94%BA%E4%B8%8A%E7%9F%A2%E4%BD%9C191-1",
@@ -3485,7 +3485,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-081",
@@ -3501,7 +3501,7 @@
     "region": "中部",
     "lat": 35.674388,
     "lng": 138.4566397,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.sanfoods.jp/brand/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E9%BE%8D%E5%B2%A1%E7%94%BA%E4%B8%8B%E6%A2%9D%E5%8D%97%E5%89%B2640",
@@ -3515,7 +3515,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-082",
@@ -3529,7 +3529,7 @@
     "region": "中部",
     "lat": 35.1965135,
     "lng": 138.6918387,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%B8%82%E5%A4%A7%E6%B7%B5325-5",
@@ -3543,7 +3543,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-083",
@@ -3557,7 +3557,7 @@
     "region": "中部",
     "lat": 35.3086848,
     "lng": 136.5603178,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.gyokusendo.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0800-3",
@@ -3571,7 +3571,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-084",
@@ -3585,7 +3585,7 @@
     "region": "近畿",
     "lat": 35.2663056,
     "lng": 135.3968252,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://kyotoshuzo.com",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E8%88%B9%E4%BA%95%E9%83%A1%E4%BA%AC%E4%B8%B9%E6%B3%A2%E7%94%BA%E5%9D%82%E5%8E%9F%E5%8D%97%E6%9E%9711%E7%95%AA",
@@ -3599,7 +3599,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-085",
@@ -3613,7 +3613,7 @@
     "region": "近畿",
     "lat": 34.6961044,
     "lng": 135.4982595,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://hankurayashiki.com",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-4-2",
@@ -3627,7 +3627,7 @@
     "last_checked": "2026-04-01",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-086",
@@ -3642,7 +3642,7 @@
     "region": "近畿",
     "lat": 34.6713653,
     "lng": 135.5345706,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://mikunidistillery.jp",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E6%9D%B1%E5%B0%8F%E6%A9%8B1-16-24",
@@ -3656,7 +3656,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-087",
@@ -3670,7 +3670,7 @@
     "region": "中国",
     "lat": 35.4034253,
     "lng": 133.782735,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://matsuiwhisky.com/company/distillery/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E5%80%89%E5%90%89%E5%B8%82%E4%B8%8A%E5%8F%A4%E5%B7%9D656-1",
@@ -3684,7 +3684,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-088",
@@ -3748,7 +3748,7 @@
     "region": "九州",
     "lat": 32.6847684,
     "lng": 130.9880307,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.morinosakagura.com",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%B8%8A%E7%9B%8A%E5%9F%8E%E9%83%A1%E5%B1%B1%E9%83%BD%E7%94%BA%E6%B5%9C%E7%94%BA60%E7%95%AA%E5%9C%B01",
@@ -3762,7 +3762,7 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   },
   {
     "id": "excl-jwic-seed-091",
@@ -3776,7 +3776,7 @@
     "region": "九州",
     "lat": 31.8934493,
     "lng": 130.682367,
-    "coordinate_status": "approx",
+    "coordinate_status": "exact",
     "official_url": "https://www.yokogawa-distillery.com",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%9C%A7%E5%B3%B6%E5%B8%82%E6%A8%AA%E5%B7%9D%E7%94%BA%E4%B8%8A%E3%83%8E3280-5",
@@ -3790,6 +3790,6 @@
     "last_checked": "2026-03-31",
     "location_quality": "address",
     "coordinate_source": "google_maps_place_url_v4",
-    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no)"
+    "coordinate_note": "v165 reflected from v4 place_3d4d results (review_flag=no) | v166 exact promotion: v4 place_3d4d distance0 conservative rule"
   }
 ]
