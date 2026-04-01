@@ -2007,8 +2007,8 @@
     "location": "北海道夕張郡長沼町加賀団体",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 42.9939527,
+    "lng": 141.7588834,
     "brands": [
       "ニューポット"
     ],
@@ -2029,15 +2029,15 @@
     "last_checked": "2026-04-01",
     "location_quality": "municipality_or_more",
     "data_status": "確認済み",
-    "coordinate_status": "none",
-    "coordinate_note": "住所更新後の再geocoding待ち",
+    "coordinate_status": "approx",
+    "coordinate_note": "v168 promoted from none to approx because address exists; coarse search-center coordinate from v4",
     "official_url_type": "distillery_official",
     "official_url_note": "蒸溜所公式サイト",
     "google_maps_place_url": "",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%95%E5%BC%B5%E9%83%A1%E9%95%B7%E6%B2%BC%E7%94%BA%E5%8A%A0%E8%B3%80%E5%9B%A3%E4%BD%93",
     "legacy_lat": 42.9846,
     "legacy_lng": 141.7372,
-    "coordinate_source": "none"
+    "coordinate_source": "google_maps_search_url_v4"
   },
   {
     "id": "cand-jwic-seed-003",
@@ -3797,8 +3797,8 @@
     "location": "奈良県宇陀郡曽爾村山粕1637-1",
     "prefecture": "奈良県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.4827674,
+    "lng": 136.0897124,
     "brands": [
       "ニューポット"
     ],
@@ -3819,15 +3819,15 @@
     "last_checked": "2026-04-01",
     "location_quality": "address",
     "data_status": "確認済み",
-    "coordinate_status": "none",
-    "coordinate_note": "住所更新後の再geocoding待ち",
+    "coordinate_status": "approx",
+    "coordinate_note": "v168 promoted from none to approx because address exists; place_3d4d from v4 with mismatch warning retained conceptually",
     "official_url_type": "parent_company",
     "official_url_note": "神息酒造（Kamiki Whisky）公式サイト",
     "google_maps_place_url": "",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%9C%8C%E5%AE%87%E9%99%80%E9%83%A1%E6%9B%BD%E7%88%BE%E6%9D%91%E5%B1%B1%E7%B2%951637-1",
     "legacy_lat": 34.68528,
     "legacy_lng": 135.83278,
-    "coordinate_source": "none"
+    "coordinate_source": "google_maps_place_url_v4"
   },
   {
     "id": "cand-jwic-seed-045",
@@ -5064,8 +5064,8 @@
     "location": "北海道苫小牧市柏原",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 42.6794175,
+    "lng": 141.7540536,
     "brands": [
       "製品未発売（熟成中）"
     ],
@@ -5086,13 +5086,13 @@
     "last_checked": "2026-04-01",
     "location_quality": "municipality_or_more",
     "data_status": "保留",
-    "coordinate_status": "none",
-    "coordinate_note": "住所更新後の再geocoding待ち",
+    "coordinate_status": "approx",
+    "coordinate_note": "v168 promoted from none to approx because address exists; coarse-area place_3d4d from v4",
     "google_maps_place_url": "",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E6%9F%8F%E5%8E%9F",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "none"
+    "coordinate_source": "google_maps_place_url_v4"
   },
   {
     "id": "excl-jwic-seed-076",
