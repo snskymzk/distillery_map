@@ -523,15 +523,15 @@
       "gin"
     ],
     "types_label": "ウイスキー / ジン",
-    "location": "宮崎県児湯郡木城町石河内字倉ノ又656-17",
+    "location": "宮崎県児湯郡木城町石河内字倉谷656番17",
     "prefecture": "宮崎県",
     "region": "九州",
     "lat": null,
     "lng": null,
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "official_url": "https://osuzuyama.co.jp/",
     "official_url_type": null,
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%85%90%E6%B9%AF%E9%83%A1%E6%9C%A8%E5%9F%8E%E7%94%BA%E7%9F%B3%E6%B2%B3%E5%86%85%E5%AD%97%E5%80%89%E3%83%8E%E5%8F%88656-17",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%85%90%E6%B9%AF%E9%83%A1%E6%9C%A8%E5%9F%8E%E7%94%BA%E7%9F%B3%E6%B2%B3%E5%86%85%E5%AD%97%E5%80%89%E8%B0%B7656%E7%95%AA17",
     "brands": [
       "OSUZU MALT New Born",
       "OSUZU GIN",
@@ -541,7 +541,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01"
   },
   {
     "id": "record",
@@ -578,15 +578,15 @@
       "gin"
     ],
     "types_label": "ウイスキー / ジン",
-    "location": "広島県廿日市市桜尾1-12-1",
+    "location": "広島県廿日市市桜尾1丁目12番1号",
     "prefecture": "広島県",
     "region": "中国",
     "lat": null,
     "lng": null,
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "official_url": "https://www.sakuraodistillery.com/fieldtrip/",
     "official_url_type": null,
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E6%A1%9C%E5%B0%BE1-12-1",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E6%A1%9C%E5%B0%BE1%E4%B8%81%E7%9B%AE12%E7%95%AA1%E5%8F%B7",
     "brands": [
       "桜尾ジン ORIGINAL",
       "桜尾ジン LIMITED",
@@ -596,7 +596,7 @@
     "visitable": true,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01"
   },
   {
     "id": "record",
@@ -988,15 +988,15 @@
       "gin"
     ],
     "types_label": "ジン",
-    "location": "北海道積丹郡積丹町美国町字小泊9-13",
+    "location": "北海道積丹郡積丹町大字野塚町字ウエント229番地1",
     "prefecture": "北海道",
     "region": "北海道",
     "lat": null,
     "lng": null,
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "official_url": "https://shakotan-spirit.co.jp/",
     "official_url_type": null,
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E7%A9%8D%E4%B8%B9%E9%83%A1%E7%A9%8D%E4%B8%B9%E7%94%BA%E7%BE%8E%E5%9B%BD%E7%94%BA%E5%AD%97%E5%B0%8F%E6%B3%8A9-13",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E7%A9%8D%E4%B8%B9%E9%83%A1%E7%A9%8D%E4%B8%B9%E7%94%BA%E5%A4%A7%E5%AD%97%E9%87%8E%E5%A1%9A%E7%94%BA%E5%AD%97%E3%82%A6%E3%82%A8%E3%83%B3%E3%83%88229%E7%95%AA%E5%9C%B01",
     "brands": [
       "KIBOU",
       "KIBOU Blue",
@@ -1006,7 +1006,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01"
   },
   {
     "id": "record",
@@ -1015,15 +1015,15 @@
       "gin"
     ],
     "types_label": "ジン",
-    "location": "京都府京丹後市弥栄町黒部3123",
+    "location": "京都府京丹後市弥栄町野中2562",
     "prefecture": "京都府",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 35.6921553,
+    "lng": 135.1991564,
     "coordinate_status": "approx",
     "official_url": "https://mairingen.jp/",
     "official_url_type": null,
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E9%BB%92%E9%83%A83123",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E9%87%8E%E4%B8%AD2562",
     "brands": [
       "MAIRINGEN GIN",
       "クラフトジン舞輪源",
@@ -1033,7 +1033,9 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01",
+    "coordinate_source": "google_maps_place_url",
+    "coordinate_note": "v163 partial re-geocoding from updated address set"
   },
   {
     "id": "alembic-distillery",
@@ -1150,15 +1152,15 @@
       "gin"
     ],
     "types_label": "ジン",
-    "location": "岐阜県郡上市八幡町稲成887-7",
+    "location": "岐阜県郡上市八幡町旭1072-2",
     "prefecture": "岐阜県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.7500675,
+    "lng": 136.9705041,
     "coordinate_status": "approx",
     "official_url": "https://www.facebook.com/TatsumiDistillery/?locale=ja_JP",
     "official_url_type": null,
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%83%A1%E4%B8%8A%E5%B8%82%E5%85%AB%E5%B9%A1%E7%94%BA%E7%A8%B2%E6%88%90887-7",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%83%A1%E4%B8%8A%E5%B8%82%E5%85%AB%E5%B9%A1%E7%94%BA%E6%97%AD1072-2",
     "brands": [
       "アルケミエ 犬啼",
       "アルケミエ 香草",
@@ -1168,7 +1170,9 @@
     "visitable": true,
     "visit_label": "営業日限定",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01",
+    "coordinate_source": "google_maps_place_url",
+    "coordinate_note": "v163 partial re-geocoding from updated address set"
   },
   {
     "id": "record",
@@ -1263,7 +1267,7 @@
     "region": "北海道",
     "lat": null,
     "lng": null,
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "official_url": "https://maoidistillery.com/",
     "official_url_type": "distillery_official",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%95%E5%BC%B5%E9%83%A1%E9%95%B7%E6%B2%BC%E7%94%BA%E5%8A%A0%E8%B3%80%E5%9B%A3%E4%BD%93",
@@ -1274,7 +1278,7 @@
     "visitable": false,
     "visit_label": "予約制",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01"
   },
   {
     "id": "cand-jwic-seed-003",
@@ -1283,15 +1287,15 @@
       "whisky"
     ],
     "types_label": "ウイスキー",
-    "location": "北海道余市郡余市町沢町",
+    "location": "北海道余市郡余市町沢町2丁目26番地",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 43.2018499,
+    "lng": 140.7730389,
     "coordinate_status": "approx",
     "official_url": "http://sawamachi.jp/index.html",
     "official_url_type": "distillery_official",
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E6%B2%A2%E7%94%BA",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E6%B2%A2%E7%94%BA2%E4%B8%81%E7%9B%AE26%E7%95%AA%E5%9C%B0",
     "brands": [
       "ニューポット"
     ],
@@ -1299,7 +1303,9 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01",
+    "coordinate_source": "google_maps_place_url",
+    "coordinate_note": "v163 partial re-geocoding from updated address set"
   },
   {
     "id": "cand-jwic-seed-004",
@@ -1364,7 +1370,7 @@
     "region": "東北",
     "lat": null,
     "lng": null,
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "official_url": "https://gakkogawa.com/",
     "official_url_type": null,
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E8%8F%85%E9%87%8C%E5%AD%97%E8%8F%85%E9%87%8E37%E7%95%AA14",
@@ -1375,7 +1381,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01"
   },
   {
     "id": "cand-jwic-seed-007",
@@ -1772,15 +1778,15 @@
       "whisky"
     ],
     "types_label": "ウイスキー",
-    "location": "新潟県南魚沼市長森457",
+    "location": "新潟県南魚沼市長森457-1",
     "prefecture": "新潟県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 37.1060222,
+    "lng": 138.9316085,
     "coordinate_status": "approx",
     "official_url": "https://www.hakkaisan.co.jp",
     "official_url_type": "parent_company",
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%8D%97%E9%AD%9A%E6%B2%BC%E5%B8%82%E9%95%B7%E6%A3%AE457",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%8D%97%E9%AD%9A%E6%B2%BC%E5%B8%82%E9%95%B7%E6%A3%AE457-1",
     "brands": [
       "ニューポット"
     ],
@@ -1788,7 +1794,9 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01",
+    "coordinate_source": "google_maps_place_url",
+    "coordinate_note": "v163 partial re-geocoding from updated address set"
   },
   {
     "id": "cand-jwic-seed-023",
@@ -2056,15 +2064,15 @@
       "gin"
     ],
     "types_label": "ウイスキー / ジン",
-    "location": "愛知県清須市清洲1692番地",
+    "location": "愛知県清須市清洲1624",
     "prefecture": "愛知県",
     "region": "中部",
-    "lat": null,
-    "lng": null,
+    "lat": 35.2129304,
+    "lng": 136.8398757,
     "coordinate_status": "approx",
     "official_url": "https://onikoroshi.co.jp/company/",
     "official_url_type": "parent_company",
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%B8%85%E9%A0%88%E5%B8%82%E6%B8%85%E6%B4%B21692%E7%95%AA%E5%9C%B0",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%B8%85%E9%A0%88%E5%B8%82%E6%B8%85%E6%B4%B21624",
     "brands": [
       "ニューポット"
     ],
@@ -2072,7 +2080,9 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01",
+    "coordinate_source": "google_maps_place_url",
+    "coordinate_note": "v163 partial re-geocoding from updated address set"
   },
   {
     "id": "cand-jwic-seed-034",
@@ -2237,15 +2247,15 @@
       "brandy"
     ],
     "types_label": "ウイスキー / ジン / ブランデー",
-    "location": "兵庫県神戸市北区大沢町上大沢2150 ブライズハウス館内",
+    "location": "兵庫県神戸市北区大沢町上大沢2150",
     "prefecture": "兵庫県",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
+    "lat": 34.8500593,
+    "lng": 135.1922098,
     "coordinate_status": "approx",
     "official_url": "https://www.kobe-distillery.com",
     "official_url_type": "distillery_official",
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B2%A2%E7%94%BA%E4%B8%8A%E5%A4%A7%E6%B2%A22150%20%E3%83%96%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%8F%E3%82%A6%E3%82%B9%E9%A4%A8%E5%86%85",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B2%A2%E7%94%BA%E4%B8%8A%E5%A4%A7%E6%B2%A22150",
     "brands": [
       "ニューポット"
     ],
@@ -2253,7 +2263,9 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01",
+    "coordinate_source": "google_maps_place_url",
+    "coordinate_note": "v163 partial re-geocoding from updated address set"
   },
   {
     "id": "cand-jwic-seed-041",
@@ -2343,7 +2355,7 @@
     "region": "近畿",
     "lat": null,
     "lng": null,
-    "coordinate_status": "approx",
+    "coordinate_status": "none",
     "official_url": "https://www.kamikiwhisky.com/jp/",
     "official_url_type": "parent_company",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%9C%8C%E5%AE%87%E9%99%80%E9%83%A1%E6%9B%BD%E7%88%BE%E6%9D%91%E5%B1%B1%E7%B2%951637-1",
@@ -2354,7 +2366,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01"
   },
   {
     "id": "cand-jwic-seed-045",
@@ -2468,15 +2480,15 @@
       "gin"
     ],
     "types_label": "ウイスキー / ジン",
-    "location": "愛媛県八幡浜市1557番地2",
+    "location": "愛媛県八幡浜市1557番地",
     "prefecture": "愛媛県",
     "region": "四国",
-    "lat": null,
-    "lng": null,
+    "lat": 33.4652861,
+    "lng": 132.4258619,
     "coordinate_status": "approx",
     "official_url": "https://umebijin.com",
     "official_url_type": "parent_company",
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E5%85%AB%E5%B9%A1%E6%B5%9C%E5%B8%821557%E7%95%AA%E5%9C%B02",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E5%85%AB%E5%B9%A1%E6%B5%9C%E5%B8%821557%E7%95%AA%E5%9C%B0",
     "brands": [
       "ニューポット"
     ],
@@ -2484,7 +2496,9 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "稼働中",
-    "last_checked": "2026-03-29"
+    "last_checked": "2026-04-01",
+    "coordinate_source": "google_maps_place_url",
+    "coordinate_note": "v163 partial re-geocoding from updated address set"
   },
   {
     "id": "cand-jwic-seed-050",
@@ -3124,7 +3138,7 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-31",
+    "last_checked": "2026-04-01",
     "location_quality": "municipality_or_more"
   },
   {
@@ -3372,15 +3386,15 @@
       "whisky"
     ],
     "types_label": "ウイスキー",
-    "location": "大阪市北区堂島1-4-2 ビールディング北新地 1F",
+    "location": "大阪市北区堂島1-4-2",
     "prefecture": "大阪府",
     "region": "近畿",
-    "lat": null,
-    "lng": null,
-    "coordinate_status": "none",
+    "lat": 34.6961044,
+    "lng": 135.4982595,
+    "coordinate_status": "approx",
     "official_url": "https://hankurayashiki.com",
     "official_url_type": null,
-    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-4-2%20%E3%83%93%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%8C%97%E6%96%B0%E5%9C%B0%201F",
+    "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-4-2",
     "brands": [
       "製品未発売（熟成中）"
     ],
@@ -3388,8 +3402,10 @@
     "visitable": false,
     "visit_label": "見学未確認",
     "operation_status": "準備中または詳細不明",
-    "last_checked": "2026-03-31",
-    "location_quality": "address"
+    "last_checked": "2026-04-01",
+    "location_quality": "address",
+    "coordinate_source": "google_maps_place_url",
+    "coordinate_note": "v163 partial re-geocoding from updated address set"
   },
   {
     "id": "excl-jwic-seed-086",
