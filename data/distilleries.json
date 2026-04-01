@@ -836,8 +836,8 @@
     "location": "宮崎県児湯郡木城町石河内字倉谷656番17",
     "prefecture": "宮崎県",
     "region": "九州",
-    "lat": null,
-    "lng": null,
+    "lat": 32.220003,
+    "lng": 131.418439,
     "brands": [
       "OSUZU MALT New Born",
       "OSUZU GIN",
@@ -860,14 +860,14 @@
     "last_checked": "2026-04-01",
     "location_quality": "address",
     "data_status": "確認済み",
-    "coordinate_status": "none",
-    "coordinate_note": "住所更新後の再geocoding待ち",
+    "coordinate_status": "approx",
+    "coordinate_note": "v167 promoted to approx from v4 search center",
     "official_url_note": "｜位置整合確認済",
     "google_maps_place_url": "",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%85%90%E6%B9%AF%E9%83%A1%E6%9C%A8%E5%9F%8E%E7%94%BA%E7%9F%B3%E6%B2%B3%E5%86%85%E5%AD%97%E5%80%89%E8%B0%B7656%E7%95%AA17",
     "legacy_lat": 32.2005,
     "legacy_lng": 131.403,
-    "coordinate_source": "none"
+    "coordinate_source": "google_maps_search_url_v4"
   },
   {
     "id": "record",
@@ -1575,8 +1575,8 @@
     "location": "北海道積丹郡積丹町大字野塚町字ウエント229番地1",
     "prefecture": "北海道",
     "region": "北海道",
-    "lat": null,
-    "lng": null,
+    "lat": 43.3383812,
+    "lng": 140.4546159,
     "brands": [
       "KIBOU",
       "KIBOU Blue",
@@ -1599,14 +1599,14 @@
     "last_checked": "2026-04-01",
     "location_quality": "address",
     "data_status": "確認済み",
-    "coordinate_status": "none",
-    "coordinate_note": "住所更新後の再geocoding待ち",
+    "coordinate_status": "approx",
+    "coordinate_note": "v167 promoted to approx from v4 search center",
     "official_url_note": "｜位置整合確認済",
     "google_maps_place_url": "",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E7%A9%8D%E4%B8%B9%E9%83%A1%E7%A9%8D%E4%B8%B9%E7%94%BA%E5%A4%A7%E5%AD%97%E9%87%8E%E5%A1%9A%E7%94%BA%E5%AD%97%E3%82%A6%E3%82%A8%E3%83%B3%E3%83%88229%E7%95%AA%E5%9C%B01",
     "legacy_lat": 43.2675,
     "legacy_lng": 140.6002,
-    "coordinate_source": "none"
+    "coordinate_source": "google_maps_search_url_v4"
   },
   {
     "id": "record",
@@ -2176,8 +2176,8 @@
     "location": "山形県飽海郡遊佐町菅里字菅野37番14",
     "prefecture": "山形県",
     "region": "東北",
-    "lat": null,
-    "lng": null,
+    "lat": 39.0555506,
+    "lng": 139.8797264,
     "brands": [
       "ニューポット"
     ],
@@ -2198,14 +2198,14 @@
     "last_checked": "2026-04-01",
     "location_quality": "address",
     "data_status": "確認済み",
-    "coordinate_status": "none",
-    "coordinate_note": "住所更新後の再geocoding待ち",
+    "coordinate_status": "approx",
+    "coordinate_note": "v167 promoted to approx from v4 place_3d4d (distance 86.8m)",
     "official_url_note": "｜位置整合確認済",
     "google_maps_place_url": "",
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E8%8F%85%E9%87%8C%E5%AD%97%E8%8F%85%E9%87%8E37%E7%95%AA14",
     "legacy_lat": 39.06524,
     "legacy_lng": 139.87658,
-    "coordinate_source": "none"
+    "coordinate_source": "google_maps_place_url_v4"
   },
   {
     "id": "cand-jwic-seed-007",
