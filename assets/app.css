@@ -1260,3 +1260,139 @@ body{
 .simple-panel-top{
   padding-top:8px;
 }
+
+
+/* v191 mobile: larger map + denser cards */
+@media (max-width: 960px){
+  .app{
+    grid-template-rows: 48dvh minmax(0,1fr) !important;
+  }
+  .map-wrap{
+    height:48dvh !important;
+    max-height:48dvh !important;
+  }
+  #map{
+    height:48dvh !important;
+    max-height:48dvh !important;
+  }
+
+  .simple-panel-top{
+    padding:7px 9px !important;
+  }
+  .controls-compact{
+    gap:6px !important;
+  }
+  .simple-quick-filters{
+    gap:4px !important;
+  }
+  .quick-pill{
+    padding:5px 8px !important;
+    font-size:10.5px !important;
+    line-height:1.1;
+  }
+  .search{
+    padding:7px 9px !important;
+    min-height:36px;
+  }
+  .simple-compact-row{
+    gap:6px !important;
+  }
+  .simple-compact-row .checkbox,
+  .sort-inline{
+    font-size:10.5px !important;
+    line-height:1.2;
+  }
+  .sort-select-inline{
+    min-width:74px !important;
+    padding:5px 8px !important;
+    font-size:10.5px !important;
+    min-height:34px;
+  }
+
+  #list{
+    padding:6px 8px 12px !important;
+  }
+  .card{
+    padding:8px !important;
+    border-radius:12px !important;
+  }
+  .card + .card{
+    margin-top:5px !important;
+  }
+  .card-head{
+    gap:6px !important;
+    align-items:flex-start !important;
+  }
+  .card h3{
+    font-size:13px !important;
+    line-height:1.25 !important;
+  }
+  .multi-type-row{
+    gap:4px !important;
+    margin-top:3px !important;
+  }
+  .type-chip{
+    padding:2px 6px !important;
+    font-size:10px !important;
+  }
+  .type-swatch{
+    width:8px !important;
+    height:8px !important;
+  }
+  .location,
+  .brands{
+    font-size:10.5px !important;
+    line-height:1.35 !important;
+    margin-top:3px !important;
+  }
+  .visit-badge-strong{
+    padding:3px 7px !important;
+    font-size:9.5px !important;
+  }
+  .visit-badge-strong::before{
+    width:6px !important;
+    height:6px !important;
+  }
+  .action-row{
+    gap:5px !important;
+    margin-top:6px !important;
+  }
+  .action-link{
+    min-height:30px !important;
+    padding:5px 8px !important;
+    font-size:10.5px !important;
+    line-height:1.1;
+  }
+
+  .leaflet-popup-content-wrapper{
+    max-width:min(276px, calc(100vw - 20px)) !important;
+  }
+  .leaflet-popup-content{
+    margin:9px 11px 11px !important;
+  }
+}
+
+@media (max-width: 420px){
+  .app{
+    grid-template-rows: 50dvh minmax(0,1fr) !important;
+  }
+  .map-wrap{
+    height:50dvh !important;
+    max-height:50dvh !important;
+  }
+  #map{
+    height:50dvh !important;
+    max-height:50dvh !important;
+  }
+  .simple-header{
+    padding:6px 8px !important;
+    max-width:calc(100% - 16px) !important;
+  }
+  .simple-header h1{
+    font-size:13px !important;
+  }
+  .map-reset-btn{
+    padding:4px 7px !important;
+    font-size:10px !important;
+  }
+}
