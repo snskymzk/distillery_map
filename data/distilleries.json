@@ -40,7 +40,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E4%B8%89%E5%B3%B6%E9%83%A1%E5%B3%B6%E6%9C%AC%E7%94%BA%E5%B1%B1%E5%B4%8E5-2-1",
     "legacy_lat": 34.8926,
     "legacy_lng": 135.6757,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "サントリーシングルモルトウイスキー 山崎",
+      "サントリーシングルモルトウイスキー 山崎12年",
+      "サントリーシングルモルトウイスキー 山崎18年"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "サントリー公式の山崎ラインナップで確認。25年も存在するが、検索キーワード用途を考え定番性の高い3件を採用。"
   },
   {
     "id": "record",
@@ -83,7 +91,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8C%97%E6%9D%9C%E5%B8%82%E7%99%BD%E5%B7%9E%E7%94%BA%E9%B3%A5%E5%8E%9F2913-1",
     "legacy_lat": 35.8211,
     "legacy_lng": 138.3362,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "白州",
+      "白州12年",
+      "白州18年"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "サントリー公式の白州ラインナップで確認。25年も存在するが、検索キーワード用途を考え定番性の高い3件を採用。"
   },
   {
     "id": "record",
@@ -126,7 +142,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E9%BB%92%E5%B7%9D%E7%94%BA7-6",
     "legacy_lat": 43.1979,
     "legacy_lng": 140.785,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルト余市",
+      "竹鶴ピュアモルト"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式ブランド紹介で余市由来として確認できた中心商品はシングルモルト余市と竹鶴ピュアモルト。3件目は蒸溜所単位で公式に明示確認できず空欄。"
   },
   {
     "id": "record",
@@ -170,7 +193,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E3%83%8B%E3%83%83%E3%82%AB1",
     "legacy_lat": 38.3178,
     "legacy_lng": 140.6897,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルト宮城峡",
+      "竹鶴ピュアモルト"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式ブランド紹介で宮城峡由来として確認できた中心商品はシングルモルト宮城峡と竹鶴ピュアモルト。3件目は蒸溜所単位で公式に明示確認できず空欄。"
   },
   {
     "id": "record",
@@ -214,7 +244,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%83%A1%E5%B1%B1%E5%B8%82%E7%AC%B9%E5%B7%9D1-178",
     "legacy_lat": 37.4006,
     "legacy_lng": 140.3586,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "YAMAZAKURA JAPANESE SINGLE CASK WHISKY 安積 午ラベル",
+      "YAMAZAKURA JAPANESE SINGLE CASK WHISKY 安積 巳ラベル",
+      "YAMAZAKURA JAPANESE SINGLE CASK WHISKY 安積 辰ラベル"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式発売告知で商品名を一次確認。現行商品一覧にも安積蒸溜所原酒使用商品の掲載あり。"
   },
   {
     "id": "record",
@@ -257,7 +295,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E5%90%89%E5%87%BA%E9%87%91%E4%BF%A3239-5",
     "legacy_lat": 39.0434,
     "legacy_lng": 139.9228,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "YUZA 2026",
+      "YUZA Signature Blend",
+      "YUZA Aged 6 Years"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品紹介ページと公式新商品情報で3商品を確認。"
   },
   {
     "id": "record",
@@ -300,7 +346,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%BE%A1%E6%AE%BF%E5%A0%B4%E5%B8%82%E6%9F%B4%E6%80%92%E7%94%B0970",
     "legacy_lat": 35.3014,
     "legacy_lng": 138.9329,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "キリンウイスキー 陸",
+      "キリン シングルブレンデッドジャパニーズウイスキー 富士",
+      "キリン シングルグレーンジャパニーズウイスキー 富士"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "キリン公式商品ページ・蒸溜所紹介ページで富士御殿場蒸溜所由来として確認。"
   },
   {
     "id": "record",
@@ -343,7 +397,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E4%B8%8A%E4%BC%8A%E9%82%A3%E9%83%A1%E5%AE%AE%E7%94%B0%E6%9D%914752-31",
     "legacy_lat": 35.7507,
     "legacy_lng": 137.9381,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルト駒ヶ岳",
+      "シングルモルト駒ヶ岳 40th Anniversary Special Edition",
+      "TWIN ALPS"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "本坊酒造公式の商品ページで確認。TWIN ALPS は製造所としてマルス駒ヶ岳蒸溜所が明記。"
   },
   {
     "id": "record",
@@ -387,7 +449,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8C%E4%B8%9849",
     "legacy_lat": 35.9906,
     "legacy_lng": 139.0901,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "今回確認できた範囲では、公式サイト上で商品名を十分確認できず保留。"
   },
   {
     "id": "record",
@@ -431,7 +497,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%8E%9A%E5%B2%B8%E9%83%A1%E5%8E%9A%E5%B2%B8%E7%94%BA%E5%AE%AE%E5%9C%924%E4%B8%81%E7%9B%AE109-2",
     "legacy_lat": 43.0416,
     "legacy_lng": 144.8465,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "厚岸シングルモルトジャパニーズウイスキー立秋",
+      "厚岸シングルモルトジャパニーズウイスキー小暑",
+      "厚岸ブレンデッドウイスキー霜降"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式Productsページに現在掲載の製品名から3件を採用。シリーズ内で掲載継続状況は今後再確認余地あり。"
   },
   {
     "id": "record",
@@ -474,7 +548,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%E8%90%BD%E5%90%88555",
     "legacy_lat": 35.0315,
     "legacy_lng": 138.3799,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルト静岡",
+      "ガイアフロー ブレンデッドウイスキー",
+      "静岡プライベートカスク ディスティラリーリザーブ"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品情報ページで確認。個別ニュースではポットスティルK/Wシリーズも確認できるが、代表カテゴリーとして公式商品一覧を優先。"
   },
   {
     "id": "record",
@@ -518,7 +600,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%A0%BA%E6%B3%A2%E5%B8%82%E4%B8%89%E9%83%8E%E4%B8%B8208",
     "legacy_lat": 36.6463,
     "legacy_lng": 136.9832,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルト「三郎丸Ⅶ THE CHARIOT」",
+      "SAB. NIGHT BLACK",
+      "THE SUN 2023"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "三郎丸蒸留所公式の商品一覧・個別商品ページ・公式発売告知で3商品を確認。"
   },
   {
     "id": "record",
@@ -562,7 +652,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E9%95%B7%E6%B5%9C%E5%B8%82%E6%9C%9D%E6%97%A5%E7%94%BA14-1",
     "legacy_lat": 35.3744,
     "legacy_lng": 136.2739,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "NAGAHAMA NEW MAKE",
+      "シングルモルト長濱 THE FIFTH BATCH",
+      "シングルモルト長濱 THE SIXTH BATCH"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式ニューメイク商品ページと公式ニュースで3商品を確認。"
   },
   {
     "id": "record",
@@ -605,7 +703,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E5%A4%A7%E4%B9%85%E4%BF%9D%E7%94%BA%E8%A5%BF%E5%B3%B6919",
     "legacy_lat": 34.7158,
     "legacy_lng": 134.8926,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ホワイトオーク シングルモルト あかし",
+      "ホワイトオーク 地ウイスキー あかし",
+      "ホワイトオーク あかし700 スペシャルブレンド"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "江井ヶ嶋酒造公式オンラインショップの商品ページで3商品を確認。"
   },
   {
     "id": "record",
@@ -649,7 +755,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%97%A5%E7%BD%AE%E5%B8%82%E6%97%A5%E5%90%89%E7%94%BA%E7%A5%9E%E4%B9%8B%E5%B7%9D845-3",
     "legacy_lat": 31.6839,
     "legacy_lng": 130.3081,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルト 嘉之助",
+      "嘉之助 HIOKI POT STILL",
+      "嘉之助 DOUBLE DISTILLERY"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式トップの商品一覧・個別商品ページで確認。"
   },
   {
     "id": "record",
@@ -693,7 +807,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82%E5%8A%A0%E4%B8%96%E7%94%B0%E6%B4%A5%E8%B2%AB6594",
     "legacy_lat": 31.4185,
     "legacy_lng": 130.3387,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルト津貫 2026 エディション",
+      "シングルモルト津貫 2025 エディション",
+      "シングルモルト津貫 2024 エディション"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "本坊酒造公式の新商品/商品ページで各年エディションを確認。"
   },
   {
     "id": "shindo-distillery",
@@ -736,7 +858,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE626%E7%95%AA%E5%9C%B01",
     "legacy_lat": 33.396,
     "legacy_lng": 130.707,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "SHINDO EXPERIMENTAL 01",
+      "SHINDO EXPERIMENTAL 02",
+      "SHINDO EXPERIMENTAL FOR CORES.01"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式PRODUCTS/NEWSで確認。CORES.02も確認できるが、ファーストリリースからの連続性を優先して3件採用。"
   },
   {
     "id": "record",
@@ -779,7 +909,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%B0%8F%E8%AB%B8%E5%B8%82%E7%94%B24630-1",
     "legacy_lat": 36.3258,
     "legacy_lng": 138.4234,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "KOMORO シングルモルトジャパニーズウイスキー 桜樽熟成 2024",
+      "KOMORO シングルモルトジャパニーズウイスキー さくら樽熟成 2024 SECOND EDITION"
+    ],
+    "representative_products_source": "official_news",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。小諸蒸留所公式の予約販売・追加販売案内で2商品名を確認。ファーストリリースの一般販売は2026年冬予定で、現時点の正式商品名として確認できたのはこの2件。"
   },
   {
     "id": "setouchi-distillery",
@@ -823,7 +960,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%91%89%E5%B8%82%E6%9C%AC%E9%80%9A7-9-10",
     "legacy_lat": 34.2478,
     "legacy_lng": 132.5652,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ジャパニーズウイスキー瀬戸内 オロロソシェリーカスク",
+      "クラフトジン瀬戸内｜檸檬",
+      "クラフトジン瀬戸内｜甘夏"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式Products/Whisky/Craft Ginページで確認。"
   },
   {
     "id": "record",
@@ -867,7 +1012,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%85%90%E6%B9%AF%E9%83%A1%E6%9C%A8%E5%9F%8E%E7%94%BA%E7%9F%B3%E6%B2%B3%E5%86%85%E5%AD%97%E5%80%89%E8%B0%B7656%E7%95%AA17",
     "legacy_lat": 32.2005,
     "legacy_lng": 131.403,
-    "coordinate_source": "google_maps_search_url_v4"
+    "coordinate_source": "google_maps_search_url_v4",
+    "representative_products": [
+      "OSUZU GIN",
+      "OSUZU GIN Kumquat",
+      "OSUZU MALT American Oak Barrel"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式スピリッツ・ウイスキーページおよび公式オンラインショップ商品ページで3商品を確認。"
   },
   {
     "id": "record",
@@ -910,7 +1063,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%E7%AB%B9%E7%94%B0%E5%B8%82%E4%B9%85%E4%BD%8F%E7%94%BA%E7%99%BD%E4%B8%B97571-23",
     "legacy_lat": 33.0297,
     "legacy_lng": 131.2485,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Single Malt Kuju SMALL BATCH#01",
+      "Single Malt Kuju sora2025",
+      "Blended Green Dram"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式 Products 一覧および個別商品ページで3商品を確認。"
   },
   {
     "id": "sakurao-distillery",
@@ -954,7 +1115,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E6%A1%9C%E5%B0%BE1%E4%B8%81%E7%9B%AE12%E7%95%AA1%E5%8F%B7",
     "legacy_lat": 34.3505,
     "legacy_lng": 132.3218,
-    "coordinate_source": "google_maps_place_url_manual"
+    "coordinate_source": "google_maps_place_url_manual",
+    "representative_products": [
+      "SAKURAO GIN ORIGINAL",
+      "SAKURAO GIN LIMITED",
+      "SAKURAO GIN WHITE HERBS"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "SAKURAO DISTILLERY公式の商品ページ・公式ニュースで3商品を確認。"
   },
   {
     "id": "record",
@@ -998,7 +1167,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E8%99%BB%E7%94%B0%E9%83%A1%E3%83%8B%E3%82%BB%E3%82%B3%E7%94%BA%E3%83%8B%E3%82%BB%E3%82%B3478-15",
     "legacy_lat": 42.8068,
     "legacy_lng": 140.6824,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ohoro GIN Standard",
+      "ohoro GIN Limited Edition LAVENDER",
+      "ohoro GIN Limited Edition JAPANESE PEPPERMINT"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品ページで確認。蒸溜所サイト上で継続的に確認できるohoro GIN系列から採用。"
   },
   {
     "id": "record",
@@ -1042,7 +1219,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%97%A5%E7%BD%AE%E5%B8%82%E6%97%A5%E5%90%89%E7%94%BA%E6%97%A5%E7%BD%AE3309",
     "legacy_lat": 31.6302,
     "legacy_lng": 130.3198,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "嘉之助 HIOKI POT STILL",
+      "嘉之助 DOUBLE DISTILLERY"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式商品ページで日置蒸溜蔵由来として明示確認できた商品は2件。3件目は公式上で未確認。"
   },
   {
     "id": "record",
@@ -1086,7 +1270,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%94%B5%E5%89%8D3-9-3",
     "legacy_lat": 35.705,
     "legacy_lng": 139.7922,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "LAST ELYSIUM",
+      "LAST ELEGANT",
+      "Distiller's CUT"
+    ],
+    "representative_products_source": "official_news",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "エシカル・スピリッツの公式プレスリリースで東京リバーサイド蒸溜所販売商品として確認。"
   },
   {
     "id": "record",
@@ -1130,7 +1322,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E6%9D%B1%E5%B0%8F%E6%A9%8B1-16-24",
     "legacy_lat": 34.6695,
     "legacy_lng": 135.5418,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "OSAKA GIN ORIJIN"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式トップで明示確認できた商品名は OSAKA GIN ORIJIN のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "record",
@@ -1174,7 +1372,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%8A%E5%B7%9D%E9%83%A1%E6%9D%B1%E5%B7%9D%E7%94%BA%E8%A5%BF2%E5%8F%B7%E5%8C%9723",
     "legacy_lat": 43.698,
     "legacy_lng": 142.5107,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "雪の窓ドライジン",
+      "Perfume Trees Gin",
+      "淡墨コーヒーリキュール"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式ファクトシートの商品情報一覧で確認。Thence ハニーエリクサーも掲載あり。"
   },
   {
     "id": "record",
@@ -1218,7 +1424,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%A4%9A%E7%94%B0%E7%94%BA1213-5",
     "legacy_lat": 35.6428,
     "legacy_lng": 139.2988,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "トーキョーハチオウジン CLASSIC",
+      "トーキョーハチオウジン ELDER FLOWER",
+      "トーキョースパイスジン"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式 product ページで3商品を確認。"
   },
   {
     "id": "record",
@@ -1261,7 +1475,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E5%B0%8F%E5%9F%8E%E5%B8%82%E5%B0%8F%E5%9F%8E%E7%94%BA903",
     "legacy_lat": 33.2632,
     "legacy_lng": 130.1968,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "OGIGIN想（オリジナル）",
+      "OGIGIN想（プレミアム）",
+      "OGIGIN SOW DARK 45"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品一覧・個別商品ページで3商品を確認。"
   },
   {
     "id": "record",
@@ -1305,7 +1527,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E6%9D%91%E8%B1%8A%E9%83%B79394",
     "legacy_lat": 36.9202,
     "legacy_lng": 138.4446,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Nozawa Gin",
+      "Classic Dry Gin",
+      "Iwai Gin"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式サイトの製品一覧・トップの受賞ジン欄で確認。"
   },
   {
     "id": "record",
@@ -1348,7 +1578,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B2%BC%E6%B4%A5%E5%B8%82%E5%A4%A7%E6%89%8B%E7%94%BA5-6-7%E5%91%A8%E8%BE%BA",
     "legacy_lat": 35.1024,
     "legacy_lng": 138.8586,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "LAZY MASTER ~Silky Citrus~ 500ml",
+      "LAZY MASTER ~Heavenly Rose~ 500ml",
+      "LAZY MASTER ~Spiky Roots~ 500ml"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "沼津蒸留所公式オンラインストアで3商品を確認。"
   },
   {
     "id": "record",
@@ -1391,7 +1629,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%B9%B3%E9%87%8E2-3-15",
     "legacy_lat": 35.6814,
     "legacy_lng": 139.799,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "クラフトジン FUEKI ふえき 500ml",
+      "クラフトジン 深川ツブロ 山椒 Japanese Pepper 500ml",
+      "クラフトジン 深川ツブロ 杉 Cedar Batch2 500ml"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "深川蒸留所の公式販売ページとして案内される販売サイトで3商品を確認。"
   },
   {
     "id": "record",
@@ -1434,7 +1680,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%803%E4%B8%81%E7%9B%AE18-19%20UD%E7%A5%9E%E8%B0%B7%E7%94%BA%E3%83%93%E3%83%AB1F",
     "legacy_lat": 35.6658,
     "legacy_lng": 139.7476,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "COMMON",
+      "COMMON akeru 2026",
+      "あおいアブサン"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品ページで各商品名を確認。"
   },
   {
     "id": "blue-rabbit-distillery",
@@ -1477,7 +1731,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E6%9C%AC%E7%94%BA29-2%20%E3%82%A6%E3%82%A7%E3%83%AB%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83102",
     "legacy_lat": 35.588,
     "legacy_lng": 139.6821,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ブルーラビットジン",
+      "ブルーラビットウォッカ",
+      "ブルーラビットスパイスラム"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式Products内のGin/Vodka/Rumページで確認。個別銘柄名ではなく、現時点で公式に安定確認できる商品名を採用。"
   },
   {
     "id": "record",
@@ -1520,7 +1782,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%E6%9C%AC%E7%94%BA1-11-7",
     "legacy_lat": 35.5621,
     "legacy_lng": 139.7158,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "BATH LAB GIN #000 ～プレーン～",
+      "BATH LAB GIN #001 ～桜～",
+      "BATH LAB GIN #002 ～檜～"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "羽田ブルワリー公式のクラフトジンラインナップで3商品を確認。"
   },
   {
     "id": "record",
@@ -1563,7 +1833,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8D%97%E5%8C%BA%E6%BE%84%E5%B7%9D389-6",
     "legacy_lat": 43.0015,
     "legacy_lng": 141.3438,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "9148 #0101 STANDARD",
+      "9148 #0396 SAKURA",
+      "9148 #0106 POWDER SNOW"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式サイトと公式オンラインショップで3商品を確認。"
   },
   {
     "id": "record",
@@ -1606,7 +1884,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E7%A9%8D%E4%B8%B9%E9%83%A1%E7%A9%8D%E4%B8%B9%E7%94%BA%E5%A4%A7%E5%AD%97%E9%87%8E%E5%A1%9A%E7%94%BA%E5%AD%97%E3%82%A6%E3%82%A8%E3%83%B3%E3%83%88229%E7%95%AA%E5%9C%B01",
     "legacy_lat": 43.2675,
     "legacy_lng": 140.6002,
-    "coordinate_source": "google_maps_search_url_v4"
+    "coordinate_source": "google_maps_search_url_v4",
+    "representative_products": [
+      "KIBOU",
+      "BOUQUET",
+      "UMI"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "積丹スピリット公式オンラインストアの SIGNATURES で3商品を確認。"
   },
   {
     "id": "record",
@@ -1649,7 +1935,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E9%87%8E%E4%B8%AD2562",
     "legacy_lat": 35.6545,
     "legacy_lng": 135.0933,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Mairingen Fresh Craft Gin (ORIGINAL)"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式商品ページ・カテゴリページで明示確認できた商品名は1件のみ。700ml/200ml表記は同一商品として扱い、追加商品は未確認。"
   },
   {
     "id": "alembic-distillery",
@@ -1692,7 +1984,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E5%A4%A7%E9%87%8E%E7%94%BA1%E4%B8%81%E7%9B%AE38-5",
     "legacy_lat": 36.6032,
     "legacy_lng": 136.5921,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ALEMBIC CASK RESTED GIN",
+      "ALEMBIC GIN GUNJO STRENGTH",
+      "ALEMBIC GIN HACHIBAN"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式 Products と各商品ページで3商品を確認。"
   },
   {
     "id": "record",
@@ -1735,7 +2035,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E4%BD%90%E8%B3%80%E5%B8%82%E8%AB%B8%E5%AF%8C%E7%94%BA%E5%A4%A7%E5%AD%97%E7%82%BA%E9%87%8D214-4",
     "legacy_lat": 33.2165,
     "legacy_lng": 130.35,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "スティルダムジン スタンダード",
+      "スティルダムジン リスボン",
+      "BAR CASK ７周年記念ボトル 梅ジン"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。楠乃花蒸溜所公式 products と BAR CASK 紹介ページで3商品を確認。"
   },
   {
     "id": "record",
@@ -1778,7 +2086,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BA%94%E5%B3%B6%E5%B8%82%E6%88%B8%E5%B2%90%E7%94%BA1223-5",
     "legacy_lat": 32.7126,
     "legacy_lng": 128.8538,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "GOTOGIN the origin",
+      "GOTOGIN the cacao",
+      "GOTOGIN 空よ雲よ 3rd anniversary"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式オンラインショップで3商品を確認。"
   },
   {
     "id": "record",
@@ -1821,7 +2137,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%B7%9D%E9%83%A1%E5%B9%95%E5%88%A5%E7%94%BA%E6%9C%AD%E5%86%85%E5%8C%97%E7%94%BA55-2",
     "legacy_lat": 42.9149,
     "legacy_lng": 143.248,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "AKATOKI LIMITED EDITION",
+      "AKATOKI ORIGIN",
+      "AKATOKI RASPBERRY"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。十勝平野蒸溜所公式の販売開始案内・オンラインショップ案内で3商品を確認。"
   },
   {
     "id": "record",
@@ -1864,7 +2188,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%83%A1%E4%B8%8A%E5%B8%82%E5%85%AB%E5%B9%A1%E7%94%BA%E6%97%AD1072-2",
     "legacy_lat": 35.7481,
     "legacy_lng": 136.9587,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で棚卸。現行データ上の公式URLはFacebookで、今回の調査範囲では辰巳蒸留所の正式商品名を一次確認できず hold。"
   },
   {
     "id": "record",
@@ -1908,7 +2236,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%B6%B3%E6%9F%84%E4%B8%8A%E9%83%A1%E5%B1%B1%E5%8C%97%E7%94%BA%E4%B8%AD%E5%B7%9D822-1",
     "legacy_lat": 35.4588,
     "legacy_lng": 139.0565,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Blended Whisky Sherry Barrel Finish Bincho Charcoal Filtering The First",
+      "Blended Whisky Bourbon Barrel Finish Bincho Charcoal Filtering The First"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。公式OUR BRANDSと商品紹介ページで2商品を確認。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-kanagawa-shonan",
@@ -1952,7 +2287,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%8C%85%E3%83%B6%E5%B4%8E%E5%B8%82%E9%A6%99%E5%B7%9D7-10-7",
     "legacy_lat": 35.360902,
     "legacy_lng": 139.40191,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "クラフトジン 白天狗／ノーマル",
+      "クラフトジン 白天狗／レモングラス",
+      "Whisky赤天狗 vol3.(100本限定）"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "熊澤酒造公式オンラインストアで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-001",
@@ -1994,7 +2337,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%88%A9%E5%B0%BB%E9%83%A1%E5%88%A9%E5%B0%BB%E7%94%BA%E6%B2%93%E5%BD%A2%E7%A5%9E%E5%B1%85128-2",
     "legacy_lat": 45.1872,
     "legacy_lng": 141.2405,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "神居原酒"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "洋酒のみ基準で再確認。Kamui Whisky公式サイトで明示確認できた商品名は「神居原酒」のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-002",
@@ -2037,7 +2386,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%95%E5%BC%B5%E9%83%A1%E9%95%B7%E6%B2%BC%E7%94%BA%E5%8A%A0%E8%B3%80%E5%9B%A3%E4%BD%93",
     "legacy_lat": 42.9846,
     "legacy_lng": 141.7372,
-    "coordinate_source": "google_maps_search_url_v4"
+    "coordinate_source": "google_maps_search_url_v4",
+    "representative_products": [
+      "MYAOI Gin “The First Encounter”",
+      "MYAOI Gin “Hatsukoi”",
+      "MYAOI Gin “embrasse-moi”"
+    ],
+    "representative_products_source": "official_news",
+    "representative_products_confidence": "high",
+    "representative_products_note": "馬追蒸溜所公式の新商品案内で3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-003",
@@ -2079,7 +2436,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E9%83%A1%E4%BD%99%E5%B8%82%E7%94%BA%E6%B2%A2%E7%94%BA2%E4%B8%81%E7%9B%AE26%E7%95%AA%E5%9C%B0",
     "legacy_lat": 43.06417,
     "legacy_lng": 141.34694,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再調査。公式URLの取得に失敗し、今回の調査範囲では正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "cand-jwic-seed-004",
@@ -2121,7 +2482,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E5%85%83%E7%94%BA31-20",
     "legacy_lat": 41.7659,
     "legacy_lng": 140.7123,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Di TRIPPER THE VERY SHERRIED SINGLE GRAIN"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "洋酒のみ基準で再調査。公式 owner’s cask ページで明示確認できた商品名は1件のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-005",
@@ -2164,7 +2531,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%E4%BA%8C%E6%88%B8%E5%B8%82%E7%A6%8F%E5%B2%A1%E5%AD%97%E4%B8%8A%E7%94%BA13",
     "legacy_lat": 40.2716,
     "legacy_lng": 141.3026,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "南部美人 クラフトジン",
+      "南部美人 クラフトウォッカ",
+      "南部美人「一戸町コラボ」縄文ジン"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "南部美人公式オンラインショップの商品ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-006",
@@ -2205,7 +2580,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%A3%BD%E6%B5%B7%E9%83%A1%E9%81%8A%E4%BD%90%E7%94%BA%E8%8F%85%E9%87%8C%E5%AD%97%E8%8F%85%E9%87%8E37%E7%95%AA14",
     "legacy_lat": 39.06524,
     "legacy_lng": 139.87658,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "GAKKOGAWA WHISKY NEWPOT 2024 Edition",
+      "GAKKOGAWA WHISKY NEWPOT 2025 Edition",
+      "NEW BORN 2026 Edition"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品ページと公式トップの新製品案内で3商品名を確認。"
   },
   {
     "id": "cand-jwic-seed-007",
@@ -2247,7 +2630,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%9B%B8%E9%A6%AC%E5%B8%82%E7%8E%89%E9%87%8E%E5%AD%97%E7%94%BA74%E7%95%AA%E5%9C%B0",
     "legacy_lat": 34.4869,
     "legacy_lng": 133.9453,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "NEW MAKE HIRAKU"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式WHISKYページで明示確認できた商品名は NEW MAKE HIRAKU のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-008",
@@ -2289,7 +2678,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E8%80%B6%E9%BA%BB%E9%83%A1%E7%A3%90%E6%A2%AF%E7%94%BA%E5%A4%A7%E5%AD%97%E6%9B%B4%E7%A7%91%E5%AD%97%E4%B8%AD%E6%9B%BD%E6%A0%B9%E5%B9%B36841-11",
     "legacy_lat": 33.2654,
     "legacy_lng": 131.1862,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "TENKYO",
+      "KAZE"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式ブランドページで明示確認できたウイスキーブランドは2件。3件目は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-009",
@@ -2332,7 +2728,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82%E5%85%83%E5%90%89%E7%94%B0%E7%94%BA338%E7%95%AA%E5%9C%B0",
     "legacy_lat": 34.7062,
     "legacy_lng": 135.4983,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "高藏 REBORN",
+      "高藏 REBORN AGED 2 YEAR FIRST FILL BOURBON BARREL"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "洋酒のみ基準で再調査。高藏蒸留所公式サイトで明示確認できた商品名は2件。3件目は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-010",
@@ -2375,7 +2778,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%9F%B3%E5%B2%A1%E5%B8%82%E9%A0%88%E9%87%9C1300",
     "legacy_lat": 36.2253,
     "legacy_lng": 140.2102,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "日の丸ウイスキー 2026 Edition",
+      "日の丸ウイスキー 常陸野 シェリーカスク 2026 Edition",
+      "日の丸ウイスキー Signature 1823"
+    ],
+    "representative_products_source": "official_product_page",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品ページで八郷蒸溜所原酒使用を確認。"
   },
   {
     "id": "cand-jwic-seed-011",
@@ -2419,7 +2830,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%B0%8F%E5%B1%B1%E5%B8%82%E7%A5%9E%E9%B3%A5%E8%B0%B74%E4%B8%81%E7%9B%AE1%E7%95%AA53%E5%8F%B7",
     "legacy_lat": 36.30095,
     "legacy_lng": 139.7896,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "STORK VALLEY JAPAN PREMIUM GIN"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "洋酒のみ基準で再調査。公式トップNEWSと公式プレスリリースで明示確認できた商品名は1件のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-012",
@@ -2462,7 +2879,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%B0%8F%E5%B1%B1%E5%B8%82%E5%A4%A7%E5%AD%97%E7%B2%9F%E5%AE%AE1452",
     "legacy_lat": 36.56583,
     "legacy_lng": 139.88361,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "日光街道 小山蒸溜所 SINGLE GRAIN WHISKY NEW BORN 2023",
+      "日光街道 小山蒸溜所 MALT NEW POT 2024",
+      "SINGLE GRAIN(グレーン) WHISKY NEW BORN 2024（箱入）"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "西堀酒造の公式蒸溜所 products ページおよび公式オンラインショップカテゴリ・商品ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-013",
@@ -2504,7 +2929,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%E5%80%89%E6%B8%95%E7%94%BA%E6%A8%A9%E7%94%B02625-1",
     "legacy_lat": 36.39111,
     "legacy_lng": 139.06083,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "KURABUCHI -NEW MAKE-",
+      "KURABUCHI -MALT & SAKE LEES-"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式PRODUCTSで現時点の確認商品は2件。第3候補は公式サイト上で未確認。"
   },
   {
     "id": "cand-jwic-seed-014",
@@ -2546,7 +2978,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%90%BE%E5%A6%BB%E9%83%A1%E9%95%B7%E9%87%8E%E5%8E%9F%E7%94%BA%E5%8C%97%E8%BB%BD%E4%BA%95%E6%B2%A21991-127",
     "legacy_lat": 36.39111,
     "legacy_lng": 139.06083,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "WHISKY ONEYEAR",
+      "NEW BORN",
+      "2年熟成ブレンド"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式サイトの製品情報・ニュースから確認。継続性は今後再確認余地あり。"
   },
   {
     "id": "cand-jwic-seed-015",
@@ -2588,7 +3028,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%BE%BD%E7%94%9F%E5%B8%82%E8%A5%BF4%E4%B8%81%E7%9B%AE1-11",
     "legacy_lat": 35.85694,
     "legacy_lng": 139.64889,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ゴールデンホース 武蔵",
+      "ゴールデンホース 武州",
+      "TONE -トーン- 羽生 ワールドモルト"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "東亜酒造公式の羽生蒸溜所ページと商品ページ・公式ニュースで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-016",
@@ -2630,7 +3078,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%B4%BB%E5%B7%A3%E5%B8%82%E5%B0%8F%E8%B0%B7625",
     "legacy_lat": 35.85694,
     "legacy_lng": 139.64889,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で棚卸。現行データ上で公式URL未設定のため、今回の調査範囲では正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "cand-jwic-seed-017",
@@ -2672,7 +3124,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%8C%E4%B8%9879",
     "legacy_lat": 35.85694,
     "legacy_lng": 139.64889,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で棚卸。現行データ上の公式URLはInstagramで、今回の調査範囲では秩父第2蒸溜所単独に紐づく正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "cand-jwic-seed-018",
@@ -2717,7 +3173,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%A4%B7%E9%9A%85%E9%83%A1%E5%A4%A7%E5%A4%9A%E5%96%9C%E7%94%BA%E5%A4%A7%E5%A4%9A%E5%96%9C486",
     "legacy_lat": 35.28734,
     "legacy_lng": 140.24518,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "133 KOSHU",
+      "082 GRAPPA KOSHU",
+      "190 THREE GINGERS"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "mitosaya公式 products ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-019",
@@ -2759,7 +3223,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%90%9B%E6%B4%A5%E5%B8%82%E9%9D%92%E6%9F%B316-10",
     "legacy_lat": 35.60472,
     "legacy_lng": 140.12333,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再調査。須藤本家公式の商品一覧・トップページでは日本酒のみが確認され、洋酒は未確認。"
   },
   {
     "id": "cand-jwic-seed-020",
@@ -2801,7 +3269,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%9D%91%E4%B8%8A%E5%B8%82%E5%AE%BF%E7%94%B0344-1",
     "legacy_lat": 37.90222,
     "legacy_lng": 139.02361,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "グレーンウイスキー熟成前原酒110ml TYPE : American カラム段数違い 飲み比べ3本SET"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "low",
+    "representative_products_note": "公式ショップで明示確認できた商品名は1件のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-021",
@@ -2846,7 +3320,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E6%B1%9F%E5%8D%97%E5%8C%BA%E4%BA%80%E7%94%B0%E5%B7%A5%E6%A5%AD%E5%9B%A3%E5%9C%B01-3-5",
     "legacy_lat": 37.8826,
     "legacy_lng": 139.0635,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "新潟亀田ニューポット NIIGATA BARLEY NONPEAT",
+      "OHTANI WHISKY 新潟亀田 Zodiac Sign Series「Pisces」",
+      "Capricorn"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品ページ・公式ニュースで確認。"
   },
   {
     "id": "cand-jwic-seed-022",
@@ -2888,7 +3370,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%8D%97%E9%AD%9A%E6%B2%BC%E5%B8%82%E9%95%B7%E6%A3%AE457-1",
     "legacy_lat": 37.90222,
     "legacy_lng": 139.02361,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Hakkaisan シングルグレーン魚沼8年 ライスウイスキー 2025LIMITED"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみへ基準変更のため見直し。焼酎2件を削除し、公式ウイスキーページで明示確認できたライスウイスキーのみ残置。"
   },
   {
     "id": "cand-jwic-seed-023",
@@ -2932,7 +3420,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E6%9D%B1%E7%94%BA32",
     "legacy_lat": 36.5728,
     "legacy_lng": 136.6647,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "金沢ウイスキー 白雷"
+    ],
+    "representative_products_source": "official_news",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "オリエンタルブルーイング公式の発売告知で明示確認できた商品名は「金沢ウイスキー 白雷」のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-024",
@@ -2974,7 +3468,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E4%B8%8A%E5%90%89%E7%94%B04918-1",
     "legacy_lat": 35.66389,
     "legacy_lng": 138.56833,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再確認。公式サイトでは富嶽蒸溜所でのウイスキー製造自体は確認できるが、今回の調査範囲では正式商品名の一次確認に至らず hold 維持。"
   },
   {
     "id": "cand-jwic-seed-025",
@@ -3016,7 +3514,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E8%88%B9%E6%B4%A58",
     "legacy_lat": 35.66389,
     "legacy_lng": 138.56833,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "グレーンモルトウイスキー 大樹海　700㎖",
+      "富士北麓ハイボール　290㎖"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再確認。甲斐の開運公式web-shopで「グレーンモルトウイスキー 大樹海」と「富士北麓ハイボール」を確認。今回の調査範囲では追加の正式商品名は未確認。"
   },
   {
     "id": "cand-jwic-seed-026",
@@ -3059,7 +3564,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8C%97%E9%83%BD%E7%95%99%E9%83%A1%E5%B0%8F%E8%8F%85%E6%9D%914341-1",
     "legacy_lat": 35.66389,
     "legacy_lng": 138.56833,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Pickwick Papers",
+      "Malt Gin Distiller’s Choice delta",
+      "HOP Authenticity"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "Far Yeast公式 Azeotrope 商品情報ページで3商品を確認。源流醸造所/Distilling Project文脈での採用。"
   },
   {
     "id": "cand-jwic-seed-027",
@@ -3102,7 +3615,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E9%A3%AF%E5%B1%B1%E5%B8%82%E5%A4%A7%E5%AD%97%E8%B1%8A%E7%94%B05123-30",
     "legacy_lat": 36.65139,
     "legacy_lng": 138.18111,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再調査。公式 About ページではウイスキーづくりを確認できるが、今回の調査範囲では正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "cand-jwic-seed-028",
@@ -3145,7 +3662,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%8C%97%E4%BD%90%E4%B9%85%E9%83%A1%E5%BE%A1%E4%BB%A3%E7%94%B0%E7%94%BA%E9%A6%AC%E7%80%AC%E5%8F%A3953-4",
     "legacy_lat": 36.65139,
     "legacy_lng": 138.18111,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "MIYOTA 龍GIN",
+      "アクアヴィット とりのす"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "洋酒のみ基準で再調査。戸塚酒造公式の御代田蒸留所・アクアヴィット紹介ページで明示確認できた商品名は2件。3件目は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-029",
@@ -3187,7 +3711,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E5%8C%97%E4%BD%90%E4%B9%85%E9%83%A1%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA%E7%99%BA%E5%9C%B02785-318",
     "legacy_lat": 36.65139,
     "legacy_lng": 138.18111,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再調査。公式サイトで2022年に蒸留開始、初蒸留ウイスキーの熟成完了は2033年、ニューメイク販売なしと確認。今回の調査範囲では正式商品名は未確認。"
   },
   {
     "id": "cand-jwic-seed-030",
@@ -3229,7 +3757,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%AB%98%E5%B1%B1%E5%B8%82%E9%AB%98%E6%A0%B9%E7%94%BA%E4%B8%8B%E4%B9%8B%E5%90%91164-2",
     "legacy_lat": 35.39111,
     "legacy_lng": 136.72222,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "MALTY・SMOKY",
+      "FRUITY・SMOOTH",
+      "MALTY・SALTY"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "飛騨高山蒸溜所公式 products ページと個別商品ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-031",
@@ -3273,7 +3809,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E4%B8%89%E5%B3%B6%E5%B8%82%E5%A4%A7%E7%A4%BE%E7%94%BA18-5",
     "legacy_lat": 35.119689,
     "legacy_lng": 138.919388,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Teen Spirits",
+      "konohana × Teen Spirits Limited Edition Gin",
+      "Craft Gin Water Dragon Spirits"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品ページ・公式ニュース・公式トップの商品紹介で3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-032",
@@ -3315,7 +3859,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%E7%94%B0%E4%BB%A3%E5%AD%97%E5%A4%A7%E6%98%A5%E6%9C%A81299-1",
     "legacy_lat": 35.2152,
     "legacy_lng": 138.2217,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "NEW BORN Non-Peat 2022",
+      "NEW BORN Peated 50ppm 2023",
+      "NEW BORN Non-Peat 2023"
+    ],
+    "representative_products_source": "official_news",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式ニュースで個別発売告知を確認。NEW BORN Peated 30ppm 2023も確認済みだが、今回はNon-Peat/Peatedの代表性を見て3件採用。"
   },
   {
     "id": "cand-jwic-seed-033",
@@ -3358,7 +3910,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%B8%85%E9%A0%88%E5%B8%82%E6%B8%85%E6%B4%B21624",
     "legacy_lat": 35.18028,
     "legacy_lng": 136.90667,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "愛知クラフトウイスキー キヨス 45度",
+      "シングルグレーン 愛知クラフトウイスキー清須40度",
+      "愛知クラフト ウォッカ キヨス"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式の愛知クラフトキヨス特設ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-034",
@@ -3400,7 +3960,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%A2%A7%E5%8D%97%E5%B8%82%E5%BC%A5%E7%94%9F%E7%94%BA4%E4%B8%81%E7%9B%AE3%E7%95%AA%E5%9C%B0",
     "legacy_lat": 35.18028,
     "legacy_lng": 136.90667,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルト 一碧 First Edition",
+      "碧南蒸留所 Single Malt Limited Edition02",
+      "〖Cask No.71〗一碧"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "相生ユニビオ公式オンラインストアのウイスキーカテゴリと商品ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-035",
@@ -3443,7 +4011,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BC%8A%E5%8B%A2%E5%B8%82%E5%B0%8F%E4%BF%A3%E7%94%BA%E6%98%8E%E9%87%8E576%E7%95%AA%E5%9C%B013",
     "legacy_lat": 34.4875,
     "legacy_lng": 136.7086,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルトウイスキー 伊勢 -2025Edition-",
+      "ピュアモルトウイスキー 神路（KAMIJI）",
+      "ブレンデッドウイスキー 神路（KAMIJI）"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式の個別商品ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-036",
@@ -3485,7 +4061,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E9%AB%98%E5%B3%B6%E5%B8%82%E6%96%B0%E6%97%AD%E7%94%BA%E6%97%AD83",
     "legacy_lat": 35.00444,
     "legacy_lng": 135.86833,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ウイスキー「BIWAKO DISTILLERY’S」"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式商品ラインナップページで明示確認できた商品名は1件のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-037",
@@ -3527,7 +4109,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%B2%B8%E5%92%8C%E7%94%B0%E5%B8%82%E5%9C%9F%E7%94%9F%E7%94%BA6-10-15",
     "legacy_lat": 34.68639,
     "legacy_lng": 135.52,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "利休蔵公式の開所案内では出荷は2028年以降予定とあり、今回の調査範囲では正式商品名は未確認。"
   },
   {
     "id": "cand-jwic-seed-038",
@@ -3571,7 +4157,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%E4%B8%AD%E7%AB%B9%E7%94%B01171",
     "legacy_lat": 35.1773,
     "legacy_lng": 135.0372,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "モンテオエステ ジン"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみへ基準変更のため見直し。焼酎2件を削除し、公式商品ページで明示確認できたジンのみ残置。"
   },
   {
     "id": "cand-jwic-seed-039",
@@ -3614,7 +4206,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1%E5%B8%82%E4%BB%8A%E7%94%B0%E7%94%BA%E6%9C%AC%E8%8D%98%E5%A0%82%E3%83%B6%E8%B0%B71-19",
     "legacy_lat": 34.69139,
     "legacy_lng": 135.18306,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "黄桜 丹波シングルモルト",
+      "Sakura Chronos",
+      "黄桜ウイスキー Premium Highball"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式の商品一覧・個別商品ページで確認。"
   },
   {
     "id": "cand-jwic-seed-040",
@@ -3658,7 +4258,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B2%A2%E7%94%BA%E4%B8%8A%E5%A4%A7%E6%B2%A22150",
     "legacy_lat": 34.69139,
     "legacy_lng": 135.18306,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "NEWPOT",
+      "RARE CASK SUPREME KOBE BRANDY 20年",
+      "神戸ブランデー"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式商品一覧・公式ブランデーページで確認。ウイスキーはMaturing表記のため商品名としては未採用。"
   },
   {
     "id": "cand-jwic-seed-041",
@@ -3700,7 +4308,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA%E5%85%AD%E7%94%B2%E5%B1%B1%E7%94%BA%E5%8D%97%E5%85%AD%E7%94%B21034-229",
     "legacy_lat": 34.69139,
     "legacy_lng": 135.18306,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "SINGLE MALT WHISKY -OLOROSO-",
+      "六甲山蒸溜所 水楢5年",
+      "六甲山蒸溜所 SMOKY EDITION"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式トップの商品紹介欄で確認。"
   },
   {
     "id": "cand-jwic-seed-042",
@@ -3743,7 +4359,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E5%A4%A7%E8%94%B5%E5%85%AB%E5%B9%A1%E7%94%BA1-3",
     "legacy_lat": 34.69139,
     "legacy_lng": 135.18306,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "波門崎 ピュアモルト ウイスキー",
+      "波門崎 ブレンデッド ウイスキー",
+      "東経135度 兵庫ドライジン"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "明石酒類醸造の公式 product / brand ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-043",
@@ -3785,7 +4409,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E9%A4%8A%E7%88%B6%E5%B8%82%E5%A4%A7%E5%B1%8B%E7%94%BA%E4%B8%AD%E9%96%93844-1",
     "legacy_lat": 34.69139,
     "legacy_lng": 135.18306,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再確認。公式サイト・見学ページでは養父蒸溜所の国産シングルモルト開発と見学情報は確認できるが、正式商品名の一次確認には至らず hold 維持。"
   },
   {
     "id": "cand-jwic-seed-044",
@@ -3827,7 +4455,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%9C%8C%E5%AE%87%E9%99%80%E9%83%A1%E6%9B%BD%E7%88%BE%E6%9D%91%E5%B1%B1%E7%B2%951637-1",
     "legacy_lat": 34.68528,
     "legacy_lng": 135.83278,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再調査。公式サイトアクセス時に bot verification が表示され、今回の調査範囲では正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "cand-jwic-seed-045",
@@ -3870,7 +4502,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E8%A5%BF%E7%89%9F%E5%A9%81%E9%83%A1%E4%B8%8A%E5%AF%8C%E7%94%B0%E7%94%9F%E9%A6%AC1474-1",
     "legacy_lat": 34.22611,
     "legacy_lng": 135.1675,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "熊野ウイスキー",
+      "熊野ジン",
+      "KUMANO ラム"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式トップの商品紹介で3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-046",
@@ -3913,7 +4553,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E5%A2%83%E6%B8%AF%E5%B8%82%E5%A4%A7%E6%AD%A3%E7%94%BA131",
     "legacy_lat": 35.50361,
     "legacy_lng": 134.23833,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "千代むすびクラフト・ジン 因伯人(Impact)",
+      "LASTジン ELEGANT",
+      "千代むすびクラフト・ウォッカ 炎人(エンジン)～ENGINE～"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。千代むすび公式オンラインストアの商品ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-047",
@@ -3956,7 +4604,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%B2%A1%E5%B1%B1%E5%B8%82%E4%B8%AD%E5%8C%BA%E8%A5%BF%E5%B7%9D%E5%8E%9F185-1",
     "legacy_lat": 34.66167,
     "legacy_lng": 133.935,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ウイスキー岡山",
+      "クラフトジン 岡山",
+      "ビア・スピリッツ オールド・独歩"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式工場見学ページと公式レストランのドリンクメニューで岡山蒸溜所製造・提供商品として確認。"
   },
   {
     "id": "cand-jwic-seed-048",
@@ -3999,7 +4655,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%E9%98%BF%E6%B3%A2%E5%B8%82%E5%9C%9F%E6%88%90%E7%94%BA%E9%83%A1176",
     "legacy_lat": 34.06583,
     "legacy_lng": 134.55944,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒再調査。公式「阿波乃蒸溜所」ページでウイスキー製造開始と2026年完成予定は確認できるが、正式商品名は未確認。"
   },
   {
     "id": "cand-jwic-seed-049",
@@ -4042,7 +4702,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E5%85%AB%E5%B9%A1%E6%B5%9C%E5%B8%821557%E7%95%AA%E5%9C%B0",
     "legacy_lat": 33.84167,
     "legacy_lng": 132.76611,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Citrus Bee　シトラスビー",
+      "ウイスキー　多喜"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "洋酒のみへ基準変更のため見直し。「美祥 粕取り焼酎」は削除。公式 products では Citrus Bee と ウイスキー 多喜 を確認。"
   },
   {
     "id": "cand-jwic-seed-050",
@@ -4084,7 +4751,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA%E5%A4%A7%E9%87%8C%E5%85%83%E7%94%BA2-1",
     "legacy_lat": 33.60639,
     "legacy_lng": 130.41806,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再調査。ニッカ公式会社案内では門司工場は本格焼酎をはじめ焼酎製造の中心工場と案内。今回の調査範囲では門司工場に紐づく正式な洋酒商品名は未確認。"
   },
   {
     "id": "cand-jwic-seed-051",
@@ -4127,7 +4798,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE185",
     "legacy_lat": 33.60639,
     "legacy_lng": 130.41806,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "Jin40",
+      "Freeee!!!",
+      "Freeee!!! 第2弾"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式クラフトジンページで3商品名を確認。"
   },
   {
     "id": "cand-jwic-seed-052",
@@ -4169,7 +4848,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E6%9C%9D%E5%80%89%E5%B8%82%E6%AF%94%E8%89%AF%E6%9D%BE626%E7%95%AA%E5%9C%B01",
     "legacy_lat": 33.60639,
     "legacy_lng": 130.41806,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "SHINDO EXPERIMENTAL 01",
+      "SHINDO EXPERIMENTAL 02",
+      "SHINDO EXPERIMENTAL FOR CORES.01"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。SHINDO LAB公式 products / news で3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-053",
@@ -4211,7 +4898,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E6%9D%B1%E5%BD%BC%E6%9D%B5%E9%83%A1%E6%B3%A2%E4%BD%90%E8%A6%8B%E7%94%BA%E6%8A%98%E6%95%B7%E7%80%AC%E9%83%B71742-12",
     "legacy_lat": 32.74472,
     "legacy_lng": 129.87361,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "富士紅雉 ブレンデッドウイスキー",
+      "富士黒雉 ピュアモルトウイスキー",
+      "富士緑雉 シングルモルトウイスキー"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式の商品情報ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-054",
@@ -4254,7 +4949,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82%E5%9F%8E%E9%96%93%E7%94%BA317%E7%95%AA%E5%9C%B0",
     "legacy_lat": 33.1796,
     "legacy_lng": 129.7154,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "よきつき－令月－"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "洋酒再調査。公式商品案内で Japanese Premium Craft Gin「よきつき－令月－」を確認。追加の洋酒商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-055",
@@ -4296,7 +4997,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E5%B1%B1%E9%B9%BF%E5%B8%82%E9%B9%BF%E5%A4%AE%E7%94%BA%E5%90%88%E9%87%8C980%E7%95%AA%E5%9C%B01",
     "legacy_lat": 32.78972,
     "legacy_lng": 130.74167,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルトジャパニーズウイスキー 山鹿ザ・ファースト",
+      "YAMAGA NEW BORN 2024",
+      "YAMAGA NEW BORN 2023"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品紹介ページ・公式ニュースで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-056",
@@ -4338,7 +5047,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%90%83%E7%A3%A8%E9%83%A1%E6%B0%B4%E4%B8%8A%E6%9D%91%E5%B2%A9%E9%87%8E1053",
     "legacy_lat": 32.78972,
     "legacy_lng": 130.74167,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみへ基準変更のため見直し。公式製品紹介で確認できた代表銘柄は球磨焼酎群で、今回の調査範囲では洋酒は未確認。"
   },
   {
     "id": "cand-jwic-seed-057",
@@ -4380,7 +5093,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%90%83%E7%A3%A8%E9%83%A1%E9%8C%A6%E7%94%BA%E4%B8%80%E6%AD%A62577-13",
     "legacy_lat": 32.78972,
     "legacy_lng": 130.74167,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "KUMA JORAKU",
+      "RICE WHISKY 常楽"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再確認。常楽酒造公式の発売告知で「KUMA JORAKU」と「RICE WHISKY 常楽」を確認。今回の調査範囲では追加の正式洋酒商品名は未確認。"
   },
   {
     "id": "cand-jwic-seed-058",
@@ -4422,7 +5142,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%BA%BA%E5%90%89%E5%B8%82%E7%94%B0%E9%87%8E%E7%94%BA3316-4",
     "legacy_lat": 32.78972,
     "legacy_lng": 130.74167,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "公式蒸溜所サイトと公式開所案内を確認したが、今回の調査範囲では正式商品名は未確認。"
   },
   {
     "id": "cand-jwic-seed-059",
@@ -4465,7 +5189,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%BB%B6%E5%B2%A1%E5%B8%82%E7%A5%9D%E5%AD%90%E7%94%BA2388%E7%95%AA%E5%9C%B01",
     "legacy_lat": 32.58252,
     "legacy_lng": 131.66583,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみへ基準変更のため見直し。公式商品一覧で確認できた「天の刻印」「銀の水」「銀の水BLACK」は焼酎のため削除。今回の調査範囲では洋酒は未確認。"
   },
   {
     "id": "cand-jwic-seed-060",
@@ -4507,7 +5235,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9B%BD%E6%96%BC%E9%83%A1%E5%A4%A7%E5%B4%8E%E7%94%BA%E8%8F%B1%E7%94%B01270",
     "legacy_lat": 31.56028,
     "legacy_lng": 130.55806,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "菱田蒸溜所ニューボーンPreludeⅠ"
+    ],
+    "representative_products_source": "official_news",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "天星酒造公式の発売開始案内で明示確認できた商品名は「菱田蒸溜所ニューボーンPreludeⅠ」のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-061",
@@ -4549,7 +5283,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9B%BD%E6%96%BC%E5%B8%82%E5%A4%A7%E9%9A%85%E7%94%BA%E5%9D%82%E5%85%83860%E7%95%AA%E5%9C%B01",
     "legacy_lat": 31.56028,
     "legacy_lng": 130.55806,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみへ基準変更のため見直し。公式サイトで確認できるのは本格焼酎「大隅〈芋〉」「大隅〈麦〉」のみで、今回の調査範囲では洋酒は未確認。"
   },
   {
     "id": "cand-jwic-seed-062",
@@ -4592,7 +5330,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%A7%B6%E8%89%AF%E5%B8%82%E5%8A%A0%E6%B2%BB%E6%9C%A8%E7%94%BA%E8%AB%8F%E8%A8%AA%E7%94%BA200",
     "legacy_lat": 31.734095,
     "legacy_lng": 130.620778,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみへ基準変更のため見直し。公式ラインアップで確認できるのは焼酎のみで、今回の調査範囲では洋酒は未確認。"
   },
   {
     "id": "cand-jwic-seed-063",
@@ -4634,7 +5376,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E8%96%A9%E6%91%A9%E9%83%A1%E3%81%95%E3%81%A4%E3%81%BE%E7%94%BA%E6%99%82%E5%90%8912",
     "legacy_lat": 31.56028,
     "legacy_lng": 130.55806,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒再調査。公式 products で確認できたのは本格焼酎「小牧」など焼酎のみで、今回の調査範囲では洋酒は未確認。"
   },
   {
     "id": "cand-jwic-seed-064",
@@ -4677,7 +5423,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E4%B8%8B%E7%A6%8F%E5%85%83%E7%94%BA12300",
     "legacy_lat": 31.56028,
     "legacy_lng": 130.55806,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ONTAKE 2025",
+      "御岳 THE FIRST EDITION 2024 BOURBON BARRELS",
+      "御岳 THE FIRST EDITION 2023"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式 Product ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-065",
@@ -4719,7 +5473,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E6%9E%95%E5%B4%8E%E5%B8%82%E7%81%AB%E4%B9%8B%E7%A5%9E%E5%8C%97%E7%94%BA388%E7%95%AA%E5%9C%B0",
     "legacy_lat": 31.56028,
     "legacy_lng": 130.55806,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "HINOKAMI WHISKY MATSURI LIMITED EDITION 2025",
+      "HINOKAMI NEW BORN #1"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。火の神蒸溜所公式 PRODUCT と TOPICS で明示確認できた商品名は2件。3件目は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-066",
@@ -4762,7 +5523,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E5%90%8D%E8%AD%B7%E5%B8%82%E5%AD%97%E8%A8%B1%E7%94%B0405",
     "legacy_lat": 26.2125,
     "legacy_lng": 127.68111,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルトジャパニーズウイスキー「許田」Rum Cask Finish",
+      "くら ザ・ウイスキー ラムカスクフィニッシュ（KURA The Whisky）",
+      "くら ザ・ウイスキー シェリーカスクフィニッシュ（KURA The Whisky）"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。ヘリオス酒造公式オンラインショップのウイスキーカテゴリ・個別商品ページで3商品を確認。"
   },
   {
     "id": "cand-jwic-seed-067",
@@ -4804,7 +5573,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%86%E3%82%8B%E3%81%BE%E5%B8%82%E5%B7%9E%E5%B4%8E12-17",
     "legacy_lat": 26.2125,
     "legacy_lng": 127.68111,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "琉歌 NEW BORN2025",
+      "琉歌 NEW BORN2024",
+      "琉歌 NEW POT 65度 200ml"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。新里酒造公式の商品詳細ページで「琉歌 NEW BORN2025」「琉歌 NEW BORN2024」「琉歌 NEW POT 65度 200ml」を明示確認。"
   },
   {
     "id": "cand-jwic-seed-068",
@@ -4847,7 +5624,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E5%AD%97%E4%BB%B2%E4%BA%95%E7%9C%9F155%E7%95%AA",
     "legacy_lat": 26.2125,
     "legacy_lng": 127.68111,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "那覇蒸留所 シングルモルト ニューボーン 2025"
+    ],
+    "representative_products_source": "official_news",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "久米仙酒造公式の発売案内・ブログで明示確認できた商品名は「那覇蒸留所 シングルモルト ニューボーン 2025」のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "cand-jwic-seed-069",
@@ -4892,7 +5675,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E7%B3%B8%E6%BA%80%E5%B8%82%E8%A5%BF%E5%B4%8E%E7%94%BA5-8-7",
     "legacy_lat": 26.154117,
     "legacy_lng": 127.665093,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "昌廣ウイスキー AGED14YEARS 43度 700ml",
+      "昌廣ブレンデッドウイスキー 47度 700ml",
+      "まさひろ OKINAWA GIN"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "まさひろ酒造公式のウイスキー商品ページ・クラフトジン商品ページで3商品を確認。"
   },
   {
     "id": "excl-jwic-seed-071",
@@ -4932,7 +5723,11 @@
     "google_maps_address_url": "",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "none"
+    "coordinate_source": "none",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再確認。厚岸蒸溜所公式ニュースでは富良野地区で熟成中の原酒を2025年度中に製品化予定とあるが、今回の調査範囲では正式商品名は未確認。"
   },
   {
     "id": "excl-jwic-seed-072",
@@ -4972,7 +5767,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%B7%9D%E9%83%A1%E5%B9%95%E5%88%A5%E7%94%BA%E6%9C%AD%E5%86%85%E3%81%BF%E3%81%9A%E3%81%BB%E7%94%BA160-72",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "OWNER'S CASK TOKACHI SINGLE MALT WHISKY AGED 3 YEARS THE FIRST EDITION 2026 700ml WHISKY FUND",
+      "OWNER'S CASK TOKACHI PEATED SINGLE MALT WHISKY AGED 3 YEARS THE FIRST EDITION 2026 700ml WHISKY FUND",
+      "OWNER'S CASK/TOKACHI SINGLE MALT WHISKY 2026 SHERRY BUTT / 500L AGED 5 YEARS"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式会員ショップ掲載名で確認。一般流通定番ではなく会員向け商品名ベース。"
   },
   {
     "id": "excl-jwic-seed-073",
@@ -5012,7 +5815,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%BA%83%E5%B0%BE%E9%83%A1%E5%A4%A7%E6%A8%B9%E7%94%BA%E6%B5%9C%E5%A4%A7%E6%A8%B967-18",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "SMOKY ALIEN"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "公式トップで明示確認できた商品名は SMOKY ALIEN のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "excl-jwic-seed-074",
@@ -5052,7 +5861,11 @@
     "google_maps_address_url": "",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "none"
+    "coordinate_source": "none",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で棚卸。現行データ上で公式URL未設定のため、今回の調査範囲では正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "excl-jwic-seed-075",
@@ -5092,7 +5905,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E6%9F%8F%E5%8E%9F",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で棚卸。現行データ上で公式URL未設定のため、今回の調査範囲では正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "excl-jwic-seed-076",
@@ -5132,7 +5949,11 @@
     "google_maps_address_url": "",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "none"
+    "coordinate_source": "none",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再確認。Whisky Student公式では2025年7月着工、2026年3月に第一期工事竣工を確認。今回の調査範囲では正式商品名は未確認。"
   },
   {
     "id": "excl-jwic-seed-077",
@@ -5173,7 +5994,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%99%BA%E5%AF%9210%E6%9D%A11%E4%B8%81%E7%9B%AE1%E7%95%AA1%E5%8F%B7",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "サッポロウイスキー蝦夷(EZO) 43％ 720ml",
+      "サッポロウイスキー蝦夷(EZO) 43％ スモーキーブレンド 720ml",
+      "サッポロウイスキーSS 43％ 700ml"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "medium",
+    "representative_products_note": "札幌酒精工業公式の商品一覧と会社案内で札幌工場所在地・サッポロウイスキー商品群を確認。工場個別紐付けは会社サイト上の製品群ベース。"
   },
   {
     "id": "excl-jwic-seed-078",
@@ -5214,7 +6043,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E8%A5%BF%E8%92%B2%E5%8C%BA%E8%B6%8A%E5%89%8D%E6%B5%9C5120",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "忍ピュアモルトウイスキー ミズナラ樽",
+      "忍ブレンデッドウイスキー ミズナラ樽",
+      "忍シングルモルトウイスキー 数量限定品"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "SHINANO公式の忍 SHINOBU 商品ページで3商品を確認。"
   },
   {
     "id": "excl-jwic-seed-079",
@@ -5254,7 +6091,11 @@
     "google_maps_address_url": "",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "none"
+    "coordinate_source": "none",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で棚卸。現行データ上で公式URL未設定かつ仮称案件のため、今回の調査範囲では正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "excl-jwic-seed-080",
@@ -5296,7 +6137,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AC%9B%E5%90%B9%E5%B8%82%E4%B8%80%E5%AE%AE%E7%94%BA%E4%B8%8A%E7%9F%A2%E4%BD%9C191-1",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "蜂角鷹 700ml",
+      "角鷹 5年樽熟成 700ml",
+      "角鷹 ピュアモルト 700ml"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "南アルプスワインアンドビバレッジ公式のウイスキー商品ページで3商品を確認。"
   },
   {
     "id": "excl-jwic-seed-081",
@@ -5338,7 +6187,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E9%BE%8D%E5%B2%A1%E7%94%BA%E4%B8%8B%E6%A2%9D%E5%8D%97%E5%89%B2640",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "御勅使(みだい)",
+      "韮崎(にらさき) 40度　700ml",
+      "富士ヶ嶺(ふじがね) 43度"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "サン.フーズ公式の蒸留所紹介・ウイスキー商品一覧・個別商品ページで3商品を確認。"
   },
   {
     "id": "excl-jwic-seed-082",
@@ -5378,7 +6235,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%B8%82%E5%A4%A7%E6%B7%B5325-5",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で棚卸。現行データ上で公式URL未設定のため、今回の調査範囲では正式商品名の一次確認に至らず hold。"
   },
   {
     "id": "excl-jwic-seed-083",
@@ -5418,7 +6279,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0800-3",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ピークモルト美濃養老 シングルモルトウイスキー　700ml",
+      "ピークウイスキー 720ml",
+      "ピークウイスキースペシャル 720ml"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "玉泉堂酒造公式のウイスキー商品ページで3商品を確認。"
   },
   {
     "id": "excl-jwic-seed-084",
@@ -5458,7 +6327,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E8%88%B9%E4%BA%95%E9%83%A1%E4%BA%AC%E4%B8%B9%E6%B3%A2%E7%94%BA%E5%9D%82%E5%8E%9F%E5%8D%97%E6%9E%9711%E7%95%AA",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "京都ジン",
+      "京都ジン ハイクラス",
+      "京都シングルモルトウイスキー西陣織ラベル 700ml"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品ページで3商品を確認。"
   },
   {
     "id": "excl-jwic-seed-085",
@@ -5498,7 +6375,11 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-4-2",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再確認。公式サイトではオリジナルブランド「千手成安」と第一号商品がウイスキーであることは確認できるが、正式商品名の一次確認には至らず hold 維持。"
   },
   {
     "id": "excl-jwic-seed-086",
@@ -5539,7 +6420,13 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E6%9D%B1%E5%B0%8F%E6%A9%8B1-16-24",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "OSAKA GIN ORIJIN"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "洋酒のみ基準で再調査。三国蒸溜所公式サイトで明示確認できた商品名は OSAKA GIN ORIJIN のみ。追加商品は今回の調査範囲では未確認。"
   },
   {
     "id": "excl-jwic-seed-087",
@@ -5579,7 +6466,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E5%80%89%E5%90%89%E5%B8%82%E4%B8%8A%E5%8F%A4%E5%B7%9D656-1",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "マツイシングルモルトウイスキー「倉吉」",
+      "マツイピュアモルトウイスキー「倉吉」",
+      "マツイピュアモルトウイスキー「倉吉 シェリーカスク」"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "公式商品ページで3商品を確認。"
   },
   {
     "id": "excl-jwic-seed-088",
@@ -5619,7 +6514,11 @@
     "google_maps_address_url": "",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "none"
+    "coordinate_source": "none",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒のみ基準で再確認。公式発表では2025年3月に地鎮祭実施、蒸留棟は2025年秋、ビジター棟は2026年秋完成予定。今回の調査範囲では正式商品名は未確認。"
   },
   {
     "id": "excl-jwic-seed-089",
@@ -5662,7 +6561,11 @@
     "google_maps_address_url": "",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "none"
+    "coordinate_source": "none",
+    "representative_products": [],
+    "representative_products_source": "hold",
+    "representative_products_confidence": "low",
+    "representative_products_note": "洋酒再調査。公式通販・商品一覧で確認できたのは日本酒・焼酎中心で、今回の調査範囲では洋酒は未確認。"
   },
   {
     "id": "excl-jwic-seed-090",
@@ -5702,7 +6605,15 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%B8%8A%E7%9B%8A%E5%9F%8E%E9%83%A1%E5%B1%B1%E9%83%BD%E7%94%BA%E6%B5%9C%E7%94%BA60%E7%95%AA%E5%9C%B01",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "シングルモルトウイスキー山都 750ml",
+      "シングルライスウイスキー保之助 720ml",
+      "ウイスキー国見岳 700ml"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "森の酒蔵公式トップとウイスキー商品一覧・個別商品ページで3商品を確認。"
   },
   {
     "id": "excl-jwic-seed-091",
@@ -5742,6 +6653,14 @@
     "google_maps_address_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%9C%A7%E5%B3%B6%E5%B8%82%E6%A8%AA%E5%B7%9D%E7%94%BA%E4%B8%8A%E3%83%8E3280-5",
     "legacy_lat": null,
     "legacy_lng": null,
-    "coordinate_source": "google_maps_place_url_v4"
+    "coordinate_source": "google_maps_place_url_v4",
+    "representative_products": [
+      "ジャパニーズシングルモルトウイスキー 横川 700ml",
+      "ジャパニーズシングルモルトウイスキー 横川 ワイン樽熟成 （カスクストレングス）700ml",
+      "シングルモルトウイスキー 霧島 AGED 2 YEARS 「白虎」 700mL Alc.50％"
+    ],
+    "representative_products_source": "official_site",
+    "representative_products_confidence": "high",
+    "representative_products_note": "横川蒸留所公式の商品一覧・販売ページで3商品を確認。"
   }
 ]
