@@ -1212,3 +1212,40 @@ body{
     padding:4px 8px;
   }
 }
+
+
+/* v189 popup visit badge */
+.popup-topline{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+  margin-bottom:6px;
+}
+.popup-title{
+  font-size:16px;
+  font-weight:700;
+  min-width:0;
+}
+.popup-visit-badge{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  padding:4px 8px;
+  border-radius:999px;
+  background:#ecfdf3;
+  color:#027a48;
+  border:1px solid #86efac;
+  font-size:10.5px;
+  font-weight:700;
+  white-space:nowrap;
+  flex:0 0 auto;
+}
+.popup-visit-badge::before{
+  content:'';
+  width:7px;
+  height:7px;
+  border-radius:50%;
+  background:#16a34a;
+  box-shadow:0 0 0 3px rgba(22,163,74,.12);
+}
