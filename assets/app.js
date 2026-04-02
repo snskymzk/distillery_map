@@ -1,4 +1,4 @@
-const APP_VERSION = 'v173';
+const APP_VERSION = 'v174';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -324,6 +324,22 @@ function renderDebugPanel(items){
     versionEl.textContent = `表示バージョン: ${APP_VERSION} / ${DISTILLERIES_URL}`;
   }
 }
+
+function renderMapLegend(){
+  const legend = document.getElementById('mapLegend');
+  if(!legend) return;
+  legend.innerHTML = `
+    <div class="map-legend-title">凡例 / フィルタの見方</div>
+    <div class="map-legend-items">
+      <span class="map-legend-chip"><span class="map-legend-dot is-exact"></span> exact: 位置精度が高い</span>
+      <span class="map-legend-chip"><span class="map-legend-dot is-approx"></span> approx: おおよその位置</span>
+      <span class="map-legend-chip"><span class="map-legend-dot is-none"></span> none: 座標未設定</span>
+      <span class="map-legend-chip"><span class="map-legend-dot is-construction"></span> 建設中: 将来開設予定を含む</span>
+      <span class="map-legend-chip"><span class="map-legend-dot is-unclear"></span> 詳細不明: 状況確認中</span>
+    </div>
+  `;
+}
+
 function renderSummary(items){
   renderDebugPanel(items);
 }

@@ -222,3 +222,45 @@ details.filter-box{margin-top:10px;border:1px solid var(--border);border-radius:
   .debug-chip{ font-size:10px; }
   .debug-select{ min-width:150px; }
 }
+
+
+.map-legend{
+  margin-top:8px;
+  border:1px dashed var(--border);
+  border-radius:12px;
+  background:#fff;
+  padding:10px;
+}
+.map-legend-title{
+  font-size:11px;
+  font-weight:700;
+  color:var(--sub);
+  margin-bottom:6px;
+}
+.map-legend-items{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+}
+.map-legend-chip{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  padding:5px 8px;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:#fafafa;
+  font-size:11px;
+  color:var(--text);
+}
+.map-legend-dot{
+  width:9px;
+  height:9px;
+  border-radius:50%;
+  display:inline-block;
+}
+.map-legend-dot.is-exact{ background:#1e88e5; }
+.map-legend-dot.is-approx{ background:#fb8c00; }
+.map-legend-dot.is-none{ background:#9e9e9e; }
+.map-legend-dot.is-construction{ background:#8e24aa; }
+.map-legend-dot.is-unclear{ background:#ef5350; }
