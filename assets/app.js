@@ -1,4 +1,4 @@
-const APP_VERSION = 'v179';
+const APP_VERSION = 'v180';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -194,14 +194,20 @@ function focusItemByName(name, smoothScroll){
   const item=filteredCache.find(x=>x.name===name) || distilleries.find(x=>x.name===name);
   const marker=markerMap.get(name);
   if(item && marker){
-    map.setView([Number(item.lat), Number(item.lng)], Math.max(map.getZoom(),9), {animate:true});
-    setTimeout(()=>{ marker.openPopup(); }, 180);
-    setActiveName(name);
     if(window.innerWidth <= 960){
       const mapWrap = document.querySelector('.map-wrap');
       if(mapWrap){
         mapWrap.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'start'});
       }
+      setTimeout(()=>{
+        map.setView([Number(item.lat), Number(item.lng)], Math.max(map.getZoom(),9), {animate:true});
+        marker.openPopup();
+        setActiveName(name);
+      }, smoothScroll ? 220 : 0);
+    }else{
+      map.setView([Number(item.lat), Number(item.lng)], Math.max(map.getZoom(),9), {animate:true});
+      marker.openPopup();
+      setActiveName(name);
     }
   }
   const card=cardMap.get(name);
@@ -233,11 +239,6 @@ function renderList(items){
       if(e.target && e.target.closest('.action-row')) return;
       focusItemByName(name, true);
     });
-    card.addEventListener('touchend',(e)=>{
-      if(e.target && e.target.closest('.action-row')) return;
-      e.preventDefault();
-      focusItemByName(name, true);
-    }, {passive:false});
     card.addEventListener('mouseenter',()=>setHoveredName(name,true));
     card.addEventListener('mouseleave',()=>setHoveredName(name,false));
   });
@@ -323,3 +324,10 @@ fetch(DISTILLERIES_URL)
   .catch(err=>{ document.getElementById('list').innerHTML=`<div class="empty">データの読み込みに失敗しました。<br>${err.message}</div>`; console.error(err); });
 
 
+
+
+map.on('popupopen', () => {
+  if (window.innerWidth <= 960) {
+    setTimeout(() => { map.panBy([0, 70], { animate:true }); }, 30);
+  }
+});

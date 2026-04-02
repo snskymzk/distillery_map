@@ -518,3 +518,134 @@ details.filter-box{margin-top:10px;border:1px solid var(--border);border-radius:
     align-items:flex-start;
   }
 }
+
+
+/* v180 feedback fixes */
+body{
+  overflow:hidden;
+}
+.app{
+  height:100vh;
+  overflow:hidden;
+}
+.map-wrap{
+  position:relative !important;
+  top:auto !important;
+  height:100vh !important;
+  min-height:0;
+  overflow:hidden;
+}
+#map{
+  height:100vh !important;
+}
+.simple-header{
+  top:10px;
+  left:10px;
+  right:auto;
+  max-width:340px;
+  padding:7px 10px;
+  z-index:900;
+}
+.simple-header-main{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  flex-wrap:nowrap;
+}
+.simple-header h1{
+  font-size:15px;
+  line-height:1.15;
+  margin:0;
+  white-space:nowrap;
+}
+.map-reset-btn{
+  flex:0 0 auto;
+}
+.leaflet-top.leaflet-left{
+  margin-top:0 !important;
+  margin-left:0 !important;
+}
+.leaflet-control-zoom{
+  margin-top:64px !important;
+  margin-left:10px !important;
+}
+.panel{
+  height:100vh !important;
+  min-height:0 !important;
+  max-height:100vh !important;
+  overflow:hidden !important;
+}
+.simple-panel{
+  display:flex;
+  flex-direction:column;
+}
+.simple-panel-top{
+  flex:0 0 auto;
+}
+#list{
+  flex:1 1 auto;
+  min-height:0;
+  overflow:auto !important;
+  padding-bottom:16px;
+}
+@media (max-width: 960px){
+  body{
+    overflow:auto;
+  }
+  .app{
+    height:auto;
+    min-height:100vh;
+    overflow:visible;
+    gap:0;
+  }
+  .map-wrap{
+    height:auto !important;
+    overflow:visible;
+    background:#fff;
+  }
+  #map{
+    height:46vh !important;
+    min-height:320px;
+  }
+  .simple-header{
+    max-width:calc(100% - 20px);
+    padding:7px 9px;
+  }
+  .simple-header h1{
+    font-size:14px;
+    white-space:nowrap;
+  }
+  .map-reset-btn{
+    font-size:11px;
+    padding:5px 8px;
+  }
+  .leaflet-control-zoom{
+    margin-top:64px !important;
+    margin-left:10px !important;
+  }
+  .panel{
+    position:static !important;
+    height:auto !important;
+    max-height:none !important;
+    min-height:0 !important;
+    border-top:none !important;
+    border-left:1px solid var(--border);
+    border-radius:0 0 14px 14px;
+    box-shadow:var(--shadow);
+    margin-top:0 !important;
+  }
+  .simple-panel-top{
+    position:static !important;
+  }
+  #list{
+    overflow:visible !important;
+    max-height:none !important;
+    padding:8px 10px 14px;
+  }
+  .leaflet-popup-content-wrapper{
+    max-width:min(280px, calc(100vw - 24px));
+  }
+  .leaflet-popup-content{
+    max-height:180px;
+  }
+}
