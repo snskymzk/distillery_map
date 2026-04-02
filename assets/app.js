@@ -1,4 +1,4 @@
-const APP_VERSION = 'v178';
+const APP_VERSION = 'v179';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -14,7 +14,8 @@ const QUICK_PRESETS = {
   other_spirits: {label:'その他スピリッツ', types:['brandy','rum','vodka']}
 };
 
-const map = L.map('map', { zoomControl:true, preferCanvas:true }).setView([36.2, 137.7], 5);
+const DEFAULT_VIEW = { center:[36.2, 137.7], zoom:5 };
+const map = L.map('map', { zoomControl:true, preferCanvas:true }).setView(DEFAULT_VIEW.center, DEFAULT_VIEW.zoom);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:18,attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
 
 function clusterColor(markers){
@@ -121,7 +122,7 @@ function buildMarkers(items){
     marker.on('mouseover',()=>setHoveredName(item.name,true));
     marker.on('mouseout',()=>setHoveredName(item.name,false));
     marker.on('click',()=>setActiveName(item.name));
-    marker.bindPopup(popupHtml(item), {maxWidth:390});
+    marker.bindPopup(popupHtml(item), {maxWidth:320, autoPan:true, autoPanPadding:[24,24]});
     marker.bindTooltip(item.name,{direction:'top'});
     cluster.addLayer(marker);
     markerMap.set(item.name, marker);
@@ -194,11 +195,19 @@ function focusItemByName(name, smoothScroll){
   const marker=markerMap.get(name);
   if(item && marker){
     map.setView([Number(item.lat), Number(item.lng)], Math.max(map.getZoom(),9), {animate:true});
-    marker.openPopup();
+    setTimeout(()=>{ marker.openPopup(); }, 180);
     setActiveName(name);
+    if(window.innerWidth <= 960){
+      const mapWrap = document.querySelector('.map-wrap');
+      if(mapWrap){
+        mapWrap.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'start'});
+      }
+    }
   }
   const card=cardMap.get(name);
-  if(card){ card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'}); }
+  if(card && window.innerWidth > 960){
+    card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'});
+  }
 }
 function renderList(items){
   const list=document.getElementById('list');
@@ -220,7 +229,15 @@ function renderList(items){
   list.querySelectorAll('.card').forEach(card=>{
     const name=card.getAttribute('data-name');
     cardMap.set(name, card);
-    card.addEventListener('click',()=>focusItemByName(name, true));
+    card.addEventListener('click',(e)=>{
+      if(e.target && e.target.closest('.action-row')) return;
+      focusItemByName(name, true);
+    });
+    card.addEventListener('touchend',(e)=>{
+      if(e.target && e.target.closest('.action-row')) return;
+      e.preventDefault();
+      focusItemByName(name, true);
+    }, {passive:false});
     card.addEventListener('mouseenter',()=>setHoveredName(name,true));
     card.addEventListener('mouseleave',()=>setHoveredName(name,false));
   });
@@ -293,6 +310,12 @@ function bindUI(){
     visitable.addEventListener('change',e=>{ state.visitableOnly=e.target.checked; rerender(); });
   }
   document.querySelectorAll('.quick-pill').forEach(btn=>btn.addEventListener('click',()=>applyQuickPreset(btn.dataset.preset)));
+  const resetViewBtn = document.getElementById('resetViewBtn');
+  if(resetViewBtn){
+    resetViewBtn.addEventListener('click',()=>{
+      map.setView(DEFAULT_VIEW.center, DEFAULT_VIEW.zoom, {animate:true});
+    });
+  }
 }
 fetch(DISTILLERIES_URL)
   .then(r=>{ if(!r.ok) throw new Error(`distilleries.json: ${r.status}`); return r.json(); })

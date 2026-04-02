@@ -391,3 +391,130 @@ details.filter-box{margin-top:10px;border:1px solid var(--border);border-radius:
     gap:5px;
   }
 }
+
+
+/* v179 layout tuning */
+.app{
+  height:auto;
+  min-height:100vh;
+  align-items:start;
+}
+.map-wrap{
+  position:sticky;
+  top:0;
+  height:100vh;
+}
+#map{
+  height:100vh;
+}
+.simple-header{
+  top:12px;
+  left:12px;
+  right:auto;
+  max-width:420px;
+  padding:8px 10px;
+  border-radius:12px;
+  background:rgba(255,255,255,.92);
+}
+.simple-header-main{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+.simple-header h1{
+  font-size:16px;
+  line-height:1.2;
+  margin:0;
+  letter-spacing:.01em;
+}
+.map-reset-btn{
+  border:1px solid var(--border);
+  background:#fff;
+  color:var(--text);
+  border-radius:999px;
+  padding:6px 10px;
+  font-size:12px;
+  cursor:pointer;
+  white-space:nowrap;
+}
+.leaflet-top.leaflet-left{
+  margin-top:56px;
+}
+.panel{
+  height:auto !important;
+  min-height:0 !important;
+  max-height:none !important;
+  overflow:visible;
+}
+.simple-panel{
+  min-height:0;
+}
+.panel-header-simple{
+  padding:10px 12px;
+}
+.simple-panel-top{
+  padding:10px 12px;
+}
+.simple-compact-row{
+  justify-content:flex-start;
+}
+.simple-compact-row .checkbox{
+  justify-content:flex-start;
+  width:100%;
+}
+#list{
+  overflow:visible;
+  max-height:none;
+}
+.leaflet-popup-content-wrapper{
+  max-width:min(320px, calc(100vw - 32px));
+}
+.leaflet-popup-content{
+  margin:10px 12px;
+  max-height:min(45vh, 320px);
+  overflow:auto;
+  line-height:1.55;
+}
+@media (max-width: 960px){
+  .app{
+    min-height:auto;
+    gap:10px;
+  }
+  .map-wrap{
+    position:relative;
+    top:auto;
+    height:auto;
+  }
+  #map{
+    height:46vh;
+    min-height:320px;
+  }
+  .simple-header{
+    top:10px;
+    left:10px;
+    max-width:calc(100% - 20px);
+    padding:8px 10px;
+  }
+  .simple-header-main{
+    align-items:flex-start;
+    gap:8px;
+    flex-wrap:wrap;
+  }
+  .simple-header h1{
+    font-size:15px;
+  }
+  .map-reset-btn{
+    font-size:11px;
+    padding:5px 9px;
+  }
+  .leaflet-top.leaflet-left{
+    margin-top:58px;
+  }
+  .panel{
+    position:static !important;
+    box-shadow:var(--shadow);
+  }
+  .simple-compact-row{
+    align-items:flex-start;
+  }
+}
