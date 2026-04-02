@@ -1,4 +1,4 @@
-const APP_VERSION = 'v174';
+const APP_VERSION = 'v175';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -236,112 +236,18 @@ function renderList(items){
 }
 
 
-function debugChip(label, value, extraClass=''){
-  return `<span class="debug-chip ${extraClass}"><span>${label}</span><strong>${value}</strong></span>`;
-}
-function renderDebugPanel(items){
-  const shownCounts={whisky:0,gin:0,brandy:0,rum:0,vodka:0};
-  items.forEach(item=>(item.types||[]).forEach(t=>{ if(shownCounts[t]!==undefined) shownCounts[t]++; }));
 
-  const shownExact=items.filter(x=>x.coordinate_status==='exact').length;
-  const shownApprox=items.filter(x=>x.coordinate_status==='approx').length;
-  const shownNone=items.filter(x=>!x.coordinate_status || x.coordinate_status==='none').length;
 
-  const shownHold=items.filter(x=>x.data_status==='保留').length;
-  const shownPrep=items.filter(x=>x.record_status==='preparing_or_unclear').length;
-  const shownRep=items.filter(x=>Array.isArray(x.representative_products) && x.representative_products.length>0).length;
-  const shownOfficial=items.filter(x=>(x.official_url||'').trim()).length;
-  const shownVisit=items.filter(x=>x.visitable===true).length;
 
-  const total=distilleries.length;
-  const totalApprox=distilleries.filter(x=>x.coordinate_status==='approx').length;
-  const totalNone=distilleries.filter(x=>!x.coordinate_status || x.coordinate_status==='none').length;
 
-  const sections = [];
-  sections.push(`
-    <div class="debug-section">
-      <div class="debug-label">表示状況</div>
-      <div class="debug-stats">
-        ${debugChip('表示中', `${items.length} / ${total}`, 'is-accent')}
-        ${debugChip('公式URLあり', shownOfficial)}
-        ${debugChip('代表銘柄あり', shownRep)}
-        ${debugChip('見学可', shownVisit)}
-      </div>
-    </div>
-  `);
 
-  sections.push(`
-    <div class="debug-section">
-      <div class="debug-label">酒類別</div>
-      <div class="debug-stats">
-        ${debugChip('ウイスキー', shownCounts.whisky)}
-        ${debugChip('ジン', shownCounts.gin)}
-        ${debugChip('ブランデー', shownCounts.brandy)}
-        ${debugChip('ラム', shownCounts.rum)}
-        ${debugChip('ウォッカ', shownCounts.vodka)}
-      </div>
-    </div>
-  `);
-
-  sections.push(`
-    <div class="debug-section">
-      <div class="debug-label">位置情報</div>
-      <div class="debug-stats">
-        ${debugChip('exact', shownExact)}
-        ${debugChip('approx', shownApprox)}
-        ${shownNone ? debugChip('none', shownNone) : ''}
-        ${debugChip('全体approx', totalApprox, 'is-muted')}
-        ${totalNone ? debugChip('全体none', totalNone, 'is-muted') : ''}
-      </div>
-    </div>
-  `);
-
-  if(shownHold || shownPrep){
-    sections.push(`
-      <div class="debug-section">
-        <div class="debug-label">要確認・準備中</div>
-        <div class="debug-stats">
-          ${shownHold ? debugChip('要確認', shownHold) : ''}
-          ${shownPrep ? debugChip('準備中・詳細不明', shownPrep) : ''}
-        </div>
-      </div>
-    `);
-  }
-
-  const panel = document.getElementById('debugPanel');
-  if(panel){
-    panel.innerHTML = `
-      <div class="debug-heading">
-        <div class="debug-title">デバッグ表示</div>
-        <div class="debug-caption">フィルター後の件数とデータ品質を表示</div>
-      </div>
-      ${sections.join('')}
-    `;
-  }
-
+function renderSummary(items){
+  const summaryEl = document.getElementById('summary');
+  if(summaryEl) summaryEl.textContent = '';
   const versionEl = document.getElementById('versionInfo');
   if(versionEl){
     versionEl.textContent = `表示バージョン: ${APP_VERSION} / ${DISTILLERIES_URL}`;
   }
-}
-
-function renderMapLegend(){
-  const legend = document.getElementById('mapLegend');
-  if(!legend) return;
-  legend.innerHTML = `
-    <div class="map-legend-title">凡例 / フィルタの見方</div>
-    <div class="map-legend-items">
-      <span class="map-legend-chip"><span class="map-legend-dot is-exact"></span> exact: 位置精度が高い</span>
-      <span class="map-legend-chip"><span class="map-legend-dot is-approx"></span> approx: おおよその位置</span>
-      <span class="map-legend-chip"><span class="map-legend-dot is-none"></span> none: 座標未設定</span>
-      <span class="map-legend-chip"><span class="map-legend-dot is-construction"></span> 建設中: 将来開設予定を含む</span>
-      <span class="map-legend-chip"><span class="map-legend-dot is-unclear"></span> 詳細不明: 状況確認中</span>
-    </div>
-  `;
-}
-
-function renderSummary(items){
-  renderDebugPanel(items);
 }
 
 function rerender(){
