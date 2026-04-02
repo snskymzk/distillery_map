@@ -1,4 +1,4 @@
-const APP_VERSION = 'v185';
+const APP_VERSION = 'v186';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -8,6 +8,19 @@ const TYPE_META = {
   vodka:{label:'ウォッカ',color:'#0891b2'}
 };
 const REGION_ORDER = {'北海道':0,'東北':1,'関東':2,'東海':3,'北陸':4,'近畿':5,'中国':6,'四国':7,'九州':8,'沖縄':9,'所在地未設定':10};
+const PREF_TO_REGION = {
+  '北海道':'北海道',
+  '青森県':'東北','岩手県':'東北','秋田県':'東北','宮城県':'東北','山形県':'東北','福島県':'東北','新潟県':'東北',
+  '茨城県':'関東','栃木県':'関東','群馬県':'関東','山梨県':'関東','長野県':'関東','埼玉県':'関東','千葉県':'関東','東京都':'関東','神奈川県':'関東',
+  '静岡県':'東海','岐阜県':'東海','愛知県':'東海','三重県':'東海',
+  '富山県':'北陸','石川県':'北陸','福井県':'北陸',
+  '滋賀県':'近畿','京都府':'近畿','奈良県':'近畿','和歌山県':'近畿','大阪府':'近畿','兵庫県':'近畿',
+  '鳥取県':'中国','島根県':'中国','岡山県':'中国','広島県':'中国','山口県':'中国',
+  '徳島県':'四国','香川県':'四国','愛媛県':'四国','高知県':'四国',
+  '福岡県':'九州','佐賀県':'九州','長崎県':'九州','大分県':'九州','熊本県':'九州','宮崎県':'九州','鹿児島県':'九州',
+  '沖縄県':'沖縄'
+};
+
 const PREF_ORDER = {
   '北海道':0,
   '青森県':1,'岩手県':2,'秋田県':3,'宮城県':4,'山形県':5,'福島県':6,'新潟県':7,
@@ -60,6 +73,16 @@ const cardMap=new Map();
 const state={search:'',region:'all',visitableOnly:false,preparingMode:'hide',jwicMode:'all',sort:'name',quickPreset:'all',types:{whisky:true,gin:true,brandy:true,rum:true,vodka:true}};
 
 function typesLabel(item){ return item.types_label || (item.types||[]).map(t=> (TYPE_META[t] ? TYPE_META[t].label : t)).join(' / '); }
+function normalizedRegion(item){
+  const pref = extractPrefecture(item);
+  if (pref !== '所在地未設定' && Object.prototype.hasOwnProperty.call(PREF_TO_REGION, pref)) {
+    return PREF_TO_REGION[pref];
+  }
+  const reg = String(item.region || '').trim();
+  if (Object.prototype.hasOwnProperty.call(REGION_ORDER, reg)) return reg;
+  return '所在地未設定';
+}
+
 function extractPrefecture(item){
   const loc = String(item.location || '').trim();
   if(!loc) return '所在地未設定';
@@ -156,8 +179,8 @@ function sortItems(items){
   const arr = [...items];
   if ((state.sort || 'name') === 'region') {
     return arr.sort((a,b)=>{
-      const ar = a.region || '所在地未設定';
-      const br = b.region || '所在地未設定';
+      const ar = normalizedRegion(a);
+      const br = normalizedRegion(b);
       const ai = Object.prototype.hasOwnProperty.call(REGION_ORDER, ar) ? REGION_ORDER[ar] : 99;
       const bi = Object.prototype.hasOwnProperty.call(REGION_ORDER, br) ? REGION_ORDER[br] : 99;
       if (ai !== bi) return ai - bi;
