@@ -12,71 +12,29 @@
 <div class="app">
   <div class="map-wrap">
     <div id="map"></div>
-    <div class="header-card" id="headerCard">
-      <div class="header-main">
+    <div class="header-card simple-header" id="headerCard">
+      <div class="header-main simple-header-main">
         <h1>日本の蒸留所マップ</h1>
-        <button id="headerToggle" class="header-toggle" type="button" aria-expanded="false">補足を表示</button>
       </div>
-      <p id="headerSub" class="header-subtitle is-collapsed">全国の蒸留所を一覧化し、通常掲載と「準備中または詳細不明」を分けて扱います。複数の酒類を造る蒸留所にも対応しています。</p>
     </div>
   </div>
-  <aside class="panel" id="sidePanel">
-    <div class="panel-top">
-      <h2 class="panel-title">一覧とフィルター</h2>
-      <div class="quick-filters">
+  <aside class="panel simple-panel" id="sidePanel">
+    <div class="panel-top simple-panel-top">
+      <div class="quick-filters simple-quick-filters">
         <button class="quick-pill active" data-preset="all">すべて</button>
         <button class="quick-pill" data-preset="whisky">ウイスキー</button>
         <button class="quick-pill" data-preset="gin">ジン</button>
-        <button class="quick-pill" data-preset="other_spirits">その他スピリッツ</button>
+        <button class="quick-pill" data-preset="other_spirits">その他</button>
       </div>
-      <div class="primary-row" style="margin-top:10px;">
+      <div class="primary-row simple-primary-row">
         <div class="search-wrap" id="searchWrap">
-          <input id="searchInput" class="search" type="search" placeholder="蒸留所名・所在地・銘柄で検索">
+          <input id="searchInput" class="search" type="search" placeholder="蒸留所名・所在地・代表銘柄で検索">
           <div id="suggestions" class="suggestions"></div>
         </div>
-        <div class="compact-row">
+        <div class="compact-row simple-compact-row">
           <label class="checkbox"><input type="checkbox" id="visitableOnly">見学できる蒸留所のみ</label>
-          <label class="checkbox"><input type="checkbox" id="preparingMode">非稼働案件を表示</label>
-          <button id="mobileFilterToggle" class="mobile-filter-toggle" type="button">絞り込みを開く</button>
         </div>
       </div>
-      <details class="filter-box" id="filterBox">
-        <summary id="filterSummary">絞り込み・並び替え・凡例・補足を見る</summary>
-        <div class="filter-body">
-          <div class="sort-row">
-            <select id="regionSelect" class="region-select">
-              <option value="all">地域: すべて</option>
-              <option value="北海道">北海道</option>
-              <option value="東北">東北</option>
-              <option value="関東">関東</option>
-              <option value="中部">中部</option>
-              <option value="近畿">近畿</option>
-              <option value="中国">中国</option>
-              <option value="四国">四国</option>
-              <option value="九州">九州</option>
-            </select>
-            <select id="sortSelect" class="sort-select">
-              <option value="name">並び替え: 名称順</option>
-              <option value="region">並び替え: 地域順</option>
-            </select>
-          </div>
-          <div class="tag-note">クイックフィルターは表示対象の切り替えです。凡例は地図ピンの色と、監査中データの見分け方を示しています。位置情報が未確定の蒸留所は、代表点による暫定ピンで表示します。</div>
-          <div class="legend">
-            <div class="legend-title">凡例</div>
-            <div class="legend-row"><span class="dot" style="background:#2563eb;"></span>ウイスキー</div>
-            <div class="legend-row"><span class="dot" style="background:#059669;"></span>ジン</div>
-            <div class="legend-row"><span class="dot" style="background:#9333ea;"></span>ブランデー</div>
-            <div class="legend-row"><span class="dot" style="background:#dc2626;"></span>ラム</div>
-            <div class="legend-row"><span class="dot" style="background:#0891b2;"></span>ウォッカ</div>
-            <div class="legend-row"><span class="dot" style="background:conic-gradient(#2563eb 0 50%, #059669 50% 100%); border:1px solid #cbd5e1;"></span>複数の種類を造る蒸留所</div>
-            <div class="legend-row"><span class="dot" style="background:#98a2b3;"></span>準備中または詳細不明</div>
-            <div class="legend-row"><span class="badge-chip">要確認</span> 監査継続中のレコード</div>
-            <div class="legend-row"><span class="badge-chip">位置は暫定</span> 都道府県・地域の代表点で配置したレコード</div>
-            <div class="legend-row"><span class="badge-chip">エリア位置</span> 町域・地区の代表点で配置したレコード</div>
-            <div class="legend-row"><span class="badge-chip">見学できる蒸留所のみ</span>は上部チェックで絞り込み</div>
-          </div>
-        </div>
-      </details>
       <div class="summary" id="summary"></div>
       <div id="summary"></div>
       <div class="version-info" id="versionInfo">表示バージョン: v159 / data/distilleries.public.json</div>

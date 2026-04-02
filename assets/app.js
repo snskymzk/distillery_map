@@ -1,4 +1,4 @@
-const APP_VERSION = 'v175';
+const APP_VERSION = 'v176';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -92,18 +92,13 @@ function representativeProducts(item){
 }
 
 function popupHtml(item){
-  return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:278px;">
-    <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:8px;">
-      <div style="font-size:16px;font-weight:700;">${item.name}</div>
-      ${item.data_status === '保留' ? '<span class="popup-status">要確認</span>' : ''}
-    </div>
-    <div><b>種類</b></div><div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
+  const reps = representativeProducts(item);
+  const repLine = reps.length ? `<div><b>代表銘柄：</b>${reps.join(' / ')}</div>` : '';
+  return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:250px;">
+    <div style="font-size:16px;font-weight:700;margin-bottom:6px;">${item.name}</div>
+    <div class="multi-type-row" style="margin-bottom:6px;">${renderTypeChips(item.types||[])}</div>
     <div><b>所在地：</b>${item.location||'未設定'}</div>
-    ${item.coordinate_status && item.coordinate_status !== 'exact' ? `<div><b>位置情報：</b>${item.coordinate_status === 'approx' ? '暫定' : 'エリア位置'}</div>` : ''}
-    <div><b>見学：</b>${normalizeVisitLabel(item.visit_label)}</div>
-    ${(representativeProducts(item).length)?`<div><b>代表銘柄：</b>${representativeProducts(item).join(' / ')}</div>`:''}
-    ${item.note?`<div><b>特徴：</b>${item.note}</div>`:''}
-    <div class="popup-subline"><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
+    ${repLine}
     <div class="action-row">${actionLinks(item)}</div>
   </div>`;
 }
@@ -209,22 +204,19 @@ function renderList(items){
   const list=document.getElementById('list');
   cardMap.clear();
   if(!items.length){ list.innerHTML='<div class="empty">条件に合う蒸溜所が見つかりませんでした。</div>'; return; }
-  list.innerHTML=items.map(item=>`<article class="card" data-name="${item.name}">
-    <div class="card-head">
-      <h3>${item.name}</h3>
-      <div class="card-head-badges">${statusBadge(item)}${coordinateBadge(item)}</div>
-    </div>
-    <div class="meta">
-      <span class="badge ${item.visitable?'visit-yes':'visit-no'}">${normalizeVisitLabel(item.visit_label)}</span>
-      ${item.record_status==='preparing_or_unclear' ? `<span class="badge prep-badge">準備中・詳細不明</span>` : ''}
-    </div>
-    <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
-    <div class="location"><b>所在地：</b>${item.location||'未設定'}</div>
-    ${(representativeProducts(item).length)?`<div class="brands"><b>代表銘柄：</b>${representativeProducts(item).join(' / ')}</div>`:''}
-    ${item.note?`<div class="note"><b>特徴：</b>${item.note}</div>`:''}
-    <div class="updated-note"><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
-    <div class="action-row">${actionLinks(item)}</div>
-  </article>`).join('');
+  list.innerHTML=items.map(item=>{
+    const reps = representativeProducts(item);
+    const repText = reps.length ? `${reps[0]}${reps.length>1?` ほか${reps.length-1}件`:''}` : '';
+    return `<article class="card" data-name="${item.name}">
+      <div class="card-head">
+        <h3>${item.name}</h3>
+      </div>
+      <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
+      <div class="location">${item.location||'所在地未設定'}</div>
+      ${repText?`<div class="brands"><b>代表銘柄：</b>${repText}</div>`:''}
+      <div class="action-row">${actionLinks(item)}</div>
+    </article>`;
+  }).join('');
   list.querySelectorAll('.card').forEach(card=>{
     const name=card.getAttribute('data-name');
     cardMap.set(name, card);
@@ -282,58 +274,29 @@ function setActiveName(name){
 }
 function bindUI(){
   const input=document.getElementById('searchInput');
-  const suggestionBox=document.getElementById('suggestions');
-  input.addEventListener('input',e=>{ state.search=e.target.value; rerender(); });
-  input.addEventListener('focus',()=>renderSuggestions(suggestionItems(state.search)));
-  input.addEventListener('keydown',e=>{
-    if(!suggestionCache.length) return;
-    if(e.key==='ArrowDown'){ e.preventDefault(); activeSuggestionIndex=Math.min(activeSuggestionIndex+1, suggestionCache.length-1); updateSuggestionActive(); }
-    else if(e.key==='ArrowUp'){ e.preventDefault(); activeSuggestionIndex=Math.max(activeSuggestionIndex-1, 0); updateSuggestionActive(); }
-    else if(e.key==='Enter' && activeSuggestionIndex>=0){ e.preventDefault(); chooseSuggestion(suggestionCache[activeSuggestionIndex].name); }
-    else if(e.key==='Escape'){ renderSuggestions([]); }
-  });
-  document.addEventListener('click',e=>{ if(!document.getElementById('searchWrap').contains(e.target)) renderSuggestions([]); });
+  const searchWrap=document.getElementById('searchWrap');
+  if(input){
+    input.addEventListener('input',e=>{ state.search=e.target.value; rerender(); });
+    input.addEventListener('focus',()=>renderSuggestions(suggestionItems(state.search)));
+    input.addEventListener('keydown',e=>{
+      if(!suggestionCache.length) return;
+      if(e.key==='ArrowDown'){ e.preventDefault(); activeSuggestionIndex=Math.min(activeSuggestionIndex+1, suggestionCache.length-1); updateSuggestionActive(); }
+      else if(e.key==='ArrowUp'){ e.preventDefault(); activeSuggestionIndex=Math.max(activeSuggestionIndex-1, 0); updateSuggestionActive(); }
+      else if(e.key==='Enter' && activeSuggestionIndex>=0){ e.preventDefault(); chooseSuggestion(suggestionCache[activeSuggestionIndex].name); }
+      else if(e.key==='Escape'){ renderSuggestions([]); }
+    });
+  }
+  document.addEventListener('click',e=>{ if(searchWrap && !searchWrap.contains(e.target)) renderSuggestions([]); });
 
-  document.getElementById('visitableOnly').addEventListener('change',e=>{ state.visitableOnly=e.target.checked; rerender(); });
-  document.getElementById('preparingMode').addEventListener('change',e=>{ state.preparingMode=e.target.checked?'show':'hide'; rerender(); });
-  document.getElementById('sortSelect').addEventListener('change',e=>{ state.sort=e.target.value; rerender(); });
-  document.getElementById('regionSelect').addEventListener('change',e=>{ state.region=e.target.value; rerender(); });
+  const visitable = document.getElementById('visitableOnly');
+  if(visitable){
+    visitable.addEventListener('change',e=>{ state.visitableOnly=e.target.checked; rerender(); });
+  }
   document.querySelectorAll('.quick-pill').forEach(btn=>btn.addEventListener('click',()=>applyQuickPreset(btn.dataset.preset)));
-
-  const headerCard=document.getElementById('headerCard');
-  const headerToggle=document.getElementById('headerToggle');
-  headerToggle.addEventListener('click',()=>{
-    const expanded=headerCard.classList.toggle('expanded');
-    headerToggle.setAttribute('aria-expanded',expanded?'true':'false');
-    headerToggle.textContent=expanded?'補足を閉じる':'補足を表示';
-  });
-
-  const panel=document.getElementById('sidePanel');
-  const mobileFilterToggle=document.getElementById('mobileFilterToggle');
-  const filterBox=document.getElementById('filterBox');
-  mobileFilterToggle.addEventListener('click',()=>{
-    panel.classList.toggle('filter-open');
-    const isOpen = panel.classList.contains('filter-open');
-    if(window.innerWidth < 960){
-      filterBox.open = isOpen;
-    }
-    mobileFilterToggle.textContent=isOpen?'絞り込みを閉じる':'絞り込みを開く';
-  });
-
-  map.on('click',()=>{ if(window.innerWidth < 960){ panel.scrollIntoView({behavior:'smooth', block:'start'}); }});
 }
 fetch(DISTILLERIES_URL)
   .then(r=>{ if(!r.ok) throw new Error(`distilleries.json: ${r.status}`); return r.json(); })
   .then(items=>{ distilleries=items; bindUI(); applyQuickPreset('all'); })
   .catch(err=>{ document.getElementById('list').innerHTML=`<div class="empty">データの読み込みに失敗しました。<br>${err.message}</div>`; console.error(err); });
 
-window.addEventListener('resize', ()=>{
-  const panel=document.getElementById('sidePanel');
-  const mobileFilterToggle=document.getElementById('mobileFilterToggle');
-  const filterBox=document.getElementById('filterBox');
-  if(window.innerWidth >= 960){
-    panel.classList.remove('filter-open');
-    filterBox.open = false;
-    mobileFilterToggle.textContent='絞り込みを開く';
-  }
-});
+
