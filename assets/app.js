@@ -1,4 +1,4 @@
-const APP_VERSION = 'v181';
+const APP_VERSION = 'v182';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -122,7 +122,7 @@ function buildMarkers(items){
     marker.on('mouseover',()=>setHoveredName(item.name,true));
     marker.on('mouseout',()=>setHoveredName(item.name,false));
     marker.on('click',()=>setActiveName(item.name));
-    marker.bindPopup(popupHtml(item), {maxWidth:320, autoPan:true, autoPanPaddingTopLeft:[16,72], autoPanPaddingBottomRight:[16,24], keepInView:true, closeButton:true});
+    marker.bindPopup(popupHtml(item), {maxWidth:320, autoPan:true, autoPanPaddingTopLeft:[16,68], autoPanPaddingBottomRight:[16,48], keepInView:true, closeButton:true});
     marker.bindTooltip(item.name,{direction:'top'});
     cluster.addLayer(marker);
     markerMap.set(item.name, marker);
@@ -133,10 +133,10 @@ function matchesPreparing(item){ return state.preparingMode==='show' || item.rec
 function matchesJwic(item){ return true; }
 function sortItems(items){
   const arr=[...items];
-  if(state.sort==='region') return arr.sort((a,b)=>((a.region||'')+(a.location||'')).localeCompare((b.region||'')+(b.location||''),'ja'));
-  if(state.sort==='status') return arr.sort((a,b)=>(a.record_status||'').localeCompare(b.record_status||'','ja'));
-  if(state.sort==='visit') return arr.sort((a,b)=>(a.visit_label||'').localeCompare(b.visit_label||'','ja'));
-  return arr.sort((a,b)=>a.name.localeCompare(b.name,'ja'));
+  if(state.sort==='region'){
+    return arr.sort((a,b)=>((a.region||'')+' '+(a.name||'')).localeCompare((b.region||'')+' '+(b.name||''),'ja'));
+  }
+  return arr.sort((a,b)=>(a.name||'').localeCompare((b.name||''),'ja'));
 }
 function filteredItems(){
   const q=state.search.trim().toLowerCase();
@@ -200,27 +200,20 @@ function focusItemByName(name, smoothScroll){
   const targetZoom = Math.max(map.getZoom(), 9);
 
   if(window.innerWidth <= 960){
-    const mapWrap = document.querySelector('.map-wrap');
-    if(mapWrap){
-      mapWrap.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'start'});
-    }
-    const offsetLat = lat - 0.045;
+    const offsetLat = lat - 0.03;
+    map.setView([offsetLat, lng], targetZoom, {animate:true});
     setTimeout(()=>{
-      map.setView([offsetLat, lng], targetZoom, {animate:true});
-      setTimeout(()=>{
-        marker.openPopup();
-        setActiveName(name);
-      }, 220);
-    }, smoothScroll ? 180 : 0);
+      marker.openPopup();
+      setActiveName(name);
+    }, 220);
   }else{
     map.setView([lat, lng], targetZoom, {animate:true});
     marker.openPopup();
     setActiveName(name);
-  }
-
-  const card=cardMap.get(name);
-  if(card && window.innerWidth > 960){
-    card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'});
+    const card=cardMap.get(name);
+    if(card){
+      card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'});
+    }
   }
 }
 function renderList(items){
@@ -317,6 +310,11 @@ function bindUI(){
   const visitable = document.getElementById('visitableOnly');
   if(visitable){
     visitable.addEventListener('change',e=>{ state.visitableOnly=e.target.checked; rerender(); });
+  }
+  const sortSelect = document.getElementById('sortSelect');
+  if(sortSelect){
+    sortSelect.value = state.sort || 'name';
+    sortSelect.addEventListener('change', e => { state.sort = e.target.value; rerender(); });
   }
   document.querySelectorAll('.quick-pill').forEach(btn=>btn.addEventListener('click',()=>applyQuickPreset(btn.dataset.preset)));
   const resetViewBtn = document.getElementById('resetViewBtn');
