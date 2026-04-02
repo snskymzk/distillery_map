@@ -22,13 +22,14 @@
   <aside class="panel simple-panel" id="sidePanel">
     <div class="panel-header-simple"><span>蒸留所一覧</span></div>
     <div class="panel-top simple-panel-top">
-      <div class="quick-filters simple-quick-filters">
+      <div class="controls-compact">
+        <div class="quick-filters simple-quick-filters">
         <button class="quick-pill active" data-preset="all">すべて</button>
         <button class="quick-pill" data-preset="whisky">ウイスキー</button>
         <button class="quick-pill" data-preset="gin">ジン</button>
         <button class="quick-pill" data-preset="other_spirits">その他</button>
       </div>
-      <div class="primary-row simple-primary-row">
+        <div class="primary-row simple-primary-row">
         <div class="search-wrap" id="searchWrap">
           <input id="searchInput" class="search" type="search" placeholder="蒸留所名・所在地・代表銘柄で検索">
           <div id="suggestions" class="suggestions"></div>
@@ -42,6 +43,7 @@
             </select>
           </label>
         </div>
+      </div>
       </div>
       <div id="summary"></div>
       <div class="version-info" id="versionInfo">表示バージョン: v159 / data/distilleries.public.json</div>

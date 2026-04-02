@@ -1,4 +1,4 @@
-const APP_VERSION = 'v182';
+const APP_VERSION = 'v183';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -132,15 +132,15 @@ function matchesTypes(item){ const types=item.types||[]; return types.length>0 &
 function matchesPreparing(item){ return state.preparingMode==='show' || item.record_status!=='preparing_or_unclear'; }
 function matchesJwic(item){ return true; }
 function sortItems(items){
-  const arr=[...items];
-  if(state.sort==='region'){
-    return arr.sort((a,b)=>((a.region||'')+' '+(a.name||'')).localeCompare((b.region||'')+' '+(b.name||''),'ja'));
+  const arr = [...items];
+  if ((state.sort || 'name') === 'region') {
+    return arr.sort((a,b)=>((a.region||'') + ' ' + (a.name||'')).localeCompare((b.region||'') + ' ' + (b.name||''), 'ja'));
   }
-  return arr.sort((a,b)=>(a.name||'').localeCompare((b.name||''),'ja'));
+  return arr.sort((a,b)=>(a.name||'').localeCompare((b.name||''), 'ja'));
 }
 function filteredItems(){
   const q=state.search.trim().toLowerCase();
-  return sortItems(distilleries.filter(item=>{
+  const filtered = distilleries.filter(item=>{
     if(!matchesTypes(item)) return false;
     if(!matchesPreparing(item)) return false;
     if(!matchesJwic(item)) return false;
@@ -149,7 +149,8 @@ function filteredItems(){
     if(!q) return true;
     const hay=[item.name,item.location||'',item.region||'',typesLabel(item),item.note||'',item.source_label||'',...representativeProducts(item)].join(' ').toLowerCase();
     return hay.includes(q);
-  }));
+  });
+  return sortItems(filtered);
 }
 function suggestionItems(query){
   const q=query.trim().toLowerCase();
@@ -309,12 +310,16 @@ function bindUI(){
 
   const visitable = document.getElementById('visitableOnly');
   if(visitable){
+    visitable.checked = !!state.visitableOnly;
     visitable.addEventListener('change',e=>{ state.visitableOnly=e.target.checked; rerender(); });
   }
   const sortSelect = document.getElementById('sortSelect');
   if(sortSelect){
     sortSelect.value = state.sort || 'name';
-    sortSelect.addEventListener('change', e => { state.sort = e.target.value; rerender(); });
+    sortSelect.addEventListener('change', e => {
+      state.sort = e.target.value;
+      rerender();
+    });
   }
   document.querySelectorAll('.quick-pill').forEach(btn=>btn.addEventListener('click',()=>applyQuickPreset(btn.dataset.preset)));
   const resetViewBtn = document.getElementById('resetViewBtn');

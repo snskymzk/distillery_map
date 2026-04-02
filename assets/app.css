@@ -791,3 +791,146 @@ body{
     flex-wrap:wrap;
   }
 }
+
+
+/* v183 compact controls + mobile scroll */
+.simple-panel-top{
+  padding:8px 10px;
+}
+.controls-compact{
+  display:grid;
+  gap:8px;
+}
+.simple-quick-filters{
+  display:flex;
+  flex-wrap:wrap;
+  gap:4px;
+  margin-bottom:0;
+}
+.quick-pill{
+  padding:6px 9px;
+  font-size:11px;
+  border-radius:999px;
+}
+.simple-primary-row{
+  display:grid;
+  gap:6px;
+}
+.search{
+  padding:8px 10px;
+  font-size:13px;
+}
+.simple-compact-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+  flex-wrap:wrap;
+}
+.simple-compact-row .checkbox{
+  width:auto;
+  margin:0;
+  font-size:12px;
+}
+.sort-inline{
+  margin-left:auto;
+  display:flex;
+  align-items:center;
+  gap:6px;
+  font-size:12px;
+  white-space:nowrap;
+}
+.sort-select-inline{
+  padding:6px 9px;
+  font-size:12px;
+  min-width:88px;
+}
+.panel-header-simple{
+  padding:8px 10px;
+}
+#list{
+  padding:8px 10px 12px;
+}
+.card{
+  padding:10px;
+}
+.card + .card{
+  margin-top:6px;
+}
+@media (max-width: 960px){
+  html, body{
+    height:100%;
+    overflow:hidden;
+  }
+  .app{
+    height:100vh;
+    min-height:100vh;
+    overflow:hidden;
+    grid-template-columns:1fr;
+    grid-template-rows:auto 44vh minmax(0,1fr);
+    gap:0;
+  }
+  .map-wrap{
+    height:44vh !important;
+    min-height:0 !important;
+    overflow:hidden !important;
+  }
+  #map{
+    height:44vh !important;
+    min-height:0 !important;
+  }
+  .panel{
+    height:auto !important;
+    min-height:0 !important;
+    max-height:none !important;
+    overflow:hidden !important;
+  }
+  .simple-panel{
+    min-height:0;
+    height:100%;
+  }
+  .simple-panel-top{
+    flex:0 0 auto;
+    padding:8px 10px;
+  }
+  #list{
+    flex:1 1 auto;
+    min-height:0;
+    max-height:none !important;
+    overflow-y:auto !important;
+    overflow-x:hidden !important;
+    -webkit-overflow-scrolling:touch;
+    overscroll-behavior:contain;
+    padding:8px 10px 18px;
+  }
+  .simple-compact-row{
+    align-items:flex-start;
+    justify-content:flex-start;
+  }
+  .sort-inline{
+    margin-left:0;
+  }
+}
+@media (max-width: 560px){
+  .controls-compact{
+    gap:7px;
+  }
+  .quick-pill{
+    padding:6px 8px;
+    font-size:10.5px;
+  }
+  .search{
+    font-size:16px;
+  }
+  .simple-compact-row{
+    gap:6px 10px;
+  }
+  .simple-compact-row .checkbox,
+  .sort-inline{
+    font-size:11px;
+  }
+  .sort-select-inline{
+    font-size:11px;
+    min-width:84px;
+  }
+}
