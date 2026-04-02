@@ -1,4 +1,4 @@
-const APP_VERSION = 'v180';
+const APP_VERSION = 'v181';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -122,7 +122,7 @@ function buildMarkers(items){
     marker.on('mouseover',()=>setHoveredName(item.name,true));
     marker.on('mouseout',()=>setHoveredName(item.name,false));
     marker.on('click',()=>setActiveName(item.name));
-    marker.bindPopup(popupHtml(item), {maxWidth:320, autoPan:true, autoPanPadding:[24,24]});
+    marker.bindPopup(popupHtml(item), {maxWidth:320, autoPan:true, autoPanPaddingTopLeft:[16,72], autoPanPaddingBottomRight:[16,24], keepInView:true, closeButton:true});
     marker.bindTooltip(item.name,{direction:'top'});
     cluster.addLayer(marker);
     markerMap.set(item.name, marker);
@@ -193,23 +193,31 @@ function chooseSuggestion(name){
 function focusItemByName(name, smoothScroll){
   const item=filteredCache.find(x=>x.name===name) || distilleries.find(x=>x.name===name);
   const marker=markerMap.get(name);
-  if(item && marker){
-    if(window.innerWidth <= 960){
-      const mapWrap = document.querySelector('.map-wrap');
-      if(mapWrap){
-        mapWrap.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'start'});
-      }
+  if(!(item && marker)) return;
+
+  const lat = Number(item.lat);
+  const lng = Number(item.lng);
+  const targetZoom = Math.max(map.getZoom(), 9);
+
+  if(window.innerWidth <= 960){
+    const mapWrap = document.querySelector('.map-wrap');
+    if(mapWrap){
+      mapWrap.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'start'});
+    }
+    const offsetLat = lat - 0.045;
+    setTimeout(()=>{
+      map.setView([offsetLat, lng], targetZoom, {animate:true});
       setTimeout(()=>{
-        map.setView([Number(item.lat), Number(item.lng)], Math.max(map.getZoom(),9), {animate:true});
         marker.openPopup();
         setActiveName(name);
-      }, smoothScroll ? 220 : 0);
-    }else{
-      map.setView([Number(item.lat), Number(item.lng)], Math.max(map.getZoom(),9), {animate:true});
-      marker.openPopup();
-      setActiveName(name);
-    }
+      }, 220);
+    }, smoothScroll ? 180 : 0);
+  }else{
+    map.setView([lat, lng], targetZoom, {animate:true});
+    marker.openPopup();
+    setActiveName(name);
   }
+
   const card=cardMap.get(name);
   if(card && window.innerWidth > 960){
     card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'});
@@ -326,8 +334,4 @@ fetch(DISTILLERIES_URL)
 
 
 
-map.on('popupopen', () => {
-  if (window.innerWidth <= 960) {
-    setTimeout(() => { map.panBy([0, 70], { animate:true }); }, 30);
-  }
-});
+

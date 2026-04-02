@@ -649,3 +649,36 @@ body{
     max-height:180px;
   }
 }
+
+
+/* v181 mobile popup fixes */
+.leaflet-popup-content-wrapper{
+  overflow: hidden;
+}
+.leaflet-popup-content{
+  overflow:auto;
+}
+@media (max-width: 960px){
+  .leaflet-popup{
+    margin-bottom: 12px;
+  }
+  .leaflet-popup-content-wrapper{
+    max-width:min(268px, calc(100vw - 20px)) !important;
+    border-radius:14px;
+  }
+  .leaflet-popup-content{
+    margin:10px 12px !important;
+    max-height:150px !important;
+    overflow:auto !important;
+    padding-bottom:2px;
+  }
+  .leaflet-popup-tip-container{
+    margin-top:-1px;
+  }
+  .leaflet-container a.leaflet-popup-close-button{
+    padding:8px 10px 0 0;
+  }
+  .action-row{
+    padding-bottom:2px;
+  }
+}
