@@ -1,4 +1,4 @@
-const APP_VERSION = 'v186';
+const APP_VERSION = 'v188';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -74,6 +74,10 @@ const state={search:'',region:'all',visitableOnly:false,preparingMode:'hide',jwi
 
 function typesLabel(item){ return item.types_label || (item.types||[]).map(t=> (TYPE_META[t] ? TYPE_META[t].label : t)).join(' / '); }
 function normalizedRegion(item){
+  const precomputed = String(item._sort_region || '').trim();
+  if (precomputed && Object.prototype.hasOwnProperty.call(REGION_ORDER, precomputed)) {
+    return precomputed;
+  }
   const pref = extractPrefecture(item);
   if (pref !== '所在地未設定' && Object.prototype.hasOwnProperty.call(PREF_TO_REGION, pref)) {
     return PREF_TO_REGION[pref];
@@ -84,6 +88,8 @@ function normalizedRegion(item){
 }
 
 function extractPrefecture(item){
+  const precomputed = String(item._sort_prefecture || '').trim();
+  if (precomputed) return precomputed;
   const loc = String(item.location || '').trim();
   if(!loc) return '所在地未設定';
   if(loc.startsWith('北海道')) return '北海道';
@@ -115,6 +121,12 @@ function normalizeVisitLabel(label){
   if (!raw) return '見学未確認';
   if (raw === '見学情報未確認' || raw === '未確認') return '見学未確認';
   return raw;
+}
+function visitableBadgeHtml(item){
+  if(!item.visitable) return '';
+  const label = normalizeVisitLabel(item.visit_label);
+  const text = label && label !== '見学未確認' ? `見学可 / ${label}` : '見学可';
+  return `<span class="visit-badge-strong">${text}</span>`;
 }
 function statusBadge(item){
   return item.data_status === '保留' ? '<span class="badge hold-badge">要確認</span>' : '';
@@ -165,7 +177,7 @@ function buildMarkers(items){
     marker.options.preparing = preparing;
     marker.on('mouseover',()=>setHoveredName(item.name,true));
     marker.on('mouseout',()=>setHoveredName(item.name,false));
-    marker.on('click',()=>setActiveName(item.name));
+    marker.on('click',()=>{ setActiveName(item.name); pulseMarkerName(item.name); });
     marker.bindPopup(popupHtml(item), {maxWidth:320, autoPan:true, autoPanPaddingTopLeft:[16,68], autoPanPaddingBottomRight:[16,48], keepInView:true, closeButton:true});
     marker.bindTooltip(item.name,{direction:'top'});
     cluster.addLayer(marker);
@@ -264,11 +276,13 @@ function focusItemByName(name, smoothScroll){
     setTimeout(()=>{
       marker.openPopup();
       setActiveName(name);
+      pulseMarkerName(name);
     }, 220);
   }else{
     map.setView([lat, lng], targetZoom, {animate:true});
     marker.openPopup();
     setActiveName(name);
+    pulseMarkerName(name);
     const card=cardMap.get(name);
     if(card){
       card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'});
@@ -284,7 +298,11 @@ function renderList(items){
     const repText = reps.length ? `${reps[0]}${reps.length>1?` ほか${reps.length-1}件`:''}` : '';
     return `<article class="card" data-name="${item.name}">
       <div class="card-head">
-        <h3>${item.name}</h3>
+        <div class="card-title-wrap">
+          <h3>${item.name}</h3>
+          <div class="card-subline"><span class="list-focus-note">地図で位置を表示</span></div>
+        </div>
+        ${visitableBadgeHtml(item)}
       </div>
       <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
       <div class="location">${item.location||'所在地未設定'}</div>
@@ -334,21 +352,58 @@ function applyQuickPreset(key){
   document.querySelectorAll('.quick-pill').forEach(btn=>btn.classList.toggle('active', btn.dataset.preset===key));
   rerender();
 }
+function pulseMarkerName(name){
+  const marker = markerMap.get(name);
+  if(marker && marker._icon){
+    const shell = marker._icon.querySelector('.marker-shell');
+    if(shell){
+      shell.classList.remove('flash');
+      void shell.offsetWidth;
+      shell.classList.add('flash');
+      setTimeout(()=>shell.classList.remove('flash'), 900);
+    }
+  }
+  const card = cardMap.get(name);
+  if(card){
+    card.classList.remove('flash-card');
+    void card.offsetWidth;
+    card.classList.add('flash-card');
+    setTimeout(()=>card.classList.remove('flash-card'), 700);
+  }
+}
+
 function setHoveredName(name, hovered){
   const marker=markerMap.get(name);
-  if(marker && marker._icon){ const shell = marker._icon.querySelector('.marker-shell'); if(shell){ shell.classList.toggle('hovered', hovered); } }
+  if(marker && marker._icon){
+    const shell = marker._icon.querySelector('.marker-shell');
+    if(shell){ shell.classList.toggle('hovered', hovered); }
+  }
   const card=cardMap.get(name);
   if(card){ card.classList.toggle('hover-card', hovered); }
 }
 function setActiveName(name){
   if(currentActiveName && currentActiveName!==name){
     const oldMarker=markerMap.get(currentActiveName);
-    if(oldMarker && oldMarker._icon){ const oldShell = oldMarker._icon.querySelector('.marker-shell'); if(oldShell){ oldShell.classList.remove('active'); } }
-    const oldCard = cardMap.get(currentActiveName); if(oldCard){ oldCard.classList.remove('active-card'); }
+    if(oldMarker && oldMarker._icon){
+      const oldShell = oldMarker._icon.querySelector('.marker-shell');
+      if(oldShell){ oldShell.classList.remove('active'); }
+    }
+    const oldCard = cardMap.get(currentActiveName);
+    if(oldCard){ oldCard.classList.remove('active-card'); }
   }
   currentActiveName=name;
-  const newMarker = markerMap.get(name); if(newMarker && newMarker._icon){ const newShell = newMarker._icon.querySelector('.marker-shell'); if(newShell){ newShell.classList.add('active'); } }
-  const newCard = cardMap.get(name); if(newCard){ newCard.classList.add('active-card'); }
+  const newMarker = markerMap.get(name);
+  if(newMarker && newMarker._icon){
+    const newShell = newMarker._icon.querySelector('.marker-shell');
+    if(newShell){ newShell.classList.add('active'); }
+  }
+  const newCard = cardMap.get(name);
+  if(newCard){
+    newCard.classList.add('active-card');
+    if(window.innerWidth > 960){
+      newCard.scrollIntoView({behavior:'smooth', block:'nearest'});
+    }
+  }
 }
 function bindUI(){
   const input=document.getElementById('searchInput');

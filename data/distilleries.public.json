@@ -20,7 +20,9 @@
     "name": "サントリー山崎蒸溜所",
     "lat": 34.892633,
     "region": "近畿",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "大阪府",
+    "_sort_region": "近畿"
   },
   {
     "location": "山梨県北杜市白州町鳥原2913-1",
@@ -43,7 +45,9 @@
     "name": "サントリー白州蒸溜所",
     "lat": 35.8273304,
     "region": "中部",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "山梨県",
+    "_sort_region": "関東"
   },
   {
     "location": "北海道余市郡余市町黒川町7-6",
@@ -65,7 +69,9 @@
     "name": "ニッカウヰスキー余市蒸溜所",
     "lat": 43.1871411,
     "region": "北海道",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "宮城県仙台市青葉区ニッカ1",
@@ -88,7 +94,9 @@
     "name": "ニッカウヰスキー宮城峡蒸溜所",
     "lat": 38.3097561,
     "region": "東北",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "宮城県",
+    "_sort_region": "東北"
   },
   {
     "location": "福島県郡山市笹川1-178",
@@ -111,7 +119,9 @@
     "name": "安積蒸溜所",
     "lat": 37.361894,
     "region": "東北",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "福島県",
+    "_sort_region": "東北"
   },
   {
     "location": "山形県飽海郡遊佐町吉出金俣239-5",
@@ -134,7 +144,9 @@
     "name": "游佐蒸溜所",
     "lat": 39.0397102,
     "region": "東北",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "山形県",
+    "_sort_region": "東北"
   },
   {
     "location": "静岡県御殿場市柴怒田970",
@@ -157,7 +169,9 @@
     "name": "キリンディスティラリー富士御殿場蒸溜所",
     "lat": 35.3368016,
     "region": "中部",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "静岡県",
+    "_sort_region": "東海"
   },
   {
     "location": "長野県上伊那郡宮田村4752-31",
@@ -180,7 +194,9 @@
     "name": "マルス駒ヶ岳蒸溜所",
     "lat": 35.7477025,
     "region": "中部",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "長野県",
+    "_sort_region": "関東"
   },
   {
     "location": "埼玉県秩父市みどりが丘49",
@@ -199,7 +215,9 @@
     "name": "秩父蒸溜所",
     "lat": 36.0463212,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "埼玉県",
+    "_sort_region": "関東"
   },
   {
     "location": "北海道厚岸郡厚岸町宮園4丁目109-2",
@@ -222,7 +240,9 @@
     "name": "厚岸蒸溜所",
     "lat": 43.0758438,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "静岡県静岡市葵区落合555",
@@ -245,7 +265,9 @@
     "name": "ガイアフロー静岡蒸溜所",
     "lat": 35.1205434,
     "region": "中部",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "静岡県",
+    "_sort_region": "東海"
   },
   {
     "location": "富山県砺波市三郎丸208",
@@ -268,7 +290,9 @@
     "name": "三郎丸蒸留所",
     "lat": 36.6557566,
     "region": "中部",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "富山県",
+    "_sort_region": "北陸"
   },
   {
     "location": "滋賀県長浜市朝日町14-1",
@@ -291,7 +315,9 @@
     "name": "長濱蒸溜所",
     "lat": 35.3769171,
     "region": "近畿",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "滋賀県",
+    "_sort_region": "近畿"
   },
   {
     "location": "兵庫県明石市大久保町西島919",
@@ -314,7 +340,9 @@
     "name": "江井ヶ嶋酒造 ホワイトオーク蒸留所",
     "lat": 34.681402,
     "region": "近畿",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "兵庫県",
+    "_sort_region": "近畿"
   },
   {
     "location": "鹿児島県日置市日吉町神之川845-3",
@@ -337,7 +365,9 @@
     "name": "嘉之助蒸溜所",
     "lat": 31.6029601,
     "region": "その他",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "鹿児島県南さつま市加世田津貫6594",
@@ -361,7 +391,9 @@
     "name": "マルス津貫蒸溜所",
     "lat": 31.3586519,
     "region": "その他",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "福岡県朝倉市比良松626番地1",
@@ -384,7 +416,9 @@
     "name": "SHINDO DISTILLERY",
     "lat": 33.3816179,
     "region": "九州",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "福岡県",
+    "_sort_region": "九州"
   },
   {
     "location": "長野県小諸市甲4630-1",
@@ -406,7 +440,9 @@
     "name": "小諸蒸留所",
     "lat": 36.345318,
     "region": "中部",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "長野県",
+    "_sort_region": "関東"
   },
   {
     "location": "広島県呉市本通7-9-10",
@@ -430,7 +466,9 @@
     "name": "SETOUCHI DISTILLERY",
     "lat": 34.2511434,
     "region": "中国",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "広島県",
+    "_sort_region": "中国"
   },
   {
     "location": "宮崎県児湯郡木城町石河内字倉谷656番17",
@@ -454,7 +492,9 @@
     "name": "尾鈴山蒸留所",
     "lat": 32.220003,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "宮崎県",
+    "_sort_region": "九州"
   },
   {
     "location": "大分県竹田市久住町白丹7571-23",
@@ -477,7 +517,9 @@
     "name": "久住蒸溜所",
     "lat": 33.0354948,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "大分県",
+    "_sort_region": "九州"
   },
   {
     "location": "広島県廿日市市桜尾1丁目12番1号",
@@ -501,7 +543,9 @@
     "name": "SAKURAO DISTILLERY",
     "lat": 34.3548896,
     "region": "中国",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "広島県",
+    "_sort_region": "中国"
   },
   {
     "location": "北海道虻田郡ニセコ町ニセコ478-15",
@@ -525,7 +569,9 @@
     "name": "ニセコ蒸溜所",
     "lat": 42.8483906,
     "region": "北海道",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "鹿児島県日置市日吉町日置3309",
@@ -548,7 +594,9 @@
     "name": "日置蒸溜蔵",
     "lat": 31.5963152,
     "region": "その他",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "東京都台東区蔵前3-9-3",
@@ -571,7 +619,9 @@
     "name": "東京リバーサイド蒸溜所",
     "lat": 35.704718,
     "region": "関東",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "東京都",
+    "_sort_region": "関東"
   },
   {
     "location": "大阪府大阪市東成区東小橋1-16-24",
@@ -593,7 +643,9 @@
     "name": "三國蒸溜所",
     "lat": 34.6713653,
     "region": "近畿",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "大阪府",
+    "_sort_region": "近畿"
   },
   {
     "location": "北海道上川郡東川町西2号北23",
@@ -617,7 +669,9 @@
     "name": "丹丘蒸留所",
     "lat": 43.6901541,
     "region": "北海道",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "東京都八王子市椚田町1213-5",
@@ -640,7 +694,9 @@
     "name": "東京八王子蒸溜所",
     "lat": 35.637118,
     "region": "関東",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "東京都",
+    "_sort_region": "関東"
   },
   {
     "location": "佐賀県小城市小城町903",
@@ -663,7 +719,9 @@
     "name": "小城蒸溜所",
     "lat": 33.2987763,
     "region": "九州",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "佐賀県",
+    "_sort_region": "九州"
   },
   {
     "location": "長野県下高井郡野沢温泉村豊郷9394",
@@ -687,7 +745,9 @@
     "name": "野沢温泉蒸留所",
     "lat": 36.9221537,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "長野県",
+    "_sort_region": "関東"
   },
   {
     "location": "静岡県沼津市大手町5-6-7周辺",
@@ -710,7 +770,9 @@
     "name": "沼津蒸留所",
     "lat": 35.0995289,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "静岡県",
+    "_sort_region": "東海"
   },
   {
     "location": "東京都江東区平野2-3-15",
@@ -733,7 +795,9 @@
     "name": "深川蒸留所",
     "lat": 35.6774339,
     "region": "関東",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "東京都",
+    "_sort_region": "関東"
   },
   {
     "location": "東京都港区虎ノ門3丁目18-19 UD神谷町ビル1F",
@@ -756,7 +820,9 @@
     "name": "虎ノ門蒸留所",
     "lat": 35.6631695,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "東京都",
+    "_sort_region": "関東"
   },
   {
     "location": "東京都大田区田園調布本町29-2 ウェル田園調布102",
@@ -779,7 +845,9 @@
     "name": "Blue Rabbit Distillery",
     "lat": 35.5828614,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "東京都",
+    "_sort_region": "関東"
   },
   {
     "location": "東京都大田区蒲田本町1-11-7",
@@ -802,7 +870,9 @@
     "name": "羽田ブルワリー",
     "lat": 35.5560244,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "東京都",
+    "_sort_region": "関東"
   },
   {
     "location": "北海道札幌市南区澄川389-6",
@@ -825,7 +895,9 @@
     "name": "紅櫻蒸溜所",
     "lat": 42.9901349,
     "region": "北海道",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "北海道積丹郡積丹町大字野塚町字ウエント229番地1",
@@ -848,7 +920,9 @@
     "name": "積丹スピリット",
     "lat": 43.3383812,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "京都府京丹後市弥栄町野中2562",
@@ -869,7 +943,9 @@
     "name": "京丹後舞輪源蒸留所",
     "lat": 35.6921553,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "京都府",
+    "_sort_region": "近畿"
   },
   {
     "location": "石川県金沢市大野町1丁目38-5",
@@ -892,7 +968,9 @@
     "name": "Alembic Distillery",
     "lat": 36.611652,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "石川県",
+    "_sort_region": "北陸"
   },
   {
     "location": "佐賀県佐賀市諸富町大字為重214-4",
@@ -915,7 +993,9 @@
     "name": "楠乃花蒸溜所",
     "lat": 33.2169572,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "佐賀県",
+    "_sort_region": "九州"
   },
   {
     "location": "長崎県五島市戸岐町1223-5",
@@ -938,7 +1018,9 @@
     "name": "五島つばき蒸溜所",
     "lat": 32.7760843,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "長崎県",
+    "_sort_region": "九州"
   },
   {
     "location": "北海道中川郡幕別町札内北町55-2",
@@ -961,7 +1043,9 @@
     "name": "十勝平野蒸溜所",
     "lat": 42.9279646,
     "region": "北海道",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "岐阜県郡上市八幡町旭1072-2",
@@ -980,7 +1064,9 @@
     "name": "辰巳蒸留所",
     "lat": 35.7500675,
     "region": "中部",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "岐阜県",
+    "_sort_region": "東海"
   },
   {
     "location": "神奈川県足柄上郡山北町中川822-1",
@@ -1002,7 +1088,9 @@
     "name": "丹沢蒸溜所",
     "lat": 35.4578951,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "神奈川県",
+    "_sort_region": "関東"
   },
   {
     "location": "神奈川県茅ヶ崎市香川7-10-7",
@@ -1026,7 +1114,9 @@
     "name": "湘南蒸留所",
     "lat": 35.3604328,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "神奈川県",
+    "_sort_region": "関東"
   },
   {
     "location": "北海道利尻郡利尻町沓形神居128-2",
@@ -1047,7 +1137,9 @@
     "name": "利尻蒸留所",
     "lat": 45.1642113,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "北海道夕張郡長沼町加賀団体",
@@ -1071,7 +1163,9 @@
     "name": "馬追蒸溜所",
     "lat": 42.9939527,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "北海道余市郡余市町沢町2丁目26番地",
@@ -1090,7 +1184,9 @@
     "name": "サワマチ蒸溜所",
     "lat": 43.2018499,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "北海道函館市元町31-20",
@@ -1111,7 +1207,9 @@
     "name": "ディ・トリッパー蒸留所",
     "lat": 41.7645881,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "岩手県二戸市福岡字上町13",
@@ -1135,7 +1233,9 @@
     "name": "南部美人 本社蔵",
     "lat": 40.2728723,
     "region": "東北",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "岩手県",
+    "_sort_region": "東北"
   },
   {
     "location": "山形県飽海郡遊佐町菅里字菅野37番14",
@@ -1158,7 +1258,9 @@
     "name": "月光川蒸留所",
     "lat": 39.0555506,
     "region": "東北",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "山形県",
+    "_sort_region": "東北"
   },
   {
     "location": "福島県相馬市玉野字町74番地",
@@ -1179,7 +1281,9 @@
     "name": "玉野アセンド蒸留所",
     "lat": 37.7695798,
     "region": "東北",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "福島県",
+    "_sort_region": "東北"
   },
   {
     "location": "福島県耶麻郡磐梯町大字更科字中曽根平6841-11",
@@ -1201,7 +1305,9 @@
     "name": "天鏡蒸溜所",
     "lat": 37.5759129,
     "region": "東北",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "福島県",
+    "_sort_region": "東北"
   },
   {
     "location": "茨城県水戸市元吉田町338番地",
@@ -1224,7 +1330,9 @@
     "name": "高藏蒸留所",
     "lat": 36.3580915,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "茨城県",
+    "_sort_region": "関東"
   },
   {
     "location": "茨城県石岡市須釜1300",
@@ -1248,7 +1356,9 @@
     "name": "八郷蒸溜所",
     "lat": 36.2208489,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "茨城県",
+    "_sort_region": "関東"
   },
   {
     "location": "栃木県小山市神鳥谷4丁目1番53号",
@@ -1270,7 +1380,9 @@
     "name": "Stork Valley Distillery",
     "lat": 36.2992485,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "栃木県",
+    "_sort_region": "関東"
   },
   {
     "location": "栃木県小山市大字粟宮1452",
@@ -1294,7 +1406,9 @@
     "name": "日光街道 小山蒸溜所",
     "lat": 36.2859882,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "栃木県",
+    "_sort_region": "関東"
   },
   {
     "location": "群馬県高崎市倉渕町権田2625-1",
@@ -1316,7 +1430,9 @@
     "name": "倉渕蒸留所",
     "lat": 36.4538039,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "群馬県",
+    "_sort_region": "関東"
   },
   {
     "location": "群馬県吾妻郡長野原町北軽井沢1991-127",
@@ -1339,7 +1455,9 @@
     "name": "北軽井沢蒸留所",
     "lat": 36.4706962,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "群馬県",
+    "_sort_region": "関東"
   },
   {
     "location": "埼玉県羽生市西4丁目1-11",
@@ -1362,7 +1480,9 @@
     "name": "羽生蒸溜所",
     "lat": 36.1717614,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "埼玉県",
+    "_sort_region": "関東"
   },
   {
     "location": "埼玉県鴻巣市小谷625",
@@ -1381,7 +1501,9 @@
     "name": "鴻巣蒸溜所",
     "lat": 36.0769147,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "埼玉県",
+    "_sort_region": "関東"
   },
   {
     "location": "埼玉県秩父市みどりが丘79",
@@ -1400,7 +1522,9 @@
     "name": "秩父第2蒸溜所",
     "lat": 36.0503394,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "埼玉県",
+    "_sort_region": "関東"
   },
   {
     "location": "千葉県夷隅郡大多喜町大多喜486",
@@ -1425,7 +1549,9 @@
     "name": "mitosaya薬草園蒸留所",
     "lat": 35.2842062,
     "region": "関東",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "千葉県",
+    "_sort_region": "関東"
   },
   {
     "location": "千葉県君津市青柳16-10",
@@ -1444,7 +1570,9 @@
     "name": "須藤本家",
     "lat": 35.3002611,
     "region": "関東",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "千葉県",
+    "_sort_region": "関東"
   },
   {
     "location": "新潟県村上市宿田344-1",
@@ -1465,7 +1593,9 @@
     "name": "吉田電材蒸留所",
     "lat": 38.152811,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "新潟県",
+    "_sort_region": "東北"
   },
   {
     "location": "新潟県新潟市江南区亀田工業団地1-3-5",
@@ -1489,7 +1619,9 @@
     "name": "新潟亀田蒸溜所",
     "lat": 37.8715506,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "新潟県",
+    "_sort_region": "東北"
   },
   {
     "location": "新潟県南魚沼市長森457-1",
@@ -1510,7 +1642,9 @@
     "name": "深沢原蒸溜所",
     "lat": 37.1060222,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "新潟県",
+    "_sort_region": "東北"
   },
   {
     "location": "石川県金沢市東町32",
@@ -1532,7 +1666,9 @@
     "name": "オリエンタル金沢蒸溜所",
     "lat": 36.4927087,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "石川県",
+    "_sort_region": "北陸"
   },
   {
     "location": "山梨県富士吉田市上吉田4918-1",
@@ -1551,7 +1687,9 @@
     "name": "富嶽蒸溜所",
     "lat": 35.4590423,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "山梨県",
+    "_sort_region": "関東"
   },
   {
     "location": "山梨県南都留郡富士河口湖町船津8",
@@ -1573,7 +1711,9 @@
     "name": "富士北麓蒸留所",
     "lat": 35.5022027,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "山梨県",
+    "_sort_region": "関東"
   },
   {
     "location": "山梨県北都留郡小菅村4341-1",
@@ -1597,7 +1737,9 @@
     "name": "Far Yeast 源流蒸溜所",
     "lat": 35.7594265,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "山梨県",
+    "_sort_region": "関東"
   },
   {
     "location": "長野県飯山市大字豊田5123-30",
@@ -1617,7 +1759,9 @@
     "name": "飯山マウンテンファーム蒸溜所",
     "lat": 36.9229752,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "長野県",
+    "_sort_region": "関東"
   },
   {
     "location": "長野県北佐久郡御代田町馬瀬口953-4",
@@ -1640,7 +1784,9 @@
     "name": "御代田蒸留所",
     "lat": 36.3282759,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "長野県",
+    "_sort_region": "関東"
   },
   {
     "location": "長野県北佐久郡軽井沢町発地2785-318",
@@ -1659,7 +1805,9 @@
     "name": "軽井沢ウイスキー蒸留所",
     "lat": 36.3184735,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "長野県",
+    "_sort_region": "関東"
   },
   {
     "location": "岐阜県高山市高根町下之向164-2",
@@ -1682,7 +1830,9 @@
     "name": "飛騨高山蒸溜所",
     "lat": 36.0296666,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "岐阜県",
+    "_sort_region": "東海"
   },
   {
     "location": "静岡県三島市大社町18-5",
@@ -1706,7 +1856,9 @@
     "name": "Distillery Water Dragon",
     "lat": 35.1197295,
     "region": "中部",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "静岡県",
+    "_sort_region": "東海"
   },
   {
     "location": "静岡県静岡市葵区田代字大春木1299-1",
@@ -1729,7 +1881,9 @@
     "name": "井川蒸溜所",
     "lat": 35.4560306,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "静岡県",
+    "_sort_region": "東海"
   },
   {
     "location": "愛知県清須市清洲1624",
@@ -1753,7 +1907,9 @@
     "name": "清洲桜醸造 本社工場",
     "lat": 35.2129304,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "愛知県",
+    "_sort_region": "東海"
   },
   {
     "location": "愛知県碧南市弥生町4丁目3番地",
@@ -1776,7 +1932,9 @@
     "name": "碧南蒸留所",
     "lat": 34.8693976,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "愛知県",
+    "_sort_region": "東海"
   },
   {
     "location": "三重県伊勢市小俣町明野576番地13",
@@ -1800,7 +1958,9 @@
     "name": "伊勢蒸留所",
     "lat": 34.5308071,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "三重県",
+    "_sort_region": "東海"
   },
   {
     "location": "滋賀県高島市新旭町旭83",
@@ -1821,7 +1981,9 @@
     "name": "琵琶湖蒸溜所",
     "lat": 35.3577086,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "滋賀県",
+    "_sort_region": "近畿"
   },
   {
     "location": "大阪府岸和田市土生町6-10-15",
@@ -1840,7 +2002,9 @@
     "name": "泉州蒸溜所",
     "lat": 34.4444232,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "大阪府",
+    "_sort_region": "近畿"
   },
   {
     "location": "兵庫県丹波市市島町中竹田1171",
@@ -1863,7 +2027,9 @@
     "name": "西山酒造場",
     "lat": 35.241233,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "兵庫県",
+    "_sort_region": "近畿"
   },
   {
     "location": "兵庫県丹波篠山市今田町本荘堂ヶ谷1-19",
@@ -1887,7 +2053,9 @@
     "name": "丹波蒸溜所",
     "lat": 35.000064,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "兵庫県",
+    "_sort_region": "近畿"
   },
   {
     "location": "兵庫県神戸市北区大沢町上大沢2150",
@@ -1912,7 +2080,9 @@
     "name": "神戸蒸溜所",
     "lat": 34.8500593,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "兵庫県",
+    "_sort_region": "近畿"
   },
   {
     "location": "兵庫県神戸市灘区六甲山町南六甲1034-229",
@@ -1935,7 +2105,9 @@
     "name": "六甲山蒸溜所",
     "lat": 34.7572946,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "兵庫県",
+    "_sort_region": "近畿"
   },
   {
     "location": "兵庫県明石市大蔵八幡町1-3",
@@ -1959,7 +2131,9 @@
     "name": "海峡蒸溜所",
     "lat": 34.6446776,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "兵庫県",
+    "_sort_region": "近畿"
   },
   {
     "location": "兵庫県養父市大屋町中間844-1",
@@ -1978,7 +2152,9 @@
     "name": "養父蒸溜所",
     "lat": 35.3090104,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "兵庫県",
+    "_sort_region": "近畿"
   },
   {
     "location": "奈良県宇陀郡曽爾村山粕1637-1",
@@ -1997,7 +2173,9 @@
     "name": "神息酒造 奈良蒸溜所",
     "lat": 34.4827674,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "奈良県",
+    "_sort_region": "近畿"
   },
   {
     "location": "和歌山県西牟婁郡上富田生馬1474-1",
@@ -2021,7 +2199,9 @@
     "name": "紀州熊野蒸溜所",
     "lat": 33.6935829,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "和歌山県",
+    "_sort_region": "近畿"
   },
   {
     "location": "鳥取県境港市大正町131",
@@ -2045,7 +2225,9 @@
     "name": "千代むすび 境港蒸留所",
     "lat": 35.5449996,
     "region": "中国",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "鳥取県",
+    "_sort_region": "中国"
   },
   {
     "location": "岡山県岡山市中区西川原185-1",
@@ -2069,7 +2251,9 @@
     "name": "岡山蒸溜所",
     "lat": 34.6789127,
     "region": "中国",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "岡山県",
+    "_sort_region": "中国"
   },
   {
     "location": "徳島県阿波市土成町郡176",
@@ -2089,7 +2273,9 @@
     "name": "阿波乃蒸溜所",
     "lat": 34.0986278,
     "region": "四国",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "徳島県",
+    "_sort_region": "四国"
   },
   {
     "location": "愛媛県八幡浜市1557番地",
@@ -2112,7 +2298,9 @@
     "name": "梅美人酒造",
     "lat": 33.4652861,
     "region": "四国",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "愛媛県",
+    "_sort_region": "四国"
   },
   {
     "location": "福岡県北九州市門司区大里元町2-1",
@@ -2131,7 +2319,9 @@
     "name": "ニッカウヰスキー 門司工場",
     "lat": 33.9187965,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "福岡県",
+    "_sort_region": "九州"
   },
   {
     "location": "福岡県朝倉市比良松185",
@@ -2155,7 +2345,9 @@
     "name": "朝倉蒸溜所",
     "lat": 33.3860707,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "福岡県",
+    "_sort_region": "九州"
   },
   {
     "location": "福岡県朝倉市比良松626番地1",
@@ -2178,7 +2370,9 @@
     "name": "新道蒸溜所",
     "lat": 33.3816179,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "福岡県",
+    "_sort_region": "九州"
   },
   {
     "location": "長崎県東彼杵郡波佐見町折敷瀬郷1742-12",
@@ -2201,7 +2395,9 @@
     "name": "波佐見蒸留所",
     "lat": 33.1417127,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "長崎県",
+    "_sort_region": "九州"
   },
   {
     "location": "長崎県佐世保市城間町317番地",
@@ -2223,7 +2419,9 @@
     "name": "梅ヶ枝酒造",
     "lat": 33.0899962,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "長崎県",
+    "_sort_region": "九州"
   },
   {
     "location": "熊本県山鹿市鹿央町合里980番地1",
@@ -2246,7 +2444,9 @@
     "name": "山鹿蒸溜所",
     "lat": 32.9794302,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "熊本県",
+    "_sort_region": "九州"
   },
   {
     "location": "熊本県球磨郡水上村岩野1053",
@@ -2265,7 +2465,9 @@
     "name": "大石酒造場",
     "lat": 32.2968824,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "熊本県",
+    "_sort_region": "九州"
   },
   {
     "location": "熊本県球磨郡錦町一武2577-13",
@@ -2287,7 +2489,9 @@
     "name": "常楽酒造",
     "lat": 32.1948786,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "熊本県",
+    "_sort_region": "九州"
   },
   {
     "location": "熊本県人吉市田野町3316-4",
@@ -2306,7 +2510,9 @@
     "name": "田野蒸溜所",
     "lat": 32.1347884,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "熊本県",
+    "_sort_region": "九州"
   },
   {
     "location": "宮崎県延岡市祝子町2388番地1",
@@ -2325,7 +2531,9 @@
     "name": "SATO DISTILLERY",
     "lat": 32.6082083,
     "region": "九州",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "宮崎県",
+    "_sort_region": "九州"
   },
   {
     "location": "鹿児島県曽於郡大崎町菱田1270",
@@ -2346,7 +2554,9 @@
     "name": "菱田蒸溜所",
     "lat": 31.4427027,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "鹿児島県曽於市大隅町坂元860番地1",
@@ -2365,7 +2575,9 @@
     "name": "大隅酒造",
     "lat": 31.6604652,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "鹿児島県姶良市加治木町諏訪町200",
@@ -2384,7 +2596,9 @@
     "name": "さつま司蒸溜蔵",
     "lat": 31.7392642,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "鹿児島県薩摩郡さつま町時吉12",
@@ -2403,7 +2617,9 @@
     "name": "小牧蒸溜所",
     "lat": 31.9128807,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "鹿児島県鹿児島市下福元町12300",
@@ -2427,7 +2643,9 @@
     "name": "御岳蒸留所",
     "lat": 31.5169605,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "鹿児島県枕崎市火之神北町388番地",
@@ -2449,7 +2667,9 @@
     "name": "火の神蒸溜所",
     "lat": 31.2609423,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   },
   {
     "location": "沖縄県名護市字許田405",
@@ -2473,7 +2693,9 @@
     "name": "許田蒸留所",
     "lat": 26.5374577,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "沖縄県",
+    "_sort_region": "沖縄"
   },
   {
     "location": "沖縄県うるま市州崎12-17",
@@ -2496,7 +2718,9 @@
     "name": "州崎蒸溜所",
     "lat": 26.3358691,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "沖縄県",
+    "_sort_region": "沖縄"
   },
   {
     "location": "沖縄県那覇市字仲井真155番",
@@ -2518,7 +2742,9 @@
     "name": "那覇蒸溜所",
     "lat": 26.1959761,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "沖縄県",
+    "_sort_region": "沖縄"
   },
   {
     "location": "沖縄県糸満市西崎町5-8-7",
@@ -2543,7 +2769,9 @@
     "name": "まさひろ酒造",
     "lat": 26.1427606,
     "region": "九州",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "沖縄県",
+    "_sort_region": "沖縄"
   },
   {
     "location": "",
@@ -2562,7 +2790,9 @@
     "name": "富良野蒸溜所",
     "lat": null,
     "region": "",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "所在地未設定",
+    "_sort_region": "所在地未設定"
   },
   {
     "location": "北海道中川郡幕別町札内みずほ町160-72",
@@ -2585,7 +2815,9 @@
     "name": "十勝蒸溜所",
     "lat": 42.9008467,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "北海道広尾郡大樹町浜大樹67-18",
@@ -2606,7 +2838,9 @@
     "name": "Taiki Cosmic Glen Distillery",
     "lat": 42.4707726,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "",
@@ -2625,7 +2859,9 @@
     "name": "千歳蒸溜所",
     "lat": null,
     "region": "",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "所在地未設定",
+    "_sort_region": "所在地未設定"
   },
   {
     "location": "北海道苫小牧市柏原",
@@ -2644,7 +2880,9 @@
     "name": "苫小牧蒸溜所",
     "lat": 42.6794175,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "",
@@ -2663,7 +2901,9 @@
     "name": "当別蒸溜所",
     "lat": null,
     "region": "",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "所在地未設定",
+    "_sort_region": "所在地未設定"
   },
   {
     "location": "北海道札幌市西区発寒10条1丁目1番1号",
@@ -2687,7 +2927,9 @@
     "name": "札幌酒精工業 札幌工場",
     "lat": 43.086031,
     "region": "北海道",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "北海道",
+    "_sort_region": "北海道"
   },
   {
     "location": "新潟県新潟市西蒲区越前浜5120",
@@ -2711,7 +2953,9 @@
     "name": "忍蒸溜所",
     "lat": 37.8063244,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "新潟県",
+    "_sort_region": "東北"
   },
   {
     "location": "",
@@ -2730,7 +2974,9 @@
     "name": "大谷妙高蒸溜所（仮称）",
     "lat": null,
     "region": "",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "所在地未設定",
+    "_sort_region": "所在地未設定"
   },
   {
     "location": "山梨県笛吹市一宮町上矢作191-1",
@@ -2755,7 +3001,9 @@
     "name": "南アルプスワインアンドビバレッジ 笛吹工場",
     "lat": 35.6617676,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "山梨県",
+    "_sort_region": "関東"
   },
   {
     "location": "山梨県韮崎市龍岡町下條南割640",
@@ -2780,7 +3028,9 @@
     "name": "韮崎御勅使蒸留所",
     "lat": 35.674388,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "山梨県",
+    "_sort_region": "関東"
   },
   {
     "location": "静岡県富士市大淵325-5",
@@ -2799,7 +3049,9 @@
     "name": "富士かぐや蒸溜所",
     "lat": 35.1965135,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "静岡県",
+    "_sort_region": "東海"
   },
   {
     "location": "岐阜県養老郡養老町高田800-3",
@@ -2822,7 +3074,9 @@
     "name": "養老蒸溜所",
     "lat": 35.3086848,
     "region": "中部",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "岐阜県",
+    "_sort_region": "東海"
   },
   {
     "location": "京都府船井郡京丹波町坂原南林11番",
@@ -2845,7 +3099,9 @@
     "name": "京都みやこ蒸溜所",
     "lat": 35.2663056,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "京都府",
+    "_sort_region": "近畿"
   },
   {
     "location": "大阪市北区堂島1-4-2",
@@ -2864,7 +3120,9 @@
     "name": "藩蔵屋敷 北新地CO・LABO",
     "lat": 34.6961044,
     "region": "近畿",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "所在地未設定",
+    "_sort_region": "近畿"
   },
   {
     "location": "大阪市東成区東小橋1-16-24",
@@ -2886,7 +3144,9 @@
     "name": "三国蒸溜所",
     "lat": 34.6713653,
     "region": "近畿",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "所在地未設定",
+    "_sort_region": "近畿"
   },
   {
     "location": "鳥取県倉吉市上古川656-1",
@@ -2909,7 +3169,9 @@
     "name": "倉吉蒸溜所",
     "lat": 35.4034253,
     "region": "中国",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "鳥取県",
+    "_sort_region": "中国"
   },
   {
     "location": "",
@@ -2928,7 +3190,9 @@
     "name": "SAKURAO DISTILLERY FOREST SITE",
     "lat": null,
     "region": "",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "所在地未設定",
+    "_sort_region": "所在地未設定"
   },
   {
     "location": "",
@@ -2947,7 +3211,9 @@
     "name": "喜多屋",
     "lat": null,
     "region": "",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "所在地未設定",
+    "_sort_region": "所在地未設定"
   },
   {
     "location": "熊本県上益城郡山都町浜町60番地1",
@@ -2970,7 +3236,9 @@
     "name": "山都蒸留所",
     "lat": 32.6847684,
     "region": "九州",
-    "visitable": false
+    "visitable": false,
+    "_sort_prefecture": "熊本県",
+    "_sort_region": "九州"
   },
   {
     "location": "鹿児島県霧島市横川町上ノ3280-5",
@@ -2993,6 +3261,8 @@
     "name": "横川蒸留所",
     "lat": 31.8934493,
     "region": "九州",
-    "visitable": true
+    "visitable": true,
+    "_sort_prefecture": "鹿児島県",
+    "_sort_region": "九州"
   }
 ]
