@@ -1,4 +1,4 @@
-const APP_VERSION = 'v188';
+const APP_VERSION = 'v189';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -128,6 +128,12 @@ function visitableBadgeHtml(item){
   const text = label && label !== '見学未確認' ? `見学可 / ${label}` : '見学可';
   return `<span class="visit-badge-strong">${text}</span>`;
 }
+function popupVisitableBadgeHtml(item){
+  if(!item.visitable) return '';
+  const label = normalizeVisitLabel(item.visit_label);
+  const text = label && label !== '見学未確認' ? `見学可 / ${label}` : '見学可';
+  return `<span class="popup-visit-badge">${text}</span>`;
+}
 function statusBadge(item){
   return item.data_status === '保留' ? '<span class="badge hold-badge">要確認</span>' : '';
 }
@@ -152,7 +158,10 @@ function popupHtml(item){
   const reps = representativeProducts(item);
   const repLine = reps.length ? `<div><b>代表銘柄：</b>${reps.join(' / ')}</div>` : '';
   return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:250px;">
-    <div style="font-size:16px;font-weight:700;margin-bottom:6px;">${item.name}</div>
+    <div class="popup-topline">
+      <div class="popup-title">${item.name}</div>
+      ${popupVisitableBadgeHtml(item)}
+    </div>
     <div class="multi-type-row" style="margin-bottom:6px;">${renderTypeChips(item.types||[])}</div>
     <div><b>所在地：</b>${item.location||'未設定'}</div>
     ${repLine}
@@ -300,7 +309,6 @@ function renderList(items){
       <div class="card-head">
         <div class="card-title-wrap">
           <h3>${item.name}</h3>
-          <div class="card-subline"><span class="list-focus-note">地図で位置を表示</span></div>
         </div>
         ${visitableBadgeHtml(item)}
       </div>
