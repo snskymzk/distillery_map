@@ -1249,3 +1249,14 @@ body{
   background:#16a34a;
   box-shadow:0 0 0 3px rgba(22,163,74,.12);
 }
+
+
+/* v190 compact removal */
+.panel-header-simple,
+.version-info,
+#summary{
+  display:none !important;
+}
+.simple-panel-top{
+  padding-top:8px;
+}
