@@ -682,3 +682,112 @@ body{
     padding-bottom:2px;
   }
 }
+
+
+/* v182 fixes */
+.simple-header{
+  padding:6px 10px;
+}
+.simple-header-main{
+  align-items:center;
+}
+.leaflet-control-zoom{
+  margin-top:52px !important;
+  margin-left:10px !important;
+}
+.simple-compact-row{
+  justify-content:flex-start;
+  align-items:flex-start;
+}
+.sort-inline{
+  display:flex;
+  align-items:center;
+  gap:6px;
+  font-size:12px;
+  color:var(--text);
+}
+.sort-select-inline{
+  border:1px solid var(--border);
+  border-radius:10px;
+  background:#fff;
+  padding:7px 10px;
+  font-size:12px;
+  color:var(--text);
+}
+.leaflet-popup-content-wrapper{
+  overflow:visible !important;
+}
+.leaflet-popup-content{
+  overflow:visible !important;
+}
+.leaflet-popup-content .action-row{
+  padding-bottom:4px;
+}
+@media (max-width: 960px){
+  body{
+    overflow:hidden;
+  }
+  .app{
+    height:100vh;
+    min-height:100vh;
+    overflow:hidden;
+    grid-template-columns:1fr;
+    grid-template-rows:auto 46vh minmax(0,1fr);
+    gap:0;
+    background:#fff;
+  }
+  .map-wrap{
+    position:relative !important;
+    height:46vh !important;
+    overflow:hidden !important;
+  }
+  #map{
+    height:46vh !important;
+    min-height:0 !important;
+  }
+  .panel{
+    height:auto !important;
+    max-height:none !important;
+    min-height:0 !important;
+    border-top:1px solid var(--border) !important;
+    border-left:none !important;
+    border-radius:14px 14px 0 0;
+    margin-top:0 !important;
+    overflow:hidden !important;
+    box-shadow:0 -6px 24px rgba(0,0,0,.08);
+  }
+  .simple-panel{
+    display:flex;
+    flex-direction:column;
+    min-height:0;
+  }
+  .simple-panel-top{
+    flex:0 0 auto;
+  }
+  #list{
+    flex:1 1 auto;
+    min-height:0;
+    overflow:auto !important;
+    -webkit-overflow-scrolling:touch;
+    padding:8px 10px 16px;
+  }
+  .leaflet-control-zoom{
+    margin-top:50px !important;
+    margin-left:10px !important;
+  }
+  .leaflet-popup-content-wrapper{
+    max-width:min(280px, calc(100vw - 24px)) !important;
+    border-radius:14px;
+    overflow:visible !important;
+  }
+  .leaflet-popup-content{
+    margin:10px 12px 12px !important;
+    max-height:none !important;
+    overflow:visible !important;
+  }
+  .leaflet-popup-content .action-row{
+    margin-top:8px;
+    padding-bottom:6px;
+    flex-wrap:wrap;
+  }
+}
