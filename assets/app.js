@@ -1,4 +1,4 @@
-const APP_VERSION = 'v183';
+const APP_VERSION = 'v184';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -7,6 +7,8 @@ const TYPE_META = {
   rum:{label:'ラム',color:'#dc2626'},
   vodka:{label:'ウォッカ',color:'#0891b2'}
 };
+const REGION_ORDER = {'北海道':0,'東北':1,'関東':2,'東海':3,'北陸':4,'近畿':5,'中国':6,'四国':7,'九州':8,'沖縄':9,'所在地未設定':10};
+
 const QUICK_PRESETS = {
   all: {label:'すべて', types:['whisky','gin','brandy','rum','vodka']},
   whisky: {label:'ウイスキー', types:['whisky']},
@@ -134,7 +136,14 @@ function matchesJwic(item){ return true; }
 function sortItems(items){
   const arr = [...items];
   if ((state.sort || 'name') === 'region') {
-    return arr.sort((a,b)=>((a.region||'') + ' ' + (a.name||'')).localeCompare((b.region||'') + ' ' + (b.name||''), 'ja'));
+    return arr.sort((a,b)=>{
+      const ar = a.region || '所在地未設定';
+      const br = b.region || '所在地未設定';
+      const ai = Object.prototype.hasOwnProperty.call(REGION_ORDER, ar) ? REGION_ORDER[ar] : 99;
+      const bi = Object.prototype.hasOwnProperty.call(REGION_ORDER, br) ? REGION_ORDER[br] : 99;
+      if (ai !== bi) return ai - bi;
+      return (a.name||'').localeCompare((b.name||''), 'ja');
+    });
   }
   return arr.sort((a,b)=>(a.name||'').localeCompare((b.name||''), 'ja'));
 }
