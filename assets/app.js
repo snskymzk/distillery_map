@@ -1,4 +1,4 @@
-const APP_VERSION = 'v184';
+const APP_VERSION = 'v185';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -8,6 +8,18 @@ const TYPE_META = {
   vodka:{label:'ウォッカ',color:'#0891b2'}
 };
 const REGION_ORDER = {'北海道':0,'東北':1,'関東':2,'東海':3,'北陸':4,'近畿':5,'中国':6,'四国':7,'九州':8,'沖縄':9,'所在地未設定':10};
+const PREF_ORDER = {
+  '北海道':0,
+  '青森県':1,'岩手県':2,'秋田県':3,'宮城県':4,'山形県':5,'福島県':6,'新潟県':7,
+  '茨城県':8,'栃木県':9,'群馬県':10,'山梨県':11,'長野県':12,'埼玉県':13,'千葉県':14,'東京都':15,'神奈川県':16,
+  '静岡県':17,'岐阜県':18,'愛知県':19,'三重県':20,
+  '富山県':21,'石川県':22,'福井県':23,
+  '滋賀県':24,'京都府':25,'奈良県':26,'和歌山県':27,'大阪府':28,'兵庫県':29,
+  '鳥取県':30,'島根県':31,'岡山県':32,'広島県':33,'山口県':34,
+  '徳島県':35,'香川県':36,'愛媛県':37,'高知県':38,
+  '福岡県':39,'佐賀県':40,'長崎県':41,'大分県':42,'熊本県':43,'宮崎県':44,'鹿児島県':45,
+  '沖縄県':46
+};
 
 const QUICK_PRESETS = {
   all: {label:'すべて', types:['whisky','gin','brandy','rum','vodka']},
@@ -48,6 +60,13 @@ const cardMap=new Map();
 const state={search:'',region:'all',visitableOnly:false,preparingMode:'hide',jwicMode:'all',sort:'name',quickPreset:'all',types:{whisky:true,gin:true,brandy:true,rum:true,vodka:true}};
 
 function typesLabel(item){ return item.types_label || (item.types||[]).map(t=> (TYPE_META[t] ? TYPE_META[t].label : t)).join(' / '); }
+function extractPrefecture(item){
+  const loc = String(item.location || '').trim();
+  if(!loc) return '所在地未設定';
+  if(loc.startsWith('北海道')) return '北海道';
+  const m = loc.match(/^(東京都|京都府|大阪府|北海道|[^都道府県]+県)/);
+  return m ? m[1] : '所在地未設定';
+}
 function itemColor(item){ if(item.record_status==='preparing_or_unclear') return '#98a2b3'; const first=(item.types||[])[0]||'whisky'; return (TYPE_META[first] ? TYPE_META[first].color : '#2563eb'); }
 function markerBackground(types, preparing){
   if (preparing) return '#98a2b3';
@@ -142,6 +161,13 @@ function sortItems(items){
       const ai = Object.prototype.hasOwnProperty.call(REGION_ORDER, ar) ? REGION_ORDER[ar] : 99;
       const bi = Object.prototype.hasOwnProperty.call(REGION_ORDER, br) ? REGION_ORDER[br] : 99;
       if (ai !== bi) return ai - bi;
+
+      const ap = extractPrefecture(a);
+      const bp = extractPrefecture(b);
+      const api = Object.prototype.hasOwnProperty.call(PREF_ORDER, ap) ? PREF_ORDER[ap] : 999;
+      const bpi = Object.prototype.hasOwnProperty.call(PREF_ORDER, bp) ? PREF_ORDER[bp] : 999;
+      if (api !== bpi) return api - bpi;
+
       return (a.name||'').localeCompare((b.name||''), 'ja');
     });
   }
