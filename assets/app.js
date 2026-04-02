@@ -1,4 +1,4 @@
-const APP_VERSION = 'v177';
+const APP_VERSION = 'v178';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -187,7 +187,6 @@ function chooseSuggestion(name){
   input.value=name; state.search=name;
   renderSuggestions([]);
   rerender();
-  setupMobilePanel();
   focusItemByName(name, true);
 }
 function focusItemByName(name, smoothScroll){
@@ -202,11 +201,6 @@ function focusItemByName(name, smoothScroll){
   if(card){ card.scrollIntoView({behavior:smoothScroll?'smooth':'auto', block:'nearest'}); }
 }
 function renderList(items){
-  lastVisibleCount = items.length;
-  const mobileBtn = document.getElementById('mobileListToggle');
-  if(mobileBtn){
-    mobileBtn.textContent = `一覧を表示 (${items.length})`;
-  }
   const list=document.getElementById('list');
   cardMap.clear();
   if(!items.length){ list.innerHTML='<div class="empty">条件に合う蒸溜所が見つかりませんでした。</div>'; return; }
@@ -226,11 +220,7 @@ function renderList(items){
   list.querySelectorAll('.card').forEach(card=>{
     const name=card.getAttribute('data-name');
     cardMap.set(name, card);
-    card.addEventListener('click',()=>{
-      focusItemByName(name, true);
-      const panel = document.getElementById('sidePanel');
-      if(panel && window.innerWidth <= 960){ panel.classList.remove('is-open'); }
-    });
+    card.addEventListener('click',()=>focusItemByName(name, true));
     card.addEventListener('mouseenter',()=>setHoveredName(name,true));
     card.addEventListener('mouseleave',()=>setHoveredName(name,false));
   });
@@ -306,41 +296,7 @@ function bindUI(){
 }
 fetch(DISTILLERIES_URL)
   .then(r=>{ if(!r.ok) throw new Error(`distilleries.json: ${r.status}`); return r.json(); })
-  .then(items=>{ distilleries=items; bindUI();
-  setupMobilePanel(); applyQuickPreset('all'); })
+  .then(items=>{ distilleries=items; bindUI(); applyQuickPreset('all'); })
   .catch(err=>{ document.getElementById('list').innerHTML=`<div class="empty">データの読み込みに失敗しました。<br>${err.message}</div>`; console.error(err); });
 
 
-
-
-function setupMobilePanel(){
-  const panel = document.getElementById('sidePanel');
-  const openBtn = document.getElementById('mobileListToggle');
-  const closeBtn = document.getElementById('panelCloseMobile');
-  if(!panel) return;
-
-  const syncLabel = () => {
-    if(!openBtn) return;
-    const count = typeof lastVisibleCount === 'number' ? lastVisibleCount : null;
-    openBtn.textContent = count !== null ? `一覧を表示 (${count})` : '一覧を表示';
-  };
-
-  if(openBtn && !openBtn.dataset.bound){
-    openBtn.dataset.bound = '1';
-    openBtn.addEventListener('click', () => panel.classList.add('is-open'));
-  }
-  if(closeBtn && !closeBtn.dataset.bound){
-    closeBtn.dataset.bound = '1';
-    closeBtn.addEventListener('click', () => panel.classList.remove('is-open'));
-  }
-  window.addEventListener('resize', () => {
-    if(window.innerWidth > 960){
-      panel.classList.remove('is-open');
-    }
-    syncLabel();
-  }, { passive:true });
-
-  syncLabel();
-}
-
-let lastVisibleCount = null;
