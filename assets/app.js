@@ -1,4 +1,4 @@
-const APP_VERSION = 'v170';
+const APP_VERSION = 'v171';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -83,6 +83,14 @@ function coordinateBadge(item){
   if(item.coordinate_status === 'area') return '<span class="badge area-badge">エリア位置</span>';
   return '';
 }
+
+function representativeProducts(item){
+  const reps = Array.isArray(item.representative_products) ? item.representative_products.filter(x => String(x||'').trim()) : [];
+  if (reps.length) return reps;
+  const legacy = Array.isArray(item.brands) ? item.brands.filter(x => String(x||'').trim()) : [];
+  return legacy;
+}
+
 function popupHtml(item){
   return `<div style="font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Yu Gothic',Meiryo,sans-serif;line-height:1.6;min-width:278px;">
     <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:8px;">
@@ -93,7 +101,7 @@ function popupHtml(item){
     <div><b>所在地：</b>${item.location||'未設定'}</div>
     ${item.coordinate_status && item.coordinate_status !== 'exact' ? `<div><b>位置情報：</b>${item.coordinate_status === 'approx' ? '暫定' : 'エリア位置'}</div>` : ''}
     <div><b>見学：</b>${normalizeVisitLabel(item.visit_label)}</div>
-    ${(item.brands && item.brands.length)?`<div><b>代表銘柄：</b>${item.brands.join(' / ')}</div>`:''}
+    ${(representativeProducts(item).length)?`<div><b>代表銘柄：</b>${representativeProducts(item).join(' / ')}</div>`:''}
     ${item.note?`<div><b>特徴：</b>${item.note}</div>`:''}
     <div class="popup-subline"><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
     <div class="action-row">${actionLinks(item)}</div>
@@ -143,7 +151,7 @@ function filteredItems(){
     if(state.visitableOnly && !item.visitable) return false;
     if(state.region!=='all' && item.region!==state.region) return false;
     if(!q) return true;
-    const hay=[item.name,item.location||'',item.region||'',typesLabel(item),item.note||'',item.source_label||'',...(item.brands||[])].join(' ').toLowerCase();
+    const hay=[item.name,item.location||'',item.region||'',typesLabel(item),item.note||'',item.source_label||'',...representativeProducts(item)].join(' ').toLowerCase();
     return hay.includes(q);
   }));
 }
@@ -153,7 +161,7 @@ function suggestionItems(query){
   const scored = filteredCache.map(item=>{
     let score=0;
     const name=(item.name||'').toLowerCase();
-    const brands=(item.brands||[]).join(' ').toLowerCase();
+    const brands=representativeProducts(item).join(' ').toLowerCase();
     const loc=(item.location||'').toLowerCase();
     if(name.startsWith(q)) score+=50;
     if(name.includes(q)) score+=25;
@@ -212,7 +220,7 @@ function renderList(items){
     </div>
     <div class="multi-type-row">${renderTypeChips(item.types||[])}</div>
     <div class="location"><b>所在地：</b>${item.location||'未設定'}</div>
-    ${(item.brands && item.brands.length)?`<div class="brands"><b>代表銘柄：</b>${item.brands.join(' / ')}</div>`:''}
+    ${(representativeProducts(item).length)?`<div class="brands"><b>代表銘柄：</b>${representativeProducts(item).join(' / ')}</div>`:''}
     ${item.note?`<div class="note"><b>特徴：</b>${item.note}</div>`:''}
     <div class="updated-note"><b>最終確認日：</b>${item.last_checked||'未設定'}</div>
     <div class="action-row">${actionLinks(item)}</div>
