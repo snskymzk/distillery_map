@@ -1,4 +1,4 @@
-const APP_VERSION = 'v192';
+const APP_VERSION = 'v193';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -416,8 +416,9 @@ function setActiveName(name){
 function bindUI(){
   const input=document.getElementById('searchInput');
   const searchWrap=document.getElementById('searchWrap');
+  const clearBtn=document.getElementById('searchClearBtn');
   if(input){
-    input.addEventListener('input',e=>{ state.search=e.target.value; rerender(); });
+    input.addEventListener('input',e=>{ state.search=e.target.value; syncSearchClearButton(); rerender(); });
     input.addEventListener('focus',()=>renderSuggestions(suggestionItems(state.search)));
     input.addEventListener('keydown',e=>{
       if(!suggestionCache.length) return;
@@ -425,6 +426,16 @@ function bindUI(){
       else if(e.key==='ArrowUp'){ e.preventDefault(); activeSuggestionIndex=Math.max(activeSuggestionIndex-1, 0); updateSuggestionActive(); }
       else if(e.key==='Enter' && activeSuggestionIndex>=0){ e.preventDefault(); chooseSuggestion(suggestionCache[activeSuggestionIndex].name); }
       else if(e.key==='Escape'){ renderSuggestions([]); }
+    });
+  }
+  if(clearBtn && input){
+    clearBtn.addEventListener('click', ()=>{
+      input.value = '';
+      state.search = '';
+      syncSearchClearButton();
+      renderSuggestions([]);
+      rerender();
+      input.focus();
     });
   }
   document.addEventListener('click',e=>{ if(searchWrap && !searchWrap.contains(e.target)) renderSuggestions([]); });
@@ -449,6 +460,7 @@ function bindUI(){
       map.setView(DEFAULT_VIEW.center, DEFAULT_VIEW.zoom, {animate:true});
     });
   }
+  syncSearchClearButton();
 }
 fetch(DISTILLERIES_URL)
   .then(r=>{ if(!r.ok) throw new Error(`distilleries.json: ${r.status}`); return r.json(); })
@@ -491,4 +503,12 @@ function enableMobileDoubleTapZoom(){
     lastX = t.clientX;
     lastY = t.clientY;
   }, { passive: false });
+}
+
+
+function syncSearchClearButton(){
+  const input = document.getElementById('searchInput');
+  const clearBtn = document.getElementById('searchClearBtn');
+  if(!input || !clearBtn) return;
+  clearBtn.classList.toggle('is-visible', !!input.value);
 }
