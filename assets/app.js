@@ -1,4 +1,4 @@
-const APP_VERSION = 'v191';
+const APP_VERSION = 'v192';
 const DISTILLERIES_URL = './data/distilleries.public.json';
 const TYPE_META = {
   whisky:{label:'ウイスキー',color:'#2563eb'},
@@ -452,10 +452,43 @@ function bindUI(){
 }
 fetch(DISTILLERIES_URL)
   .then(r=>{ if(!r.ok) throw new Error(`distilleries.json: ${r.status}`); return r.json(); })
-  .then(items=>{ distilleries=items; bindUI(); applyQuickPreset('all'); })
+  .then(items=>{ distilleries=items; bindUI(); enableMobileDoubleTapZoom(); applyQuickPreset('all'); })
   .catch(err=>{ document.getElementById('list').innerHTML=`<div class="empty">データの読み込みに失敗しました。<br>${err.message}</div>`; console.error(err); });
 
 
 
 
 
+
+
+function enableMobileDoubleTapZoom(){
+  const mapEl = document.getElementById('map');
+  if(!mapEl) return;
+  let lastTapAt = 0;
+  let lastX = 0;
+  let lastY = 0;
+
+  mapEl.addEventListener('touchend', (e) => {
+    if(window.innerWidth > 960) return;
+    if(!e.changedTouches || e.changedTouches.length !== 1) return;
+
+    const t = e.changedTouches[0];
+    const now = Date.now();
+    const dt = now - lastTapAt;
+    const dx = Math.abs(t.clientX - lastX);
+    const dy = Math.abs(t.clientY - lastY);
+
+    if(dt > 0 && dt < 320 && dx < 24 && dy < 24){
+      e.preventDefault();
+      const point = map.mouseEventToContainerPoint({ clientX:t.clientX, clientY:t.clientY });
+      const latlng = map.containerPointToLatLng(point);
+      map.setZoomAround(latlng, map.getZoom() + 1, { animate:true });
+      lastTapAt = 0;
+      return;
+    }
+
+    lastTapAt = now;
+    lastX = t.clientX;
+    lastY = t.clientY;
+  }, { passive: false });
+}
